@@ -1,0 +1,904 @@
+* This way.			Tędy.
+* Welcome to your new
+  home, innocent one.		Witaj w twoim nowym domu, dziecie.
+* Allow me to educate you
+  in the operation of the
+  RUINS.			Pozwol mi nauczyć cie poruszać się w RUINACH
+* The RUINS are full of
+  puzzles.			RUINY sa pelne lamigowek.
+* Ancient fusions between 
+  diversions and doorkeys.	Starozytny system dywersji i kluczy
+* One must solve them
+  to move from room to
+  room.				Jeden musi rozwiazac je aby przemieszczać się miedzy pomieszczeniami
+* Please adjust yourself
+  to the sight of them.		Proszę sie im przypatrzyć.
+* To make progress here, 	
+  you will need to trigger
+  several switches.		Aby progresować, będziesz musialx uruchomić wiele dzwigni.
+* Do not worry, I have 
+  labelled the ones that
+  you need to flip.		Nie obawiaj sie, zetykietowalam te, które musisz uruchomić.
+* ... eh?			... eh?
+* It seems that the
+  labelling has worn away.	Wyglada na to ze etykiety sie starły.
+* Oh dear.			Ojejku.
+* This might be far more
+  challenging than I
+  anticipated...		To może być znacznie trudniejsze niż zakladalam...
+* The first switch is over
+  on the wall.			Pierwsza dzwignia jest tam na scianie.
+* Do you need some help..?	Potrzebujesz pomocy?
+* Press the switch on the wall.	Uruchom dzwignie na scianie.
+* Come on, you can do it!	Dawaj, dasz rade!
+* Go on, press the switch
+  on the left.			No już, przelacz dzwignie po lewej.
+* I believe it was		
+  the switch on the
+  left.				Wydaje mi sie ze to miała być dzwigna po lewej.
+* You do know which way
+  left is, do you not?		Wiesz w która strone jest lewo, prawda?
+* Press the switch that I
+  labelled for you.		Przelacz dzwignie która ci otykietowalam.
+* You are very curious, 
+  are you not?			Jestes bardzo ciekawski, czyz nie?
+* Please understand. 	
+ I only want the best
+  for you.			Proszę zrozum, ja tylko chce tego co dla ciebie najlepsze.
+* Splendid! 			Wysmienicie!
+* I am proud of you, 
+  little one.			Jestem dumna z ciemie, malutki
+* Let us move to the
+  next room.			Chodzmy do następnego pomieszczenia
+* As a human living in
+  the UNDERGROUND, 
+  monsters may attack you.	Jako człowiek zyjacy w PODZIEMIACH, potwory mogą cie atakować.
+* You will need to be
+  prepared for this
+  situation.			Będziesz musialx być przygotowanym do takiej sytuacji.
+* However, worry not! 		Jednakze, nie martw sie!
+* The process is simple.	Postepowanie jest proste.
+* When you encounter a 
+  monster, you will enter
+  a FIGHT.			Kiedy napotkasz potwora, wstąpisz w WALKE/
+* While you are in a
+  FIGHT, strike up a
+  friendly conversation.	Podczas WALKI, rzuc przyjazna konwersacje.
+* Stall for time.
+  I will come to resolve
+  the conflict.			Poczekaj. Przyjde rozwiazac ten problem.
+* Practice talking to
+  the dummy.			Pocwicz rozmowe z atrapa.
+* Ahh, the dummies are
+  not for fighting! 		Ahh, atrapy nie sluza do walki!
+* They are for talking!		One sa do rozmawiania!
+* We do not want to hurt
+  anybody, do we...?  		Nie chcemy nikogo skrzywdzić, prawda..?
+* Come now.			Chodz teraz.
+* Ah, very good! 		Ah, bardzo dobrze!
+* You are very good.		Jestes bardzo dobrx.
+* ...				...
+* ... you ran away...		... ucieklxs...
+* Truthfully, that was
+  not a poor choice.		Szczerze, to nie była zla dezycja.
+* It is better to
+  avoid conflict
+  whenever possible.		Lepiej ominąć konflikt, kiedy to możliwe.
+* That... however, is
+  only a dummy.			To... jednak, jest tylko atrapa.
+* It cannot harm you.		Nie może cie skrzywdzić.
+* It is made of cotton.
+* It has no desire
+  for revenge...		Jest stworzone z bawełny, nie pragnie zemsty...
+* Nevermind.			Niewazne.
+* Stay close to me and	
+  I will keep you safe.		Trzymaj sie blisko mnie a będziesz bezpiecznx.
+* ...
+* ...
+* The next room awaits.		Nastepny pokoj czeka.
+* Practice talking to
+  the dummy.			Pocwicz konwersacje z atrapa.
+* You can say anything... 	Możesz powiedzieć co chcesz...
+* I do not think the dummy
+  will be bothered.		Nie sadze, ze ta atrapa bedzie urazona.
+* Do you need some
+  ideas for conversation
+  topics?			Czy potrzebujesz jakies pomysły na rozmowe?
+* Well, I often start with
+  a simple 'how do you
+  do...'			Coz, ja często zaczynam z prostym 'jak sie masz...'
+* You could ask them about
+  their favorite books...	Możesz spytac sie ich o ulubione książki...
+* Jokes can be useful for
+  'breaking the ice.'		Zarty mogą sie przydac w 'lamaniu lodu'
+* Listen to this one...		Posluchaj tego...
+* What did the skeleton
+  tile his roof with?		Co mowi ogrodnik do ogrodnika?
+* ... SHIN-gles!		... Przesadziles!
+* Well, I thought it
+  was amusing.			Coz, osobiście uważam to za fascynujące.
+* The dummy will not
+  be bothered.			Atrapa nie zostanie urazona.
+* There is another puzzle
+  in this room...		Kolejna lamigowka znajduje sie w tym pomieszczeniu...
+* I wonder if you can
+  solve it?			Ciekawi mnie, czy dasz rade ja rozwiazac?
+* This is the puzzle,
+  but...			To jest ta lamigowka, ale...
+* Here, take my hand
+  for a moment.			Potrzymaj mnie za reke.
+* Puzzles seem a little
+  too dangerous for
+  now.				Lamigowki wydaja sie zbyt niebezpieczne na razie.
+...
+* Greetings, my child.		Witaj, me dziecko.
+* Do not worry, I did
+  not leave you.		Nie obawiaj sie, nie opuscilam cie.
+* I was merely behind this
+  pillar the whole time.	Bylam za tym pilarem caly czas.
+* Thank you for trusting
+  me.				Dziekuje za twoje zaufanie.
+* However, there was an
+  important reason for
+  this exercise.
+* ... to test your
+  independence.
+* I must attend to some
+  business, and you must
+  stay alone for a while.
+* Please remain here.
+* It's dangerous to
+  explore by yourself.
+* I have an idea.
+* I will give you a
+  CELL PHONE.
+* If you have a need for
+  anything, just call.
+* Be good, alright?
+* You have done
+  excellently thus
+  far, my child.
+* However... I have a
+  difficult request to ask
+  of you.
+* ...
+* I would like you to walk
+  to the end of the room
+  by yourself.
+* Forgive me for this.
+* Hello there,
+  little one!
+* The pie has not
+  cooled down yet.
+* Sweet dreams.
+* You'd rather stay
+  up and chat with
+  me, then?
+* Up already, I see?
+* Um, I want you to know
+  how glad I am to
+  have someone here.
+* There are so many
+  old books I want
+  to share.
+* I want to show you
+  my favorite bug-
+  hunting spot.
+* I've also prepared
+  a curriculum for
+  your education.
+* This may come as
+  a surprise to you...
+* But I have always
+  wanted to be a
+  teacher.
+* ... actually, perhaps
+  that isn't very
+  surprising.
+* STILL.
+* I am glad to have
+  you living here.
+* Oh, did you
+  want something?
+* Well, talk to me
+  again if you
+  need anything.
+* What?
+* This... this IS your
+  home now.
+* Um... would you like
+  to hear about this
+  book I am reading?
+* Oh, hello!
+* Did you want to
+  hear about the
+  book I am reading?
+* It is called
+  "72 Uses for Snails."
+* Here is an exciting
+  snail fact.
+* Um...
+* How about an exciting
+  snail fact?
+* Did you know
+  that snails...
+* Have a chainsaw-like
+  tongue called a
+  radula?
+* Sometimes flip their
+  digestive systems
+  as they mature?
+* Make terrible
+  shoelaces?
+* Talk. Really. Slowly?
+* Just kidding, snails
+  don't talk.
+* Well, bother me
+  if you need anything
+  else.
+* ... I have to do
+  something.
+* Stay here.
+* If you need anything,
+  just ask.
+* ... I have to do
+  something.
+* Stay here..
+What a terrible
+creature, torturing
+such a poor,
+innocent youth...
+Ah, do not be
+afraid, my child.
+I am TORIEL,
+caretaker of
+the RUINS.
+I pass through this
+place every day to
+see if anyone has
+fallen down.
+You are the first
+human to come here
+in a long time.
+I will do my best
+to ensure your
+protection during
+your time here.
+Come!
+I will guide you
+through the
+catacombs.
+* Oh, may I enter
+  the trash as well?
+* On second thought,
+  do not put me
+  in the trash.
+* Oh my...
+* Yes, it is beautiful,
+  is it not?
+* But we should really
+  think about what comes
+  next.
+* Frisk...
+* You came from this
+  world, right...?
+* So you must have
+  a place to return to,
+  do you not?
+* What will you do
+  now?
+* Welcome to your new
+  home, innocent one.
+* Allow me to educate you
+  in the operation of
+  the RUINS.
+I think you should
+think of your own
+name, my child.
+   
+ .....
+ .....
+ .....
+ .....
+ .....
+ .....
+ ...?
+ What are
+ you
+ doing?
+ Attack
+ or run
+ away!
+ What are
+ you
+ proving
+ this way?
+ Fight me
+ or
+ leave!
+ Stop it.
+ Stop
+ looking
+ at me
+ that way.
+ Go away!
+ ...
+ ...
+ ...
+I know you want
+to go home, but...
+But please... go
+upstairs now.
+I promise I will
+take good care
+of you here.
+I know we do not
+have much, but...
+We can have a
+good life here.
+Why are you
+making this so
+difficult?
+Please, go upstairs.
+.....
+Ha ha...
+Pathetic, is it not?
+I cannot save even
+a single child.
+No, I understand.
+You would just be
+unhappy trapped
+down here.
+The RUINS are very
+small once you
+get used to them.
+It would not be
+right for you to
+grow up in a
+place like this.
+My expectations...
+My loneliness...
+My fear...
+For you, my child...
+I will put them aside.
+Urgh...
+You are stronger
+than I thought...
+Listen to me,
+ small one...
+If you go beyond
+this door,
+Keep walking as
+far as you can.
+Eventually you will
+reach an exit.
+...
+....
+ASGORE...
+Do not let ASGORE 
+take your soul.
+His plan
+cannot be allowed
+to succeed.
+......
+Be good,
+won't you?
+My child.      
+Y... you...
+really hate me
+that much?
+Now I see who I
+was protecting by
+keeping you here.
+Not you...
+But them!
+Ha... ha... 
+You...
+... at my most
+vulnerable
+moment...
+To think I was
+worried you
+wouldn't fit
+in out there...
+Eheheheh!!!
+You really are
+no different than
+them!
+This is
+for your
+own
+good.
+No one
+will
+leave
+again.
+Your fate is up to
+you now!
+Eh??
+You are ending
+it NOW?
+And on such a
+dramatic moment...?
+But there WILL be
+more, will there
+not?
+Well.
+What is the point
+of that now?
+Hmmm.
+Perhaps I will
+bake another pie.
+That last one ended
+up a little burnt.
+You are just going
+to eat it all...
+Snoring on the
+floor is NOT help.
+It's over.
+* No no no!
+* You want to press the
+  other switch.
+* I even labelled it for
+  you...
+* It seems that is not
+  the correct switch.
+* Do not worry about
+  me.
+* Someone has to take
+  care of these flowers.
+* Hello...
+* Are you all right?
+* You must be so lost
+  and confused...
+* Ah, do not be
+  afraid, my child.
+* I am TORIEL,
+  caretaker of the
+  RUINS.
+* I pass through here
+  every day to see if
+  anyone has fallen down.
+* You are the first
+  human to come here
+  in a long time.
+* I will do my best
+  to protect you during
+  your time here.
+* Come!
+* I shall guide you
+  through the catacombs.
+* How did you get
+  here, my child?
+* Are you hurt?
+* Not a scratch...
+* Impressive!
+* But still...
+* There, there, I will
+  heal you.
+* Who did this to you? 
+* You will get an apology.
+* I should not have
+  left you alone
+  for so long.
+* It was irresponsible
+  to try to surprise
+  you like this.
+* Err...
+* Well, I suppose I
+  cannot hide it
+  any longer.
+* Come, small one!
+* Oh dear, that took
+  longer than I
+  thought it would.
+* Do you smell that?
+* Surprise!
+* It is a butterscotch-
+  cinnamon pie.
+* I thought we might
+  celebrate your
+  arrival.
+* I want you to have
+  a nice time living
+  here.
+* So I will hold off
+  on snail pie for
+  tonight.
+* Here, I have another
+  surprise for you.
+* Er, I assume that
+  expression means you
+  do.
+* S... surprise!
+* I have baked a snail
+  pie.
+* So I...
+* Here, I have another
+  surprise for you.
+* This is it...
+* Is something burning...?
+* Um, make yourself
+  at home!
+* A room of your own.
+* I hope you like it!
+* I think you should
+  play upstairs
+  instead.
+* It is dangerous
+  to play here.
+* It is drafty here.
+* You will catch
+  a cold.
+* It is dusty here.
+* You will catch
+  a cough.
+* There is nothing
+  to see here.
+* Do you want to
+  read a book?
+* I do not like
+  the game you
+  are playing.
+* Why not go for
+  a walk in the
+  yard?
+* Really now.
+* ...
+* Hey, do not go down
+  here.
+* I have something
+  to show you
+  upstairs.
+* You wish to know how
+  to return "home,"
+  do you not?
+* Ahead of us lies the
+  end of the RUINS.
+* A one-way exit to the
+  rest of the underground.
+* I am going to destroy
+  it.
+* No one will ever
+  be able to leave
+  again.
+* Now be a good child
+  and go upstairs.
+* Every human that falls
+  down here meets
+  the same fate.
+* I have seen it
+  again and again.
+* They come.
+* They leave.
+* They die.
+* You naive child...
+* If you leave the
+  RUINS...
+* They...
+* ASGORE...
+* Will kill you.
+* I am only protecting
+  you, do you understand?
+* ... go to your room.
+* Do not try to stop me.
+* This is your final
+  warning.
+* Goodbye, my child.
+* That is right.
+* Go upstairs.
+* If you truly wish to
+  leave the RUINS...
+* I will not stop you.
+* However, when you
+  leave...
+* Please do not come
+  back.
+* I hope you understand.
+* You want to leave
+  so badly?
+* Hmph.
+* You are just like
+  the others.
+* There is only one
+  solution to this.
+* Prove yourself...
+* Prove to me you
+  are strong enough
+  to survive.
+* Prove to me you
+  are strong enough
+  to survive!
+* ... wait.
+* ... why are you looking
+  at me like that?
+* Like you have seen
+  a ghost.
+* Do you know something
+  that I do not?
+* No...
+* That is impossible.
+* Prove to me that you
+  are...
+* Hey, let me finish
+* Already?
+* What will it take
+  for you to learn
+  your lesson?
+* It seems that everyone
+  is quite eager to
+  set off.
+* Frisk...
+* You really are a
+  funny child.
+* If you had said that
+  earlier, none of this
+  would have happened.
+* It is a good thing
+  you took so long to
+  change your mind.
+* Hee hee hee.
+* Well...
+* I suppose.
+* If you really do
+  not have any other
+  place to go...
+* I will do my best to
+  take care of you, for
+  as long as you need.
+* All right?
+* Now, come along.
+* Everyone is waiting
+  for us!
+* Ah.
+* ... I see.
+* Well, I hope that
+  I am not keeping
+  you.
+* "See you around."
+  Frisk!
+  This is all just
+  a bad dream...!
+  Please, wake up...!
+* Oh!
+* You are awake!
+* Thank goodness!
+* Errr...
+* How about we give
+  them space, first?
+* They must be very
+  exhausted.
+* Though, from what,
+  I am not certain.
+* Frisk...
+* We do not remember
+  exactly what happened.
+* There was a flower...
+* And then, everything
+  went white.
+* But now the barrier
+  is gone.
+* When you are ready,
+  we will all return
+  to the surface.
+* It seems the door to
+  the east will lead
+  us there now.
+* But before then...
+* Perhaps you might
+  want to take a
+  walk?
+* You can say goodbye
+  to all of your
+  wonderful friends.
+* Do as you wish.
+* We will all wait
+  for you here.
+* Hello, Frisk.
+* Alphys upgraded my
+  phone.
+* I am having a lot
+  of fun with the
+  "texting" feature.
+* Sans, "check out" this
+  one.
+* Worry not, Papyrus.
+* We are texting for
+  a good reason.
+* Sans, please do
+  not say that.
+* You are not a dork.
+* You are more of
+  a bonehead!
+* Frisk, do not feel
+  left out.
+* I have been writing
+  messages to you as
+  well!
+* You still have my
+  phone number after
+  all this time...
+* Do you not?
+* Frisk, how about
+  you go look around
+  before we all go?
+* Seeing how many good
+  friends you've made
+  here...
+* I am almost certain
+  you must have made
+  some more.
+* Sans, did I tell you
+  about the time Frisk
+  flirted with me...?
+* And then asked to
+  call me "mother?"
+* I felt so embarrassed
+  for them.
+* Oh, do I ever!
+* But, I think that
+  story is one of the
+  most unbelievable.
+* It is hard to think
+  anyone would want to
+  flirt with me.
+* Well, it was not
+  RIGHT after.
+* It took a couple
+  minutes.
+* Oh, I should bake it
+  for everyone sometime!
+* Certainly!
+* It would be fun to
+  cook together!
+* Hmmm... Flying sounds
+  a little dangerous.
+* Who the hell is Sans?
+* Who the HECK is Sans?
+What a miserable
+creature, torturing
+such a poor,
+innocent, youth...
+Do not be afraid,
+my child.
+It is I, TORIEL,
+your friend and
+guardian.
+At first, I thought
+I would let you
+make your journey
+alone...
+But I could not
+stop worrying about
+you.
+Your adventure must
+have been so
+treacherous.
+... and ultimately,
+it would burden you
+with a horrible
+choice.
+To leave this place,
+you would have to
+take the life of
+another person.
+You would have to
+defeat ASGORE.
+However...
+I realized...
+I cannot allow that.
+It is not right to
+sacrifice someone
+simply to let
+someone leave here.
+Is that not what
+I have been trying to
+prevent this
+whole time?
+So, for now, let
+us suspend this
+battle.
+As terrible as
+ASGORE is...
+He deserves mercy,
+too.
+Do not "Tori" me,
+Dreemurr!
+You pathetic whelp.
+If you really wanted
+to free our kind...
+You could have gone
+through the barrier
+after you got ONE
+SOUL...
+... taken six SOULs
+from the humans, then
+come back and freed
+everyone peacefully.
+But instead, you made
+everyone live in
+despair...
+Because you would
+rather wait here,
+meekly hoping another
+human never comes.
+(Sigh.)
+NO,
+Asgore.
+Hello.
+I am
+TORIEL.
+Are you
+the
+human's
+friend?
+It is
+nice to
+meet
+you.
+Oh!
+Are you
+another
+friend?
+I am
+TORIEL.
+Hello!
+Hello!
+That
+voice
+...!!
+Hello,
+I think
+we
+may...
+Know
+each
+other?
+I am
+TORIEL.
+So nice
+to meet
+you.
+Oh!
+Wait,
+then...!
+This must be your
+brother, Papyrus!
+Greetings, Papyrus!
+It is so nice to
+finally meet you!
+Your brother has
+told me so much
+about you.
+Hey, Papyrus...
+What does a skeleton
+tile his roof
+with?
+No, silly!
+A skeleton tiles
+his roof with...
+SHIN-gles!!!
+W-wait!
+Not in
+front of
+the
+human!
+Hee hee hee.
+My child, it seems
+as if you must
+stay here
+for a while.
+But looking at
+all the great
+friends you have
+made...
+I think...
+I think you will
+be happy here.
+Do not be afraid,
+my child...
+No matter what
+happens...
+We will always
+be there to
+protect you!

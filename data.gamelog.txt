@@ -1,0 +1,25 @@
+Steam being initialised with appId 391540
+Steam_Init
+ERROR: Failed to load steam_api.dll error 126
+Failed LoadSteamLib() call: Error loading steam_api.dll
+SteamInit failed: Error loading steam_api.dll
+Total memory used = 67604105(0x04078e89) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ambientwater.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-23, 1901, 272
+---------------------------------------------------------------
+Steam being initialised with appId 391540
+Steam_Init
+ERROR: Failed to load steam_api.dll error 126
+Failed LoadSteamLib() call: Error loading steam_api.dll
+SteamInit failed: Error loading steam_api.dll
+Total memory used = 67602569(0x04078889) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-22, 1406, 468
+---------------------------------------------------------------

@@ -1,0 +1,56 @@
+Total memory used = 67602569(0x04078889) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 1686, 144
+---------------------------------------------------------------
+Total memory used = 67602569(0x04078889) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+102, 1639, 332
+---------------------------------------------------------------
+Total memory used = 67602569(0x04078889) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+212, 816, 334
+---------------------------------------------------------------
+Total memory used = 67602569(0x04078889) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+2147483647, -2147483648, 30
+---------------------------------------------------------------
+Total memory used = 67585801(0x04074709) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ambientwater.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-24, 1623, 330
+---------------------------------------------------------------
+Total memory used = 67605513(0x04079409) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+132, 1182, 238
+---------------------------------------------------------------
+Total memory used = 67605513(0x04079409) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+138, 1589, 292
+---------------------------------------------------------------
+Total memory used = 67605513(0x04079409) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-24, 865, 192
+---------------------------------------------------------------
