@@ -6710,7 +6710,7 @@ item_desc_8_0
 item_desc_9_0
 * "Wywar z Pająków" - Leczy 24 HP&* Zrobione z całych pająków^1,&  nie tylko soku./%
 item_desc_10_0
-* "Ciasto Toffi" - Leczy CAŁE HP&* Cynamonowo-karmelowe&ciasto^1, jeden kawałek./%
+* "Ciasto Toffi" - Leczy CAŁE HP&* Cynamonowo-karmelowe&  ciasto^1, jeden kawałek./%
 item_desc_11_0
 * "Wybl. Wstążka" - Zbroja DF 3&* Jeśli jesteś słodki^1, potwory&  nie będą cię tak mocno uderzać./%
 item_desc_12_0
@@ -7404,7 +7404,7 @@ NYEH..^1.&HEH..^1.&HEH!/%%
 \E0* Oh^1, witaj!/
 * Chciałeś posłuchać o&  książce^1, którą czytam?/
 \E0* Tytuł tej książki to&  "72 Pożytki&   ze Ślimaków."/
-* Chcesz posłchać?&              Jak opuścić&  Chętnie     RUINY\C 
+* Chcesz posłuchać?&              Jak opuścić&  Chętnie     RUINY\C 
 * Mam ekscytujący&  fakt o ślimakach./
 \E1* Um^1.^1.^1.&*\E0 Co powiesz na ciekawy&  fakt o ślimakach?/
 \E2* Wiedziałeś^1,&  że ślimaki.../
@@ -7833,7 +7833,7 @@ Czemu KTOKOLWIEK by&porzucił taką okazję&jak tą!?/%
 Umieraj./%
 Hej koleżko^1,&ominąłeś je./
 Spróbujmy jeszcze&raz^1, okej?/%
-Czy to jest&jakiśżart^2?^2?&WEJDŹ^2. W^2. TE^2.&NABOJE!!!
+Czy to jest&jakiś żart^2?^2?&WEJDŹ^2. W^2. TE^2.&NABOJE!!!
 Wiesz co się&tu dzieje^1,&co nie?/
 Po prostu&chciałeś zobaczyć,&jak cierpię./%
 \E1Co za okropne&stworzenie^1,&torturujące takie&niewinne dziecię.../
@@ -8349,20 +8349,20 @@ I CAN DO IT FOR&YOU!!!/
 * (The vending machine&  dispensed some chisps.)/%%
 * (You didn't have enough&  gold.)/%%
 * (You are carrying too&  many items.)/%%
-* Cinnamon or&  butterscotch?/
-\E1* ... wait^1.&* Do not tell me./
+* Cynamon czy&  toffi?/
+\E1* ... czekaj^1.&* Nie mów mi./
 \E0* It is ERROR MESSAGE!& &  Yes         No      \C
-\E0* Is it Butterscotch?& &  Yes         No      \C
-\E0* Is it Cinnamon?& &  Yes         No      \C
-\E0* Hee hee hee^1.&* I had a feeling./
-\E1* When humans fall down&  here^1, strangely..^1.&* I.../
-\E1* I often feel like&  I already know them./
-\E0* Truthfully^1, when I first&  saw you^1, I felt.../
-\E1* ... like I was seeing&  an old friend for&  the first time./
-\E0* Strange^1, is it not?/
-* Well^1, thank you for&  your selection./
-\E1* Oh..^1. I see./
-\E0* Well^1, thank you^1.&* Goodbye for now./
+\E0* Czy to Toffi?& &  Tak         Nie      \C
+\E0* Czy to Cynamon?& &  Tak         Nie      \C
+\E0* Hee hee hee^1.&* Miałam takie przeczucie./
+\E1* Kiedy ludzie tu&  spadają^1, odziwo..^1.&* Ja.../
+\E1* Często czuję, jakbym&  ich już znała./
+\E0* Szczerze^1, kiedy cię&  zauważyłam poraz&  pierwszy^1, czułam.../
+\E1* ...jakbym widziała&  dawnego przyjaciela&  poraz pierwszy./
+\E0* Dziwne^1, czyż nie?/
+* Cóż^1, dziękuję za&  twoją selekcję./
+\E1* Oh..^1. Rozumiem./
+\E0* W takim razie^1, dziękuję^1.&* Papa na razie./
 * (Seems like you could skip&  Mettaton's monologue by&  turning him around now.)/
 * (What will you do?)& &         Skip        Hear again\C
 * (You told Mettaton there&  was something cool&  behind him.)/%%
@@ -8525,7 +8525,7 @@ W takim razie^1,&jest to postanowione./%%
    * Zbadaj        * Pogadaj
    * Zbadaj        * Pociesz&   * Terroryzuj
    * Zbadaj        * Naśladuj&   * Flirt
-   * Zbadaj        * Pogadaj&   * Pożryj      * Obiad
+   * Zbadaj        * Pogadaj&   * Pożryj        * Obiad
    * Zbadaj        * Zaczep&   * Nie zaczepiaj
    * Zbadaj        * Flirt&   * Groźba        * Pociesz
    * Zbadaj        * Pogłaszcz
@@ -8602,52 +8602,52 @@ W takim razie^1,&jest to postanowione./%%
 * 'Salutacje!'/
 * Czy to wystarczy?/
 \F1 \TT %
-* Nudzisz się^1?&* Powinienem była ci&  dać jakąś książkę./
+* Nudzisz się^1?&* Powinnam była ci&  dać jakąś książkę./
 * Moje kondolencje./
-* Czemu nie użyjesz&  wyobraźni,^1&  divert yourself?/
-* Pretend you are..^1.&* A monarch!/
-* Rule over the leaf pile&  with a fist of iron./
-* Can you do that for me?/
-* Hello^1, my child./
-\E1* Sorry^1, I do not have&  much to say./
-\E0* It was nice to hear&  your voice^1, though^1./
-* This is TORIEL./
-\E1* Help with a puzzle^1.^1.^1.?/
-* Um^1, you have not&  left the room^1, have you?/
-\E0* Wait patiently for&  me and we can solve&  it together!/
-\E1* You want to know&  more about me?/
-* Well^1, I am afraid there&  is not much to say./
-\E0* I am just a silly little&  lady who worries too&  much!/
-\E8* Huh^2?&* Did you just call&  me... "Mom"?/
-\E1* Well...&* I suppose.../
-* Would that make you&  happy?/
-* To call me..^2.&* "Mother?"/
-\E0* Well then^1, call me&  whatever you like!/!
+* Czemu nie użyjesz&  wyobraźni^1, aby&  się rozproszyć?/
+* Udaj^1, że jesteś..^1.&* Monarchą!/
+* Panuj nad kupką liści&  z żelazną pięścią./
+* Możesz to dla&  mnie zrobić?/
+* Dzień dobry^1, habibi./
+\E1* Przepraszam^1, nie mam&  zbyt wiele do&  powiedzenia./
+\E0* Ale miło był&  usłyszeć twój głos./
+* Mówi TORIEL./
+\E1* Pomóc z puzzlem^1.^1.^1.?/
+* Um^1, nie opuściłeś&  pomieszczenia^1, prawda?/
+\E0* Poczekaj cierpliwie na&  mnie i możemy je&  rozwiązać razem!/
+\E1* Chcesz wiedzieć&  więcej o mnie?/
+* Cóż^1, obawiam się^1, że&  nie ma zbyt wiele&  do powiedzenia./
+\E0* Jestem niczym innym niż&  staruszką, która zbytnio&  się przejmuje!/
+\E8* Huh^2?&* Czy ty właśnie nazwałeś&  mnie... "Mamą"?/
+\E1* Cóż...&* W takim razie.../
+* Czy to by cię czyniło&  szczęśliwym?/
+* Gdybyś nazywał mnie..^2.&* "Matką?"/
+\E0* W takim razie^1, mów na&  mnie jak sobie życzysz!/!
 \E8* ...^2 huh???/
 \E1* Oh,^1 heh..^1 heh...^1 \E0 &* Ha ha ha!/
-* How adorable...^1 I&  could pinch your cheek!/
-* You can certainly find&  better than an old woman&  like me./
-\E1* Oh dear,^1 are you&  serious...?/
-\E1* I do not know if this is&  pathetic,^1 or endearing./
-\E8* And after you said you&  want to call&  me "mother..."/
-\E0* You are an...^2 &  \E1... "interesting"&  child./
-* Dialing... /
+* Jak słodko...^1 Mogłabym&  cię uszczypnąć za&  policzek!/
+* Możesz z pewnością&  znaleść kogoś lepszego&  niż taką staruszkę./
+\E1* Ojejku,^1&  jesteś poważny...?/
+\E1* Nie wiem czy to jest&  żałosne,^1 czy uprzejme./
+\E8* I po tym, kiedy&  chciałeś na mnie mówić&  "matką..."/
+\E0* Jesteś...^2 &  \E1... "specyficznym"&  dzieckiem./
+* Dzwonię... /
 * ... /
-* But nobody came./%%
-* Nobody picked up./%%
-* The ringing is coming from&  inside your inventory./%%
-* Dialing...\TT /
-* Hey^1, you silly&  child./
-* If you want to&  talk to me^1, I am&  right here./
-* (Somewhere^1, signals deflected&  by a dog.)/%%
-* (No response.^1)&* (Their phone might be out&  of batteries.)/%%
-* (The box is aclog with the&  the hair of a dog.)/%%
+* Ale nikt nie przyszedł./%%
+* Nikt nie odebrał./%%
+* Dzwonek wychodzi z  twojego&  ekwipunku./%%
+* Dzwonię...\TT /
+* Hej^1, ty śmieszku./
+* Jeśli chcesz ze&  mną porozmawiać^1, jestem&  tutaj./
+* (Gdzieniegdzie^1, sygnały odbite&  przez psa.)/%%
+* (Brak odpowiedzi.^1)&* (Ich telefon mógł się&  rozładować.)/%%
+* (Pudło się zaplątało z&  sierścią psa.)/%%
 * Napotkałeś Manekina.
 * Froggit cię atakuje!
-* Froggit hopped close!
-* Whimsun approached meekly!
-* Froggit and Whimsun drew near!
-* Moldsmal blocked the way!
+* Froggit przyskoczył obok!
+* Whimsun zbliżył się miernie!
+* Froggit and Whimsun objawili&  się obok!
+* Moldsmal blokuje drogę!
 * (Dog Shrine.)/
 * (Donate?)& &         Dognate     Dognot\C
 * (\[1] of \[2]G in the box.)& &         Dognate     Dognot\C
@@ -10851,9 +10851,9 @@ obj_businessmanticore_86
 obj_businessmanticore_87
 * Whimsalot doesn't want to&  fight anymore.
 obj_butterflybullet_102
-* Ah^1, the cactus.&* Truly the most tsundere&  of plants./%%
+* Ah^1, kaktus.&* Szczerze najlepsza&  roślina ze wszystkich./%%
 obj_cactus_55
-* It's not like this cactus&  was waiting for you to come&  back or anything.../%%
+* To nie tak^1, że ten kaktus&  czekał^1, aż wrócisz&  czy coś.../%%
 obj_cactus_58
 THAT'S MY BED!/
 obj_carbed_63
@@ -10881,7 +10881,7 @@ obj_carrybird_95
 obj_carrybird_96
 * Bun-bun-bun-bun-bun.../%%
 obj_carrybird_98
-* (Seems like the right size&  for Toriel.)/%%
+* (Wydaje się być właściwym&  rozmiarem dla Toriel.)/%%
 obj_chairiel_118
 * (It's a great reading chair.^1)&* (But it doesn't seem like&  anyone uses it.)/%%
 obj_chairiel_123
@@ -11371,49 +11371,49 @@ obj_darkfridge_151
 obj_darkfridge_154
 * (It's a fake plant.)/%%
 obj_darkplant_64
-* heheh... the old whoopee&  cushion in the hand&  trick./
+* heheh... stara sztuczka&  pierdziuszki w ręku./
 obj_darksans1_187
-* it's ALWAYS funny./
+* to jest ZAWSZE śmieszne./
 obj_darksans1_188
-* anyways^1,&  you're a human, right?/
+* w każdym razie^1,&  jesteś człowiekiem, prawda?/
 obj_darksans1_189
-\E1* that's hilarious./
+\E1* to przekomiczne./
 obj_darksans1_190
-* heh^1, the old whoopee&  cushion in the hand&  trick.../
+* heh... stara sztuczka&  pierdziuszki w ręku.../
 obj_darksans1_193
-\E1* wait a sec..^1.&* have you heard it before&  or something?/
+\E1* chwila..^1.&* słyszałeś o tym&  wcześniej czy coś?/
 obj_darksans1_194
-\E1* you turned around before&  i said to..^1.&* ... weird./
+\E1* obróciłeś się zanim&  powiedziałem żebyś..^1.&* ... dziwne./
 obj_darksans1_195
-* ... whatever^1.&* you're a human^1, right?/
+* ... nieważne^1.&* jesteś człowiekiem^1, prawda?/
 obj_darksans1_196
-\E0* i'm sans^1.&* sans the skeleton./
+\E0* jestem sans^1.&* szkielet sans./
 obj_darksans1_198
-* im actually supposed to&  be on watch for&  humans right now./
+* tak naprawde powinienem &  być na warcie na&  ludzi teraz./
 obj_darksans1_199
-* but..^1. y'know.../
+* ale..^1. wiesz.../
 obj_darksans1_200
-\E1* i dont really care about&  capturing anybody./
+\E1* mnie to nie za bardzo obchodzi^1,&  żeby kogoś porwać./
 obj_darksans1_201
-\E0* now my brother^1,&  papyrus.../
+\E0* teraz mój brat^1,&  papyrus.../
 obj_darksans1_202
-* he's a human-hunting&  FANATIC./
+* on jest FANATYKIEM&  łapania ludzi./
 obj_darksans1_203
-\E1* hey^1, actually^1, I think&  that's him over there./
+\E1* hej^1, tak naprawdę^1, wydaje mi&  się^1, że to on tam stoi./
 obj_darksans1_204
-\E0* i have an idea^1.&* go through this gate&  thingy./
+\E0* mam pomysł^1.&* przejdź przez tą&  bramkę czy coś./
 obj_darksans1_205
-* yeah, go right through^1.&* my bro made the bars&  too wide to stop anyone./%%
+* ta, idź prosto przez^1.&* mój bro zrobił te pręty&  zbyt szerokie./%%
 obj_darksans1_206
 obj_darksans1_210
 obj_darksans1_211
 obj_darksans1_212
-\E1* that's^1, uh^1.&* your cue to laugh./
+\E1* to jest^1, uh^1.&* część^1, w której&  się smiejesz./
 obj_darksans1_213
-\E2* or^1, uh^1, to emote&  at all...?/
+\E2* albo^1, uh^1, zrobić emotkę&  jeśli już...?/
 obj_darksans1_214
 obj_darksans1_215
-\E1* (gee^1, lady^1, you really&  know how to pick&  'em, huh...?)/
+\E1* (rany^1, babko^1, naprawdę&  wiesz jak zepsuć&  moment, huh...?)/
 obj_darksans1_216
 \E2* OK^1, that's fine^1.&* everyone's got their&  own sense of humor./
 obj_darksans1_217
@@ -11426,11 +11426,11 @@ obj_darksans1_223
 obj_darksans1_224
 obj_darksans1_225
 obj_darksans1_226
-* Human./
+* Człowieku./
 obj_darksans1_345
-* Don't you know how&  to greet a new pal?/
+* Nie wiesz jak się wita&  nowego kolegę?/
 obj_darksans1_346
-* Turn around and shake&  my hand./%%
+* Obróć się i&  podaj mi rękę./%%
 obj_darksans1_347
 obj_darksans1_354
 obj_darksans1_355
@@ -12720,7 +12720,7 @@ obj_fakefroggit_480
 obj_fakefroggit_481
 * You are intimidated by&  Froggit's raw strength^4.&  * Only kidding.
 obj_fakefroggit_482
-* Froggit seems reluctant&  to fight you.
+* Froggit wydaje się&  odechciewać walki&  z tobą.
 obj_fakefroggit_483
 * Froggit is trying to&  run away.
 obj_fakefroggit_484
@@ -12762,7 +12762,7 @@ obj_finalfroggit_441
 obj_finalfroggit_442
 * You are intimidated by&  Final Froggit's strength^4.&* Truly.
 obj_finalfroggit_443
-* Final Froggit seems reluctant&  to fight you.
+* Finalny Froggit wydaje&  się odechciewać walki&  z tobą.
 obj_finalfroggit_444
 * Final Froggit stands its&  ground.
 obj_finalfroggit_445
@@ -12956,7 +12956,7 @@ obj_flowey_wilt_602
 obj_flowey_wilt_603
 \E3No./%%
 obj_flowey_wilt_604
-Czy to jest&jakiśżart^2?^2?&WEJDŹ^2. W^2. TE^2.&białe pigułki!!/
+Czy to jest&jakiś żart^2?^2?&WEJDŹ^2. W^2. TE^2.&białe pigułki!!/
 obj_floweybattle1_268
 /
 obj_floweybattle1_269
@@ -12989,33 +12989,33 @@ obj_floweytrigger_129
 obj_floweytrigger_316
 * Hee hee hee.../
 obj_floweytrigger_317
-* Why'd you make me&  introduce myself?/
+* Czemu zmusiłeś mnie&  do przedstawienia się?/
 obj_floweytrigger_318
-* It's rude to act&  like you don't&  know who I am./
+* To niemiłe^1, by&  udawać^1, że nie wiesz&  kim jestem./
 obj_floweytrigger_319
-* Someone ought to teach&  you proper manners./
+* Ktoś cię musi nauczyć&  jak wyglądają sprawy&  u nas./
 obj_floweytrigger_320
 obj_floweytrigger_321
 obj_floweytrigger_322
 obj_floweytrigger_327
 * Error/%%
 obj_floweytrigger_338
-* Really^1, \[C]?/
+* Naprawdę^1, \[C]?/
 obj_floweytrigger_342
-\E5* Well^1, do what you&  will./
+\E5* Cóż^1, rób co&  chcesz./
 obj_floweytrigger_343
-\E4* I'll be waiting for&  you!/%%
+\E4* Będę na ciebie&  czekał!/%%
 obj_floweytrigger_344
-\E0* Hey^1.&* Remember./
+\E0* Hej^1.&* Pamiętaj./
 obj_floweytrigger_348
-\E2* DON'T kill anyone./
+\E2* NIKOGO nie zabijaj./
 obj_floweytrigger_349
 obj_floweytrigger_350
-\E1* I can't believe this&  is a REAL thing I&  have to remind you./
+\E1* Nie wierzę że to&  PRAWDZIWA rzecz^1, którą&  ci muszę przypominać./
 obj_floweytrigger_351
 \E0* Hee hee hee.../
 obj_floweytrigger_352
-* Good luck!/%%
+* Powodzenia!/%%
 obj_floweytrigger_353
 * Remember.../
 obj_floweytrigger_357
@@ -13033,158 +13033,158 @@ obj_floweytrigger_362
 obj_floweytrigger_363
 obj_floweytrigger2_158
 obj_floweytrigger2_162
-\E2* I hope you like your&  choice./
+\E2* Mam nadzieję^1, żer&  nie żałujesz swojej&  decyzji./
 obj_floweytrigger2_163
-* After all^1, it's not&  as if you can go&  back and change fate./
+* W końcu^1, to nie tak^1, że&  możesz zacząć od nowa&  i zmienić los./
 obj_floweytrigger2_164
-\E0* In this world^1, it's kill&  or be killed./
+\E0* W tym świecie^1, jest&  zabić albo być zabitym./
 obj_floweytrigger2_165
-\E2* That old hag thought&  she could break the&  rules./
+\E2* Ta stara szmata myślała^1,&  że mogła złamać zasady&  ot tak./
 obj_floweytrigger2_166
-\E1* She tried so hard&  to save you humans./
+\E1* Tak bardzo się starała&  by uratować was ludzi./
 obj_floweytrigger2_167
-\E0* But when it came&  down to it.../
+\E0* Ale kiedy doszło do&  tego momentu.../
 obj_floweytrigger2_168
 \TF*\E5 Hee hee.../
 obj_floweytrigger2_169
-\E4* SHE COULDN'T EVEN&  SAVE HERSELF./
+\E4* NIE MOGŁA NAWET&  URATOWAĆ SAMEJ SIEBIE./
 obj_floweytrigger2_170
-* WHAT AN IDIOT!!/%%
+* CO ZA DEBILKA!!/%%
 obj_floweytrigger2_171
 \E2* Heheheheh./
 obj_floweytrigger2_175
-* You just can't&  get enough^1, can you!?/
+* Nie możesz się po&  prostu nacieszyć^1,&  czyż nie!?/
 obj_floweytrigger2_176
 obj_floweytrigger2_177
-\E6* How many more&  times will you&  kill her?/
+\E6* Ile jeszcze razy&  ją zabijesz?/
 obj_floweytrigger2_178
 * Ha ha ha ha ha.../
 obj_floweytrigger2_179
-\E4*\TF You disgusting animal./
+\E4*\TF Ty obrzydliwa istoto./
 obj_floweytrigger2_180
-* You didn't even&  TRY to spare her./%%
+* Nawet nie PRÓBOWAŁEŚ&  ją oszczędzić./%%
 obj_floweytrigger2_181
-* Wow^1, you really&  can't get enough./
+* Wow^1, ty naprawdę&  nie możesz się&  nacieszyć./
 obj_floweytrigger2_186
-\E5* You kind of remind&  me of myself./%%
+\E5* Ty trochę przypominasz&  mnie./%%
 obj_floweytrigger2_187
-* Wow^1, you're utterly&  repulsive./
+* Wow^1, jesteś&  niesamowicie repulsywny./
 obj_floweytrigger2_195
-\E6* You spared her life.../
+\E6* Oszczędziłeś&  jej życie.../
 obj_floweytrigger2_196
-* Then you decided that&  just wasn't interesting&  enough for you./
+* Później zdecydowałeś że&  to nie było wystarcza-&  jąco ciekawe dla ciebie./
 obj_floweytrigger2_197
-\E7* So you murdered her&  just to see what&  would happen./
+\E7* Więc zabiłeś ją tylko&  po to^1, żeby zobaczyć&  co się stanie./
 obj_floweytrigger2_198
-\E5* You killed her out&  of boredom./
+\E5* Zabiłeś ją czysto&  z nudów./
 obj_floweytrigger2_199
-* Truly disgusting.../%%
+* Szczerze obrzydliwe.../%%
 obj_floweytrigger2_200
 * Hee hee.../
 obj_floweytrigger2_203
-\E4* You naive idiot./
+\E4* Ty naiwny idioto./
 obj_floweytrigger2_204
-* Do you think you&  are the only one&  with that power?/
+* Myślisz^1, że jesteś&  jako jedyny posiadający&  taką zdolność?/
 obj_floweytrigger2_205
-\E4* The power to reshape&  the world.../
+\E4* Moc do zrekonstruowania&  całego świata.../
 obj_floweytrigger2_206
-* Purely by your&  own determination./
+* Czysto przez twoją&  własną determinację./
 obj_floweytrigger2_207
-* The ability to&  play God!/
+* Umiejętność do&  zabawy w Boga!/
 obj_floweytrigger2_208
-* The ability to "SAVE."/
+* Umiejętność do&  "ZAPISYWANIA."/
 obj_floweytrigger2_209
-\E0* I thought I was&  the only one with&  that power^1. But.../
+\E0* Myślałem^1, że jestem&  jedyną istotą z&  taką mocą^1. Ale.../
 obj_floweytrigger2_210
-\E1* I can't SAVE anymore./
+\E1* Nie mogę już ZAPISYWAĆ./
 obj_floweytrigger2_211
-* Apparently YOUR&  desires for this&  world override MINE./
+* Najwyraźniej TWOJE&  zachcianki na ten&  świat nadpisują MOJE./
 obj_floweytrigger2_212
-\E5* Well well./
+\E5* W takim razie./
 obj_floweytrigger2_213
-* Enjoy that power&  while you can./
+* Ciesz się tą mocą&  póki jeszcze możesz./
 obj_floweytrigger2_214
-\E4* I'll be watching./%%
+\E4* Będę obserwował./%%
 obj_floweytrigger2_215
 * Hahaha.../
 obj_floweytrigger2_226
-\E1* You're not really human^1,&  are you?/
+\E1* Nie jesteś tak naprawdę&  człowiekiem^1, prawda?/
 obj_floweytrigger2_227
-\E1* No.^2 You're empty inside^2.&* \E4Just like me^1.&* In fact.../
+\E1* Nie.^2 Jesteś pusty w&  środku^2. \E4Tak jak ja^1.&* A tak naprawde.../
 obj_floweytrigger2_228
-\E8* You're \[C],^1 right?/
+\E8* Jesteś \[C],^1 mylę się?/
 obj_floweytrigger2_229
-\E0* We're still inseparable^1,&  after all these years.../
+\E0* Jesteśmy dalej&  nierozłączni^1, po tych&  wszystkich latach.../
 obj_floweytrigger2_230
-* Listen^1.&* I have a plan to become&  all powerful./
+* Słuchaj^1.&* Mam plan^1, by stać się&  całkowicie potężni./
 obj_floweytrigger2_231
-\E2* Even more powerful than&  you and your stolen&  soul./
+\E2* Nawet potężniejsi niż&  ty i twoja skradziona&  dusza./
 obj_floweytrigger2_232
-\E4* Let's destroy everything&  in this wretched world./
+\E4* Zniszczmy wszystko&  w tym zwyrodniałym&  świecie./
 obj_floweytrigger2_233
-\E6* Everyone^1, everything in&  these \E7worthless&  memories.../
+\E6* Wszystkich^1, wszystko w&  tych \E7bezwartościowych&  wswpomnieniach.../
 obj_floweytrigger2_234
 \E5* Let's turn 'em all&  to dust./%%
 obj_floweytrigger2_235
-* Clever.&* Verrrryyy clever./
+* Mądre.&* Barrrrrrrdzo mądre./
 obj_floweytrigger2_245
-* You think you're really&  smart^1, don't you?/
+* Myślisz że jesteś&  bardzo mądry^1, czyż nie?/
 obj_floweytrigger2_246
 obj_floweytrigger2_247
-\E1* So you were able to&  play by your own&  rules./
+\E1* Więc byłeś w stanie&  zagrać z własnymi&  zasadami./
 obj_floweytrigger2_248
-*\E4 You spared the life&  of a single person./
+*\E4 Oszczędziłeś życie&  pojedynczej osoby./
 obj_floweytrigger2_249
 obj_floweytrigger2_250
 * Froggit^1, Whimsun^1.&* Vegetoid^1, Loox^1.&* Migosp^1, Moldsmal./
 obj_floweytrigger2_253
-* Think about those names./
+* Pomyśł o tych imionach./
 obj_floweytrigger2_254
 * Do you think any of&  those monsters have&  families?/
 obj_floweytrigger2_255
-* Do you think any of&  them have friends?/
+* Myślisz^1, że ktokolwiek&  z nich ma przyjaciół?/
 obj_floweytrigger2_256
-\E6* Each one could have&  been someone else's&  Toriel./
+\E6* Każde z nich mogło&  mieć swoją własną&  Toriel./
 obj_floweytrigger2_257
-\E7* Selfish brat./
+\E7* Samolubny szczenior./
 obj_floweytrigger2_258
-* Somebody is dead&  because of you./%%
+* Ktoś jest martwy&  przez ciebie./%%
 obj_floweytrigger2_259
-\E2* I bet you feel&  really great./
+\E2* Założę się^1, że się&  czujesz wspaniale&  teraz./
 obj_floweytrigger2_264
-* You didn't kill&  anybody this time./
+* Nikogo nie zabiłeś&  tym razem./
 obj_floweytrigger2_265
-\E0* But what will you&  do if you meet a&  relentless killer?/
+\E0* Ale co zrobisz jeśli&  spotkasz bezlitosnego&  mordercę?/
 obj_floweytrigger2_266
-* You'll die and you'll&  die and you'll&  die./
+* Umrzesz i umrzesz&  i umrzesz w kółko./
 obj_floweytrigger2_267
-\E1* Until you tire of&  trying./
+\E1* Dopóki się zmęczysz&  próbując./
 obj_floweytrigger2_268
-\E0* What will you do&  then?/
+\E0* Co zrobisz w takim&  wypadku?/
 obj_floweytrigger2_269
-\E5* Will you kill&  out of frustration?/
+\E5* Czy ich zabijesz&  czysto z frustracji?/
 obj_floweytrigger2_270
-* Or will you give&  up entirely on&  this world.../
+* Czy całkowicie się&  poddasz na tym&  świecie.../
 obj_floweytrigger2_271
-\E4* ... and let ME inherit&  the power to control&  it?/
+\E4* ... i pozwolisz MI&  przejąć moc^1, aby to&  kontrolować?/
 obj_floweytrigger2_272
-\E5* I am the prince of&  this world's future./
+\E5* Jestem księciem&  przyszłości tego&  świata./
 obj_floweytrigger2_273
-* Don't worry^1, my little&  monarch^1, my plan&  isn't regicide./
+* Nie martw się^1, mój mały&  monarcho^1, mój plan to&  nie królobójstwo./
 obj_floweytrigger2_274
-* This is SO much&  more interesting./%%
+* To jest o WIELE&  bardziej interesujące./%%
 obj_floweytrigger2_275
-* But don't act so&  cocky./
+* Ale nie bądz taki&  zarozumiały./
 obj_floweytrigger2_283
-* I know what you did./
+* Wiem co zrobiłeś./
 obj_floweytrigger2_284
-\E6* You murdered her./
+\E6* Zabiłeś ją./
 obj_floweytrigger2_285
-\E7* And then you went&  back^1, because you&  regretted it./
+\E7* I wtedy poszedłeś&  spowrotem^1, ponieważ&  pożałowałeś tego./
 obj_floweytrigger2_286
 * Ha ha ha ha.../
 obj_floweytrigger2_287
-\E5* You naive idiot./
+\E5* Ty naiwny idioto./
 obj_floweytrigger2_288
 obj_floweytrigger2_289
 obj_floweytrigger2_290
@@ -13638,7 +13638,7 @@ Hop,&hop.
 obj_froggit_32
 Meow.
 obj_froggit_33
-(Głęboko&rumieni się.)&Kum..
+(Głęboko&rumieni&się.)&Kum..
 obj_froggit_36
 * Drganie
 obj_froggit_39
@@ -14259,62 +14259,62 @@ obj_gyftrotnpc_72
 obj_gyftrotnpc_76
 * Good riddance^1!&* Maybe I'll finally get&  some peace and quiet!/%%
 obj_gyftrotnpc_77
-  You cannot give&  up just yet.../
+  Nie możesz się&  jeszcze poddać.../
 obj_heartdefeated_0_0
-  \[C]^1!&  Stay determined.../%%
+  \[C]^1!&  Pozostań zdeterminowany.../%%
 obj_heartdefeated_0_1
-  \[C], this is just&  a bad dream.../
+  \[C], to tylko&  zły sen.../
 obj_heartdefeated_100_0
-  Wake up^1!&  It's not over!/%%
+  Obudź się^1!&  To jeszcze nie koniec!/%%
 obj_heartdefeated_100_1
-  \[C]! It's like&  he says.../
+  \[C]! To tak jak&  oni mówią.../
 obj_heartdefeated_101_0
-  You have to&  stay determined.../%%
+  Musisz pozostać&  zdeterminowany.../%%
 obj_heartdefeated_101_1
-  \[C]! Please&  don't give up.../
+  \[C]! Proszę&  nie poddawaj się.../
 obj_heartdefeated_102_0
-  Have some&  determination.../%%
+  Miej trochę&  determinacji.../%%
 obj_heartdefeated_102_1
-  \[C]! You're&  \[C]!/
+  \[C]! Jesteś&  \[C]!/
 obj_heartdefeated_103_0
-  You can't quit^1!&  Stay determined.../%%
+  Nie możesz opuścić^1!&  Pozostań zdeterminowant.../%%
 obj_heartdefeated_103_1
-  \[C], is this&  a kind of joke?/
+  \[C], czy to&  jakiś żart?/
 obj_heartdefeated_104_0
-  Cut it out^1!&  Wake up!/%%
+  No już^1!&  Obudź się!/%%
 obj_heartdefeated_104_1
-  \[C], it's not&  time to leave!/
+  \[C], to nie&  czas^1, by opuścić!/
 obj_heartdefeated_105_0
-  Hold on!/%%
+  Trzymaj się!/%%
 obj_heartdefeated_105_1
-  \[C], gather&  your strength./
+  \[C], zbierz&  twoją siłę./
 obj_heartdefeated_106_0
-  Stay determined!/%%
+  Pozostań zdeterminowany!/%%
 obj_heartdefeated_106_1
-  \[C], you have&  to keep going./
+  \[C], musisz&  iść dalej./
 obj_heartdefeated_107_0
 obj_heartdefeated_107_1
 obj_heartdefeated_200_0
 obj_heartdefeated_200_1
-  Our fate rests &  upon you.../
+  Nasz los leży &  w twoich rękach.../
 obj_heartdefeated_201_0
 obj_heartdefeated_201_1
-  You're going to&  be alright!/
+  Będziesz&  w porządku!/
 obj_heartdefeated_202_0
 obj_heartdefeated_202_1
-  Don't lose hope!/
+  Nie trać nadziei!/
 obj_heartdefeated_203_0
 obj_heartdefeated_203_1
-  It cannot end&  now!/
+  To nie może się&  teraz zakończyć!/
 obj_heartdefeated_204_0
 obj_heartdefeated_204_1
   geeettttttt&  dunked on!!!/
 obj_heartdefeated_300_0
-  if we're really&  friends.../
+  jeśli naprawdę&  jesteśmy przyjaciółmi.../
 obj_heartdefeated_300_1
-  you won't come back./%%
+  to nie powrócisz./%%
 obj_heartdefeated_300_2
-* But it refused^5.%%
+* Ale odmówiło^5.%%
 obj_heartdefeated_343
 * Ogień nie jest gorący...&* Poprostu przyjemnie ciepły.&* Mógłbyś włożyć rękę do środka./%%
 obj_hearthflame_57
@@ -18065,40 +18065,40 @@ Bein' me&is the&best!
 obj_migosp_239
 La la~&Just be&yourself~
 obj_migosp_240
-Nothin'&like&alone&time!
+Nic&jak&bycie&sam!
 obj_migosp_241
-Mmm, cha&cha cha!
+Mmm, cza&cza cza!
 obj_migosp_242
-Swing&your&arms,&baby
+Huśtaj&twoimi&rękami,&baby
 obj_migosp_243
-Hiya~
+Heja~
 obj_migosp_246
 obj_migosp_251
-* Migosp skitters around.
+* Migosp błąka się wokół.
 obj_migosp_441
-* Migosp is knitting its brow.
+* Migosp dzierga swoje brwi.
 obj_migosp_442
-* Migosp is whispering to the&  others.
+* Migosp szepcze do innych.
 obj_migosp_443
-* It's starting to smell like&  a roach motel.
+* Zaczyna pachnieć jak&  motel dla karaluchów.
 obj_migosp_444
-* Migosp doesn't have a care&  in the world.
+* Migosp ma wywalone&  w świat.
 obj_migosp_445
-* Migosp refuses to give&  up.
+* Migosp odmawia poddawaniu się.
 obj_migosp_446
-* MIGOSP - ATK 7 DEF 5&* It seems evil^1, but it's&  just with the wrong crowd.../^
+* MIGOSP - ATK 7 DEF 5&* Wydaje się zły^1, ale jest po&  prostu w złym towarzystwie.../^
 obj_migosp_468
 Ha ha&hee hee&ho ho&huu huu!
 obj_migospel_213
 Honk!&HOOONK!
 obj_migospel_214
-(Mime&noises)
+(Dźwięki&mima)
 obj_migospel_215
-They're&coming.
+Nadcho-&dzą.
 obj_migospel_216
-I love&to&laugh!
+Kocham&się&śmiać!
 obj_migospel_221
-Send in&the&clowns.
+Podeślij&klauny.
 obj_migospel_228
 Everyone&has&gone.
 obj_migospel_229
@@ -18742,9 +18742,9 @@ obj_multitileevent_650
 obj_musicstatue_110
 * (No point in giving it an&  umbrella now.)/%%
 obj_musicstatue_114
-trzymam się&dobrze,&dzięki.
+trzymam&się&dobrze,&dzięki.
 obj_napstablook_294
-po prostu&wczuwam się&w klimat...
+po prostu&wczuwam&się w&klimat...
 obj_napstablook_295
 nnnnnn&ggghhh.
 obj_napstablook_296
@@ -18758,7 +18758,7 @@ heh...
 obj_napstablook_300
 heh&heh...
 obj_napstablook_301
-daj mi&spróbować...
+daj mi&spróbować&coś...
 obj_napstablook_302
 wiedziałem...
 obj_napstablook_305
@@ -21332,7 +21332,7 @@ Ate&Your&Green&Snakes
 obj_parsnik_211
 Don't&Be Rude
 obj_parsnik_215
-Eat Your&Green&Tasty&Snakes
+Jedz&Warzywa&Smaczne&Węże
 obj_parsnik_219
 obj_parsnik_225
 * Parsnik has a hissy fit.
@@ -22469,69 +22469,69 @@ obj_readable_room1_639
 obj_readable_room1_640
 * (... these are all Mettaton.)/%%
 obj_readable_room1_641
-* (It's a lamp.^1)&* (There's no lightswitch.)/
+* (To lampa.^1)&* (Nie ma przełącznika.)/
 obj_readable_room1_646
 * (It says that stars make&  their own light...)/%%
 obj_readable_room1_647
 * (Rich history of Tem.)/%%
 obj_readable_room1_652
 obj_readable_room2_60
-* (An empty photo frame.)&* (It's really dusty...)/%%
+* (Pusta ramka na zdjęcie.)&* (Jest dosyć zakurzone...)/%%
 obj_readable_room2_63
-* (An empty photo frame.)&* (Someone's dusted it off.)/%%
+* (Pusta ramka na zdjęcie.)&* (Ktoś ją odkurzył.)/%%
 obj_readable_room2_67
-* (It's a family photograph.^1)&* (Everyone is smiling.)/%%
+* (To rodzinne zdjęcie.^1)&* (Wszyscy się uśmiechają.)/%%
 obj_readable_room2_72
 \R* .../%%
 obj_readable_room2_75
-* It's a history book^1.&* Here's a random page.../
+* To książka historyczna^1.&* Oto losowa strona.../
 obj_readable_room2_80
-* Trapped behind the barrier&  and fearful of further&  human attacks^1, we retreated./
+* Uwięzieni za barierą i&  obawiający się dalszych&  ataków ludzi^1, wycofaliśmy się./
 obj_readable_room2_81
-* Far^1, far into the earth&  we walked^1, until we reached&  the cavern's end./
+* Daleko^1, daleko w ziemię&  szliśmy^1, dopóki dotarliśmy&  do końca jaskini./
 obj_readable_room2_82
-* This was our new home^1,&  which we named.../
+* To był nasze nowe schronienie^1,&  które nazwaliśmy.../
 obj_readable_room2_83
-* "Home."/
+* "Domem."/
 obj_readable_room2_84
-* As great as our king is^1,&  he is pretty lousy at&  names./%%
+* Jak wspaniały jest nasz król^1,&  jest nieco parszywy w&  nazywaniu rzeczy./%%
 obj_readable_room2_85
-* It's a bureau./
+* To bureau./
 obj_readable_room2_90
-* There's a Santa Claus outfit&  inside./%%
+* Jest przebranie Mikołaja&  w środku./%%
 obj_readable_room2_91
 \R* Nothing useful./%%
 obj_readable_room2_94
-* (There are photo albums...^1)&* (Scrapbooks...^1)&* (Books on how to make tea...)/%%
+* (Są tu albumy ze zdjęciami...^1)&* (Brudnopisy...^1)&* (Poradniki na herbatę...)/%%
 obj_readable_room2_100
-* (They all seem very worn.)/%%
+* (One wszystkie są&  nieco ztarte.)/%%
 obj_readable_room2_101
 obj_readable_room2_105
-* It's a golden flower./%%
+* To złoty kwiatek./%%
 obj_readable_room2_111
-* Inside is an old calendar&  from the beginning of&  201X./%%
+* W środkku jest stary&  kalendarz z początków&  201X./%%
 obj_readable_room2_114
-* (It's a golden flower.)/%%
+* (To złoty kwiatek.)/%%
 obj_readable_room2_115
-* (It's another throne covered&  by a white sheet.)/%%
+* (Jest kolejny tron zakryty&  białą narzutą.)/%%
 obj_readable_room2_119
-* Just a regular old bucket^3 & &  of snails./%%
+* Zwyczajne stare wiadro^3 & &  ze ślimakami./%%
 obj_readable_room2_124
-* It's an encyclopedia of&  subterranean plants. You&  open to the middle.../
+* To encyklopedia&  egzotycznych roślin.&  Otwierasz na środek.../
 obj_readable_room2_127
-* "Typha" - A group of wetland&  flowering plants with&  brown^1, oblong seedpods./
+* "Typha" - Grupa mokro-&  glebich roślin z brązowymi^1,&  podłużnymi strąkami./
 obj_readable_room2_128
-* Known more commonly as& "water sausages."/%%
+* Również znane jako& "wodne kiełbaski."/%%
 obj_readable_room2_129
-* You have seen this type&  of plant before but&  do not know its name./%%
+* Już widziałeś tego typu&  roślinę poprzednio^1, ale&  nie pamiętasz jej nazwy./%%
 obj_readable_room2_135
-* Oh^2!&* It is a "water sausage."/%%
+* Oh^2!&* To "wodna kiełbaska."/%%
 obj_readable_room2_136
-* What a nice smell...&* Too hot to eat^1, though./%%
+* Co za ładny zapach...&* Niestety^1, zbyt gorące^1,&  by zjeść./%%
 obj_readable_room2_140
-* The size of the pie&  intimidates you too much&  for you to eat it./%%
+* Rozmiar ciasta zbyt&  bardzo cię kus^1, abyś&  go zjadł./%%
 obj_readable_room2_141
-* (Most of the pie is gone.^1)&* (There are dog prints in&  it...)/%%
+* (Większość ciasta znikła.^1)&* (Są widoczne ślady psich&  łapek w cieście...)/%%
 obj_readable_room2_144
 * While monsters are mostly made&  of magic^1, human beings are&  mostly made of water./
 obj_readable_room2_149
@@ -22805,31 +22805,31 @@ obj_readable_room2_569
 * (It's a nice thing you can&  see the southern wall from&  this angle.)/%%
 obj_readable_room2_570
 obj_readable_room3_59
-* (A box of kids' shoes in&  a disparity of sizes.)/%%
+* (Pudło z dziecięcymi butami&  w różnych rozmiarach.)/%%
 obj_readable_room3_60
-* (It's a drawing of a&  golden flower.)/%%
+* (To rysunek złotego kwiatka.)/%%
 obj_readable_room3_63
-\R* My drawing./%%
+\R* Mój rysunek./%%
 obj_readable_room3_66
-* (Definitely bigger than&  a twin-sized bed.)/%%
+* (Definitywnie większe niż&  podwójne łóżko.)/%%
 obj_readable_room3_71
-* (Earlier^1, you identified&  this as bigger than a&  twin-sized bed.)/
+* (Wcześniej^1, identyfikowałeś&  to jako większe^1, niż&  podwójne łóżko.)/
 obj_readable_room3_74
-* (But now^1, you realize&  it's actually one size&  bigger than a double.)/%%
+* (Ale teraz^1, uświadomiłeś sobie^1,&  że to po prostu o jeden rozmiar&  większy od normalnego.)/%%
 obj_readable_room3_75
-* The coals are still warm./%%
+* Węgielki są dalej ciepłe./%%
 obj_readable_room3_79
-* (Macaroni art of a flower.^1)&* ('For King Dad!')/%%
+* (Macaroni art &  prezentujące kwiatka.^1)&* ('Dla Króla Taty!')/%%
 obj_readable_room3_81
-* Inside the drawer are&  flower seeds and some&  broken crayons./%%
+* W środku szufladki są&  nasiona kwiatków i parę&  złamanych kredek./%%
 obj_readable_room3_83
-* There is some white fur&  stuck in the drain./%%
+* Jest trochę białego futra&  utkniętego w zlewie./%%
 obj_readable_room3_84
-* (There is some white fur&  stuck in the drain.)/%%
+* (Jest trochę białego futra&  utkniętego w zlewie.)/%%
 obj_readable_room3_85
-* Because they are made of&  magic^1, monsters' bodies are&  attuned to their SOUL./
+* Jako że oni są zrobione z&  magii^1, ciała potworów są&  przywiązane z ich DUSZĄ./
 obj_readable_room3_89
-* If a monster doesn't want&  to fight^1, its defenses will&  weaken./
+* Jeśli potwór nie chce już&  walczyć^1, jego defensywa się&  obniży./
 obj_readable_room3_90
 * And the crueller the intentions&  of our enemies^1, the more&  their attacks will hurt us./
 obj_readable_room3_91
@@ -22963,33 +22963,33 @@ obj_readable_room3_320
 * (Statue of tem..^1. very famus^1)&* (VERY!!!!!!!!!)/%%
 obj_readable_room3_325
 obj_readable_room4_60
-* It's you!/%%
+* To ty!/%%
 obj_readable_room4_63
-* Still just you^1, Frisk./%%
+* To dalej tylko ty^1, Frisk./%%
 obj_readable_room4_64
-* It's me^1, \[C]./%%
+* To ja^1, \[C]./%%
 obj_readable_room4_66
 obj_readable_room4_67
-* Despite everything^1, it's&  still you./%%
+* Pomimo wszystkiego^1, to&  dalej ty./%%
 obj_readable_room4_70
 obj_readable_room4_73
-* Inside the cupboard are&  cookie cutters for&  gingerbread monsters./%%
+* W szufladce są foremki&  do potworkowych ciastek./%%
 obj_readable_room4_76
-\R* Where are the knives./%%
+\R* Gdzie są noże./%%
 obj_readable_room4_77
-* The stovetop is very clean^1.&* Toriel must use fire&  magic instead./%%
+* Kuchenka jest bardzo czysta^1.&* Toriel musiała chyba użyć&  magicznego ognia w zamian./%%
 obj_readable_room4_78
-* No one will use this&  anymore.../%%
+* Nik już tego nie&  będzie używał.../%%
 obj_readable_room4_79
-* (It's a note.^1)&* Howdy^1! Help yourself to&  anything you want!/%%
+* (To notatka.^1)&* Heja^1! Częstuj się&  czym tylko chcesz!/%%
 obj_readable_room4_83
-* I've read this already./%%
+* Już to kiedyś czytałem./%%
 obj_readable_room4_84
-* (The stovetop is very clean.^1)&* (Someone must use fire&  magic instead.)/%%
+* (Kuchenka jest bardzo czysta.^1)&* (Ktoś chyba używa magicznego&  ognia w zamian.)/%%
 obj_readable_room4_90
-* Stovetop./%%
+* Kuchenka./%%
 obj_readable_room4_91
-* (What a comfortable bed.^1)&* (If you laid down here^1,&  you might not ever get up.)/%%
+* (Co za wygodne łóżko.^1)&* (Jeśli się tu położysz^1,&  możesz już nigdy nie wstać.)/%%
 obj_readable_room4_98
 * My bed./%%
 obj_readable_room4_99
@@ -23210,7 +23210,7 @@ obj_readable_switch1_81
 * Ta dźwignia nawet&  nie działa.../%%
 obj_readable_switch1_91
 obj_reaperbird_160
-Don't&pick on&me.
+Nie&czepiaj&się mnie.
 obj_reaperbird_165
 obj_reaperbird_166
 obj_reaperbird_167
@@ -25619,13 +25619,13 @@ obj_slimejanitor_73
 obj_slimejanitor_77
 * (Futility setting in.)/%%
 obj_slimejanitor_82
-* (Toriel's small chair.)&* (Its name is Chairiel.)/%%
+* (Małe krzesło Toriel.)&* (Nazywa się Krzesłoriel.)/%%
 obj_smallchair_55
-* (Who knows what the future&  holds for Chairiel.)/%%
+* (Kto wie jaka przyszłość&  czeka dla Krzesłoriela.)/%%
 obj_smallchair_57
-* (What a tiny doghouse!)/%%
+* (Co za mały psi domek!)/%%
 obj_smalldoghouse_98
-* (It must be bigger on the&  inside.)/%%
+* Musi być większe w środku.)/%%
 obj_smalldoghouse_99
 * Kum^1, kum^1.&* (Przepraszam^1, człowieku.)/
 obj_smallfrog_61
@@ -27304,11 +27304,11 @@ obj_torielboss_367
 obj_torielboss_368
  ...?
 obj_torielboss_369
- Co ty& wyprawiasz?
+ Co ty& wypra-& wiasz?
 obj_torielboss_370
- Atakuj& albo uciekaj& stąd!
+ Atakuj& albo& uciekaj!
 obj_torielboss_371
- Co ty& próbujesz& udowodnić?
+ Co ty& próbujesz& udo-& wodnić?
 obj_torielboss_372
  Walzc& albo& odejdź!
 obj_torielboss_373
@@ -27316,7 +27316,7 @@ obj_torielboss_373
 obj_torielboss_374
  Przestań& tak na& mnie& patrzeć.
 obj_torielboss_376
- Idź stąd!
+ Idź& stąd!
 obj_torielboss_377
  ...
 obj_torielboss_378
@@ -27340,7 +27340,7 @@ obj_torielboss_397
 obj_torielboss_399
 Ha ha...
 obj_torielboss_401
-Żałosne^1, czyż nie^2?&Nie mogę nawet uratować&jednego dziecka.
+Żałosne^1, czyż nie^2?&Nie mogę nawet urato-&wać jednego dziecka.
 obj_torielboss_402
 obj_torielboss_403
 Nie^1, rozumiem./
@@ -27353,7 +27353,7 @@ To nie byłoby&odpowiedzialne^1,&byś dorastał&w takim miejscu./
 obj_torielboss_419
 Me oczekiwania...&Ma samotność...&Mój strach.../
 obj_torielboss_420
-Dla ciebie^1, me dziecię...&odłoże marzenia na bok./%%
+Dla ciebie^1,&me dziecię...&odłoże te marzenia&na bok./%%
 obj_torielboss_421
 \E0Urgh.../
 obj_torielboss_445
@@ -27491,7 +27491,7 @@ obj_torielcall4_95
 obj_torielcall5_90
 obj_torielcall5_91
 obj_torielcall5_92
-\E1* Właśnie sobie uświadomiłam,&  że minęło dosyć dużo czasu&  odkąd tu ostatnio sprzątałam./
+\E1* Właśnie sobie&  uświadomiłam, że dawnu&  tu ostatnio sprzątałam./
 obj_torielcall5_93
 \E0* Nie spodziewałam się&  gości tak szybko./
 obj_torielcall5_94
@@ -27499,9 +27499,9 @@ obj_torielcall5_94
 obj_torielcall5_95
 * Możesz je podnieść^1,&  ale nie podnoś więcej&  niż potrzebuję./
 obj_torielcall5_96
-* Jednego dnia możesz znaleźć&  coś co może ci się&  bardzo spodobać./
+* Jednego dnia możesz&  znaleźć coś^1, co może ci&  się bardzo spodobać./
 obj_torielcall5_97
-* Będziech chciał zostawić&  trochę wolnego&  miejsca w kieszeniach./
+* Będziech chciał&  zostawić trochę wolnego&  miejsca w kieszeniach./
 obj_torielcall5_98
 obj_torielcall5_99
 obj_torielcall5_100
@@ -27520,7 +27520,7 @@ obj_torielcall5_110
 obj_torielcall5_111
 obj_torielcall5_112
 obj_torielcall5_113
-* Każdego człowieka^1, który&  tu spada^1, czeka ten sam los./
+* Każdego człowieka^1, który&  tu spada^1, czeka ten sam&  los./
 obj_torieltrigger10_77
 * Widziałam to już&  wielokrotnie./
 obj_torieltrigger10_78
@@ -27536,9 +27536,9 @@ obj_torieltrigger10_82
 obj_torieltrigger10_83
 * Ja cię tylko chronię^1,&  rozumiesz?/
 obj_torieltrigger10_84
-* ... idź do twojego pokoju./%%
+* ... idź do twojego&  pokoju./%%
 obj_torieltrigger10_85
-* Nie próbuj mnie powstrzymać./
+* Nie próbuj mnie&  powstrzymać./
 obj_torieltrigger11_79
 * To twoje ostatnie&  ostrzeżenie./%%
 obj_torieltrigger11_80
@@ -27556,7 +27556,7 @@ obj_torieltrigger12_184
 obj_torieltrigger12_185
 \E1* Proszę nie powracaj./
 obj_torieltrigger12_186
-\E2* Mam nadzieję^1, że rozumiesz./%%
+\E2* Mam nadzieję^1, że&  zrozumiesz./%%
 obj_torieltrigger12_187
 * Tak bardzo&  chcesz odejść?/
 obj_torieltrigger12_325
@@ -27594,7 +27594,7 @@ obj_torieltrigger12_354
 obj_torieltrigger5_185
 * Ani ryska..^1.&*\E0 Imponujące^1!&*\E1 Ale dalej.../
 obj_torieltrigger5_186
-* Już już^1, there^1,&  wyleczę cię./
+* Już już^1&  wyleczę cię./
 obj_torieltrigger5_187
 * Któż ci to zrobił^2?\E5 &* Otrzymasz swoje&  przeprosiny./
 obj_torieltrigger5_189
@@ -27620,7 +27620,7 @@ obj_torieltrigger6_41
 obj_torieltrigger6_42
 * Chcę^1, byś miał&  tutaj przyjemny&  pobyt./
 obj_torieltrigger6_43
-* Więc przetrzymam&  ślimakowe ciastor&  na noc./
+* Więc przetrzymam&  ślimakowe ciasto&  na noc./
 obj_torieltrigger6_44
 * Chodź^1, mam kolejną&  niespodziankę dla&  ciebie./%%
 obj_torieltrigger6_45
@@ -27647,25 +27647,25 @@ obj_torieltrigger7_243
 obj_torieltrigger8_77
 * To niebezpieczne^1, by&  się tu bawić./%%
 obj_torieltrigger8_78
-* It is drafty here.&* You will catch&  a cold./%%
+* W powietrzu jest asbest.&* Możesz zachorować&  na astmę./%%
 obj_torieltrigger8_79
-* It is dusty here.&* You will catch&  a cough./%%
+* To jest zakurzone.&* Będziesz kaszlał./%%
 obj_torieltrigger8_80
-* There is nothing&  to see here./%%
+* Nie ma tu nic&  do zobaczenia./%%
 obj_torieltrigger8_81
-* Do you want to&  read a book?/%%
+* Chcesz przeczytać&  książkę?/%%
 obj_torieltrigger8_82
-\E7* I do not like&  the game you&  are playing./%%
+\E7* Nie podoba mi się&  gra^1, w którą grasz./%%
 obj_torieltrigger8_83
-\E0* Why not go for&  a walk in the&  yard?/%%
+\E0* Czemu nie pójdziesz&  na spacerek po&  działce?/%%
 obj_torieltrigger8_84
-* Really now./%%
+* Poważnie teraz./%%
 obj_torieltrigger8_85
 \E4* .../%%
 obj_torieltrigger8_86
-* Hey^1, do not go down&  here./
+* Hej^1, nie idź tam&  na dół./
 obj_torieltrigger8_90
-* I have something&  to show you&  upstairs./%%
+* Mam coś do pokazania&  na górze./%%
 obj_torieltrigger8_91
 * Chcesz wiedzieć jak&  wrócić do "domu,"&  prawda?/
 obj_torieltrigger9_77
@@ -29681,48 +29681,48 @@ obj_undynetrigger_boss2_116
 obj_undynetrigger_dry_122
 * But I can't..^1.&* Give up.../%%
 obj_undynetrigger_dry_123
-Contains&Vitamin&A
+Zawiera&Witaminę&A
 obj_vegetoid_172
-Part Of&A&Complete&Breakfast
+Część&Dobrego&Śniadania
 obj_vegetoid_173
-Farmed&Locally,&Very&Locally
+Uprawa&Lokalna,&Bardzo&Lokalna
 obj_vegetoid_175
-Fresh&Morning&Taste
+Świeży&Poranny&Smak
 obj_vegetoid_176
-Ate&Your&Greens
+Zjadłwszy&Swoje&Warzywa
 obj_vegetoid_178
-Plants&Can't&Talk&Dummy
+Rośliny&Nie&Gadają&Głupku
 obj_vegetoid_182
-Eat&Your&Greens
+Jedz&Swoje&Warzywa
 obj_vegetoid_186
 obj_vegetoid_190
-* Vegetoid gave a mysterious&  smile.
+* Vegetoid dał ci&  tajemniczy uśmiech.
 obj_vegetoid_383
-* Vegetoid cackles softly.
+* Vegetoid śmieje się łagodnie.
 obj_vegetoid_384
-* Vegetoid's here for your&  health.
+* Vegetoid jest tutaj&  dla twojego&  zdrowia.
 obj_vegetoid_385
-* It smells like steamed&  carrots and peas.
+* Pachnie jak marchewki&  i groszek na parze.
 obj_vegetoid_386
-* Vegetoid seems kind of&  bruised.
+* Vegetoid wydaje się&  trochę posiniaczony.
 obj_vegetoid_387
-* VEGETOID - ATK 6 DEF 6&* Serving Size: 1 Monster&* Not monitored by the USDA/^
+* VEGETOID - ATK 6 DEF 6&* Porcjowanie: 1 Potwór&* Niemonitorowane przez USDA/^
 obj_vegetoid_414
-* You tried to eat Vegetoid^1,&  but it wasn't weakened&  enough./^
+* Spróowałeś pożreć Vegetoida^1,&  ale nie było wystarczająco&  osłabione./^
 obj_vegetoid_428
-* You took a bite out of&  Vegetoid^1.&* You recovered 5 HP!/^
+* Odgryzłeś kawałek&  Vegetoida^1.&* Odzyskałeś 5 HP!/^
 obj_vegetoid_431
-* You pat your stomach^1.&* Vegetoid offers a healthy&  meal./^
+* Klepiesz się po brzuchu^1.&* Vegetoid oferuje zdrowy&  posiłek./^
 obj_vegetoid_445
-  And you're NEVER&  waking up!^3 %%
+  I ty NIGDY się&  nie budzisz!^3 %%
 obj_vsflowey_heartdefeated_114
 obj_vsflowey_heartdefeated_115
-  This is all just&  a bad dream...^4 %%
+  To wszystko &  jest złym&  snem...^4 %%
 obj_vsflowey_heartdefeated_198
 obj_vsflowey_heartdefeated_199
-Ah! I'll&help!&Healing&magmas!
+Ah!&Pomogę!&Lecząca&magma!
 obj_vulkin_271
-You're&hurt!&I'll&help!!!
+Jesteś&ranny!&Pomogę&ci!!!
 obj_vulkin_272
 Thunder!&Helpful&speed&up!!!
 obj_vulkin_277
@@ -30120,12 +30120,12 @@ obj_xmastree_60
 obj_xmastree_61
 * (Nothing for you.)/%%
 obj_xmastree_65
-* You tripped into a&  line of Moldsmals.
-* A pair of Froggits hop&  towards you.
-* Moldsmal and Moldsmal&  block the way.
-* Migosp crawled up close!
-* Vegetoid and Loox attacked!
-* Doggo blocks the way!
+* Napotkałeś&  sznur Moldsmalów.
+* Para Froggitów skaczą&  w twoją stronę.
+* Moldsmal i Moldsmal&  blokują drogę.
+* Migosp wspiął się obok!
+* Vegetoid i Loox atakują!
+* Pieseł blokuje drogę!
 * Chilldrake saunters up!
 * Snowdrake flutters forth!
 * Chilldrakes flutter forth!
@@ -32718,30 +32718,30 @@ item_use_61
 * Jesz szczeniaka.
 item_use_62
 * You eat the Hush Puppy.&* Dog-magic is neutralized.
-* You ate the Snail Pie.&* Your HP was maxed out./
-* You donned the Temmie Armor./%
+* Zjadłeś Ślimacze Ćiasto.&* Twoke HP zostało&  odnowione./
+* Założyłeś Temmie Armor./%
 item_use_64
-* The \[1] was&  put away.
-* The \[1] was&  tossed inside recklessly.
-* The \[1] was&  placed thoughtfully inside.
-* The \[1] was&  taken out.
-* The \[1] was&  grabbed impatiently.
-* The \[1] was&  taken out and held like a&  small puppy.
-* You can't carry any more./%%
-* The box is full./%%
-* Vegetoid came out of the earth!
+* Odłożyłeś&  \[1].
+* Wyrzuciłeś lekkomyślnie&\[1].
+* Przemyślanie odłożyłeś&  \[1].
+* Wyjąłeś&  \[1].
+* Złapałeś niecierpliwie&  \[1].
+* Wyjąłeś&  \[1] i potrzymałeś jak&  małego szczeniaka.
+* Nie możesz nosić&  więcej rzeczy./%%
+* Pudło jest pełne./%%
+* Vegetoid wyrósł z ziemi!
 * Loox pojawia się!
 * Loox i spółka&  zdecydowała&  podczepiać cię!
-* A pair of Vegetoids&  came out of the ground!
-* A pair of Loox&  decided to pick on you!
-* But nobody came./%
+* Para Vegetoidów&  wyrosła z ziemi!
+* Para Looxów&  zdecydowała się&  czepiać cię!
+* Ale nikt nie przyszedł./%
 * Napotykasz Napstablooka.
 * Napotykasz Napstablooka^1.&* To samo, co zawsze.
 * Toriel blokuje drogę!
-* Lesser Dog appears.
-* Dogi assault you!
-* It's the Greater Dog.
-* Papyrus blocks the way!
+* Mniejszejszy pies&  pojawia się.
+* Dogi cię napada!
+* To Większejszy Pies.
+* Papyrus blokuje drogę!
 * Gyftrot confronts you!
 * Icecap struts into view.
 * Icecap and Chilldrake&  pose like bad guys.
