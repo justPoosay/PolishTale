@@ -54,3 +54,143 @@ COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
 minFPS, maxFPS, avgFPS
 -24, 865, 192
 ---------------------------------------------------------------
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 1760, 761
+---------------------------------------------------------------
+Total memory used = 67534875(0x0406801b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-6451, 31, -3211
+---------------------------------------------------------------
+Total memory used = 67533083(0x0406791b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_battle1.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-45454, 31, -22712
+---------------------------------------------------------------
+Total memory used = 67533467(0x04067a9b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_battle1.ogg
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-47619, 64, 29
+---------------------------------------------------------------
+Total memory used = 67535387(0x0406821b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+Pause event has been registered for this frame
+Pause event has been unregistered
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-32258, 1533, 31
+---------------------------------------------------------------
+Total memory used = 67535387(0x0406821b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+20, 60, 29
+---------------------------------------------------------------
+Total memory used = 67535387(0x0406821b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+19, 68, 29
+---------------------------------------------------------------
+Total memory used = 67535003(0x0406809b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_battle1.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-50000, 33, -24985
+---------------------------------------------------------------
+Total memory used = 67533211(0x0406799b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ghostbattle.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_battle1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_battle1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_toriel.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+can't find file for mus_house2.ogg at C:\Users\OscarStaniszewski\Desktop\PolishTale\UndertaleModTool_v0.6.1.0\mus_house2.ogg
+can't find file for mus_house2.ogg at C:\Users\OscarStaniszewski\Desktop\PolishTale\UndertaleModTool_v0.6.1.0\mus_house2.ogg
+can't find file for mus_house2.ogg at C:\Users\OscarStaniszewski\Desktop\PolishTale\UndertaleModTool_v0.6.1.0\mus_house2.ogg
+can't find file for mus_house2.ogg at C:\Users\OscarStaniszewski\Desktop\PolishTale\UndertaleModTool_v0.6.1.0\mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_house2.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-38461, 140, -839
+---------------------------------------------------------------
+Total memory used = 67535259(0x0406819b) bytes
+COggAudio::PlaySound- could not find audio file for sound mus_story.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_intronoise.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_menu1.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_ruins.ogg
+COggAudio::PlaySound- could not find audio file for sound mus_battle1.ogg
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-41666, 1934, -1217
+---------------------------------------------------------------

@@ -1,0 +1,188 @@
+Total memory used = 67607905(0x04079d61) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-30, 1700, 822
+---------------------------------------------------------------
+Total memory used = 67571415(0x04070ed7) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-30, 1700, 673
+---------------------------------------------------------------
+Total memory used = 67571927(0x040710d7) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 2873, 670
+---------------------------------------------------------------
+Total memory used = 67571927(0x040710d7) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 5208, 688
+---------------------------------------------------------------
+Total memory used = 67571927(0x040710d7) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-30, 4651, 1167
+---------------------------------------------------------------
+Total memory used = 67571671(0x04070fd7) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-30, 4329, 677
+---------------------------------------------------------------
+Total memory used = 67573463(0x040716d7) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-30, 3952, 666
+---------------------------------------------------------------
+Total memory used = 67573463(0x040716d7) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 3058, 444
+---------------------------------------------------------------
+Total memory used = 67571671(0x04070fd7) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-32, 5208, 445
+---------------------------------------------------------------
+Total memory used = 67573591(0x04071757) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 2570, 607
+---------------------------------------------------------------
+Total memory used = 67573591(0x04071757) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 4098, 695
+---------------------------------------------------------------
+Total memory used = 67573975(0x040718d7) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-30, 1225, 487
+---------------------------------------------------------------
+Total memory used = 67535319(0x040681d7) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-30, 2941, 594
+---------------------------------------------------------------
+Total memory used = 67535703(0x04068357) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-31, 4310, 572
+---------------------------------------------------------------
