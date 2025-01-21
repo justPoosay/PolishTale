@@ -1,15 +1,25 @@
-# Instrukcja uruchomienia repozytorium i pliku undertale.exe
+# PolishTale (an Undertale translation mod)
 
-## 1. Pobranie repozytorium
+hoi, am tEMMIE. Dis mod iz dedicated for polish UNDERTALE loverz!!1! feel free tu try it out and leave frienly notes/pecez ow adwis1!!
+<br/>
+<br/>
+# Instrukcja pobierania
 
-Aby pobrać repozytorium na swoje lokalne urządzenie, wykonaj poniższe kroki.
-
-### Krok 1: Zainstaluj Git
-Jeśli jeszcze nie masz zainstalowanego Git, pobierz go ze strony: [https://git-scm.com/](https://git-scm.com/) i zainstaluj zgodnie z instrukcjami dla Twojego systemu operacyjnego.
-
-### Krok 2: Klonowanie repozytorium
-Otwórz terminal (lub Git Bash na systemie Windows) i wpisz poniższą komendę, aby sklonować repozytorium:
+## Metoda 1.  Klonowanie repozytorium
+Otwórz PowerShell (lub Git Bash) i wpisz poniższe komendy, aby sklonować repozytorium i uruchomić Undertale:
 
 ```bash
-git clone https://adres-do-twojego-repozytorium.git
+git clone https://github.com/justPoosay/PolishTale.git
+cd PolishTale/Undertale
+.\Undertale.exe
 ```
+
+## Metoda 2.  Ręczne pobieranie repozytorium
+W branchu *main*: Code --> Download ZIP <br/>
+Po pobraniu wypakuj plik ZIP i przejdź do wypakowanego folderu, następnie otwórz folder Undertale i uruchom Undertale.exe
+<br/>
+<br/>
+[![Trailer](https://img.youtube.com/vi/LdV79crBDuo/hqdefault.jpg)](https://youtu.be/LdV79crBDuo)
+<br/>
+<br/>
+**Writing this mod and fulfilling your royal duties to Toby Fox...<br/>It fills you with DETERMINATION**
