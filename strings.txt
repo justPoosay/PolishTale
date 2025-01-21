@@ -6379,11 +6379,11 @@ Wywar z Pająków
 item_name_10
 Ciasto Toffi
 item_name_11
-Wyblakła Wstążka
+Wybl. Wstążka
 item_name_12
-Zabawkowy Nóż
+Zabawk. Nóż
 item_name_13
-Twardą Rękawica
+Twarda Rękawica
 item_name_14
 Męska Bandana
 item_name_15
@@ -11134,7 +11134,7 @@ obj_controlspear_285
 obj_controlspear_291
 \E9* If you weren't my&  beloved houseguest!/%%
 obj_controlspear_292
-* Just a conveniently-shaped&  lamp./%%
+* Tylko dogodnie-&  ukształtowana lampa./%%
 obj_convenientlamp_55
 obj_cookshowevent_89
 obj_cookshowevent_90
@@ -11375,7 +11375,7 @@ obj_darkplant_64
 obj_darksans1_187
 * to jest ZAWSZE śmieszne./
 obj_darksans1_188
-* w każdym razie^1,&  jesteś człowiekiem, prawda?/
+* w każdym razie^1,&  jesteś człowiekiem,&  prawda?/
 obj_darksans1_189
 \E1* to przekomiczne./
 obj_darksans1_190
@@ -11393,13 +11393,13 @@ obj_darksans1_198
 obj_darksans1_199
 * ale..^1. wiesz.../
 obj_darksans1_200
-\E1* mnie to nie za bardzo obchodzi^1,&  żeby kogoś porwać./
+\E1* mnie to nie za bardzo&  obchodzi^1, żeby kogoś&  porwać./
 obj_darksans1_201
 \E0* teraz mój brat^1,&  papyrus.../
 obj_darksans1_202
 * on jest FANATYKIEM&  łapania ludzi./
 obj_darksans1_203
-\E1* hej^1, tak naprawdę^1, wydaje mi&  się^1, że to on tam stoi./
+\E1* hej^1, tak naprawdę^1,&  wydaje mi się^1, że&  to on tam stoi./
 obj_darksans1_204
 \E0* mam pomysł^1.&* przejdź przez tą&  bramkę czy coś./
 obj_darksans1_205
@@ -11435,104 +11435,104 @@ obj_darksans1_347
 obj_darksans1_354
 obj_darksans1_355
 obj_darksans1_356
-* quick^1, behind that&  conveniently-shaped&  lamp./%%
+* szybko^1, za tym&  dogodnie-kształtną&  lampą./%%
 obj_darksans1_399
 * sup^1, bro?/
 obj_darksans1_457
-YOU KNOW WHAT&"SUP,^1" BROTHER!/
+WIESZ O CO&"SUP,^1" BRACIE!/
 obj_darksans1_459
-IT'S BEEN EIGHT&DAYS AND YOU&STILL HAVEN'T.../
+MINĘŁO OSIEM &DNI A TY&DALEJ NIE.../
 obj_darksans1_460
-RECALIBRATED^1.&YOUR^1.&PUZZLES^1!/
+ZREKALIBROWAŁEŚ^1.&TWOJE^1.&PUZZLE^1!/
 obj_darksans1_461
-YOU JUST HANG&AROUND OUTSIDE&YOUR STATION!/
+TY PO PROSTU&ZBIJASZ BĄKI W&TWOJEJ STACJI!/
 obj_darksans1_462
-WHAT ARE YOU&EVEN DOING?!?/
+CO TY WOGULE&ROBISZ?!?/
 obj_darksans1_463
-* staring at this lamp^1.&* it's really cool^1.&* do you wanna look?/%%
+* gapię się na tą lampę^1.&* jest naprawdę czadowa^1.&* chcesz popatrzeć?/%%
 obj_darksans1_465
-NO!^1!&I DON'T HAVE&TIME FOR THAT!!/
+NIE!^1!&NIE MAM CZASU&NA TO!!/
 obj_darksans1_480
-WHAT IF A HUMAN&COMES THROUGH&HERE!?!/
+CO JEŚLI CZŁOWIE&BĘDZIE TĘDY&PRZECHODZIŁ!?!/
 obj_darksans1_481
-I WANT TO BE&READY!!!/
+JA CHCĘ BYĆ&GOTOWY!!!/
 obj_darksans1_482
-I WILL BE THE ONE!&I MUST BE THE ONE!/
+JA BĘDE TYM!&JA MUSZĘ BYĆ TYM!/
 obj_darksans1_483
-I WILL CAPTURE A&HUMAN!/%%
+JA ZŁAPIĘ&CZŁOWIEKA!/%%
 obj_darksans1_484
-THEN^1, I^1, THE&GREAT PAPYRUS.../
+WTEDY^1, JA^1, &WIELKI PAPYRUS.../
 obj_darksans1_496
-WILL GET&ALL THE THINGS I&UTTERLY DESERVE!/
+DOSTANĘ WSZYSTKIE&RZECZY NA KTÓRE&BARDZO ZASŁUGUJĘ!/
 obj_darksans1_497
-RESPECT..^1.&RECOGNITION.../
+RESPEKT..^1.&ROZPOZNAWCZOŚĆ.../
 obj_darksans1_498
-I WILL FINALLY&BE ABLE TO JOIN&THE ROYAL GUARD!/
+W KOŃCU BĘDĘ&W STANIE DOŁĄCZYĆ DO&GWARII KRÓLEWSKIEJ!/
 obj_darksans1_499
-PEOPLE WILL ASK^1,&TO^1, BE MY^1,&"FRIEND?"/
+LUDZIE BĘDĄ PYTAĆ^1,&BY^1, BYĆ MOIM^1,&"PRZYJACIELEM?"/
 obj_darksans1_500
-\E2I WILL BATHE IN A&SHOWER OF KISSES&EVERY MORNING./%%
+\E2BĘDĘ KĄPANY W&PRYSZNICU CAŁUSÓW&KAŻDEGO DNIA./%%
 obj_darksans1_501
 * hmm.../
 obj_darksans1_514
-\E1* maybe this lamp will&  help you./%%
+\E1* może ta lampa&  ci pomoże./%%
 obj_darksans1_515
-SANS!^1! YOU ARE&NOT HELPING!^1!&YOU LAZYBONES!!/
+SANS!^1! NIE POMAGASZ!^1!&TY LENIWOKOŚCIU!!/
 obj_darksans1_528
-ALL YOU DO IS SIT&AND BOONDOGGLE!/
+JEDYNE CO ROBISZ&TO SIEDZISZ I&UBAGUNGA!/
 obj_darksans1_529
-YOU GET LAZIER&AND LAZIER&EVERY DAY!!!/
+ROBISZ SIĘ&CORAZ LENIWSZY&KAŻDEGO DNIA!!!/
 obj_darksans1_530
-\W* hey^1, take it easy^1.&* i've gotten a \Yton\W &  of work done today./
+\W* hej^1, nie denerwuj się^1.&* zrobiłem \Ytonę\W &  pracy dzisiaj./
 obj_darksans1_532
-\W*\E2 a skele-\Yton\W./%%
+\W*\E2 szkiele-\Ytonę\W./%%
 obj_darksans1_533
 SANS!!!/
 obj_darksans1_582
-\E1* come on^1.&* you're smiling./
+\E1* no weź^1.&* uśmiechasz się./
 obj_darksans1_584
-I AM AND I HATE IT!/
+UŚMIECHAM SIĘ I&TEGO NIE ZNOSZĘ!/
 obj_darksans1_586
-\E3SIGH.../
+\E3EHH.../
 obj_darksans1_587
-\E2WHY DOES SOMEONE&AS GREAT AS ME.../
+\E2CZEMU KTOŚ TAK&WSPANIAŁY JAK JA.../
 obj_darksans1_588
-\E3HAVE TO DO SO MUCH&JUST TO GET SOME&RECOGNITION.../
+\E3MUSI ROBIĆ TAK WIELE&TYLKO, BY ZYSKAĆ&ROZPOZNAWCZOŚĆ.../
 obj_darksans1_589
-* wow^1, sounds like&  you're really working&  yourself.../
+* wow^1, brzmi na to że&  naprawdę mocno&  pracujesz.../
 obj_darksans1_591
-\E2* down to the bone./%%
+\E2* aż do kości./%%
 obj_darksans1_592
 UGH!!!/
 obj_darksans1_604
-I WILL ATTEND TO&MY PUZZLES.../
+PÓJDĘ UCZESTNICZYĆ&W MOICH PUZZLACH.../
 obj_darksans1_605
-\E3AS FOR YOUR WORK?/
+\E3A CO DO CIEBIE?/
 obj_darksans1_606
-PUT A LITTLE MORE,/
+WŁÓŻ TROCHĘ WIĘCEJ,/
 obj_darksans1_607
-\E4"BACKBONE" INTO&IT!!!!/
+\E4"KRĘGOSŁUPA"& DO TEGO!!!!/
 obj_darksans1_608
 \E2NYEHEHEHEHEHE&HEHEHEHEHEHE!!!/%%
 obj_darksans1_609
 HEH!/%%
 obj_darksans1_644
-* ok^1, you can come out&  now./%%
+* ok^1, możesz już&  wyjść stamtąd./%%
 obj_darksans1_666
 obj_darksans1_720
-\E1* uh^1, ok^1, i guess you&  don't have to./%%
+\E1* uh^1, ok^1, najwyraźniej&  nie musisz./%%
 obj_darksans1_721
-SANS!!^1!&HAVE YOU FOUND A&HUMAN YET!??!/
+SANS!!^1!&ZNALAZŁEŚ JUŻ&JAKIEGOŚ CZŁOWIEKA!??!/
 obj_darksans1_750
-* yeah./
+* ta./
 obj_darksans1_752
-REALLY!?!^1?&WOWIE!!!/
+NAPRAWDĘ!?!^1?&WOWIE!!!/
 obj_darksans1_754
-GUESS THAT'S&SETTLED!!/%%
+W TAKIM RAZIE TO&JEST Z GŁOWY!!/%%
 obj_darksans1_755
-* that worked out^1, huh?/%%
+* to zadziałało^1, huh?/%%
 obj_darksans1_780
-* Why do I look like a weird&  black sausage^1?&* Just the angle./%%
+* Czemu wyglądam jak&  dziwna czarna kiełbaska^1?&* Po prostu perspektya./%%
 obj_darksausagenpc_72
 * As a youth^1, I would sneak&  out to play by this creepy&  flaming pit./
 obj_darksausagenpc_76
@@ -20223,202 +20223,202 @@ obj_paptv_157
 * (It says "STAY TUNED FOR&  A NEW PROGRAM - MTT.")/%%
 obj_paptv_159
 obj_paptv_160
-SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
+WIĘC^1, TAK&JAKMÓWIŁEM&O UNDYNE,/%%
 obj_papyrus1_407
-\E2SO SANS^1!&WHEN'S THE HUMAN&SHOWING UP???/
+\E2A WIĘC SANS^1!&KIEDY POJAWI&SIĘ CZŁOWIEK???/
 obj_papyrus1_411
-\E3I WANT TO LOOK&MY SUNDAY BEST.../
+\E3CHCĘ WYGLĄDAĆ&NIEDZIELNIE&NAJLEPIEJ.../
 obj_papyrus1_412
-\E0OR AT LEAST MY&TUESDAY&PRETTY-GOOD./
+\E0ALBO CHOCIAŻ&WTORKOWO DOSYĆ&DOBRZE./
 obj_papyrus1_413
-\E1* don't you only have&  one outfit?/
+\E1* czy ty nie masz&  tylko jeden strój?/
 obj_papyrus1_415
-\E2YEAH^1, BUT I COULD&STYLE MY HAIR!/
+\E2TA^1, ALE MOGĘ&WYSTILOWAĆ&MOJĄ FRYZURĘ!/
 obj_papyrus1_417
-\E0* oh^1. right^1.&* good idea./
+\E0* oh^1. racja^1.&* dobry pomysł./
 obj_papyrus1_419
-\E1* say^1, why don't you&  look over there?/%%
+\E1* powiedz^1, czemu nie&  spojrzyz o tam o?/%%
 obj_papyrus1_420
-SANS!!&OH MY GOD!!&IS THAT.../
+SANS!!&O MÓJ BOŻE!!&CZY TO.../
 obj_papyrus1_443
-A HUMAN!?!?&!??!?!/%%
+CZŁOWIEK!?!?&!??!?!/%%
 obj_papyrus1_444
 obj_papyrus1_453
-A HUMAN!?!?&!??!?!/
+CZŁOWIEK!?!?&!??!?!/
 obj_papyrus1_454
-AND IT LOOKS SO&FAMILIAR...!!!/%%
+I JESZCZE WYGLĄDA&ZNAJOMO...!!!/%%
 obj_papyrus1_455
-\E0SANS!!^1!&OH MY GOD!!!!/
+\E0SANS!!^1!&O MÓJ BOŻE!!!!/
 obj_papyrus1_459
-\E3I'M DIZZY^1.&WHAT AM I LOOKING&AT?/
+\E3NIEDOBRZE MI^1.&NA CO JA WŁAŚCIWIE&PATRZĘ?/
 obj_papyrus1_460
-\E1* behold./%%
+\E1* prezentuję./%%
 obj_papyrus1_462
-* uhhhh.../
+* uhhhhh.../
 obj_papyrus1_496
-\E1* actually^1, i think that's&  a rock./%%
+\E1* w sumie^1, to chyba&  zwykły kamień./%%
 obj_papyrus1_497
-* uhhhh..^1.&* i think it looks&  familiar.../
+* uhhhh..^1.&* dlatego wygląda&  znajomo.../
 obj_papyrus1_500
-\E1* because it's a rock?/%%
+\E1* bo to kamień?/%%
 obj_papyrus1_501
-\E0OH MY GOD!!!/%%
+\E0O MÓJ BOŻE!!!/%%
 obj_papyrus1_509
 OH^1./%%
 obj_papyrus1_532
-WHY ARE YOU&TELLING ME TO&LOOK AT A ROCK./%%
+CZEMU KAŻESZ MI&PATRZEĆ SIĘ&NA KAMIEŃ./%%
 obj_papyrus1_534
-* hey^1, what's that in&  front of the rock?/%%
+* hej^1, a co to takiego&  przed tym kamieniem?/%%
 obj_papyrus1_547
-OH MY GOD!!!/%%
+O MÓJ BOŻE!!!/%%
 obj_papyrus1_567
-(IS... IS THAT&A HUMAN)/%%
+(CZY... CZY TO&CZŁOWIEK)/%%
 obj_papyrus1_579
-I HAVE NO IDEA&WHAT THAT IS./%%
+NIE MAM POJĘCIA&CO TO JEST./%%
 obj_papyrus1_581
-(yes)/%%
+(tak)/%%
 obj_papyrus1_592
-* well^1.&* it's not a rock./%%
+* cóż^1.&* to nie kamień./%%
 obj_papyrus1_594
-OH MY GOD!!!/
+O MÓJ BOŻE!!!/
 obj_papyrus1_607
-SANS!&I FINALLY&DID IT!!/
+SANS!&W KOŃCU&TO ZROBIŁEM!!/
 obj_papyrus1_608
-UNDYNE WILL.../
+UNDYNE BĘDZIE.../
 obj_papyrus1_609
-I'M GONNA.../
+JA BĘDE.../
 obj_papyrus1_610
-I'LL BE SO.../
+JA BĘDE TAK.../
 obj_papyrus1_611
-POPULAR!!^1!&POPULAR!!^1!&POPULAR!!^1!/
+POPULARNY!!^1!&POPULARNY!!^1!&POPULARNY!!^1!/
 obj_papyrus1_612
 \E3..^1.'AHEM'/
 obj_papyrus1_613
-\E1HUMAN^1! YOU&SHALL NOT PASS&THIS AREA!/
+\E1CZŁOWIEKU^1! &NIE PRZEJDZIESZS&TĄ DROGĄ!/
 obj_papyrus1_614
-I^1, THE GREAT&PAPYRUS^1, WILL&STOP YOU!!!/
+JA^1, WIELKI PAPYRUS^1,&POWSTRZYMAM CIĘ!!!/
 obj_papyrus1_615
-I WILL THEN&CAPTURE YOU!/
+I WTEDY&CIĘ PORWĘ!/
 obj_papyrus1_616
-YOU WILL BE&DELIVERED TO&THE CAPITAL!/
+BĘDZIESZ&PRZENIESIONY&DO STOLICY!/
 obj_papyrus1_617
-THEN..^1.&THEN!!^1!/
+WTEDY..^1.&WTEDY!!^1!/
 obj_papyrus1_618
-\E3I'M NOT SURE&WHAT'S NEXT./
+\E3NIE JESTEM PEWIEN&CO WTEDY.../
 obj_papyrus1_619
-\E1IN ANY CASE!/
+\E1W KAŻDYM RAZIE!/
 obj_papyrus1_620
-CONTINUE...&ONLY IF YOU&DARE!!!/%%
+PRZEJDŹ DALEJ...&TYLKO JEŚLI&SIĘ ODWAŻYSZ!!!/%%
 obj_papyrus1_621
-\E3NOT A ROCK...?/
+\E3NIE KAMIEŃ...?/
 obj_papyrus1_624
-\E0OH NO!!^1!&BY PROCESS OF&ELIMINATION!!!/
+\E0NIENIE!!^1!&ELIMINUJĄC INNE&OPCJE.../
 obj_papyrus1_625
-\E0THAT MEANS IT'S&A HUMAN!!!/
+\E0TO ZNACZY ŻE&TO CZŁOWIEK!!!/
 obj_papyrus1_626
-\E3AHEM!^1!&HUMAN!!/
+\E3AHEM!^1!&CZŁOWIEKU!!/
 obj_papyrus1_627
-\E4PREPARE YOURSELF!^1!&FOR HIGH JINKS^1!&FOR LOW JINKS!/
+\E4PRZYGOTUJ SIĘ!^1!&NA DUŻE WYZWANIA^1!&NA MAŁE WYZWANIA!/
 obj_papyrus1_628
-DANGERS^1!&PUZZLES^1!&CAPERS^1! JAPERS!/
+NIEBEZPIECZEŃSTWA^1!&ŁAMIGÓWKI^1!&SKOCZKI I ŻARTY!/
 obj_papyrus1_629
-BEING CAPTURED!^1!&AND OTHER SORTS OF&FUN ACTIVITIES./
+BYCIE PORWANYM!^1!&I INNEGO RODZAJU&FAJNE AKTYWNOŚCI./
 obj_papyrus1_630
-REFRESHMENTS WILL&BE PROVIDED.../
+PRZEKĄSKI ZOSTANĄ&PODAROWANE.../
 obj_papyrus1_631
-IF YOU DARE!/%%
+JEŚLI SIĘ ODWAŻYSZ!/%%
 obj_papyrus1_632
 NYEH HEH HEH&HEH HEH HEH&HEH HEH!!!/%%
 obj_papyrus1_647
-* well^1, that went well./
+* cóż^1, to poszło dobrze./
 obj_papyrus1_667
-* don't sweat it^1, kid./
+* nie stresuj się^1,&  wariacie./
 obj_papyrus1_668
-\E2* i'll keep an eyesocket&  out for ya./%%
+\E2* będę miał na ciebie&  oczodoły./%%
 obj_papyrus1_669
-* ... and you don't even&  bat an eye^1, huh?/%%
+* ... a ty nie mrugniesz&  nawet okiem^1, huh?/%%
 obj_papyrus1_672
-YOU'RE SO&LAZY!!/
+JESTEŚ TAKI&LENIWY!!/
 obj_papyrus2_201
-YOU WERE&NAPPING&ALL NIGHT!!/
+DRZEMAŁEŚ&SOBIE CAŁĄ&NOC!!/
 obj_papyrus2_202
-* i think that's called.../
+* to się chyba nazywa.../
 obj_papyrus2_204
-\E1* sleeping./
+\E1* spaniem./
 obj_papyrus2_205
-EXCUSES^1,&EXCUSES!/%%
+WYMÓWKI^1,&WYMÓWKI!/%%
 obj_papyrus2_207
-REALLY THOUGH!!^1!&THAT HUMAN!!!/
+ALE SZCZERZE!!^1!&TEN CZŁOWIEK!!!/
 obj_papyrus2_213
-\E2DO I KNOW THAT&PERSON???/
+\E2DO CZY JA GO&ZNAM???/
 obj_papyrus2_214
-* do you not know.../
+* czy ty nie znasz.../
 obj_papyrus2_216
-\E1* who you know?/
+\E1* kogo znasz?/
 obj_papyrus2_217
 PBPBPPBPT!!/
 obj_papyrus2_219
-OF COURSE I KNOW&WHO I KNOW!!/
+OCZYWIŚCIĘ ŻE&ZNAM KOGO ZNAM!!/
 obj_papyrus2_220
-I WANTED TO KNOW IF&YOU KNOW.../
+CHCIAŁEM ZNAĆ&CZY TY ZNASZ.../
 obj_papyrus2_221
-I KNOW WHO I KNOW&AS MUCH AS I KNOW&I KNOW WHO I KNOW!/
+WIEM KOGO ZNAM&TAK SAMO JAK WIEM&ŻE ZNAM KOGO ZNAM!/
 obj_papyrus2_222
-\E2...YOU KNOW?/%%
+\E2...WIESZ?/%%
 obj_papyrus2_223
-OH-HO^1!&THE HUMAN&ARRIVES!/
+OHO^1!&PRZYBYWA&CZŁOWIEK!/
 obj_papyrus2_256
-OH-HO^1!&SPEAK OF THE DEVIL!/
+OHO^1!&O WILKU MOWA!/
 obj_papyrus2_259
-IN ORDER TO&STOP YOU^1.../
+W CELU^1, BY&CIĘ POWSTRZYMAĆ^1.../
 obj_papyrus2_261
-MY BROTHER AND&I HAVE CREATED&SOME PUZZLES!/
+MÓJ BRAT I&JA PRZYGOTOWALIŚMY&KILKA ZAGADEK!/
 obj_papyrus2_262
-I THINK YOU&WILL FIND&THIS ONE.../
+LICZĘ^1, ŻE&UZNASZ&JĄ ZA.../
 obj_papyrus2_263
-\E2QUITE&SHOCKING!!!/
+\E2CAŁKIEM&SZOKUJĄCĄ!!!/
 obj_papyrus2_264
-\E0FOR YOU SEE^1,&THIS IS THE&INVISIBLE.../
+\E0JAK WIDZISZ^1,&OTO NIEWIDZIALNY.../
 obj_papyrus2_265
-ELECTRICITY&MAZE!!!/
+ISKRZĄCY&LABIRYNT!!!/
 obj_papyrus2_266
-WHEN YOU TOUCH&THE WALLS OF&THIS MAZE,/
+JEŚLI DOTKNIESZ&ŚCIAN TEGO&LABIRYNTU,/
 obj_papyrus2_267
-THIS ORB WILL&ADMINISTER A&HEARTY ZAP!/
+TA KULA CIĘ&BRUTALNIE&PORAZI PRĄDEM!/
 obj_papyrus2_268
-\E2SOUND LIKE&FUN???/
+\E2BRZMI&CIEKAWIE???/
 obj_papyrus2_269
-BECAUSE!/
+PONIEWAŻ!/
 obj_papyrus2_270
-THE AMOUNT OF&FUN YOU WILL&PROBABLY HAVE,/
+BĘDZIESZ SIĘ&BAWIŁ,/
 obj_papyrus2_271
-\E3IS ACTUALLY&RATHER SMALL&I THINK./
+\E3RACZEJ SŁABO./
 obj_papyrus2_272
-\E0OK^1, YOU CAN&GO AHEAD NOW./%%
+\E0OKEJ^1, MOŻESZ JUŻ&ZACZYNAĆ./%%
 obj_papyrus2_273
-SANS!!^1!&WHAT DID YOU&DO?!?!/%%
+SANS!!^1!&COŚ TY&ZROBIŁ?!?!/%%
 obj_papyrus2_334
-* i think the human&  has to hold the orb./%%
+* wydaje mi się^1, że&  to człowiek musi&  trzymać kulę./%%
 obj_papyrus2_347
-OH^1, OKAY./%%
+OH^1, OKej./%%
 obj_papyrus2_359
-HOLD THIS PLEASE!/%%
+POTRZYMAJ TO&PROSZĘ!/%%
 obj_papyrus2_396
-OKAY^1, TRY NOW!/%%
+OKEJ^1, SPRÓBUJ TERAZ!/%%
 obj_papyrus2_430
-\E1INCREDIBLE!!&YOU SLIPPERY&SNAIL!!/
+\E1NIESAMOWITE!!&TY CHYTRY&LISIE!!/
 obj_papyrus2_452
-\E3YOU SOLVED IT&SO EASILY..^1.&TOO EASILY!/
+\E3ROZWIĄZAŁEŚ TO&TAK PO PROSTU..^1.&ZBYT PROSTO!/
 obj_papyrus2_453
-\E0HOWEVER!!/
+\E0JEDNAKŻE!!/
 obj_papyrus2_454
-THE NEXT&PUZZLE WILL&NOT BE EASY!/
+NASTĘPNA ZAGADKA&NIE BĘDZIE TAKA&ŁATWA!/
 obj_papyrus2_455
-IT IS DESIGNED&BY MY BROTHER^1,&SANS!/
+ZOSTAŁA ZAPROJETO-&WANA PRZEZ MOJEGO&BRATA^1, SANSA!/
 obj_papyrus2_456
-YOU WILL&SURELY BE&CONFOUNDED!/
+Z PEWNOŚCIĄ&BĘDZIESZ MEGA&ZAMIESZANY!/
 obj_papyrus2_457
-I KNOW I AM!/
+WIEM^1, ŻE JA JESTEM!/
 obj_papyrus2_458
 NYEH HEH HEH&HEH HEH!!/%%
 obj_papyrus2_459
@@ -20427,166 +20427,166 @@ obj_papyrus2_507
 obj_papyrus2_508
 obj_papyrus2_509
 obj_papyrus2_510
-\E5FOR YOU SEE^1,&THIS IS..^1.&THE^1, INVISIBLE.../%%
+\E5TAK JAK WIDZISZ^1,&TO JEST.^1.&UH^1, NIEWIDZIALNY.../%%
 obj_papyrus2_511
-\E5UHHHHHHH...?/
+\E5UHHHHHH...?/
 obj_papyrus2_552
-\E3HMMM..^1. YOU MUST&BE HAVING&CULTURE SHOCK./
+\E3HMMM..^1. MUSISZ BYĆ&TERAZ W KULTU-&ROWYM SZOKU./
 obj_papyrus2_553
-\E0YOU SEE^1, WHERE I&COME FROM^1, IT'S&A LOVING TRADITION./
+\E0WIDZISZ^1, STĄD^1, GDZIE&POCHODZĘ^1, TO JEST&KOCHANA TRADYCJA./
 obj_papyrus2_554
-TO SUFFER THROUGH&HORRIBLE PUZZLES&FOR NO REASON./
+ABY CIERPIEĆ PRZEZ&OKROPNE ZAGADKI&BEZ ŻADNEGO POWODU./
 obj_papyrus2_555
-\E5SO^1, UH^1, JUST&WALK BACK THERE^1,&AND.../
+\E5WIĘC^1, UH^1, PO PROSTU&WRÓC TAM I UM.../
 obj_papyrus2_556
 obj_papyrus2_557
 obj_papyrus2_601
-\E3WHY COULDN'T WE GET&A HUMAN THAT LIKES&PUZZLES???/%%
+\E3CZEMU NIE MOGLIŚMY&TRAFIĆ NA CZŁOWIEKA^1,&KTÓRY LUBI ZAGADKI???/%%
 obj_papyrus2_602
-HUMAN!!^1!&I HOPE YOU'RE&READY FOR.../%%
+CZŁOWIEKU!!^1!&MAM NADZIEJĘ^1, ŻE&JESTEŚ GOTOWY NA.../%%
 obj_papyrus3_177
-SANS!^1!&WHERE'S THE&PUZZLE!!!/
+SANS!^1!&GDZIE JEST&ZAGADKA!!!/
 obj_papyrus3_200
-* it's right there^1.&* on the ground./
+* jest dosłownie tu^1.&* na podłodze./
 obj_papyrus3_202
-\E1* trust me^1.&* there's no way they can&  get past this one./%%
+\E1* uwierz mi^1.&* nie ma opcji^1, że&  on ominie tą./%%
 obj_papyrus3_203
-\E1* trust me^1.&* there's no way they'll&  skip this one./%%
+\E1* uwierz mi^1.&* nie ma opcji^1, że będzie&  w stanie ominąć tą./%%
 obj_papyrus3_206
-WHAT THE HECK!!^1!&THEY DIDN'T SKIP&IT!?!?/
+CO DO LICHA!!^1!&NIE POMINĄŁ&JEJ!?!?/
 obj_papyrus3_245
-* i'm tellin' ya^1.&* everyone likes word&  searches./
+* mówię ci^1.&* każdy lubi&  wykreślanki./
 obj_papyrus3_247
 obj_papyrus3_249
-I CAN'T WORK IN&THIS ENVIRONMENT!!/%%
+NIE MOGĘ PRACOWAĆ&W TYCH WARUNKACH!!/%%
 obj_papyrus3_250
-SANS!!^1!&THAT DID NOTHING!!!/
+SANS!!^1!&TO NIC NIE ZROBIŁO!!!/
 obj_papyrus3_254
 obj_papyrus3_256
-\E2* knew i should have&  put down junior jumble&  instead./
+\E2* wiedziałem^1, że&  powinienem był w zamian&  użyć krzyżówki./
 obj_papyrus3_257
-WHAT?!^1?&JUNIOR JUMBLE!?/
+CO?!^1?&KRZYŻÓWKI!?/
 obj_papyrus3_259
-\E0FINALLY^1, SOMETHING&WE CAN BOTH&AGREE ON./%%
+\E0W KOŃCU^1, COŚ NA CO&OBYDWOJE MOŻEMU&SIĘ ZGODZIĆ./%%
 obj_papyrus3_260
 obj_papyrus4_209
 obj_papyrus4_210
 obj_papyrus4_211
-IT WAS MADE&BY THE GREAT.../%%
+ZOSTAŁO STWORZONE&PRZEZ.../%%
 obj_papyrus4_212
-\E3... ARE YOU&SERIOUS?/
+\E3... TY TAK&NA POWAŻNIE?/
 obj_papyrus4_405
-\E1SANS!!^1!&HELP!!!/
+\E1SANS!!^1!&POMOCY!!!/
 obj_papyrus4_406
-THEY KEEP WALKING&THROUGH MY PUZZLES!/
+ON CIĄGLE POMIJA&MOJE PUZLE!/
 obj_papyrus4_407
-\E3THEY'RE SUPPOSED&TO LET ME&EXPLAIN THEM./
+\E3ON POWINIEN BYŁ MI&POZWOLIĆ WYTŁUMACZYĆ&ZASADY PUZZLI./
 obj_papyrus4_408
-\E0THEN THREATEN AND&BAFFLE THEM WITH&DANGEROUS JAPES./
+\E0A POTEM IM POGROZIĆ&NIEŚMIESZNYMI&ŻARCIKAMI./
 obj_papyrus4_409
-* well^1, maybe they&  don't like japes./
+* cóż^1, może on nie&  ma poczucia humoru./
 obj_papyrus4_411
-EVERYONE LIKES&JAPES!!!/
+KAŻDY LUBI&ŻARTY!!!/
 obj_papyrus4_413
-* what about undyne^1?&* doesn't she hate&  puzzles?/
+* a co z undyne^1?&* czyż ona&  nienawidzi puzzli?/
 obj_papyrus4_415
-SHE HATES PUZZLES^1.&BUT SHE LOVES&JAPES./
+NIENAWIDZI PUZZLI^1.&ALE KOCHA ŻARTY./
 obj_papyrus4_417
-* that makes sense./
+* to ma sens./
 obj_papyrus4_419
-HUMAN!^1!&WHAT DO YOU&THINK!?/
+CZŁOWIEKU!^1!&CO O TYM&MYŚLISZ!?/
 obj_papyrus4_421
-PUZZLES OR JAPES?/
+PUZZLE CZY ŻARTY?/
 obj_papyrus4_422
 obj_papyrus4_423
 obj_papyrus4_424
-OKAY^1, THIS IS&NORMALLY THE&PART./
+OKEJ^1, TO JEST&NORMALNIE CZĘŚĆ./
 obj_papyrus4_425
-WHERE YOU EITHER&AGREE OR DISAGREE./
+W KTÓREJ ZGADZASZ&SIĘ ALBO NIE./
 obj_papyrus4_426
-AND DEPENDING ON&YOUR ANSWER./
+I ZALEŻNIE OD&TWOJEJ DECYZJI./
 obj_papyrus4_427
-\E0WE SAY SOMETHING&GREAT IN RESPONSE./
+\E0MY MÓWIMY COŚ&ŚWIETNEGO W&ZAMIAN./
 obj_papyrus4_428
 obj_papyrus4_429
-\E0HERE^1, WHY DON'T&YOU DO THIS&PUZZLE YOURSELF./%%
+\E0DOBRA^1, MOŻE ROZWIĄ-&ŻESZ TĄ ZAGADKĘ&SAMODZIELNIE./%%
 obj_papyrus4_430
-HUMAN!/
+CZŁOWIEKU!/
 obj_papyrus5_209
-\E3HMMM..^1.&HOW DO I SAY&THIS.../
+\E3HMMM..^1.&JAKBY TO&POWIEDZIEĆ.../
 obj_papyrus5_210
-\E0YOU WERE TAKING A&LONG TIME TO&ARRIVE^1, SO.../
+\E0ZAJĘŁO CI TO&DUŻO CZASU^1, BY&PRZYBYĆ^1, WIĘC.../
 obj_papyrus5_211
-I DECIDED TO&IMPROVE THIS&PUZZLE.../
+POSTANOWIŁEM&ULEPSZYĆ TĄ&ZAGADKĘ.../
 obj_papyrus5_212
-BY ARRANGING THE&SNOW TO LOOK MORE&LIKE MY FACE./
+POPRZEZ UFORMOWANIE&ŚNIEGU^1, BY PRZYPOMINAŁ&MOJĄ TWARZ./
 obj_papyrus5_213
-\E3UNFORTUNATELY^1,&THE SNOW FROZE&TO THE GROUND./
+\E3NIESTETY^1,&ŚNIEG PRZYMARZŁ&DO PODŁOŻA./
 obj_papyrus5_214
-\E1NOW THE SOLUTION&IS DIFFERENT!/
+\E1TERAZ ROZWIĄZANIE&JEST INNE!/
 obj_papyrus5_215
-AND^1,AS USUAL^1, MY&LAZY BROTHER IS&NOWHERE AROUND./
+I^1, JAK ZWYKLE^1, MÓJ&LENIWY BRAT JEST&NIGDZIE W POBLIŻU./
 obj_papyrus5_216
-\E3I SUPPOSE WHAT&I AM SAYING&IS.../
+\E3ZAKŁADAM ŻE TO^1,&CO CHCĘ POWIEDZIEĆ&TO.../
 obj_papyrus5_217
-\E0WORRY NOT^1, HUMAN!/
+\E0NIE OBAWIAJ SIĘ^1,&CZŁOWIEKU!/
 obj_papyrus5_218
-I^1, THE GREAT&PAPYRUS^1, WILL SOLVE&THIS CONUNDRUM!/
+JA^1, WIELKI PAPYRUS^1,&MOŻEMY ROZWIĄZAĆ&TEN DYLEMAT!/
 obj_papyrus5_219
-THEN WE CAN BOTH&PROCEED!/
+WTEDY BĘDZIEMY&MOGLI OBYDWOJE&KONTYNUOWAĆ!/
 obj_papyrus5_220
-MEANWHILE^1, FEEL&FREE TO TRY THE&PUZZLE YOURSELF!/
+W MIĘDZYCZASIE^1, CZUJ&SIĘ WOLNY DO ROZWIĄ-&ZANIA ZAGADKI SAM!/
 obj_papyrus5_221
-I'LL TRY NOT TO&GIVE AWAY THE&ANSWER!!!/%%
+POSTARAM SIĘ&NIE PODAWAĆ&ROZWIĄZANIA!!!/%%
 obj_papyrus5_222
-WOW!!^1!&YOU SOLVED IT!!/
+WOW!!^1!&ROZWIĄZAŁEŚ TO!!/
 obj_papyrus5_281
-AND YOU DID IT&ALL WITHOUT MY&HELP.../
+I ZROBIŁEŚ TO&WSZYSTKO BEZ&MOJEJ POMOCY.../
 obj_papyrus5_282
-MY ADVICE HELPED^1!&IT REALLY HELPED&YOU!!/
+MOJA RADA POMOGŁA^1!&NAPRAWDĘ CI&POMOGŁA!!/
 obj_papyrus5_283
-INCREDIBLE^1!&I'M IMPRESSED!!/
+WSPANIAŁE^1!&JESTEM POD&WRAŻENIEM!!/
 obj_papyrus5_289
-YOU MUST CARE&ABOUT PUZZLES&LIKE I DO!/
+MUSISZ KOCHAĆ&ŁAMIGÓWKI TAK MOCNO&JAK JA!/
 obj_papyrus5_290
-WELL^1, I'M SURE&YOU'LL LOVE THE&NEXT PUZZLE THEN!/
+CÓŻ^1, JESTEM PEWNY&ŻE POKOCHASZ&TĄ ŁAMIGÓWKĘ!/
 obj_papyrus5_291
-IT MIGHT EVEN&BE TOO EASY FOR&YOU!!/
+TO MOŻE BYĆ NAWET&ZBYT ŁATWE DLA&CIEBIE!!/
 obj_papyrus5_292
 NYEH^1!&HEH HEH^1!&HEHEHEH!!!/%%
 obj_papyrus5_293
-HUMAN!/%%
+CZŁOWIEKU!/%%
 obj_papyrus6_138
 obj_papyrus7_156
-THIS IS YOUR FINAL&AND MOST DANGEROUS&CHALLENGE!/
+TO TWOJE FINALNE&I NAJBARDZIEJ NIEBEZ-&PIECZNE WYZWANIE!/
 obj_papyrus7_157
-BEHOLD^1!&THE GAUNTLET OF&DEADLY TERROR!/%%
+STRZEŻ SIĘ^1!&OTO RĘKAWICA ŚMIER-&TELNEGO TERRORU!/%%
 obj_papyrus7_158
-WHEN I SAY THE&WORD^1, IT WILL&FULLY ACTIVATE!!!/
+KIEDY TYLKO WYPOWIEM&SŁOWO^1, TO SIĘ W&PEŁNI URUCHOMI!!!/
 obj_papyrus7_194
-CANNONS WILL FIRE^1!&SPIKES WILL SWING^1!&BLADES WILL SLICE^1!/
+ARMATY WYSTRZELĄ^1!&KOLCZATKI PRZELECĄ^1!&OSTRZA BĘDĄ CIACHAĆ^1!/
 obj_papyrus7_195
-EACH PART WILL&SWING VIOLENTLY&UP AND DOWN!/
+KAŻDA CZĘŚĆ BĘDZIE SIĘ&HUŚTAĆ NIEMIŁOSIERNIE&W GÓRĘ I W DÓŁ!/
 obj_papyrus7_196
-ONLY THE TINIEST&CHANCE OF VICTORY&WILL REMAIN!!!/
+POZOSTANIE&NAJMNIEJSZA SZANSA&PRZETRWANIA!!!/
 obj_papyrus7_197
-ARE YOU READY!?/
+JESTEŚ GOTOWY!?/
 obj_papyrus7_198
 obj_papyrus7_199
-I!/
+JA!/
 obj_papyrus7_200
-AM!/
+ZARAZ!/
 obj_papyrus7_201
-ABOUT!/
+TO!/
 obj_papyrus7_202
-TO DO IT!/%%
+ZROBIĘ!/%%
 obj_papyrus7_203
 obj_papyrus7_221
-* well^1?&* what's the holdup?/
+* cóż^1?&* co to za pauza?/
 obj_papyrus7_222
-HOLDUP!^1?&WHAT HOLDUP!?/
+PAUZA!^1?&JAKA PAUZA!?/
 obj_papyrus7_224
-I'M..^1.&I'M ABOUT TO&ACTIVATE IT NOW!/%%
+JA..^1.&WŁAŚNIE TO&URUCHAMIAM!/%%
 obj_papyrus7_225
 obj_papyrus7_244
 * that^1, uh^1, doesn't look&  very activated./
@@ -23647,17 +23647,17 @@ obj_sans_friendc_155
 obj_sans_friendc_157
 \E2* i know^1, and it's&  taking all my&  concentration./%%
 obj_sans_friendc_159
-* you oughta get going^1.&* he might come back^1.&* and if he does.../
+* lepiej już idź^1.&* on może powrócić^1.&* a jeśli powróci.../
 obj_sans_interactable1_68
-\E2* ... you'll have to&  sit through more of&  my hilarious jokes./%%
+\E2* ... będziesz musiał&  wysłuchać więcej&  moich śmiesznych żartów./%%
 obj_sans_interactable1_69
-* what's the holdup^1?&* look^1, there's nothin&  to be afraid of./
+* co to za wstrzymanie^1?&* słuchaj^1, nie ma niczego&  do obawiania się./
 obj_sans_interactable1_74
-\E2* it's just a dark cavern&  filled with skeletons&  and horrible monsters./%%
+\E2* to tylko ciemna jaskinia&  wypełniona szkieletami&  i okrutnymi potworami./%%
 obj_sans_interactable1_75
-* well?/%%
+* cóż?/%%
 obj_sans_interactable1_79
-* ... are you just gonna&  stare at me^1, or...?/%%
+* ... będziesz tak po&  prostu gapił się&  na mnie^1, czy...?/%%
 obj_sans_interactable1_85
 * grievous error/%%
 obj_sans_prefinaldate_127
@@ -24102,31 +24102,31 @@ i'm going to&grillby's./%%
 obj_sansb_body_2540
 papyrus^1, do you&want anything?/%%
 obj_sansb_body_2574
-* actually^1, hey..^1.&* hate to bother ya^1, but&  can you do me a favor?/
+* w sumie^1, hej..^1.&* nie chcę cię trzymać^1,& ale zrobisz coś dla mnie?/
 obj_sansbyetrigger_124
-* i was thinking..^1.&* my brother's been&  kind of down lately.../
+* myślałem sobie..^1.&* mój brat się czuł trochę&  przytłoczony ostatnio.../
 obj_sansbyetrigger_125
-* he's never seen a human&  before^1. and seeing you&  might just make his day./
+* nigdy jeszcze nie widział&  ludzi wcześniej^1. i widząc&  cię może mu zrobić dzień./
 obj_sansbyetrigger_126
-* don't worry^1, he's not&  dangerous./
+* nie martw się^1, on nie& jest niebezpieczny./
 obj_sansbyetrigger_127
-\E1* even if he tries to be./
+\E1* nawet jeśli próbuje być./
 obj_sansbyetrigger_128
-\E0* thanks a million^1.&* i'll be up ahead./%%
+\E0* dzięki wielkie^1.&* będę przed tobą./%%
 obj_sansbyetrigger_129
-\E0* well^1, i'll be straight-&  forward with you./
+\E0* cóż^1, będę zupełnie&  szczery z tobą./
 obj_sansbyetrigger_132
-\E1* my brother'd really&  like to see a human.../
+\E1* mój brat naprawdę&  chciałby zobaczyć&  człowieka.../
 obj_sansbyetrigger_133
-\E2* so^1, y'know^1, it'd&  really help me out.../
+\E2* więc^1, no wiesz^1, to by&  naprawdę mi pomogło.../
 obj_sansbyetrigger_134
-\E1* if you kept pretending&  to be one./%%
+\E1* gdybyś dalej udawał&  bycie jednym./%%
 obj_sansbyetrigger_135
-* It's some sort of checkpoint&  or sentry-station./
+* To jakiegoś rodzaju&  checkpoint czy&  stacyjka./
 obj_sanscheckpoint_98
-* But there are bottles of&  ketchup^1, mustard^1, and relish&  sitting inside.../%%
+* Ale tu są butelki&  ketchupu^1, musztardy^1, i&  inne smaki w środku.../%%
 obj_sanscheckpoint_99
-* well^1, here we are./%%
+* cóż^1, oto jesteśmy./%%
 obj_sansdate3_116
 * so./
 obj_sansdate3_124
@@ -25543,81 +25543,81 @@ obj_shyrenstrewn_60
 obj_shyrenstrewn_61
 * Targ Pajęczych Wypieków&* Wszystkie środki przekazywane&  są prawdziwym pająkom./%%
 obj_sign_room_66
-* (This is a box.)/
+* (To jest pudło.)/
 obj_sign_room_90
-* (You can put an item&  inside or take an item&  out.)/
+* (Możesz włożyć item do środka&  albo wyjąć.)/
 obj_sign_room_91
-* (The same box will appear&  later^1, so don't worry&  about coming back.)/
+* (To samo pudło pojawi się&  później^1, więc nie obawiaj się&  o konieczność powrotu.)/
 obj_sign_room_92
-* (Sincerely^1, a box lover.)/%%
+* (Miłosiernie^1,&  miłośnik pudeł.)/%%
 obj_sign_room_93
-* (Absolutely NO MOVING!!!)/%%
+* (Absolutnie ZERO&   PORUSZANIA SIĘ!!!)/%%
 obj_sign_room_97
-* North: Ice&* South: Ice&* West: Ice/
+* Północ: Lód&* Południe: Lód&* Zachód: Lód/
 obj_sign_room_101
-* East: Snowdin Town/
+* Wschód: Snowdin Town/
 obj_sign_room_102
-* (... and ice)/%%
+* (... i więcej lodu)/%%
 obj_sign_room_103
 obj_sign_room_107
 obj_sign_room_108
 obj_sign_room_109
 * SMELL DANGER RATING/
 obj_sign_room_113
-\W* Snow Smell - Snowman&  WHITE Rating&  Can become \YYELLOW\W Rating/
+\W* Zapach Śniegu - Bałwan&  Biały Rating^1, Może się zmienić&  na \YŻÓŁTY\W Rating/
 obj_sign_room_114
-\W* Unsuspicious Smell - Puppy&  \BBLUE\W Rating&  Smell of rolling around./
+\W* Niepodejrzliwy Zapach - Piesio&  \BNIEBIESKI\W Rating&  Zapach tarzania się w śniegu./
 obj_sign_room_116
-\W* Weird Smell - Humans&  \RGREEN\W Rating&  Destroy at all costs!/%%
+\W* Dziwny Zapach - Ludzie&  \RZIELONY\W Rating&  Zniszczyć za wszelką cenę!/%%
 obj_sign_room_117
-* Warning:&  Dog Marriage/%%
+* Uwaga:&  Psi Ślub/%%
 obj_sign_room_119
-* (Yes^1, you read that correctly.)/%%
+* (Tak^1, dobrze przeczytałeś.)/%%
 obj_sign_room_120
-* Turn every X into an O^1.&* Then press the switch./%%
+* Zamień każdy X na O^1.&* Wtedy naciśnij przełącznik./%%
 obj_sign_room_121
-* AWARE OF DOG&* pleas pet dog/%%
+* UWAGA PIES&* prose pogłaskać psa/%%
 obj_sign_room_123
 * (Woof.)/%%
 obj_sign_room_124
-* (You will not slide on&  an X^1, O^1, or triangle.)/%%
+* (Nie poślizgniesz się na&  X^1, O^1, ani trójkącie.)/%%
 obj_sign_room_126
 obj_sign_room_130
-* (You can put an item in&  or take an item out.)/
+* (Możesz włożyć item do&  środka albo wyjąć.)/
 obj_sign_room_131
-* (Why would you^1, though^1???)&* (You can't use items&  when they're in the box!)/
+* (Czemu byś to zrobił^1, tho^1???)&* (Nie możesz używać itemów&  kiedy są w pudle!)/
 obj_sign_room_132
-* (Sincerely^1, a box hater.)/%%
+* (Bezlitośnie^1, hejter pudeł.)/%%
 obj_sign_room_133
-* Congratulations!/
+* Kongratulacje!/
 obj_sign_room_145
-* You failed the puzzle!/%%
+* Nie rozwiązałeś zagadki!/%%
 obj_sign_room_146
-* It's a crystal^1.&* You've never seen one&  like this before./%%
+* To kryształ^1.&* Jeszcze nigdy takiego kryształu&  nie widziałeś./%%
 obj_sign_room_151
-* (Please take one.)/%%
+* (Proszę weź jedno.)/%%
 obj_sign_room_156
-* North: Blook Acres&* East: Hotland&* ???: Temmie Village/%%
+* Północ: Działki Blooka&* Wschód: Hotland&* ???: Temmie Village/%%
 obj_sign_room_163
-* (Don't want to walk to the&  other side of town?)/
+* (Ni chcesz iść do&  drugiej strony miasta?)/
 obj_sign_room_207
-* (Try the undersnow tunnels^1!)&* (They're efficiently laid out.)/%%
+* (Spróbuj zaśnieżone tunele^1!)&* (Są wydajnie rozłożone.)/%%
 obj_sign_room_208
-* hOI!^1!&* welcom to..^1.&* TEM VILLAGE!!!/%%
+* hOI!^1!&* witoj w..^1.&* WIOSCE TEMÓW!!!/%%
 obj_sign_room_220
 * hOI!^1!&* u shud check out..^1.&* TEM SHOP!!!/%%
 obj_sign_room_221
 * yaYA!^1! i AGREES!^1!&* shud check..^1.&* TEM SHOP!!!/%%
 obj_sign_room_222
-* Learning how to draw^1?&* Come to the Art Lessons on&  the second floor!/
+* Uczysz się rysowania^1?&* Chodź na lekcje sztuki&  na drugim piętrze!/
 obj_sign_room_227
-* Located in a similar place./%%
+* Zlokalizowane w&  podobnym miejscu./%%
 obj_sign_room_228
-* (Seems busy.)/%%
+* (Wydaje się zajęty.)/%%
 obj_slimejanitor_73
-* (Trying to finish up work.)/%%
+* (Próbuje skończyć dzieło.)/%%
 obj_slimejanitor_77
-* (Futility setting in.)/%%
+* (Wprowadzanie daremności.)/%%
 obj_slimejanitor_82
 * (Małe krzesło Toriel.)&* (Nazywa się Krzesłoriel.)/%%
 obj_smallchair_55
@@ -25674,94 +25674,94 @@ obj_smallfrog_99
 obj_smallfrog_100
 obj_smallfrog_105
 obj_smallfrog_106
-* (Normally^1, she carries&  groceries out of here.)/
+* (Normalnie^1, ona nosi&  tutaj zakupy.)/
 obj_smallfrog_107
-* (But this time^1, she wasn't&  carrying anything.)/
+* (Ale tym razem^1, ona&  nic nie nosiła.)/
 obj_smallfrog_108
-* (She looked disappointed.^1)&* Ribbit./%%
+* (Wyglądała na zawiedzioną.^1)&* Kum./%%
 obj_smallfrog_109
-* Ribbit ribbit^1.&* (I heard using "F4" can make&  you have a "full screen.")/
+* Kum kum^1.&* (Słyszałem, że używanie "F4"&  może ci dać "pełny ekran.")/
 obj_smallfrog_117
-* (But what does "F4" stand for?^1)&* ("Four frogs"?)/
+* (Ale co znaczy "F4"?^1)&* ("Cztery Froggity"?)/
 obj_smallfrog_118
-* (I have only seen a maximum of&  three frogs in this room...)/
+* (Widziałem maksymalnie&  trzy żaby w tym pokoju...)/
 obj_smallfrog_119
-* (This is troubling^1, to say&  the least.^1)&* Ribbit./%%
+* (To jest kłopotliwe^1,&  delikatnie mówiąc.^1)&* Kum./%%
 obj_smallfrog_120
-* Ribbit ribbit^1.&* (I heard using "Borders" can&  add some color to the world.)/
+* Kum kum^1.&* (Słyszałem że "bordery" mogą&  dodać trochę barw do świata.)/
 obj_smallfrog_117_console
-* (It seems you can choose&  them in the "Settings" menu&  before you load your game.)/
+* (Wydaje się^1, że możesz je&  włączyć w zakładce "Ustawienia"&  zanim załadujesz grę.)/
 obj_smallfrog_118_console
-* (However, there isn't a&  frog-themed border.)/
+* (Jednak, nie ma&  żabiego bordera.)/
 obj_smallfrog_119_console
-* (So it's just pointless.^1)&* Ribbit./%%
+* (Więc to jest bezużyteczne.^1)&* Smutne kum./%%
 obj_smallfrog_120_console
-* Ribbit ribbit^1.&* (Did you ever find this&  room's fourth frog?)/%%
+* Kum kum^1.&* (Znalazłeś kiedykolwiek&  czwartego żabca w tym pokoju?)/%%
 obj_smallfrog_124
-* Ribbit ribbit^1.&* (Yellow names were nice for&  a while.)/
+* Kum kum^1.&* (Żółte nazwy były przyjemne&  przez jakiś czas.)/
 obj_smallfrog_140
-* (Next time^1, we should try a&  relaxing shade of green.)/%%
+* (Następnym razem^1,&  powinniśmy spróbować&  relaksujące odcienie zieleni.)/%%
 obj_smallfrog_141
-* Ribbit ribbit^1.&* (How was your adventure?)/
+* Kum kum^1.&* (Jak ci minęła przygoda?)/
 obj_smallfrog_145
-* (It must have been difficult&  without being able to tell&  the enemy's feelings.)/%%
+* (Musiało być ciężko nie&  będąc w stanie czuć&  emocji wroga.)/%%
 obj_smallfrog_146
-* Ribbit ribbit^1.&* (Finally^1, we can all remove&  these aging pink names.)/
+* Ribbit ribbit^1.&* (W końcu^1, możemy wszyscy&  wyrzucić te różowe nazwy.)/
 obj_smallfrog_150
-* (Everyone gave you a big favor&  today.^1)&* (Try to respect that!)/%%
+* (Każdy wyświadczył ci&  dużą przysługę dzisiaj.^1)&* (Spróbuj to uszanować!)/%%
 obj_smallfrog_151
-* Ribbit^1, ribbit^1.&* (Sigh...)/
+* Kum^1, kum^1.&* (Wzdech...)/
 obj_smallfrog_xadvice_59
-* (My friend never listens to&  me.)/
+* (Mój przyjaciel nigdy&  się mnie nie słucha.)/
 obj_smallfrog_xadvice_60
-* (Whenever I talk^1, they skip&  through my words by pressing&  \*X.)/
+* (Zawsze kiedy mówię^1, oni& skipują przez moje słowa&  naciskając \*X.)  :</
 obj_smallfrog_xadvice_61
-* (That's right.......^1)&* (Pressing \*X............^1)&* (................)/
+* (Zgadza się.......^1)&* (Naciskanie \*X............^1)&* (................)/
 obj_smallfrog_xadvice_62
-* (Well^1, at least you listen&  to me.)/%%
+* (Cóż^1, przynajmniej ty&  mnie słuchasz.)/%%
 obj_smallfrog_xadvice_63
-* Ribbit^1, ribbit^1.&* (Say...)/
+* Kum^1, kum^1.&* (Powiedz...)/
 obj_smallfrog_xadvice_67
-* (Now that your journey's&  over^1, maybe you'll have&  time to listen to me.)/
+* (Teraz jako że twoja przygoda&  dobiegła końca^1, może będziesz&  miał czas na wysłuchanie mnie.)/
 obj_smallfrog_xadvice_68
-* (Since most people just&  press \*X to skip through&  my dialogue.)/
+* (Jako że większość osób&  naciska \*X by skipować&  moje dialogi.)/
 obj_smallfrog_xadvice_69
 obj_smallfrog_xadvice_70
-* (You've really matured^1,&  haven't you?)/%%
+* (Naprawdę dojrzałeś^1,&  czyż nie?)/%%
 obj_smallfrog_xadvice_71
-* (Oh^1, not you too!)/%%
+* (Oh^1, nie ty też!)/%%
 obj_smallfrog_xadvice_150
-* (... I suppose some things&  never change.)/%%
+* (... Przypuszczam^1, że&  niektóre rzeczy nigdy&  się nie zmieniają.)/%%
 obj_smallfrog_xadvice_153
-* (It's a spider web.)/
+* (To pajęczyna.)/
 obj_smallweb_64
-* (There's a flyer for a&  bake sale on it.)/%%
+* (Na niej jest ulotka na&  wyprzedaż pieczeni.)/%%
 obj_smallweb_65
-* (Someone has meticulously&  cleaned all the slime off of&  this snail.)/%%
+* (Ktoś skrupulatnie&  wyczyścił cały śluz&  z tego ślimaka.)/%%
 obj_snail2_70
-* (The snail has covered&  itself in slime again...^1)&* (Happy ending...)/%%
+* (Ślimak pokrył się&  znów śluzem...^1)&* (Wesołe zakończenie...)/%%
 obj_snail2_73
-* (This snail is counting dollar&  bills.)/%%
+* (Ten ślimak liczy&  banknoty.)/%%
 obj_snail3_70
-* (Using its money^1, the&  snail bought a hat.)/%%
+* (Używając jego pieniędzy^1,&  ślimak kupił czapkę.)/%%
 obj_snail3_73
-* I've been long overdue for&  a second house.../%%
+* Czekam na drugi dom&  już od dawna.../%%
 obj_snailguy_70
-* The housing market will&  probably crash now./
+* Agencja sprzedaży domów&  pewnie niedługo upadnie./
 obj_snailguy_73
-* But you know^1, home&  is where the heart is./%%
+* Ale wiesz^1, dom jest&  tam^1, gdzie twe serce./%%
 obj_snailguy_74
-* (It looks like a snow ball...)/
+* (Wygląda na śnieżkę...)/
 obj_snowdecahedron_102
-* (Actually^1, it's a&  snowdecahedron.)/%%
+* (Rzeczywiście^1, to&  śniegodziesięciościan.)/%%
 obj_snowdecahedron_103
-* (It's a snow ball.)/%%
+* (To śnieżka.)/%%
 obj_snowdecahedron_104
-* (Welcome to Snowdin Town!)/%%
+* (Witaj w Snowdin Town!)/%%
 obj_snowdinlogo_70
-"Ice"&to meet&you.
+"Zimno"&cię&poznać.
 obj_snowdrake_248
-Ice puns&are&"snow"&problem
+Śnieżne&gry&słów są&świetne
 obj_snowdrake_249
 Fights&you in&"cold"&blood.
 obj_snowdrake_250
@@ -25831,7 +25831,7 @@ obj_snowdrake_514
 obj_snowdrake_515
 * Snowdrake is flaking&  apart.
 obj_snowdrake_516
-* SNOWDRAKE - ATK 12 DEF 7&* This teen comedian fights to&  keep a captive audience./^
+* SNOWDRAKE - ATK 12 DEF 7&* Ten nieletni komik utrzymuje&  stałą widownię./^
 obj_snowdrake_533
 * You boo the Snowdrake./^
 obj_snowdrake_542
@@ -25852,132 +25852,132 @@ obj_snowdrake_570
 obj_snowdrake_571
 * I'm the resort comedian.&* I'm very funny^1.&* People laugh at my jokes./
 obj_snowdrakedad_75
-* Now^1, my son^1.&* He wants to be a comedian&  like his fathah./
+* Słuchaj^1, mój syn^1.&* Chce być komikiem&  jak jego papa./
 obj_snowdrakedad_76
-* But his jokes^1.&* Aren't funny./
+* Ale jego żarty^1.&* Nie są śmieszne./
 obj_snowdrakedad_77
-* He tells these awful puns^1.&* He's an embarrassment to&  our family./
+* On robi te krindżowe gry słów^1.&* Przynosi wstyd całej rodzinie./
 obj_snowdrakedad_78
 obj_snowdrakedad_79
-* That's not funny./
+* To nie jest śmieszne./
 obj_snowdrakedad_80
-* Since his mothah passed on^1,&  he couldn't stand^1.&* Living at home anymore./
+* Odkąd jego matka znikła^1,&  on nie mógł znieść^1.&* Mieszkanie w domu./
 obj_snowdrakedad_81
-* So he ran away^1.&* I haven't seen him since./
+* Więc uciekł^1.&* Nie widziałem&  go do dzisiaj./
 obj_snowdrakedad_82
-* I'm a terrible fathah^1.&* Ha ha ha ha.../
+* Jestem okropnym ojcem^1.&* Ha ha ha ha.../
 obj_snowdrakedad_83
-* That's not funny./%%
+* To nie jest śmieszne./%%
 obj_snowdrakedad_84
-* Talking to you about&  this..^1.&* It's breakin' my heart./
+* Rozmawianie z tobą&  o tym..^1.&* Łamie mi serce./
 obj_snowdrakedad_87
 obj_snowdrakedad_88
 obj_snowdrakedad_89
-* The doctah^1.&* She brought my wife.&* Back from the dead./
+* Lekorz^1.&* Przywrócił mi żonę.&* Spowrotem od zmarłych./
 obj_snowdrakedad_94
-* My son^1.&* He seems happy again./
+* Mój syn^1.&* Wydaje się znów szczęśliwy./
 obj_snowdrakedad_95
-* Our family^1.&* It's biggah than evah./
+* Nasza rodzina^1.&* Jest większa niż&  kiedykolwiek była./
 obj_snowdrakedad_96
-* Now that my wife^1.&* Is combined^1.&* With 16 othah people./%%
+* Teraz jako że moja żona^1.&* Jest połączona^1.&* Z 16 innymi osobami./%%
 obj_snowdrakedad_97
-* My boss stopped answering my&  calls./
+* Mój szef przestał&  odbierać moje połączenia./
 obj_snowdrakedad_102
-* I don't know when my next&  performance will be./
+* Nie wiem kiedy mój&  następny występ się&  odbędzie./
 obj_snowdrakedad_103
-* Maybe I shouldn't try to be&  a comedian anymore.../
+* Może nie powinienem się już&  starać byciem komikiem.../
 obj_snowdrakedad_104
-* It's tearing my family apart./%%
+* To rozdziera moją rodzinę./%%
 obj_snowdrakedad_105
-* My son..^1.&* He was always making these&  weird ice puns./
+* Mój syn..^1.&* On zawsze robił te&  dziwne śnieżne gry słów./
 obj_snowdrakedad_110
-* I hated them^1, so he ran&  away from home.../
+* Nienawidziłem je^1, więc on&  uciekł z domu.../
 obj_snowdrakedad_111
-* I think I should try to&  patch things up with him./
+* Myślę^1, że powinienem&  poukładać z nim relację./
 obj_snowdrakedad_112
-* Have you seen him^1?&* Have you seen my son?/%%
+* Widziałeś go^1?&* Widziałeś mojego syna?/%%
 obj_snowdrakedad_113
- sn...& o...& wy...
+ zi...& m...& no...
 obj_snowdrakemom_158
- haha...& i...& remem..&  ber...
+ haha...& ja...& pamię..&  tam...
 obj_snowdrakemom_165
- haha...& thank...& you...
+ haha...& dzię...& kuję...
 obj_snowdrakemom_167
 obj_snowdrakemom_173
-* It's so cold.
+* Jest mi tak zimno.
 obj_snowdrakemom_387
 obj_snowdrakemom_388
 obj_snowdrakemom_389
 obj_snowdrakemom_390
-* Smells like salty slush.
+* Pachnie jak słona breja.
 obj_snowdrakemom_391
-* Seems calmed down.
+* Wydaje się uspokoić.
 obj_snowdrakemom_392
 obj_snowdrakemom_393
-* AMALGAMATE - ATK -12 DEF -5&* Seems like it's losing itself./^
+* AMALGAMAT - ATK -12 DEF -5&* Wydaje się^1, jakby to&  traciło swoją formę./^
 obj_snowdrakemom_426
-* You laugh^1, and keep laughing^1.&* It's SO funny^1, you can't stop^1.&* Tears run down your face./
+* Śmiejesz się^1, coraz głośniej^1.&* To TAKIE śmieszne^1, nie możesz&  przestać^1. Łzy ci lecą po twarzy.
 obj_snowdrakemom_435
-* ... what^1?&* You didn't do that?/^
+* ... co^1?&* Nie zrobiłeś tego?/^
 obj_snowdrakemom_436
-* But it's not funny./^
+* Ale to nie jest śmieszne./^
 obj_snowdrakemom_439
-* You said something like..^1.&* "You look horrible.^1"&* "Why are you even alive?^1"/
+* Powiedziałeś coś typu..^1.&* "Wyglądasz obrzydliwie.^1"&* "Czemu ty jeszcze żyjesz?^1"/
 obj_snowdrakemom_451
-* ... what^1?&* You didn't say that?/^
+* ... co^1?&* Nie powiedziałeś tego?/^
 obj_snowdrakemom_452
-* You call this a performance?/^
+* Nazywasz to przedstawieniem?/^
 obj_snowdrakemom_455
-* You told a bad pun about&  snow^1.&* Her expression starts to shift./^
+* Powiedziałeś słaby żart śnieżny^1&* Jej wyraz twarzy zaczyna&  się zmieniać./^
 obj_snowdrakemom_467
-* You told a bad pun about&  snow^1.&* Her expression changes more./^
+* Powiedziałeś słaby żart śnieżny^1&* Jej wyraz twarzy się zmienia&  jeszcze bardziej./^
 obj_snowdrakemom_469
-* You told a bad pun about&  snow^1.&* She's completely calmed down./^
+* Powiedziałeś słaby żart śnieżny^1&* Ona całkowicie się&  uspokoiła./^
 obj_snowdrakemom_472
-* I ran away from home^1.&* Why?/
+* Uciekłem z domu^1.&* Czemu?/
 obj_snowdrakenpc_76
-* 'Cause my father was so&  "cold" to me.../
+* Bo mój ojciec był taki&  "zimny" do mnie.../
 obj_snowdrakenpc_77
-* WHAT!^1?&* It's a JOKE!^1!&* LAUGH at it!!/%%
+* CO!^1?&* To ŻART!^1!&* ŚMIEJ SIĘ!!/%%
 obj_snowdrakenpc_78
-* I really don't^1!&* I don't care if he doesn't&  like my jokes!/%%
+* Mnie to naprawdę nie obchodzi^1!&* Nie obchodzi mnie jeśli on&  nie lubi moich żartów!/%%
 obj_snowdrakenpc_82
-* Mom might have to share her&  mind with other people now^1,&  but she's still my mom./
+* Moja mama musi teraz dzielić&  jej umysł z innymi^1, ale&  jest dalej moją mamą./
 obj_snowdrakenpc_87
-* And that's "cool!"/
+* A to jest  "czadowe!"/
 obj_snowdrakenpc_88
-* 'Cause^1, uhh^1, we're made&  of ice and stuff./
+* Bo^1, uhh^1, jesteśmy stworzeni&  z lodu i takie tam./
 obj_snowdrakenpc_89
-* WHAT!?!^1?&* It's a JOKE!^1!&* LAUGH at it!!/%%
+* CO!?!^1?&* To ŻART!^1!&* ŚMIEJ SIĘ!!/%%
 obj_snowdrakenpc_90
-* It's a snow poff./%%
+* To śnieżny puf./%%
 obj_snowpoff_100
-* And this..^1.&* Is a snow poff./%%
+* A to..^1.&* To śnieżny puf./%%
 obj_snowpoff_101
-* This^1, however^1, is a snow poff./%%
+* To^1, jednak^1, to śnieżny puf./%%
 obj_snowpoff_102
-* Surprisingly^1, it's a snow poff./%%
+* Zaskakująco^1, to śnieżny puf./%%
 obj_snowpoff_103
-* Snow poff.../%%
+* Śnieżny puf.../%%
 obj_snowpoff_104
-* Is it really a snow poff?/%%
+* Czy to naprawdę śnieżny puf?/%%
 obj_snowpoff_105
-* Behold^1!&* A snow poff./%%
+* Baczność^1!&* Śnieżny puf./%%
 obj_snowpoff_106
-* What's this called?/%%
+* Jak się to nazywa?/%%
 obj_snowpoff_107
-* Eh^1?&* There's 30 G inside&  this..^1. what is this?/%%
+* Eh^1?&* Jest 30G w środku..^1.&  co to jest?/%%
 obj_snowpoff_108
 obj_sockdrawer_60
 obj_sockdrawer_66
-* It's TORIEL's sock drawer./%%
+* To szufladka na&  skarpety TORIEL./%%
 obj_sockdrawer_67
 obj_sockdrawer_68
 AHHHHHHH!!!!!/%%
 obj_sosorry_269
 \E1AHHHHH!!!/%%
 obj_sosorry_274
-\E1Oh!&Whoops!&That hurt!/
+\E1Oh!&Ups!&To bolało!/
 obj_sosorry_279
 \E2So sorry^1, I must&have gotten in the&way!/
 obj_sosorry_280
@@ -26215,15 +26215,15 @@ obj_sosorry_952
 obj_sosorry_953
 \E1Uuuuhhhh, oh no!!&That's a little too&real!/%%
 obj_sosorry_1007
-* (It's a plate of frozen&  spaghetti.)/
+* (To talerz zamrożonego&  spaghetti.)/
 obj_spaghetti_98
-* (It's so cold^1, it's stuck&  to the table...)/%%
+* (Jest tak zimne^1, że przykleiło&  się do stołu...)/%%
 obj_spaghetti_99
-* (It's a plate of lukewarm&  spaghetti.)/
+* (To talerz letniego&  spaghetti.)/
 obj_spaghetti_102
-* (Seems like something tried&  eating it and just..^1.)&* (Gave up.)/%%
+* (Wydaje się^1, e coś&  spróbowało to zjeśc i..^1.)&* (Poddało się.)/%%
 obj_spaghetti_103
-* It's a note from Papyrus.../
+* To notatka od Papyrusa.../
 obj_spagnot_98
 obj_spagnot_99
 CZŁOWIEKU!^1!&ŻYCZĘ CI&SMACZNEGO SPAGHETTI./
@@ -26238,7 +26238,7 @@ obj_spagnot_103
 obj_spagnot_104
 (STWORZONE PRZEZ&WIELKIEGO PAPURUSA!!!)/
 obj_spagnot_105
- &      NYEH-HEH-HEH^1,&         PAPYRUS/%%
+ &       NYEH-HEH-HEH^1,&          PAPYRUS/%%
 obj_spagnot_106
 obj_spagnot_110
 obj_spagnot_111
@@ -26518,7 +26518,7 @@ obj_spidertalkevent_295
 obj_spidertalkevent_392
 * That was fun^1!&* See you again^1, dearie!/%%
 obj_spidertalkevent_393
-* (It's a tough-looking branch.)&* (It's too heavy to pick up.)/%%
+* (To ciężko-wyglądająca gałąź.)&* (Jest zbyt ciężka^1, by&  ją podnieść.)/%%
 obj_stick_95
 * (It's been smashed like it&  was nothing...)/%%
 obj_stick_99
@@ -31747,7 +31747,7 @@ EKWIPINEK
 itembox_title_inventory
 SKRZYNIA
 itembox_title_box
-Naciśnij \*X aby wyjść
+Wyjście: \*X
 itembox_close
 * (Kładziesz pieseła&  na ziemię.)/%%
 item_drop_27
