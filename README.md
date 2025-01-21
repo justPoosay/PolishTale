@@ -1,8 +1,17 @@
 # PolishTale (an Undertale translation mod)
+<div style="display: flex; align-items: center;">
+    <img src="./TextBoxDetermination.gif" alt="determination" style="width: 100vw;" />
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+hOI, am tEMMIE. Dis mod iz dedicated for polish UNDERTALE loverz!!1! feel free tu try it out and leave frienly notes/pecez ow adwis1!!
+<br/>
+<br/>
+<br/>
+<br/>
 
-hoi, am tEMMIE. Dis mod iz dedicated for polish UNDERTALE loverz!!1! feel free tu try it out and leave frienly notes/pecez ow adwis1!!
-<br/>
-<br/>
 # Instrukcja pobierania
 
 ## Metoda 1.  Klonowanie repozytorium
@@ -15,11 +24,10 @@ cd PolishTale/Undertale
 ```
 
 ## Metoda 2.  Ręczne pobieranie repozytorium
-W branchu *main*: Code --> Download ZIP <br/>
+W branchu **main**: <> Code → Download ZIP <br/>
 Po pobraniu wypakuj plik ZIP i przejdź do wypakowanego folderu, następnie otwórz folder Undertale i uruchom Undertale.exe
 <br/>
 <br/>
+
+## Trailer:
 [![Trailer](https://img.youtube.com/vi/LdV79crBDuo/hqdefault.jpg)](https://youtu.be/LdV79crBDuo)
-<br/>
-<br/>
-**Writing this mod and fulfilling your royal duties to Toby Fox...<br/>It fills you with DETERMINATION**
