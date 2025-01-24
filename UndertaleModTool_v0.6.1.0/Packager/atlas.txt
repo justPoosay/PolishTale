@@ -1,0 +1,10 @@
+source_tex, atlas_tex, x, y, width, height
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_main.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 0, 0, 256, 1024
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_plainbig.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 258, 0, 512, 512
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_dmg.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 0, 1026, 512, 256
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_maintext.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 772, 0, 256, 256
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_plain.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 258, 514, 256, 256
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_comicsans.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 514, 1026, 256, 128
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_curs.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 0, 1284, 256, 128
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_papyrus.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 1030, 0, 128, 158
+C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\Export_Fonts\fnt_small.png, C:\Users\OscarStaniszewski\Desktop\PolishTale-WorkSpace\UndertaleModTool_v0.6.1.0\Packager\atlas000.png, 772, 258, 128, 64
