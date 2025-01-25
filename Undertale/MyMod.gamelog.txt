@@ -1151,3 +1151,15 @@ Pause event has been unregistered
 minFPS, maxFPS, avgFPS
 -31, 3831, 632
 ---------------------------------------------------------------
+Total memory used = 67692595(0x0408e833) bytes
+Pause event has been registered for this frame
+Pause event has been unregistered
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+-23, 2331, 154
+---------------------------------------------------------------
+Total memory used = 67692595(0x0408e833) bytes
+---------------------------------------------------------------
+minFPS, maxFPS, avgFPS
+452, 1724, 994
+---------------------------------------------------------------

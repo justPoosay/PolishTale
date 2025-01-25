@@ -6955,13 +6955,13 @@ SCR_TEXT_62
 * (Śnieg można zawsze rozbić&  i ulepić coś bardziej&  użytecznego.)/
 * (Ten prosty fakt wypełnia&  cię determinacją.)/%%
 * (Widok tak sympatycznego&  miasta wypełnia cię&  determinacją.)/%%
-* (Dźwięk pływającego strumyczka&  wypełnia cię&  determinacją.)/%%
+* (Dźwięk pływającego&  strumyczka wypełnia cię&  determinacją.)/%%
 * (Czujesz dreszcze spływające&   po twoim ciele...^1)&* (Ale zostajesz zdeterminowany.)/%%
 * (Wiedząc, że pewnego dnia&  mysz wyjmie ser z &  mitycznego kryształu...)/
 * (Dźwięk przytłumionego&  deszczu stukającego o &  sufit jaskini ...)/
 * (Spokojna muzyczka z&  odległej katarynki...)/
 * (Uczucie twoich skarpet&  zgniatających się w butach&  przynosi ci determinację.)/%%
-* (Wodospad tutaj wyjade się&  lać z sufitu&  jaskinii...)/
+* (Wodospad tutaj wyjade się&  lać z sufitu jaskinii...)/
 * (Okazjonalnie^1, różne śmieci&  spływają z wodą...)/
 * (... i spadają do&  bezdennej przepaści&  poniżej.)/
 * (Widząc ten niekończący się&  cykl wezwartościowych&  odpadów...)/
@@ -7264,7 +7264,7 @@ I ZRÓB TO W&SWOIM TEMPIE./
 POWODZENIA./
 NYEH..^1.&HEH..^1.&HEH!/%%
 * (Jest tu samotny kisz&  leżący pod ławką.)/
-* (Czy go weźmiesz?)& &         Weź     Zostaw  \C 
+* (Wziąć go?)& &         Weź         Zostaw  \C 
 * To tylko ławka./%%
 * (Podniosłeś Porzucony&  Kisz.)/%%
 * (Nosisz zbyt wiele.)/
@@ -7511,21 +7511,21 @@ Error./%%
 * cóż^1, wracaj&  kiedy tylko&  zechcesz./%%
 * Dzyn..\E0./
 HALO^1!&MÓWI PAPYRUS!!!/
-\E3HOW DID I GET THIS&NUMBER...?/
-\E0IT WAS EASY!!!/
-\E0I JUST DIALED EVERYNUMBER SEQUENTIALLYUNTIL I GOT YOURS!!!/
+\E3JAK DOSTAŁEM TEN&NUMER...?/
+\E0PROSTE!!!/
+\E0PO PROSTU WPISYWA-&ŁEM LOSOWE LICZBY I&TRAFIŁEM NA CIEBIE!!/
 NYEH HEH HEH HEH!!/
-\E2SO..^1.&WHAT ARE YOU&WEARING...?/
-\E3I'M..^1.&ASKING FOR A&FRIEND./
-\E0SHE THOUGHT SHE&SAW YOU WEARING A&\[1]./
-\E3IS THAT TRUE^1?&ARE YOU WEARING A&\[1]?/
-* (What will you say?)& &         Yes         No\C
-SO YOU ARE WEARING&A \[1].../
-GOT IT!!^1!&WINK WINK!!!/
-HAVE A NICE DAY!/
-SO YOU AREN'T&WEARING A&\[1].../
-GOT IT!/
-YOU'RE MY FRIEND^1,&SO I TRUST YOU&100-PERCENT./
+\E2WIĘC..^1.&CO TAK WOGULE&NA SOBIE NOSISZ...?/
+\E3JA..^1.&PYTAM DLA&PRZYJACIELA./
+\E0MYŚLAŁA^1, ŻE ONA&WIDZIAŁA JAK NOSISZ&\[1]./
+\E3CZY SIĘ ZGADZA^1?&CZY TY NOSISZ&\[1]?/
+* (Co mu odpowiesz?)& &         Tak         Nie\C
+A WIĘC NOSISZ& \[1].../
+ROZUMIEM!!^1!&MRÓG MRÓG!!!/
+MIŁEGO DNIA!/
+A WIĘC NIE NOSISZ&\[1].../
+ROZUMIEM!/
+JESTEŚ PRZYJACIELEM^1,&WIĘC CI UFAM NA&STO PROCENT./
 * (Jest pusta blacha do ciasta&  w kuchence.)/%%
 \E0MÓJ BRAT ZAWSZE&IDZIE SOBIE NA&JEDZENIE^1. ALE.../
 \E3OSTATNIO^1, ON SPRÓ-&BOWAŁ COŚ 'UPIEC'&SAMEMU./
@@ -7567,70 +7567,70 @@ TO NORMALNE BYĆ&ZAFASCYNOWANY&MOJĄ MODĄ./%%
 * (Ta skrzynka jest oznaczona&  "PAPYRUS".)/
 * (Zajrzeć do środka?)& &         Tak         Nie\C
 * (Jest puste.)/%%
-* (You realize that would&  probably be illegal.)/%%
-* what^1?&* haven't you seen a guy&  with two jobs before?/
-\E1* fortunately^1, two jobs&  means twice as many&  legally-required breaks./
-\E0* i'm going to grillby's.&* wanna come?&  Yeah        I'm busy \C
+* (Uświadomiłeś sobie^1, że to&  byłoby pewnie nielegalne.)/%%
+* co^1?&* nie widziałeś nigdy kogoś&  z dwoma etatami?/
+\E1* na szczęście^1, dwa etaty&  oznacza dwa prawnie&  nakazane przerwy./
+\E0* idę do grillby's^1.&* chcesz się przyłączyć?&  Jasne       Mam plany \C
 * .../%%
-\E2* hey^1, looks like you're&  really turning yourself&  around./
-\E0* how about i treat you&  to lunch at grillby's?/
-\E1* ... when everyone you&  scared away comes&  back^1, i mean./%%
-* well^1, if you insist..^1.&* i'll pry myself away&  from my work.../%%
-* OK^1. have fun./%%
-\E1* whoops^1, watch where&  you sit down./
-* sometimes weirdos put&  whoopee cushions on&  the seats./
-\E0* anyway^1, let's order./
-* whaddya want...?& &  Fries       Burger\C
-* ok^1, coming right up./%%
-* hey^1, that sounds&  pretty good./
-* grillby^1, we'll have&  a double order of&  fries./%%
-* grillby^1, we'll have&  a double order of&  burg./%%
-* so^1, what do you&  think.../
-* of my brother?& &  Cool        Uncool\C
-* of course he's cool./
-\E1* you'd be cool too&  if you wore that&  outfit every day./
-\E0* he'd only take that&  thing off if he&  absolutely had to./
-* oh well^1.&* at least he washes&  it./
-\E1* and by that i mean&  he wears it in&  the shower./%%
+\E2* hej^1, wyglądasz  jakbyś&  się naprawdę nudził./
+\E0* co ty na to żebym ci&  postawił obiad w&  grillby's?/
+\E1* ... kiedy każdego kogo&  wystraszyłeś powraca^1,&  znaczy się./%%
+* cóż^1, jeśli nalegasz..^1.&* odkleję się od pracy&  na chwilę.../%%
+* OK^1. trzymaj się./%%
+\E1* whoops^1, uważaj&  gdzie siadasz./
+* czasami ludzie&  podkładają pierdziuszki&  na siedzeniach./
+\E0* w każdym razie^1,&  zamówmy coś./
+* co chcesz...?& &  Frytki      Burger\C
+* ok^1, już zamawiam./%%
+* hej^1, dobry wybór./
+* grillby^1, poprosimy&  o dwa frytki./%%
+* grillby^1, poprosimy&  o dwa burgery./%%
+* więc^1, co myślisz.../
+* o moim bracie?& &  Czadowy     Dzban\C
+* oczywiście że jest&  czadowy./
+\E1* ty też byś był gdybyś&  nosił ten outfit&  każdego dnia./
+\E0* on tylko go zdejmuje&  kiedy to absolutnie&  konieczne./
+* no dobra^1.&* przynajmniej go&  regularnie myje./
+\E1* a tym mam na myśli&  że  nosi go pod&  prysznicem./%%
 * hey^1, pal./
-\E1* sarcasm isn't funny^1,&  okay?/
-\E0* my brother's a real&  star./
-* he's the person who&  pushed me to get&  this sentry job./
-* maybe it's a little&  strange^1, but&  sometimes.../
-* ... it's nice to have&  someone call you out&  on being lazy./
-\E1* even though nothing&  could be further&  from the truth./%%
-* here comes the grub./
-* want some ketchup^1?& &  Yes         No    \C
+\E1* sarkazm nie jest& śmieszny^1, okej?/
+\E0* mój brat to&  prawdziwa gwiazda./
+* to on mnie przekonał&  do pracy./
+* może to trochę&  dziwne^1, ale&  czasami.../
+* ... fajnie mieć kogoś&  kto cię wyzywa od&  bycia leniwym./
+\E1* nawet jeśli nie ma&  niczego dalszego&  od prawdy./%%
+* nadchodzi gruber./
+* chcesz trochę ketchupu^1?& &  Tak         Nie    \C
 \E2* bone appetit./%%
-\E2* more for me./%%
-\W* have you ever heard&  of a \Ytalking flower\W?&  Yes         No    \C
-\E1* so you know all&  about it./
-\E1* i'll tell you^1, then./
-\W*\E0 the \Becho flower\W./
-* they're all over the&  marsh./
-* say something to them^1,&  and they'll repeat it&  over and over.../
-* what about it?/
-* well^1, papyrus told&  me something interesting&  the other day./
-* sometimes^1, when no&  one else is around.../
-* a flower appears and&  whispers things to&  him./
-* flattery..^1.&* advice..^1.&* encouragement.../
-* ... predictions./
-* weird^1, huh?/
-* someone must be using&  an echo flower to&  play a trick on him./
-* keep an eye out^1, ok?/
-* thanks./%%
-\E1* oh^1, by the way.../
-\E0* i'm flat broke^1.&* can you foot the&  bill?/
-* it's just 10000G.& &  Yes         No    \C
-* (Take an umbrella?)& &         Take one    Do not\C
-* (Return the umbrella?)& &         Put back    Do not\C
-* (You took an umbrella.)/%%
-* (You returned the umbrella.)/%%
-* (It's a statue^1.)&* (The structures at its&  feet seem dry.)/%%
-* (Put the umbrella on the&  statue?)&         Yes         Do not\C
-* (The music continues^1, and&  doesn't stop.)/%%
-* (You place the umbrella&  atop the statue.)/
-* (Inside the statue^1, a music&  box begins to play...)/%%
+\E2* więcej dla mnie./%%
+\W* słyszałeś kiedykolwiek&  o \Ygadającym kwiatku\W?&  Tak         Nie    \C
+\E1* a więc już wiesz./
+\E1* w takim razie ci&  opowiem^1./
+\W*\E0 \Bkwiatek echa\W./
+* są wszędzie tu w&  tym terenie./
+* powiedz im coś^1, a&  one to powtórzą&  w kółko.../
+* no i co z tym?/
+* cóż^1, papyrus mi&  powiedział kiedyś&  coś ciekawego./
+* czasami^1, kiedy nikogo&  nie ma w pobliżu.../
+* pojawia się kwiatek i&  mu szepcze rzeczy./
+* urok..^1.&* rady..^1.&* podziw.../
+* ... przepowiednie./
+* dziwne^1, huh?/
+* ktoś musi używać&  kwiatka echa^1, by&  stroić na nim żarty./
+* trzymaj otwarte oczy^1,&  ok?/
+* dzięki./%%
+\E1* oh^1, tak wogule.../
+\E0* nie mam kasy^1.&* zapłacisz za rachunek?/
+* to tylko 10000G.& &  Tak         Nie    \C
+* (Wziąć parasolkę?)& &         Weź jedną   Nie bierz\C
+* (Zwrócić parasolkę?)& &         Zwróć       Nie zwracaj\C
+* (Wziąłeś parasolkę.)/%%
+* (Zwróciłeś parasolkę.)/%%
+* (To statuetka^1.)&* (Fundament u podłoża jego nóg&  wydaje się wyschnięty.)/%%
+* (Postawić parasolkę na&  statuetce?)&         Tak         Lol nie\C
+* (Muzyka kontynuuje^1, i&  nie zatrzymuje się.)/%%
+* (Położyłeś parasolkę&  nad statuetką.)/
+* (W środku statuetki^1, stara&  pozytywka zaczyna grać...)/%%
 * (It's a rusty old&  fridge.)/
 * (You open the fridge.^1)&* (The air fills with a&  rotten stench.)/
 * (All the food inside here&  spoiled long ago.)/%%
@@ -11996,23 +11996,23 @@ obj_dummytrigger_431
 obj_dummytrigger_432
 * Error!/%%
 obj_echoflower_96
-* All that gives my life&  validation is explaining&  the Echo Flower.../
+* Jedyne co mi przynosi&  walidację w życiu to&  tłumaczenie Echo Kwiatkom.../
 obj_echoflower_104
-* No one can know.../%%
+* Że nikt nie może się&  dowiedzieć.../%%
 obj_echoflower_105
-* This is an Echo Flower^1.&* It repeats the last thing&  it heard^1, over and over.../%%
+* Oto Kwiatek Echo^1.&* Powtarza ostatnią rzecz którą&  słyszała w kółko.../%%
 obj_echoflower_110
-* Neat^1, huh?/%%
+* Fajne^1, co nie?/%%
 obj_echoflower_114
-* Never trust a flower..^1.&* That's one of the constants&  of this world./%%
+* Nigdy nie ufaj kwiatkowi..^1.&* To jedna z zasad tego świata./%%
 obj_echoflower_118
-* (It's strangely silent.)/%%
+* (Jest dziwnie milczący.)/%%
 obj_echoflower_123
-* Sitting behind rushing water..^1.&* It makes me feel relaxed./%%
+* Siedząc za pływającą wodą..^1.&* Powoduje^1, że czuje się&  zrelaksowana./%%
 obj_echoflower_130
-* I swore I saw something..^1.&* Behind that rushing water.../%%
+* Przysięgam^1, że coś widziałam..^1.&* Za tą pływającą wodą.../%%
 obj_echoflower_131
-* I just wasn't ready for&  the responsibility./%%
+* Po prostu nie byłem gotów&  na tą odpowiedzialność.../%%
 obj_echoflower_135
 * A long time ago^1, monsters would&  whisper their wishes to the&  stars in the sky./
 obj_echoflower_141
@@ -14073,84 +14073,84 @@ obj_grillbynpc_mandog_104
 obj_grillbynpc_mandog_105
 * Wait^1, we're dogs^1.&* That stuff's normal./%%
 obj_grillbynpc_mandog_106
-* fast shortcut^1, huh?/%%
+* szybki skrót^1, huh?/%%
 obj_grillbynpc_sansdate_121
-* hey^1, everyone./%%
+* heja^1, wszyscy./%%
 obj_grillbynpc_sansdate_129
-* Hey^1, Sans.&* (Hi^1, Sans.)/%%
+* Hej^1, Sans.&* (Hej^1, Sans!!)/%%
 obj_grillbynpc_sansdate_164
-* Greetings^1, Sans.&* Hiya^1, Sansy~/%%
+* Witaj^1, Sans.&* Heja^1, Sansy~/%%
 obj_grillbynpc_sansdate_208
-* Hey Sans^1, weren't you just&  here for breakfast a&  few minutes ago?/
+* Hej Sans^1, czyżbyś tu nie&  był na śniadanie jakieś&  parę minut temu?/
 obj_grillbynpc_sansdate_245
-* nah^1, i haven't had&  breakfast in at least&  half an hour./
+* nah^1, nie miałem&  śniadanie od przynaj-&  mniej pół godziny./
 obj_grillbynpc_sansdate_247
-\E2* you must be thinking&  of brunch./%%
+\E2* musisz chyba myśleć&  o obiedzie./%%
 obj_grillbynpc_sansdate_248
-* here^1, get comfy./%%
+* no^1, zrelaksuj się./%%
 obj_grillbynpc_sansdate_286
-* (You tip the ketchup...)/
+* (Sięgasz po ketchup...)/
 obj_grillbynpc_sansdate_521
-* (The cap falls off and all&  the ketchup in the bottle&  pours onto your food.)/%%
+* (Nakrętka odpada i&  cały ketchup w butelce&  wylewa się na jedzenie.)/%%
 obj_grillbynpc_sansdate_522
 obj_grillbynpc_sansdate_545
-\E0* eh, forgeddaboudit^1.&* you can have mine./
+\E0* eh, nie szkodzi^1.&* możesz mieć moje./
 obj_grillbynpc_sansdate_546
-\E1* i'm not hungry anyway./%%
+\E1* i tak nie&  jestem głodny./%%
 obj_grillbynpc_sansdate_547
-* anyway^1, cool or not^1,&  you have to agree&  papyrus tries real hard./
+* w każdym razie^1, czadowy&  czy nie^1, musisz przyznać&  że papyrus się stara./
 obj_grillbynpc_sansdate_577
-\E0* like how he keeps&  trying to be part of&  the royal guard./
+\E0* na przykład jak się&  stara o pozycję&  królewskiej gwarii./
 obj_grillbynpc_sansdate_578
-\E1* one day^1, he went to&  the house of the head&  of the royal guard.../
+\E1* jednego dnia^1, poszedł&  do domu generała .../
 obj_grillbynpc_sansdate_579
-\E0* and begged her to&  let him be in it./
+\E0* i błagał ją o&  przyłączenie./
 obj_grillbynpc_sansdate_580
-\E1* of course^1, she shut&  the door on him because&  it was midnight./
+\E1* oczywiście^1, trzasnęła&  drzwiami jako że&  była północ./
 obj_grillbynpc_sansdate_581
-\E0* but the next day^1, she&  woke up and saw him&  still waiting there./
+\E0* ale następnego dnia^1,&  obudziła się i zobaczyła&  go dalej stojącego./
 obj_grillbynpc_sansdate_582
-* seeing his dedication^1,&  she decided to give&  him warrior training./
+* widząc jego dedykację^1,&  postanowiła przeprowa-&  dzić wojowniczy trening./
 obj_grillbynpc_sansdate_583
-\E1* it's^1, uh^1, still a&  work in progress./%%
+\E1* to^1, uh^1, dalej&  praca w toku./%%
 obj_grillbynpc_sansdate_584
-\E1* oh yeah^1, I wanted&  to ask you something./%%
+\E1* o i jeszcze^1, chciałem&  cię o coś spytać./%%
 obj_grillbynpc_sansdate_609
-* welp^1, that was a&  long break./
+* welp^1, to była&  długa przerwa./
 obj_grillbynpc_sansdate_683
-\E1* i can't believe i let&  ya pull me away from&  work for that long./%%
+\E1* nie wierzę że ci pozwo-&  liłem się odciągnać z&  pracy na tak długo./%%
 obj_grillbynpc_sansdate_684
-* just kidding./
+* taki żarcik./
 obj_grillbynpc_sansdate_708
-* grillby^1, put it on&  my tab./%%
+* grillby^1, rzuć to na&  mój rachunek./%%
 obj_grillbynpc_sansdate_709
-* by the way.../
+* tak wogule.../
 obj_grillbynpc_sansdate_751
-* ... i was going to say&  something^1, but i forgot./%%
+* ... miałem coś&  powiedzieć^1, ale&  zapomniałem./%%
 obj_grillbynpc_sansdate_752
-* (We're sentries^1, but we never&  get any respect.)/
+* (Jesteśmy strażnikami^1, ale&  nigdy nie dostajemy żadnego&  szacunku.)/
 obj_grillbynpc_womandog_76
-* (I wish those skeletons would&  throw us a bone.)/
+* (Szkoda^1, że te szkielety&  nie rzucili nam kościa.)/
 obj_grillbynpc_womandog_77
-* (We love bones.)/%%
+* (Kochamy kości.)/%%
 obj_grillbynpc_womandog_78
-* (Where are those skeletons?^1)&* (I wanted to get a bone&  from them...)/%%
+* (Gdzie się podziały szkielety?^1)&* (Chciałem dostać od nich&  kościa...)/%%
 obj_grillbynpc_womandog_81
-* (We're considering paying a&  visit to the doctor.)/
+* (Rozważamy wizytę u&  lekarza.)/
 obj_grillbynpc_womandog_86
-* (No^1! Not the vet!^1)&* (... well^1, maybe she's a&  little like a vet.)/%%
+* (Nie^1! Tylko nie weterynarz!^1)&* (... cóż^1, może ona jest&  trochę jak weterynarz.)/%%
 obj_grillbynpc_womandog_87
-* (I like Sans.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
+* (Lubię Sansa.^1)&* (Czasami nas karmi resztkami&  jedzenia spod stołu.)/
 obj_grillbynpc_womandog_92
-* (Then his brother gets mad...^1)&* (But why!^1? We're adults!^1)&* (We can handle it!)/%%
+* (Wtedy jego brat się wnerwia...^1)&* (Ale czemu!^1? Jesteśmy dorośli!^1)&* (Możemy to znieść!)/%%
 obj_grillbynpc_womandog_93
-* (Where's Doggo?^1)&* (I hope he didn't get&  lost again.)/%%
+* (Gdzie jest Pieseł?^1)&* (Mam nadzieję^1, że się&  znów nie zgubił.)/%%
 obj_grillbynpc_womandog_97
-* (It's lonely in here today.^1)&* (If our friends don't show up^1,&  would you like to play?)/%%
+* (Trochę samotnie dzisiaj.^1)&* (Jeśli nasi znajomi nie przyjdą^1,&  chciałbyś ze mną zagrać?)/%%
 obj_grillbynpc_womandog_99
-* (All of our parents have&  been combined into one&  horrible being.)/
+* (Wszyscy nasi rodzice zostali&  zamalgatyzowani w okropną&  istotę.)/
 obj_grillbynpc_womandog_105
-* (That's OK^1, though.^1)&* (It's really "brought our&  families together.")/%%
+* (Ale nie szkodzi.^1)&* (Bo to naprawdę"połączyło"&  nasze rodziny ze sobą.)/%%
 obj_grillbynpc_womandog_106
 Error!!
 obj_gyftrot_271
@@ -22851,11 +22851,11 @@ obj_readable_room3_124
 obj_readable_room3_128
 * ...!^1?&* There's a camera hidden in&  the trees here./%%
 obj_readable_room3_132
-* When four Bridge Seeds align&  in the water^1, they will&  sprout./%%
+* Kiedy cztery Nasiona Mostowe&  się zetkną w wodzie^1, to one&  zakwitną./%%
 obj_readable_room3_139
-* If an error is made, the Bell&  Blossom can call Bridge Seeds&  back to where they started./%%
+* Jeśli błąd jest popełniony, &  Dzwonek może zawołać sadzonki&  spowrotem skąd zaczęły./%%
 obj_readable_room3_141
-* WISHING ROOM/%%
+* POKÓJ ŻYCZEŃ/%%
 obj_readable_room3_142
 * But humans have one weakness.&* Ironically, it is the strength&  of their SOUL./
 obj_readable_room3_147
