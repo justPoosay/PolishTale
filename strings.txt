@@ -7264,7 +7264,7 @@ I ZRÓB TO W&SWOIM TEMPIE./
 POWODZENIA./
 NYEH..^1.&HEH..^1.&HEH!/%%
 * (Jest tu samotny kisz&  leżący pod ławką.)/
-* (Wziąć go?)& &         Weź         Zostaw  \C 
+* (Podniesiesz?)& &         Weź         Zostaw  \C 
 * To tylko ławka./%%
 * (Podniosłeś Porzucony&  Kisz.)/%%
 * (Nosisz zbyt wiele.)/
@@ -7728,72 +7728,72 @@ TO NORMALNE BYĆ&ZAFASCYNOWANY&MOJĄ MODĄ./%%
 * A rousing error./%%
 * (Give Undyne the water?)& &         Yes         No \C
 * (She looks dry...)/%%
-REMEMBER WHEN&I ASKED YOU&ABOUT CLOTHES?/
-\E3WELL^1, THE FRIEND&WHO WANTED TO&KNOW.../
-\E0HER OPINION OF&YOU IS VERY.../
-\E3MURDERY./
+PAMIĘTASZ KIEDY&SPYTAŁEM CIĘ O&CIUCHY?/
+\E3CÓŻ^1, TEN PRZYJA-&CIEL KTÓRY CHCIAŁ&WIEDZIEĆ.../
+\E0JEJ OPINIA NA TWÓJ&TEMAT JEST&BARDZO.../
+\E3MORDERCZY./
 \E0ERROR!!^1!&SEE YOU LATER!/%%
-\E0BUT I BET YOU&KNEW THAT&ALREADY!/
-\E3AND BECAUSE YOU&KNEW THAT.../
-\E0I TOLD HER WHAT&YOU TOLD ME&YOU WERE WEARING!/
-A \[1]!/
-BECAUSE I KNEW^1,&OF COURSE.../
-\E3AFTER SUCH A&SUSPICIOUS&QUESTION.../
-\E0YOU WOULD&OBVIOUSLY CHANGE&YOUR CLOTHES!/
-YOU'RE SUCH A&SMART COOKIE!/
-THIS WAY YOU'RE&SAFE AND I&DIDN'T LIE!!!/
-NO BETRAYAL&ANYWHERE!!!/
-BEING FRIENDS&WITH EVERYONE&IS EASY!!!/
-\E0WELL^1, WORRY&NOT DEAR HUMAN!/
-PAPYRUS WOULD&NEVER BETRAY YOU!/
-\E3I AM NOT A&CRUEL PERSON./
-\E0I STRIVE TO BE&COMFORTING AND&PLEASANT./
-PAPYRUS!&HE SMELLS LIKE&THE MOON./
-SO, BECAUSE OF&MY INHERENT&GOODNESS.../
-I TOLD HER YOU&WERE NOT WEARING&A \[1]!/
-\E3EVEN THOUGH YOU&TOLD ME YOU&WERE!/
-INSTEAD^1, I MADE&SOMETHING UP!/
-I TOLD HER YOU&WERE WEARING.../
-\E0A \[2]./
-\E3IT PAINED ME TO&TELL SUCH A&BOLDFACED LIE./
-I KNOW YOU WOULD&NEVER EVER WEAR&A \[2]./
-\E0BUT YOUR SAFETY&IS MORE IMPORTANT&THAN FASHION./
-\E3DANG!/
-I JUST WANT TO&BE FRIENDS WITH&EVERYONE.../
-\E3PAPYRUS WOULD&NEVER BETRAY YOU!/
-\WY\E0OU SAID YOU WERE\Y &NOT WEARING A&\[1]\W./
-\E3SO OF COURSE&I ACTUALLY&TOLD HER.../
-\E0YOU WERE&INDEED WEARING&A \[1]!/
-BUT SINCE YOU&AREN'T WEARING&A \[1]./
-\E0SHE SURELY&WON'T ATTACK&YOU!/
-NOW YOU ARE&SAFE AND SOUND./
-\E2WOWIE..^1.&THIS IS HARD./
-I JUST WANT TO&BE EVERYBODY'S&FRIEND!/
-\E0I KNEW WHEN&YOU SAID:/
-\E3"I AM NOT&WEARING A&\[1]."/
-\E0IT WAS REALLY&A SECRET CODE!/
-\E3YOU REALLY&MEANT.../
-\E0"I ACTUALLY AM&WEARING&A \[1]!"/
-YOU WERE TRYING&TO PROTECT&YOURSELF.../
-WHILE MAKING IT&SO I DIDN'T&HAVE TO LIE!/
-I PICKED UP ON&THIS, AND FOLLOWED&YOUR PLAN./
-IN FACT I TOOK&IT ONE STEP&FURTHER!/
-\E3I TOLD HER YOU&WERE PROBABLY.../
-\E0WEARING A&\[2]!/
-\E3OF COURSE, YOU&WOULD NEVER&WEAR THAT./
-\E0BUT THAT'S THE&POINT!/
-SHE WON'T&RECOGNIZE YOU&NOW!/
-AND I DIDN'T&HAVE TO BETRAY&EITHER OF YOU!/
-SINCE I JUST&TOLD HER WHAT&YOU SAID!/
-WOWIE^1!&YOU'RE SUCH A&SMART COOKIE!/
-I REALLY CAN&BE FRIENDS WITH&EVERYONE!!!/
-HEY^1!&WHAT'S UP!?/
-I WAS JUST&THINKING.../
-YOU^1, ME^1, AND&UNDYNE SHOULD ALL&HANG OUT SOMETIME!/
-I THINK YOU&WOULD MAKE&GREAT PALS!/
-LET'S MEET UP&AT HER HOUSE&LATER!/
-AFTER YOU HANG&OUT WITH ME.../
-LET'S MEET UP&AT HER HOUSE!/
+\E0ALE PEWNIE JUŻ&O TYM WIEDZIAŁEŚ!/
+\E3I PONIEWAŻ TO&WIEDZIAŁEŚ.../
+\E0POWIEDZIAŁEM JEJ&TO CO TY MI POWIE-&DZIAŁEŚ CO NOSISZ!/
+MIANOWICIE \[1]!/
+PONIEWAŻ WIEDZIAŁEM^1,&OCZYWIŚCIE.../
+\E3PO TAKIM&PODEJRZANYM&PYTANIU.../
+\E0OD RAZU BYŚ&ZMIENIŁ SWOJE&UBRANIE!/
+JESTEŚ TAKIM&MĄDRYM CIASTKIEM!/
+TYM SPOSOBEM JES-&TEŚ BEZPIECZNY A&JA NIE SKŁAMAŁEM!!!/
+NIE MA NIGDZIE&ZDRADY!!!/
+BYCIE PRZYJACIELEM&Z WSZYSTKIMI JEST&TAKIE ŁATWE!!!/
+\E0CÓŻ^1, NIE PRZEJMUJ&SIĘ DROGI&CZŁOWIEKU!/
+PAPYRUS BY CIĘ&NNIGDY NIE&ZDRADZIŁ!/
+\E3NIE JESTEM&OKROPNĄ OSOBĄ./
+\E0JA CELUJĘ NA&KOMFORTOWĄ I&UPRZEJMĄ./
+PAPYRUS!&ON PACHNIE JAK&KSIĘŻYC./
+WIĘC, DZIĘKI MOJEJ&NIEDZIEDZICZONEJ&DOBROCI.../
+POWIEDZIAŁEM JEJ^1, ŻE&NIE MASZ NA SOBIE&\[1]!/
+\E3NAWET JEŚLI MI&POWIEDZIAŁEŚ ŻE&NOSISZ!/
+ZAMIAST TEGO^1,&ZMYŚLIŁEM!/
+POWIEDZIAŁEM JEJ^1,&ŻE NOSISZ.../
+\E0\[2]./
+\E3TO BYŁO TRUDNE&POWIEDZIEĆ TAKĄ&NIEPRAWDĘ./
+WIEM^1, ŻE NIGDY PRZE-&NIGDY NIE NOSIŁBYŚ&\[2]./
+\E0ALE TWOJE BEZPIE-&CZEŃSTWO JEST&WAŻNIEJSZE./
+\E3KURCZĘ!/
+JA PO PROSTU CHCĘ&BYĆ WSZYSTKICH&PRZYJACIELEM.../
+\E3PAPYRUS BY CIĘ&NIGDY NIE ZDRADZIŁ!/
+\W\E0POWIEDZIAŁEŚ^1, ŻE\Y &NIE NOSISZ TERAZ&\[1]\W./
+\E3WIĘC OCZYWIŚCIE&POWIEDZIAŁEM JEJ.../
+\E0ŻE RZECZYWIŚCIE&WTEDY NOSIŁEŚ& \[1]!/
+ALE JAKO ŻE NIE&NOSISZ TERAZ&\[1]./
+\E0ONA Z PEWNOŚCIĄ&CIĘ NIE ZAATAKUJE!/
+TERAZ JESTEŚ&BEZPIECZNY./
+\E2WOWIE..^1.&TO JEST CIĘŻKIE./
+PO PROSTU CHCĘ&BYĆ KAŻDEGO&PRZYJACIELEM!/
+\E0WIEDZIAŁEM^1, ŻE&KIEDY POWIEDZIAŁEŚ:/
+\E3"NIE NOSZĘ NA SOBIE&\[1]."/
+\E0TO BYŁO TAK&NAPRAWDĘ&SZYFR!/
+\E3TAK NAPRAWDĘ&MIAŁEŚ NA MYŚLI.../
+\E0"TAK NAPRAWDĘ&NOSZĘ NA SOBIE&\[1]!"/
+PRÓBOWAŁEŚ&SIEBIE&OCHRONIĆ.../
+I JEDNOCZEŚNIE&SPRAWIŁEŚ^1, ŻE NIE&MUSIAŁEM SKŁAMAĆ!/
+ZAŁAPAŁEM TO&I PODĄŻAŁEM ZA&TWOIM PLANEM./
+A NAWET WZIĄŁEM&TO O STOPIEŃ&WYŻEJ!/
+\E3POWIEDZIAŁEM JEJ^1,&ŻE TY PEWNIE&NOSIŁEŚ.../
+\E0\[2]!/
+\E3OCZYWIŚCIE^1, NIGDY&BYŚ TEGO NIE&ZAŁOŻYŁ./
+\E0ALE O TO CHODZI!/
+TERAZ ONA CIĘ&NIE ROZPOZNA!/
+I NIE MUSIAŁEM&ZDRADZIĆ ŻADNEGO&Z WAS!/
+JAKO ŻE POWIE-&DZIAŁEM JEJ TO CO&TY MI POWIEDZIAŁEŚ!/
+WOWIE^1!&JESTEŚ TAKIM&MĄDRYM CIASTKIEM!/
+NAPRAWDĘ MOGĘ&BYĆ PRZYACIÓŁMI&ZE WSZYSTKIMI!!!/
+HEJ^1!&CO TAM!?/
+MYŚLAŁEM&SOBIE.../
+TY^1, JA^1, I UNDYNE&MUSIMY WSZYSCY&SIĘ KIEDYŚ SPOTKAĆ!/
+MYŚLĘ^1, ŻE&BYLIBYŚMY&SUPER ZIOMKAMI!/
+SPOTKAJMY SIĘ U&JEJ DOMU PÓŹNIEJ!/
+PO TYM JAK ZE&MNĄ SIĘ SPOTKASZ.../
+SPOTKAJMY SIĘ&U NIEJ W DOMU!/
 * (It's a book labelled&  Monster History Part 7.)&         Read it     Do not\C
 * When a human dies^1, its&  soul remains stable&  outside the body./
 * Meanwhile^1, a monster's soul&  disappears near-instantly&  upon death./
@@ -25377,88 +25377,88 @@ obj_shop4_793
 obj_shop4_794
 \E3* SO^1, I wanted to be an ACTOR./%%
 obj_shop4_795
-\E0* hOI^1!&* welcom to..^1.&* da TEM SHOP!!!/*
+\E0* hOI^1!&* witoj w..^1.&* SKLEPIE TEMA!!!/*
 obj_shop5_343
 obj_shop5_344
-\E0hOI^1!&welcome&to..^1.&TEM SHOP!/*
+\E0hOI^1!&witoj&w..^1.&SKLEPIE TEM!/*
 obj_shop5_405
-\E6thanks&PURCHASE!/*
+\E6dziemkować&ZAKUP!/*
 obj_shop5_406
-\E0fdshfg/*
+\E0fdshfgfg/*
 obj_shop5_407
-\E2you don&hav da&muns,/*
+\E2ni masz&paltkuf&:</*
 obj_shop5_408
-\E1WAO!!^1!&bag..^1.&FULLS!/*
+\E1WAO!!^1!&torba..^1.&PEŁUNA!/*
 obj_shop5_409
-\E0HOI!!^1!&im temmie/*
+\E0HOI!!^1!&ja być&temmie/*
 obj_shop5_491
-\E2* no more item.../%%
+\E2* nie ma wioncej.../%%
 obj_shop5_536
 \E0* bOI!!/%%
 obj_shop5_540
 \E0* hOI!!!/
 obj_shop5_544
-* i'm temmie/%%
+* jestom temmie/%%
 obj_shop5_545
 obj_shop5_549
 obj_shop5_550
-\E1* tem armor so GOOds^1!&* any battle becom^1!&* a EASY victories!!!/
+\E1* zbroja tema taka DOBRA^1!&* każuda walka mile widzuaNA^1!&* ŁAtwE zfycienstwo!!!/
 obj_shop5_554
-\E4* but^1, hnnn^1, tem think..^1.&* if u use armors^1, battles woudn b&  a challenge anymores,/
+\E4* ale^1, hnnn^1, tem myśli..^1.&* jak użyjosz zbroje^1, walki noe&  bedom jusz wysfaniem,/
 obj_shop5_555
-\E3* but tem..^1.&* have a solushun!/
+\E3* ale tem..^1.&* mieć rozfionsanue!/
 obj_shop5_556
-\W* \E6tem wil offer..^1.\Y &* a SKOLARSHIPS\W!/
+\W* \E6tem oferuje..^1.\Y &* DOFINANSOWANIE\W!/
 obj_shop5_557
-\W*\E3 if u \Ylose a lot of battles^1, \W &  tem wil \YLOWER THE PRICE\W!/
+\W*\E3 jesli \Ypszegrasz dduszo walk^1, \W &  tem \YOBNISZY CENEO\W!/
 obj_shop5_558
-\E3* so if you get to TOUGH BATLE&  and feel FRUSTRATE^1, can buy&  TEM armor as last resort!/
+\E3* wionc jośli bundziesz w&  CIONSZKIEJ WALCE i czujesz&  FRUSTRACJE^1, moszna kupidźć&  zbroje TEM jako ucieczke!/
 obj_shop5_559
-\E5* but tem armor so goods^1,&* promise to only buy if you&  really needs it^1,/%%
+\E5* ale zbroja tem taka dobzia^1,&* obiecać^1, ze tylko kupuisz&  jaśli bardzo potszebujes^1,/%%
 obj_shop5_560
-\E1* in fack..^1.&* PRICE MAY ALREADY BE LOWERS!!!&* WOA!!!!/
+\E1* wbłasciwue..^1.&* CENEO JUSZ MOŻE NISZSZA!!!&* WOA!!!!/
 obj_shop5_564
-\E6* Congra-tem-lations!!!/%%
+\E6* Kongra-tem-ulacje!!!/%%
 obj_shop5_565
-\E0* us tems hav a DEEP HISTORY!!!/%%
+\E0* my temy mieć GŁEMBOKOM&  HISTORIE!!!/%%
 obj_shop5_575
-\E0* yaYA!!^1!&* tem got degree in TEM STUDIES^1!&* tem can tell you all about&  tem's DEEP HISTORY!!!/%%
+\E0* yaYA!!^1!&* tem mieć stopieni na UCZELNI^1!&* tem móc powiedziedź wrzysdko&  o GŁEMBOKIEJ HISTORI temuw!!!/%%
 obj_shop5_579
-\E0* yaYA!!!&* go to TEM SHOP!!!/%%
+\E0* yaYA!!!&* ić do SKLEPU TEMA!!!/%%
 obj_shop5_584
 \E1* WOA!!/
 obj_shop5_589
-\E2* u gota... \[1]s!!!/
+\E2* mas... \[1]s!!!/
 obj_shop5_590
-\E4* hnnn...^1.&* i gota have dat \[1]s..^1.&* but i gota pay for colleg,/
+\E4* hnnn...^1.&* tem musieć mieć \[1]..^1.&* ale muse zapalcić za uczelniem,/
 obj_shop5_591
-\E4* hnnn...^1.&* i gota have dat \[1]s..^1.&* but i gota pay for gradskool,/
+\E4* hnnn...^1.&* tem musieć miec \[1]..^1.&* ale musie zapalćic za szkoułe,/
 obj_shop5_594
-\E5* hnnnn....!!^1!&* tem always wanna \[1]s...!/%%
+\E5* hnnnn....!!^1!&* tem od zawsze chćieć&  \[1]...!/%%
 obj_shop5_596
-\E2* b..^1 but.../
+\E2* a..^1 ale.../
 obj_shop5_601
 \E4* p!!!!!!!!!!!!/%%
 obj_shop5_602
-\E3* You will regret this./%%
+\E3* Pożałujesz tego./%%
 obj_shop5_607
-\E3* Is this a joke^1?&* Are you having a chuckle^1?&* Ha ha^1, very funny^1.&* I'm the one with a degree./%%
+\E3* Czy to żart^1?&* Coś cię bawi^1?&* Ha ha^1, bardzo śmieszne^1.&* To JA mam dyplomat tEM./%%
 obj_shop5_611
 obj_shop5_633
-\E2* thas ALOT o muns..^1.&* can tem realy acepts.../
+\E2* to wiele płuatkuf..^1.&* czy tEM naprafde mosze&  to przyjonć.../
 obj_shop5_634
-\E7* OKs!!!^1!&* tem go to colleg and make&  u prouds!!!/%%
+\E7* OKs!!!^1!&* tem iŚĆ na stUDIA i ucynić&  ce dumny OwO!!!/%%
 obj_shop5_635
-* tem bak from cool leg,/
+* tem wrućić ze studia,/
 obj_shop5_672
-\E0* tem learn MANY THINs^1,&* learn to sell new ITEM^1!&* yayA!!!/%%
+\E0* tem naucyć siem WIELE RZECZY^1,&* i uczyć siem spszedawuac NOWE&  RZECZY^1!&* yayA!!!/%%
 obj_shop5_673
-* (There's a green key lying&  in the bathtub.)/
+* (Jest zielony klucz leżący&  w wannie.)/
 obj_showercurtain_227
 obj_showercurtain_228
-* (It's an empty bathtub.)/%%
+* (To pusta wanna.)/%%
 obj_showercurtain_248
-....&....&toot&....
+....&....&tut&....
 obj_shyren_274
 ....&....&hum hum
 obj_shyren_275
@@ -25468,78 +25468,78 @@ Si Fa&Si Fa&So Fa So&Mi Re Re
 obj_shyren_279
 Mi So&Mi So&Mi Si Mi&La Si So
 obj_shyren_280
-(agg-&ressive&tooting)
+(agg-&resywne&tutanie)
 obj_shyren_281
-(final&toot)
+(ostatnie&tut)
 obj_shyren_282
 obj_shyren_283
-* Shyren hums very faintly.
+* Shyren nuci wstydliwie.
 obj_shyren_470
-* Shyren pretends to be a&  pop idol.
+* Shyren udaje^1, że jest&  pop idolem.
 obj_shyren_471
-* Shyren taps a little beat&  with her fins.
+* Shyren stuka któtką nutę&  płetwami.
 obj_shyren_472
-* Shyren thinks about doing&  karaoke by herself.
+* Shyren myśli o robieniu&  samodzielnego karaoke.
 obj_shyren_473
-* Smells like music.
+* Pachnie muzyką.
 obj_shyren_474
-* Shyren's voice gets raspy.
+* Głos Shyrena się zdziera.
 obj_shyren_475
-* Shyren seems much more&  comfortable singing along.
+* Shyren wydaje się o wiele&  bardziej komfortowa w wspólnym&  śpiewaniu.
 obj_shyren_476
-* Sans is selling tickets&  made of toilet paper.
+* Sans sprzedaje bilety zrobione&  z papieru toaletowego.
 obj_shyren_479
-* A hooded figure watches&  the commotion from afar.
+* Dziwna postać ogląda&  koncert z daleka.
 obj_shyren_480
-* The crowd tosses clothing^1.&* It's a storm of socks.
+* Publiczność podaje ubrania^1.&* Burza skarpet!!
 obj_shyren_482
-* Shyren thinks about her&  future.
+* Shyren myśli o swojej&  przyszłości.
 obj_shyren_483
-* SHYREN - ATK 19 DEF 0&* Tone deaf^1. She's too ashamed&  to sing her deadly song./^
+* SHYREN - ATK 19 DEF 0&* Tone deaf^1. Jest zbyt wstydliwa&  by nucić zabójczą melodię./^
 obj_shyren_502
-* SHYREN - ATK 19 DEF 0&* A talented singer^1, with&  a little help./^
+* SHYREN - ATK 19 DEF 0&* Utalentowana piosenkarka^1, z&  małą pomocą./^
 obj_shyren_503
-* SHYREN - ATK 19 DEF 0&* That's Shyren^1.&* She's your band-mate./^
+* SHYREN - ATK 19 DEF 0&* To Shyren^1.&* Jest twoją band-mate./^
 obj_shyren_504
-* You hum a funky tune^1.&* Shyren follows your melody./^
+* Nucisz ruchliwą nutę^1.&* Shyren podąża twoim śladem./^
 obj_shyren_514
-* You hum a sad song^1.&* Shyren follows your melody./^
+* Nucisz smutną piosenkę^1.&* Shyren podąża twoim śladem./^
 obj_shyren_515
-* You hum a jazz ballad^1.&* Shyren follows your melody./^
+* Nucisz jazzową balladę^1.&* Shyren podąża twoim śladem./^
 obj_shyren_516
-* You hum some more^1.&* Monsters are drawn to the&  music./
+* Nucisz jeszcze trochę^1.&* Twoja muzyka przyciąga&  inne potwory./
 obj_shyren_517
-* Suddenly^1, it's a concert.../^
+* Nagle^1, to się szybko&  przemienia w koncert.../^
 obj_shyren_518
-* You hum some more^1.&* The seats are sold out^1.&* You feel like a rock star./^
+* Nucisz jeszcze więcej^1.&* Miejsca już się wyprzedały^1.&* Czujesz się jak gwiazda rocka./^
 obj_shyren_519
-* You hum some more^1.&* But the constant attention.../
+* Nucisz jeszcze więcej^1.&* Ale ta atencja.../
 obj_shyren_520
-* The tours..^1.&* The groupies..^1.&* It's all.../^
+* Wycieczki..^1.&* Fancluby..^1.&* To wszystko.../^
 obj_shyren_521
-* You and Shyren have come so&  far^1, but it's time./
+* Ty i Shyren zaszliście tak&  daleko^1, ale nadszedł&  już czas./
 obj_shyren_522
-* You both have your own&  journeys to embark on./
+* Obydwoje macie swoje własne&  życia do odbycia./
 obj_shyren_523
-* You hum a farewell song./^
+* Nucisz pożegnalną nutę./^
 obj_shyren_524
-* You smile^1.&* You ask to see Shyren's smile^1,&  too./
+* Uśmiechasz się^1.&* Prosisz Shyrena^1, żeby&  też się uśmiechnęła./
 obj_shyren_537
-* Shyren gets quieter^1.&* In the corner^1, Aaron nods&  his head approvingly./^
+* Shyren się ucisza^1.&* W rogu^1, Aaron kiwa głową^1,&  pokazując dumę./^
 obj_shyren_538
-* You keep smiling^1.&* But nothing happened./^
+* Dalej się śmiejesz^1.&* Ale nic się nie stało./^
 obj_shyren_539
-* You give a darling smile and&  a little wink./
+* Rzuciłeś sympatyczny uśmiech&  i dodałeś oczko./
 obj_shyren_540
-* The crowd goes wild!/^
+* Widownia robi się dzika!/^
 obj_shyren_541
-* You wave your arms wildly^1.&* You are now vulnerable&  to electric attacks./^
+* Machasz dziko rękami^1.&* Teraz jesteś wrażliwy na&  elektryczne ataki./^
 obj_shyren_550
-* You wave your arms wildly^1.&* The crowd eats it up./^
+* Machasz dziko rękami^1.&* Widownia robi to samo./^
 obj_shyren_551
-* It's a mixture of socks^1,&  fanmail^1, and toilet paper./%%
+* To mieszanka skarpet^1,&  listów od zauroczonych&  fanów i papieru toaletowego./%%
 obj_shyrenstrewn_60
-* There's a conspicuous&  lack of anything on the&  ground./%%
+* Na ziemi czegoś wyraźnie&  brakuje./%%
 obj_shyrenstrewn_61
 * Targ Pajęczych Wypieków&* Wszystkie środki przekazywane&  są prawdziwym pająkom./%%
 obj_sign_room_66
@@ -25562,13 +25562,13 @@ obj_sign_room_103
 obj_sign_room_107
 obj_sign_room_108
 obj_sign_room_109
-* SMELL DANGER RATING/
+* OCENA&  ZAGROŻENIA&  ZAPACHOWEGO/
 obj_sign_room_113
-\W* Zapach Śniegu - Bałwan&  Biały Rating^1, Może się zmienić&  na \YŻÓŁTY\W Rating/
+\W* Zapach Śniegu - Bałwan&  Biała Ocena^1, Może się zmienić&  na \YŻÓŁTĄ\W Ocenę/
 obj_sign_room_114
-\W* Niepodejrzliwy Zapach - Piesio&  \BNIEBIESKI\W Rating&  Zapach tarzania się w śniegu./
+\W* Niepodejrzliwy Zapach - Piesio&  \BNIEBIESKA\W Ocena&  Zapach tarzania się w śniegu./
 obj_sign_room_116
-\W* Dziwny Zapach - Ludzie&  \RZIELONY\W Rating&  Zniszczyć za wszelką cenę!/%%
+\W* Dziwny Zapach - Ludzie&  \RZIELONA\W Ocena&  Zniszczyć za wszelką cenę!/%%
 obj_sign_room_117
 * Uwaga:&  Psi Ślub/%%
 obj_sign_room_119
@@ -25576,9 +25576,9 @@ obj_sign_room_119
 obj_sign_room_120
 * Zamień każdy X na O^1.&* Wtedy naciśnij przełącznik./%%
 obj_sign_room_121
-* UWAGA PIES&* prose pogłaskać psa/%%
+* STRZEŻ SIĘ PIESA&* prose poglaskac piesa/%%
 obj_sign_room_123
-* (Woof.)/%%
+* (Szczere woof.)/%%
 obj_sign_room_124
 * (Nie poślizgniesz się na&  X^1, O^1, ani trójkącie.)/%%
 obj_sign_room_126
@@ -25605,9 +25605,9 @@ obj_sign_room_207
 obj_sign_room_208
 * hOI!^1!&* witoj w..^1.&* WIOSCE TEMÓW!!!/%%
 obj_sign_room_220
-* hOI!^1!&* u shud check out..^1.&* TEM SHOP!!!/%%
+* hOI!^1!&* powinins odwuedzic..^1.&* SKLEP TEMA!!!/%%
 obj_sign_room_221
-* yaYA!^1! i AGREES!^1!&* shud check..^1.&* TEM SHOP!!!/%%
+* yaYA!^1! zGADzAM śE!^1!&* odwuedź..^1.&* SKLEP TEMA!!!/%%
 obj_sign_room_222
 * Uczysz się rysowania^1?&* Chodź na lekcje sztuki&  na drugim piętrze!/
 obj_sign_room_227
@@ -26942,134 +26942,134 @@ obj_switchhelptrigger_69
 obj_telescope_71
 * (To dziwnie wyglądający&  teleskop.)/%%
 obj_telescope_75
-awwAwa&cute!!&(pets u)
+awwAwa&słuodkie!!&(głaszcze)
 obj_tembattle_282
-OMG!!&humans&TOO CUTE&(dies)
+OMG!!&czlowieki&UROCZE&(umiera)
 obj_tembattle_283
-hOI!!!&i'm&TEMMIE!!
+hOI!!!&jostum&TEMMIE!!
 obj_tembattle_284
-fhsdhjf&dsfjsd&dshjfsd
+fhsdhjf&dsfjsfd&dshjfsd
 obj_tembattle_285
-NO!!!!!&muscles&......&NOT CUTE
+NUE!!!!!&mionśnie&......&NIE SUODKIE
 obj_tembattle_288
-NO!!!&so&hungr...&(dies)
+NUE!!!&taki&głuodn...&(umiera)
 obj_tembattle_292
-hOI!!!&i'm&tEMMIE!!
+hOI!!!&jestem&tEMMIE!!
 obj_tembattle_298
-FOOB!!!
+JEBZENIE!!!
 obj_tembattle_302
 obj_tembattle_307
-* Temmie is trying to glomp&  you.
+* Temmie próbuje cię przytulić.
 obj_tembattle_504
-* Temmie forgot her other&  attack.
+* Temmie forgor jej&  drugiego ataku.
 obj_tembattle_505
-* Temmie vibrates intensely.
+* Temmie wibruje intensywnie.
 obj_tembattle_506
-* Temmie is doing her hairs.
+* Temmie robi swoje włoski.
 obj_tembattle_507
-* Temmiy accidentally misspells&  her own name.
+* Temmiy ma dyslekcję i źle&  pisze swoje imię.
 obj_tembattle_508
-* Smells like Temmie Flakes.
+* Pachnie jak Temmie Flakes.
 obj_tembattle_509
-* How'd you do that?
+* Jak żeś to zrobił?
 obj_tembattle_511
-* TEMMIE - RATED TEM OUTTA TEM&* Loves to pet cute humans^1.&* But you're allergic!/^
+* TEMMIE - RATED TEM OUTTA TEM&* Kocha głaskać urocze człowieki^1.&* Ale jesteś alergiczny!/^
 obj_tembattle_527
-* Temmie only wants the&  Temmie Flakes./^
+* Temmie tylko chce swoje&  Temmie Flakes./^
 obj_tembattle_539
-   Give the Temmie Flakes?& &   Yas             NO!!!!!!!\C
+   Dać Temmie Flakes?& &   Yas             NUE!!!!!!!\C
 obj_tembattle_550
-* You flex at Temmie.../%%
+* Flexujesz się przed Temmiem.../%%
 obj_tembattle_561
-* You say hello to Temmie./^
+* Mówisz Temmiemu cześć./^
 obj_tembattle_573
-NO!!!!!&muscles&r.....&NOT CUTE/%%
+NUE!!!!!&mionśnie&nue som..&SUODKIE/%%
 obj_tembattle_617
 obj_tembattle_621
-Ooh, I&have to&disagree&; )/%%
+Oo, z&tym się&nie&zgodzę; )/%%
 obj_tembattle_635
-Temmie^1,&are you&okay?&; )/%%
+Temmie^1,&wszystko&okej?&; )/%%
 obj_tembattle_636
 obj_tembattle_637
-NO!!!!!&!!!!!!!/%%
+NUE!!!!&!!!!!!!/%%
 obj_tembattle_652
 obj_tembattle_653
-* hOI!^1!&* im temmie!!!/
+* hOI!^1!&* jestem temmie!!!/
 obj_temnpc_72
-* and dis is my friend..^1.&* temmie!!!/%%
+* a oto muj psyjacuel..^1.&* temmie!!!/%%
 obj_temnpc_73
-* woa..^1. tem hear news..^1.&* VERY GOODS!!!/%%
+* woa..^1. tem słuyszeć..^1.&* DOBRE WUADOMOŚIĆI!!!/%%
 obj_temnpc_77
 obj_temnpc_82
-* don forget my friend!/%%
+* ne zapomnuj o moim psyjacielu!/%%
 obj_temnpc_83
-* yaYA!!^1!&* tems can go free!!/%%
+* yaYA!!^1!&* tems mosze siem uwolnić!!/%%
 obj_temnpc_87
-* Hi./
+* Hej./
 obj_temnpc_93
-* I'm Bob./%%
+* Jestem Bob./%%
 obj_temnpc_94
-* A pleasing development^1, no?/%%
+* Niespodziewany rozwój^1, nie?/%%
 obj_temnpc_98
-* awawawawah!!/
+* awawawah!!/
 obj_temnpc_103
-* humans..^1.&* such a.../
+* człowieki..^1.&* som tacy.../
 obj_temnpc_104
-* CUTE!!!!/%%
+* SŁUODCY!!!!/%%
 obj_temnpc_105
-* woa..^1.&* if tems can go on surface^1,&  can see,/
+* woa..^1.&* jak tem pujśići na&  pofieszchunie^1, mosze zobaczuć,/
 obj_temnpc_109
-* LOT OF CUTES HUNAN!!!/%%
+* DUZIO SŁUOTKIH CZUŁOWIEKÓF!!!/%%
 obj_temnpc_110
-* tem..^1. WATCH EGG!!!/
+* tem..^1. PILNOWAĆ JAJKO!!!/
 obj_temnpc_116
-* eg..^1. wil HATCH!!!/
+* jajkuo..^1. sue WYKLUJE!!!/
 obj_temnpc_117
-* tem..^1. PROUD PARENT!!/%%
+* tem..^1. DUMNY RODZIC!!/%%
 obj_temnpc_118
-* everyones go free..^1.&* BUT TEM!!!/
+* fszyscy idom..^1.&* ALE TEM!!!/
 obj_temnpc_122
-* TEM NOT LEAV!!!&* TEM WATCH EG!!!/
+* TEM NUE IDZUE!!!&* TEM PATRZY JAJKUO!!!/
 obj_temnpc_123
-* tem will be happily fambily,/%%
+* tem bendzue hapi famili,/%%
 obj_temnpc_124
-* (The dog absorbs the&  artifact.)/%%
+* (Pies pochłania artefakt.)/%%
 obj_tobdog_pendant_137
-And that's the&end of Hard&Mode!/%%
+A oto koniec&Hard Mode'a!/%%
 obj_torboss_2ndtime_153
 \E1Eh??/
 obj_torboss_2ndtime_175
-\E2You are ending&it NOW?/
+\E2Kończysz&to TERAZ?/
 obj_torboss_2ndtime_176
-\E1And on such a&dramatic moment...?/%%
+\E1I jeszcze w&takim drama-&tycznym&momencie...?/%%
 obj_torboss_2ndtime_177
-That's the&difficult part./
+To jest&najtrudniejsza&część./
 obj_torboss_2ndtime_192
-Not the bullets./
+Nie naboje./
 obj_torboss_2ndtime_193
-\M2But^1, accepting&that it's all&over.../%%
+\M2Ale^1, akceptacja^1,&że to już koniec&.../%%
 obj_torboss_2ndtime_194
-But there WILL be&more^1, will there&not?/%%
+Ale BĘDZIE&więcej^1, czyż&nie?/%%
 obj_torboss_2ndtime_211
-\M1Maybe./
+\M1Może./
 obj_torboss_2ndtime_224
-\M2Knowing the&answer is.../
+\M2Znajomość&odpowiedzi&jest.../
 obj_torboss_2ndtime_225
-\M2... HARD./
+\M2... CIĘŻKA./
 obj_torboss_2ndtime_226
 \E4.../%%
 obj_torboss_2ndtime_227
-Hey!/
+Hej!/
 obj_torboss_2ndtime_264
-Aren't you&supposed&to be dying or&something?/%%
+Nie powinieneś&umierać&czy coś?/%%
 obj_torboss_2ndtime_265
-Well^1.&What is the point&of that now?/%%
+Cóż^1.&Jaki jest teraz&cel gry?/%%
 obj_torboss_2ndtime_280
-What will you do&instead...?/%%
+Co zrobisz&dla odmiany...?/%%
 obj_torboss_2ndtime_293
-Hmmm^1.&Perhaps I will&bake another pie./
+Hmmm^1.&Może ci upiekę&kolejne ciasto./
 obj_torboss_2ndtime_308
-That last one ended&up a little burnt./%%
+Jako że poprzednie&się trochę&przypaliło./%%
 obj_torboss_2ndtime_309
 \E2I thought it was&good./
 obj_torboss_2ndtime_324
@@ -27130,72 +27130,72 @@ I already said&that./%%
 obj_torboss_2ndtime_595
 obj_tordogcall_64
 obj_tordogcall_65
-* Hello^1!&* This is TORIEL./
+* Witaj^1!&* Mówi TORIEL./
 obj_tordogcall_66
-\E1* My errands are taking&  longer than I thought&  they would./
+\E1* Moje sprawunki trwają&  dłużej niż myślałam&  że będą./
 obj_tordogcall_67
-\E1* You must wait 5 more&  minutes./
+\E1* Musisz jeszcze&  poczekać 5 minut./
 obj_tordogcall_68
-\E0* Thank you for being&  patient./
+\E0* Dziękuję za twoją&  cierpliwość./
 obj_tordogcall_69
 obj_tordogcall_70
 obj_tordogcall_71
-* Ring..\E1.\TT /
+* Dzyn..\E1.\TT /
 obj_tordogcall_84
 obj_tordogcall_85
-* Hello..^1.&* This is TORIEL./
+* Halo..^1.&* Mówi TORIEL./
 obj_tordogcall_86
-\E1* I found what I was&  looking for./
+\E1* Znalazłam to^1, czego&  szukałam./
 obj_tordogcall_87
-* But before I could&  take it.../
+* Ale zanim zdołałam&  to wziąć.../
 obj_tordogcall_88
-* A small^1, white puppy&  snatched it away./
+* Mały^1, biały piesek&  mi to wyrwał./
 obj_tordogcall_89
-\E0* How odd./
+\E0* Jakie niefortunne./
 obj_tordogcall_90
-\E1* Do dogs even LIKE&  flour?/
+\E1* Czy pieski w ogóle&  LUBIĄ mąkę?/
 obj_tordogcall_91
-\E8* Err^1, that is an&  unrelated question^1,&  of course./
+\E8* Err^1, to jest oczywiście&  niepowiązane pytanie./
 obj_tordogcall_92
-\E1* It will take a little&  longer^1.&* Please understand./
+\E1* To mi zajmie troszę&  dłużej^1.&* Proszę o zrozumiałość./
 obj_tordogcall_93
 obj_tordogcall_94
 obj_tordogcall_95
 obj_tordogcall_109
 obj_tordogcall_110
-* (You hear heavy panting on&  the other end of the&  phone...)/
+* (Słyszysz ciężkie dyszenie&  przez słuchawkę w telefonie...)/
 obj_tordogcall_111
 obj_tordogcall_112
-* Bark^1!&* Bark!/
+* Woof^1!&* Woof!/
 obj_tordogcall_113
-* Bark..^1.&* Bark!/
+* Woof..^1.&* Woof!/
 obj_tordogcall_114
-* (You hear a distant voice.)\TT/
+* (Słyszysz odległy głos.)\TT/
 obj_tordogcall_115
-* Stop^1, please!/
+* Przestań^1, proszę!/
 obj_tordogcall_116
-* Come back here with my&  CELLPHONE!/
+* Wracaj tu z moją&  KOMÓRKĄ!/
 obj_tordogcall_117
 obj_tordogcall_118
 obj_tordogcall_119
 obj_tordogcall_150
 obj_tordogcall_151
-* (Snore..^1. snore...)/
+* (Chrap..^1. chrap...)/
 obj_tordogcall_152
-* (It sounds like a small^1,&  white dog is sleeping on&  the cell phone.)/
+* (Brzmi na małego^1, białego&  pieska śpiącego na&  komóce.)/
 obj_tordogcall_153
 obj_tordogcall_154
-* Helloooo^1?&* Little puppy...?/
+* Haaloooo^1?&* Mała psinko...?/
 obj_tordogcall_155
-* Where are you...?/
+* Gdzie jesteś...?/
 obj_tordogcall_156
-* I will give you a nice pat&  on the head!\T0/
+* Dam ci miły&  klep po głowie!\T0/
 obj_tordogcall_157
-* (The snoring stops.)\TT/
+* (Chrapanie się zatrzymuje.)\TT/
 obj_tordogcall_158
-* ... if you return my CELLPHONE.\T0/
+* ... jeśli mi zwrócisz&  KOMÓRKĘ.\T0/
 obj_tordogcall_159
-* (The snoring resumes.)/
+* (Chrapanie kontynuuje.)/
 obj_tordogcall_160
 obj_tordogcall_161
 obj_tordogcall_162
@@ -27204,37 +27204,37 @@ obj_tordogcall_177
 obj_tordogcall_178
 * (Achoo!)/
 obj_tordogcall_179
-* (It sounds like a small^1,&  white dog sneezing in its&  sleep.)/
+* (Brzmi na małego^1, białego&  pieska kichającego przez&  sen.)/
 obj_tordogcall_180
 obj_tordogcall_181
-* Here^1, pup-pup-puppy!/
+* Psinkoo^1, pspspsps!/
 obj_tordogcall_182
-* Oh dear^1, I should not keep&  my guest waiting any longer./
+* Ojej^1, Nie powinnam trzymać&  moich czekających gości./
 obj_tordogcall_183
-* ... Oh no^1, how long has it&  been since I have talked to&  them...?/
+* ... O nie^1, ile już minęło&  odkąd z nim rozmawiałam...?/
 obj_tordogcall_184
-* Perhaps they have been calling&  the phone^1, and...?/
+* Być może dzwonił na komórkę^1,&  a ja...?/
 obj_tordogcall_185
-* ... here^1, puppy!/
+* ... chodź^1, psinko!/
 obj_tordogcall_186
 obj_tordogcall_187
 obj_tordogcall_188
 obj_tordogcall_203
 obj_tordogcall_204
 obj_tordogcall_205
-* (Yawn...)/
+* (Ziew...)/
 obj_tordogcall_206
-* (Blink blink.)/
+* (Mrug mrug.)/
 obj_tordogcall_207
 obj_tordogcall_208
 obj_tordogcall_209
-* (You hear a tired voice.)\TT/
+* (Słyszysz zmęczony głos.)\TT/
 obj_tordogcall_210
-* Doggie..^1.&* Here^1, doggie.../
+* Piesku..^1.&* Chodź^1, piesku.../
 obj_tordogcall_211
-* Oh dear.../
+* Ojej.../
 obj_tordogcall_212
-* I do wonder how they are.../
+* Zastanawiam się^1, gdzie&  on jest.../
 obj_tordogcall_213
 obj_tordogcall_214
 obj_tordogcall_215
