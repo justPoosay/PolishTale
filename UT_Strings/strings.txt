@@ -6444,7 +6444,7 @@ Podarty Zeszyt
 item_name_45
 Popl. Fartuch
 item_name_46
-Spalona Patelnia
+Spal. Pat.
 item_name_47
 Czapka Kowboja
 item_name_48
@@ -6920,7 +6920,7 @@ phonename_206
 Telefon Papyrus
 phonename_210
 Papyrus i Undyne
-Pudło Manewrowe B
+Pudło Manewrowe A
 phonename_220
 Pudło Manewrowe B
 phonename_221
@@ -6965,7 +6965,7 @@ SCR_TEXT_62
 * (Okazjonalnie^1, różne śmieci&  spływają z wodą...)/
 * (... i spadają do&  bezdennej przepaści&  poniżej.)/
 * (Widząc ten niekończący się&  cykl wezwartościowych&  odpadów...)/
-* (Stawając się jednością ze& śmieciami^1. wypełniasz się&  determinacją.)/%%
+* (Stając się jednością ze& śmieciami^1. wypełniasz się&  determinacją.)/%%
 * (Czujesz ukojenie i spokój^1.&  Napełniasz się&  determinacją...)/%%
 * (Wyczuwasz..^1. coś.)&* (Napełniasz się&  determinacją.)/%%
 * (Wiatr wieje kojąco^1.&* Napełniasz się&  determinacją...)/%%
@@ -7794,29 +7794,29 @@ MYŚLĘ^1, ŻE&BYLIBYŚMY&SUPER ZIOMKAMI!/
 SPOTKAJMY SIĘ U&JEJ DOMU PÓŹNIEJ!/
 PO TYM JAK ZE&MNĄ SIĘ SPOTKASZ.../
 SPOTKAJMY SIĘ&U NIEJ W DOMU!/
-* (It's a book labelled&  Monster History Part 7.)&         Read it     Do not\C
-* When a human dies^1, its&  soul remains stable&  outside the body./
-* Meanwhile^1, a monster's soul&  disappears near-instantly&  upon death./
-* This allows monsters to&  absorb the souls of&  humans.../
-* While it is extremely&  difficult for humans to&  absorb a monster's soul./
-* This is why they feared us./
-* Though monsters are weak^1,&  with enough human souls.../
-* They could easily destroy&  all of mankind./%%
-* (You decide not to read it.)/%%
-* (It's a book labelled&  Monster History Part 8.)&         Read it     Do not\C
-* There is one exception&  to the aforementioned&  rules:/
-* A certain type of monster^1,&  the "boss" monster./
-* Due to its life cycle^1, it&  possesses an incredibly&  strong soul for a monster./
-* This soul can remain&  stable after death^1, if&  only for a few moments./%%
-* (All these books are labelled&  Human History.)&         Read one    Do not\C
-* (You look inside a book.)/
-* (It's a comic of a giant&  robot fighting a beautiful&  alien princess.)/
-* (This doesn't strike you&  as very accurate...)/%%
-* (You decide not to.)/%%
-* (You look inside a book.)&* (It's a comic book.)/
-* (Two scantily-clad chefs are&  flinging energy pancakes&  at each other.)/
-* (A hideous android is running&  to school with toast in&  its mouth.)/
-* (Seems like it's late.)/
+* (To książka oznaczona tytułem&  "Historia Potworów część 7".)&         Czytaj      Hell nah\C
+* Kiedy człowiek umiera^1,&  jego dusza pozostaje&  stabilna poza ciałem./
+* Podczas kiedy dusza potwora&  znika niemalże natychmiastowo&  po śmierci./
+* To pozwala potworom&  pochłaniać ludzkie dusze.../
+* Chociaż jest to niesamowicie&  trudne dla człowieka by&  wchłonić duszę potwora./
+* Dlatego się nas obawiali./
+* Chociaż potwory są słabe^1,&  to z wystarczającą ilością&  ludzkich duszy.../
+* Mogliby z łatwością&  całkowicie zniszczyć&  ludzką rasę./%%
+* (Postanawiasz nie czytać.)/%%
+* (To książka oznaczona tytułem&  "Historia Potworów część 8".)&         Czytaj      Hell nah\C
+* Natomiast istnieje jeden&  wyjątek powyższych praw:/
+* Specyficzny typ potwora^1,&  nazywany "bossowym" potworem./
+* Ze względu na swój cykl życia^1,&  posiadają niesamowicie silną&  duszę jak na potwora./
+* Ta dusza może pozostać&  stabilna po śmierci^1,&  choćby na krótką chwilę./%%
+* (Wszystkie te książki mają&  tytuł "Historia Ludzi".)&         Czytaj      Nie\C
+* (Zaglądasz do książki.)/
+* (To komiks gigantycznego&  robota walczącego z piękną&  kosmitą-księżniczką.)/
+* (To nie wygląda dla ciebie&  za bardzo na dokładne...)/%%
+* (Postanawiasz nie czytać.)/%%
+* (Zaglądasz do książki.)&* (To tylko komiks.)/
+* (Dwóch skąpo-ubranych kucharzy&  rzucają w siebie kalorycznymi&  naleśnikami.)/
+* (Brzydki android biegnie do&  szkoły z tostem w ustach.)/
+* (Wygląda na to, że&  jest już późno.)/
 * (Stoi tu stare pianino.^1)&* (Zagrać na nim?)&         Tak         Nie\C
 Widzisz to serce^1? &To jest twoja DUSZA^1,&sama kulminacja&twojego istnienia!/
 Twoja dusza zaczyna&słabo^1, ale możesz&ją umocnić, jeśli&zyskasz dużo LV./
@@ -14261,7 +14261,7 @@ obj_gyftrotnpc_76
 obj_gyftrotnpc_77
   Nie możesz się&  jeszcze poddać.../
 obj_heartdefeated_0_0
-  \[C]^1!&  Pozostań zdeterminowany.../%%
+  \[C]^1!&  Pozostań &  zdeterminowany.../%%
 obj_heartdefeated_0_1
   \[C], to tylko&  zły sen.../
 obj_heartdefeated_100_0
@@ -14277,7 +14277,7 @@ obj_heartdefeated_102_0
 obj_heartdefeated_102_1
   \[C]! Jesteś&  \[C]!/
 obj_heartdefeated_103_0
-  Nie możesz opuścić^1!&  Pozostań zdeterminowant.../%%
+  Nie możesz opuścić^1!&  Pozostań&  zdeterminowany.../%%
 obj_heartdefeated_103_1
   \[C], czy to&  jakiś żart?/
 obj_heartdefeated_104_0
@@ -14289,7 +14289,7 @@ obj_heartdefeated_105_0
 obj_heartdefeated_105_1
   \[C], zbierz&  twoją siłę./
 obj_heartdefeated_106_0
-  Pozostań zdeterminowany!/%%
+  Pozostań&  zdeterminowany!/%%
 obj_heartdefeated_106_1
   \[C], musisz&  iść dalej./
 obj_heartdefeated_107_0
@@ -15934,7 +15934,7 @@ uhhh..^1.&troche siara./
 obj_maddummy_1664
 sorry^1.&miłego dnia./%%
 obj_maddummy_1665
-* (Ring^1, ring...)/
+* (Dzyn^1, dzyn...)/
 obj_mainend_158
 * heya./
 obj_mainend_160
@@ -18854,56 +18854,56 @@ obj_napstablook_actor_153
 obj_napstablook_actor_157
 * ......................&  ...... coś czadowego./
 obj_napstablook_actor_158
-* human...^1.&* i'll never forget when you&  cheered me on/
+* człowieku...^1.&* nigdy nie zapomnę kiedy ty&  mnie pocieszyłeś/
 obj_napstablook_actor_163
-* when i was pretending to&  sleep.../
+* kiedy udawałem, &  że śpię.../
 obj_napstablook_actor_164
-* no one had ever had so&  much faith in my fake&  sleep..../
+* nikt jeszcze nie miał&  tyle wiary w moje&  udawane spanie..../
 obj_napstablook_actor_165
-* human..^1.&* i'll never forget.../
+* człowieku..^1.&* nigdy nie zapomnę.../
 obj_napstablook_actor_171
-* that time you tried to&  destroy me..^1.&* but... you failed..../
+* tego czasu kiedy próbowałeś&  mnie zniszczyć..^1.&* ale... bez powodzenia..../
 obj_napstablook_actor_172
-* sorry..^1.&* i messed it up/
+* sorry..^1.&* zepsułem to/
 obj_napstablook_actor_173
-* uh........^1.&* also.....^1.&* this is awkward... but/
+* uh........^1.&* tak  wogule.....^1.&* trochę siara... ale/
 obj_napstablook_actor_179
-* what's...^1.&  your name/
+* jak...^1.&  się nazywasz/
 obj_napstablook_actor_180
-* everyone seems to know&  it now^1, except me...../
+* każdy teraz już to&  chyba wie^1, oprócz mnie...../
 obj_napstablook_actor_181
-* seems like i've been&  missing out lately/
+* wygląda na to^1, że&  wiele mnie ostatnio&  ominęło/
 obj_napstablook_actor_182
-* i was just sitting at home&  listening to tunes/
+* jako że po prosu siedziałem&  w domu i słuchałem muzyki/
 obj_napstablook_actor_183
-* there was a flash of light&  outside my window/
+* był błysk światła &  za moim oknem/
 obj_napstablook_actor_184
-* i saw the snails on the farm&  disappear/
+* widziałem jak ślimaki z&  farmy znikają/
 obj_napstablook_actor_185
-* then i heard a knock at&  the door/
+* wtedy słyszałem&  zapukanie do drzwi/
 obj_napstablook_actor_186
-* the flash of light wanted&  to come in...&* i closed the blinds.../
+* błysk światła chciał&  wejść do środka...&* zasłoniłem okna.../
 obj_napstablook_actor_187
-* now everyone knows your&  name except for me/
+* teraz każdy zna twoje&  imię oprócz ciebie/
 obj_napstablook_actor_188
-* "frisk..."&* ok^1, i wont forget it/%%
+* "frisk..."&* ok^1, nie zapomnę/%%
 obj_napstablook_actor_189
-* your name...?/
+* twoje imię...?/
 obj_napstablook_actor_196
 obj_napstablook_actor_197
-* "frisk"..^1.&* i didnt forget/
+* "frisk"..^1.&* nie zapomniałem/
 obj_napstablook_actor_198
-* because i cried the&  letters into my hand/%%
+* bo wypłakałem litery&  na moje ręce/%%
 obj_napstablook_actor_199
-* oh no..^1.&* the letters in my hand&  are joining together/
+* o nie..^1.&* litery na mojej ręce&  zaczynają się łączyć/
 obj_napstablook_actor_204
-* oh no..^1.&* i'm going to forget your&  name.../
+* o nie..^1.&* ja zapomnę twoje imię.../
 obj_napstablook_actor_205
-* oh no..^1.&* i'm trying to cry more&  tears into my hand.../
+* o nie..^1.&* próbuję wypłakać więcej&  łez w moje ręce.../
 obj_napstablook_actor_206
-* oh no..^1.&* the tears are all forming&  a big pile.../
+* o nie..^1.&* wszystkie łzy formują&  dużą kupkę.../
 obj_napstablook_actor_207
-* oh no..^1.&* your name's getting really&  long/%%
+* o nie..^1.&* twoje imię się robi&  bardzo długie/%%
 obj_napstablook_actor_208
 * (Jeszcze się regenerujesz po&  tym całym leżeniu.)/%%
 obj_napstablook_cd_113
@@ -18925,11 +18925,11 @@ obj_napstablook_farm1_79
 obj_napstablook_farm1_83
 * szczególnie kiedy jestem&  moim własnym szefem.../%%
 obj_napstablook_farm1_84
-* hmmm..^1. i should probably&  try to make friends&  with my neighbor/
+* hmmm..^1. pewnie powinienem&  spróbować się zaprzyjaźnić&  z moim sąsiadem/
 obj_napstablook_farm1_89
-* she's kind of scary^1, but&  i feel like i'm always&  too late to make friends.../
+* ona jest trochę straszna^1, ale&  czuję jakbym zawsze się spóź-&  niał z tworzeniem przyjaciół.../
 obj_napstablook_farm1_90
-* i should at least try.../%%
+* powinienem przynajmniej&  spróbować.../%%
 obj_napstablook_farm1_91
 \R 3..^2.& 2..^2.& 1..^2.%%
 obj_napstablook_farm2_270
@@ -21096,7 +21096,7 @@ UNDYNE PISZE&WIELE LISTÓW./
 obj_papyrus_room_278
 \E3ALE^1, NIGDY NIE&MOŻE ZNALEŹĆ&WŁAŚCIWYCH SŁÓW./
 obj_papyrus_room_279
-WIĘC KIEDY OSOBIŚCIE&IDZIE JE WRĘCZYĆ.../
+WIĘC KIEDY IDZIE&JE OSOBIŚCIE&WRĘCZYĆ.../
 obj_papyrus_room_280
 ZAWSZE SIĘ WRACA I&PISZE CAŁY LIST&OD NOWA./
 obj_papyrus_room_281
@@ -25916,7 +25916,7 @@ obj_snowdrakemom_392
 obj_snowdrakemom_393
 * AMALGAMAT - ATK -12 DEF -5&* Wydaje się^1, jakby to&  traciło swoją formę./^
 obj_snowdrakemom_426
-* Śmiejesz się^1, coraz głośniej^1.&* To TAKIE śmieszne^1, nie możesz&  przestać^1. Łzy ci lecą po twarzy.
+* Śmiejesz się^1, coraz głośniej^1.&* To TAKIE śmieszne^1, nie możesz&  przestać^1. Łzy ci lecą po twarzy./^
 obj_snowdrakemom_435
 * ... co^1?&* Nie zrobiłeś tego?/^
 obj_snowdrakemom_436
@@ -27901,7 +27901,7 @@ obj_townnpc_beartree_72
 obj_townnpc_beartree_74
 * Hmm^1?&* Układanie tych prezentów to&  moja odpowiedzialność./
 obj_townnpc_beartree_78
-* Nah^1, mówiąc szczerze^1,I&  po prostu patrzę czy ja&  jakiś dostałem.../%%
+* Nah^1, mówiąc szczerze^1,&  po prostu patrzę czy ja&  jakiś dostałem.../%%
 obj_townnpc_beartree_79
 * Fajnie będzie pokazać&  człowiekom naszą tradycję&  kładania prezentów pod choinkę./
 obj_townnpc_beartree_84
@@ -27929,7 +27929,7 @@ obj_townnpc_bunboy_70
 obj_townnpc_bunboy_71
 * Chyba wiem co^1.&* ... a^1, jednak nie./%%
 obj_townnpc_bunboy_72
-* Ta pani o tam o była&  spacerze już od&  dłuższego czasu./
+* Ta pani o tam o była&  na spacerze już od&  dłuższego czasu./
 obj_townnpc_bunboy_76
 * ... ale nie ruszyła się o&  centymetr od miejsca gdzie&  stoi./
 obj_townnpc_bunboy_77
@@ -28092,108 +28092,108 @@ obj_townnpc_reddemon_96
 obj_townnpc_slimedad_70
 * Lubisz podróżować widzę^1.&* Musisz być całkiem młody./%%
 obj_townnpc_slimedad_74
-* Seems like this is the&  beginning of a brand-new^1,&  boundless world.../
+* To wygląda na początek&  zupełnie nowego^1,&  nieograniczonego świata!.../
 obj_townnpc_slimedad_79
-* Wah-ha^1!&* This adventurous spirit^1!&* I'm like a kid again!/
+* Wah-ha^1!&* Ten duch przygody^1!&* Znów się czuję jak dziecko!/
 obj_townnpc_slimedad_80
-* And my children are like..^1.&* Double-children./%%
+* A moje dzieci to..^1.&* podwójne McDzieci./%%
 obj_townnpc_slimedad_81
-* I've sent the kids inside./
+* Wysłałam dzieci do domu./
 obj_townnpc_slimedad_86
-* It feels unsafe here today./%%
+* Dzisiaj wydaje się tu&  niebezpiecznie./%%
 obj_townnpc_slimedad_87
-* You aren't gonna make me&  be the human again^1, are you?/%%
+* Nie zmienisz mnie spowrotem&  w człowieka^1, prawda?/%%
 obj_townnpc_slimedaughter_80
-* Can we PLEASE play something&  else...?/%%
+* Możemy PROSZĘ pograć w&  coś innego...?/%%
 obj_townnpc_slimedaughter_84
-* Hmmm..^1.&* When humans play Monsters&  and Humans.../
+* Hmmm..^1.&* Gdy ludzie grają w&  Potworów i Ludzi.../
 obj_townnpc_slimedaughter_89
-* Do they just call it&  Humans and Humans?/%%
+* Nazywają to po prostu&  Ludzie i Ludzie?/%%
 obj_townnpc_slimedaughter_90
-* Let's play Monsters and Humans!/%%
+* Zagrajmy w Potworów i Ludzi!/%%
 obj_townnpc_slimeson_75
-* Let's continue to play&  Monsters and Humans!/%%
+* Grajmy dalej w&  Potworów i Ludzi!/%%
 obj_townnpc_slimeson_79
-* Now we can play Monsters&  and Humans with REAL humans!/%%
+* Teraz możemy grać w&  Potworów i Ludzi z&  PRAWDZIWYMI ludźmi!/%%
 obj_townnpc_slimeson_84
-* Everyone is always laughing&  and cracking jokes^1, trying&  to forget our modern crises.../
+* Wszyscy sobie żartują&  i się cieszą ^1, próbując&  zapomnieć o obecnym kryzysie.../
 obj_townnpc_unfunny_70
-* Dreariness^1.&* Crowding^1.&* Lack of sunlight./
+* Ponurość^1.&* Tłum ^1.&* Brak witaminy D…./
 obj_townnpc_unfunny_71
-* I would join them^1, but I'm&  just not very funny./%%
+* Dołączyłbym do nich^1, ale&  nie jestem zbytnio zabawny./%%
 obj_townnpc_unfunny_72
-* At least I'm not making puns./%%
+* Przynajmniej nie robię&  sucharów./%%
 obj_townnpc_unfunny_73
-* Wait^1!&* I've got a joke!/
+* Czekaj!^1!&* Mam fajny żart!/
 obj_townnpc_unfunny_77
-* Knock knock!/
+* Puk puk!/
 obj_townnpc_unfunny_78
-* ... Uh^1.&* That's all I've thought of./%%
+* ... Yyy^1.&*  Nie wiem co dalej./%%
 obj_townnpc_unfunny_79
-* Looks like I don't have&  to worry about cracking&  jokes anymore./
+* Wygląda na to, że nie&  muszę się już martwić&  opowiadaniem kawałów./
 obj_townnpc_unfunny_85
 obj_townnpc_unfunny_86
-* I was going to say a joke&  here^1, but I really don't&  have one./%%
+* Planowałem właśnie powiedzieć&  żart^1, ale naprawdę nie&  mam żadnego./%%
 obj_townnpc_unfunny_87
-* It just feels like..^1.&* Like everything is getting&  worse and worse./%%
+* Mam wrażenie że…^1.&* Wszystko się tylko&  robi coraz gorsze./%%
 obj_townnpc_unfunny_92
-* I "put out a line" for some&  girls today./
+* Dzisiaj "wyłożyłem na linę"&  numer dla jakichś lasek./
 obj_townnpc_weirdfish_72
-* Someone told me that there&  are plenty of fish in the&  sea.../
+* Ktoś mi powiedział, że& "tego kwiatku jest&  pół światu".../
 obj_townnpc_weirdfish_73
-* Well^1, I'm taking that&  seriously./
+* Cóż^1, ja to biorę&  na poważnie./
 obj_townnpc_weirdfish_74
-* I'm literally going to make&  out with a fish./%%
+* Dosłownie się prześpię&  z kwiatkiem./%%
 obj_townnpc_weirdfish_75
-* I guess I could ask out Undyne^1.&* But I think she likes someone&  already./%%
+* Niby Asgore posiada ogród z&  kwiatkami^1, ale ostatnio wkurzył&  się moją obecnością.../%%
 obj_townnpc_weirdfish_76
-* Did I catch anyone yet^1?&* I can't bear to look.../%%
+* Nie złapałem jeszcze nikogo^1?&* Nie mogę na to patrzeć.../%%
 obj_townnpc_weirdfish_80
-* Sans is the most regular&  regular of all./
+* Sans jest najbardziej&  zwyczajny i najzwyklejszy&  ze wszystkich./
 obj_townnpc_weirdfish_85
-* He hasn't been showing up&  as much recently though./%%
+* Ale nie pojawia się tak&  często jak kiedyś./%%
 obj_townnpc_weirdfish_86
-* Where the heck is Sans?/
+* Gdzie do cholery jest Sans?/
 obj_townnpc_weirdfish_91
-* He told me he had some&  bait I could use./
+* Mówił mi że ma&  jakąś przynętę dla mnie./
 obj_townnpc_weirdfish_92
-* Though it was probably&  some kind of prank./
+* Ale to zapewne&  jeden z jego żarcików./
 obj_townnpc_weirdfish_93
-* But I wanted to know what&  the prank was!/%%
+* Ale chciałbym wiedzieć&  co to za "żarcik"!/%%
 obj_townnpc_weirdfish_94
-* In the end^1, I never caught&  any girls on my fishing&  line./
+* Koniec końców^1, niczego&  jeszcze nie złapałem./
 obj_townnpc_weirdfish_99
-* So kid^1, take it from me.../
+* Więc dzieciaku^1, pamiętaj.../
 obj_townnpc_weirdfish_100
-* Don't try to catch hot&  people with a fishing rod./
+* Nie próbuj łowić hotówek&  za pomocą wędki./
 obj_townnpc_weirdfish_101
-* (Somewhere^1, you hear a whinny&  of dismay.)/%%
+* (Słyszysz w oddali jakieś&  narzekające  jęki.)/%%
 obj_townnpc_weirdfish_102
-HEY^1, SANS^1, HAVE&YOU SEEN MY.../
+HEJ^1, SANS^1,&WIDZIAŁEŚ MÓJ.../
 obj_treadmill_event_103
-\E0OH, HELLO^1.&YOU AREN'T SANS./
+\E0OH, WITAJ^1.&NIE JESTEŚ SANSEM./
 obj_treadmill_event_104
-\E3WAIT A SECOND./
+\E3CHWILA MOMENT./
 obj_treadmill_event_105
-\E0WHY WERE YOU USING&A TREADMILL IN&THE DARK?/
+\E0CZEMU UŻYWAŁEŚ&BIEŻNI PO CIEMKU?/
 obj_treadmill_event_106
-\E3IS SANS PRANKING&YOU ACROSS TIME&AND SPACE?/
+\E3CZY SANS ŻARTUJE&SOBIE Z CIEBIE POZA&CZASOPRZESTRENIĄ?/
 obj_treadmill_event_107
-\E1I HATE IT WHEN&HE DOES THAT!/
+\E1NIENAWIDZĘ GDY&TAK ROBI!/
 obj_treadmill_event_108
-\E1HOW IMMATURE CAN&YOU GET?/
+\E1 JAK  GŁUPKOWATYM& MOŻNA BYĆ?/
 obj_treadmill_event_109
-\E3ALSO^1, HAVE YOU&SEEN MY ACTION&FIGURES?/
+\E3TAK WOGULE^1, WIDZIA-&ŁEŚ GDZIEŚ MOJE&FIGURKI AKCJI?/
 obj_treadmill_event_110
-\E0WAIT^1!&I KNOW WHERE TO&LOOK!!!/
+\E0CZEKAJ^1!&WIEM GDZIE &ICH SZUKAĆ!!!/
 obj_treadmill_event_111
-IN MY COLLECTION^1!&NYEH HEH HEH!!!/
+W MOJEJ KOLEKCJI^1!&NYEH HEH HEH!!!/
 obj_treadmill_event_112
-SOMETIMES^1, I'M A&GENIUS^1.&ALL THE TIME./%%
+CZASAMI^1, JESTEM&NAPRAWDĘ GENIALNY^1.&CAŁY CZAS!./%%
 obj_treadmill_event_113
 obj_triswitchevent_120
 obj_triswitchevent_121
-\E6* OK^1!&* Now press the third&  one!!!/%%
+\E6* OK^1!&* Teraz naciśnij ten&  trzeci!!!/%%
 obj_triswitchevent_122
 obj_triswitchevent_123
 obj_triswitchevent_124
@@ -28201,19 +28201,19 @@ obj_triswitchevent_124
 obj_triswitchevent_147
 \E2* ............./
 obj_triswitchevent_148
-\E0* H-h-hey!/
+\E0* H-h-hej!/
 obj_triswitchevent_149
-\E5* Looks like you!!!^1 &* Only needed to press^1!&* Two of them!!!/
+\E5* Wygląda na to, że!!!^1 &* Wystarczyło nacisnąć^1!&* Tylko dwa!!!/
 obj_triswitchevent_150
 obj_triswitchevent_151
 obj_triswitchevent_152
 obj_triswitchevent_213
 obj_triswitchevent_214
-\E3* H-h-hey^1!&* You did it!/
+\E3* H-h-hej^1!&* Udało ci się!!/
 obj_triswitchevent_215
-\E4* I was worried I&  messed it up&  there.../
+\E4* Bałam się, że&  coś zwaliłam.../
 obj_triswitchevent_216
-\E0* But I guess we&  make a pretty good&  team!/%%
+\E0* Ale wygląda na to^1, że&  niezłe z nas duo!/%%
 obj_triswitchevent_217
 obj_triswitchevent_218
 obj_triswitchevent_219
@@ -28293,7 +28293,7 @@ obj_truechara_151
 Jest powód^1, dla&którego kontynuujesz&jego destrukcję./
 obj_truechara_152
 obj_truechara_153
-Jesteś wypruty&zdemoralizowaną&sentymentalnością./
+Jesteś wypełniony&mocno zboczonym&sentymentalizmem./
 obj_truechara_154
 Hmm^1./
 obj_truechara_155
@@ -31399,8 +31399,8 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (Toriel nie wysłała&  nowych wiadomości.)/%%
 BEPIS^1.
 LEPKI BANDAŻ
-WYBLAKŁA WSTĄŻKA
-BANDANA
+WYBLAKŁĄ WSTĄŻKĘ
+BANDANĘ
 ZAKURZONE TUTU
 weekday_error
 Nd
