@@ -8118,28 +8118,28 @@ NIE SPIESZ SIĘ!/%%
 * How are you feeling?/
  & &         Ready       Go Back\C
 * Do what you have to./%%
-* Tra la la^1.&* Jestem rzekopanem./
-* Albo jestem rzekopanią...^1?&* To nie ma za bardzo znaczenia./
-* Kocham jeździć w mojej łodzi^1.&* Miałbyś ochotę do mnie&  przyłączyć?/
-* (Płyń w łódce?)& &         Tak         Nie\C
-* Tra la la^1.&* Chcesz gdzieś popłynąć?/
+* Tra la la^1.&* I am the riverman./
+* Or am I the riverwoman...^1?&* It doesn't really matter./
+* I love to ride in my boat^1.&* Would you care to join me?/
+* (Ride in the boat?)& &         Yes         No\C
+* Tra la la^1.&* Care for a ride?/
 * Where will we go today?& &         Error       Error\C
-* Gdzie dzisiaj popłyniemy?& &         Snowdin     Waterfall\C
-* Gdzie dzisiaj popłyniemy?& &         Snowdin     Hotland\C
-* Gdzie dzisiaj popłyniemy?& &         Waterfall   Hotland\C
-* No to może kiedy indziej^1.&* Albo może nie^1.&* To nie ma za bardzo znaczenia./%%
-* No to płyniemy.../%%
-* (Jest przycisk na ścianie.)/
-* (Przycisk nic nie robi.)/%%
-* (Wygląda na wygodne łóżko.)/
-* (Położyć się?)& &         Tak         Nie\C
-* (Teraz to zwyczajne podejrzane&  łóżko.)/%%
-* (To żółty klucz.^1)&* (Umieszczasz go w&  twoim breloczku.)/%%
-* (Jest coś pod kołdrą.)/
-* (Sprawdzić?)& &         Tak         Nie\C
-* (Prąd został uruchomiony.)/%%
-* (Wygląda na sterowniki&  prądu windy.)/
-* (Uruchomić?)& &         Tak         Nie\C
+* Where will we go today?& &         Snowdin     Waterfall\C
+* Where will we go today?& &         Snowdin     Hotland\C
+* Where will we go today?& &         Waterfall   Hotland\C
+* Then perhaps another time^1.&* Or perhaps not^1.&* It doesn't really matter./%%
+* Then we're off.../%%
+* (There's a switch on the&  wall.)/
+* (The switch doesn't do&  anything.)/%%
+* (Seems like a comfortable&  bed.)/
+* (Lie on it?)& &         Yes         No\C
+* (It's just a regular suspicious&  bed now.)/%%
+* (It's a yellow key.^1)&* (You put it on your&  keychain.)/%%
+* (There's something under&  the sheets.)/
+* (Check it out?)& &         Yes         No\C
+* (The power has been turned&  on.)/%%
+* (It seems like this controls&  the elevator's power.)/
+* (Turn it on?)& &         Yes         No\C
 \E7* I always was a crybaby^1,&  wasn't I^1, \[C]?/
 \E2* ... I know./
 \E0* You're not actually&  \[C], are you?/
@@ -18150,7 +18150,7 @@ obj_mkid_battle_450
 obj_mkid_battle_479
 Undyne..^1.&Jesteś..^1.&Jesteś ranna.../%%
 obj_mkid_battle_553
-Ranan?&To nic wielkiego./
+Ranna?&To nic wielkiego./
 obj_mkid_battle_565
 Następnym razem^1,&posłuchaj się&mojej prośby^1, okej?/%%
 obj_mkid_battle_566
@@ -32824,9 +32824,9 @@ obj_basicmonster_mercy
 obj_basicmonster_lowhp
 * POTWÓR - ATK \[1] DEF \[2]&* Błędnie wierzy, że jego lawa&  jest potworem./^
 obj_basicmonster_check
-* Wykonujesz jakąś czynność./^
+* You execute some action./^
 obj_basicmonster_playeract
-* WYGRAŁEŚ!&* Straciłeś 1 exp./%
+* WYGRAŁEĄ!&* Straciłeś 1 exp./%
 obj_napstablook_189
 obj_torielboss_240
 * You..^1.&* You came from outside^1,&  didn't you?/
@@ -32859,19 +32859,19 @@ obj_torielboss_240
 * (Do you want to go&  inside?)&         Yes         No \C
 * (You jostle the door.)&* (It's locked.)/
 * (Suddenly^1, from inside&  the [redacted], you hear a&/%%
-* (To książka oznaczona tytułem&  Historia Potworów część 6.)&         Czytaj      Hell nah\C
-* Niestety^1, potwory nie&  są doświadczeni z&  chorobami./
-* Natomiast^1, kiedy potwory&  odchodzą ze starości^1,&  kładą się^1, w bezruchu./
-* Nazywamy ten stan&  "Upadłością."/
-* Osoba^1, która Upadła&  niebawem zginą./
-* W pewnym sensie^1, ta&  zadziwiająca sytuacja&  była zbyt powszechna./%%
-* \YMETTATON wysłał ci prośbę&  bycia Śmiertelnymi Wrogami.\W /
-* Kongratulacje^1!&* Jesteście teraz Śmiertelnymi&  Wrogami z Mettatonem./
-* \YCOOLSKELETON95\W napisał&  komentarz na tą zmianę&  statusu./
-* KONGRATULACJE^1, WY DWAJ^1!&* ŻYCZĘ WAM DŁUGIEJ&  KOSZMARNEJ RELACJI./%%
-* Odrzuciłeś prośbę./%%
-* \YMETTATON wysłał ci&  zaproszenie na "Śmierć."\W /
-* RSVP?& &         Odpowiedz   Zignoruj\C
+* (It's a book labelled&  Monster History Part 6.)&         Read it     Do not\C
+* Unfortunately^1, monsters are&  not experienced with&  illness./
+* However^1, when monsters are&  about to expire of age^1,&  they lie down^1, immobile./
+* We call this state&  "Fallen Down."/
+* A person who has Fallen&  Down will soon perish./
+* In a way^1, this confusing&  situation was all too&  familiar./%%
+* \YMETTATON has sent you a&  Mortal Enemy request.\W /
+* Congratulations^1!&* You are now Mortal Enemies&  with Mettaton./
+* \YCOOLSKELETON95\W has posted&  a comment on this change./
+* CONGRATULATIONS^1, YOU TWO^1!&* WISH YOU A LONG AND&  HORRIBLE RIVALRY./%%
+* You rejected the request./%%
+* \YMETTATON has sent you an&  invitation to "Die."\W /
+* RSVP?& &         Respond     Ignore\C
 * Bepis valley Granola Bars/%%
 ZBRODNIA
 obj_crimegraph_55
@@ -32903,7 +32903,7 @@ Poziom Aktywnośći B
 obj_titleimage_activity_b
 Poziom Aktywnośći C
 obj_titleimage_activity_c
-A-ale ja#nigdy nie#mogłam#...!
+B-but I#never#got to#...!
 obj_tsunderplane_body_152
 the_end
 Przemoc
@@ -32912,7 +32912,7 @@ Rozczarowanie
 mett_ratings_disappoint
 Sprawiedliwość
 mett_ratings_justice
-Akcja
+Action
 mett_ratings_action
 HiperAkcja
 mett_ratings_hyperaction
@@ -32966,17 +32966,17 @@ trophy_install
 trophy_install_dot
 (Just this once.)
 trophy_install_line2
-Jaka jest nagroda#za prawidłową#odpowiedź?
+What's the prize#for answering#correctly?
 mettquiz_q1_text
-Kasa
+Money
 mettquiz_q1_a1
-Litość
+Mercy
 mettquiz_q1_a2
-Nowe auto
+New car
 mettquiz_q1_a3
-Więcej pytań
+More questions
 mettquiz_q1_a4
-Jakie jest pełne#imię króla?
+What's the king's#full name?
 mettquiz_q2_text
 Lord Fluffybuns
 mettquiz_q2_a1
@@ -32984,29 +32984,29 @@ Fuzzy Pushover
 mettquiz_q2_a2
 Asgore Dreemurr
 mettquiz_q2_a3
-Dr. Przyjaźń
+Dr. Friendship
 mettquiz_q2_a4
-Z czego są#zbudowane roboty?
+What are robots#made of?
 mettquiz_q3_text
-Nadzieje&Marzenia
+Hopes&Dreams
 mettquiz_q3_a1
-Metal&Magia
+Metal&Magic
 mettquiz_q3_a2
-Śluz&Ślimaki
+Snips&Snails
 mettquiz_q3_a3
-Cukier&Przyprawy
+Sugar&Spice
 mettquiz_q3_a4
-Dwa pociągi, A i B, #jednocześnie odjeżdżają ze#stacji A  i stacji B.#Stacja A i stacja B są od siebie oddalone o 252,5 mil.#Pociąg A jedzie z prędkością 200,7 mil na godzinę w kierunku#stacji B, a pociąg B jedzie z prędkością#253,5 mil na godzinę w kierunku stacji A.#Jeśli oba pociągi odjechały o 10:00 i #jest teraz 10:08, ile czasu jeszcze do#oba pociągi mijają się?
+Two trains, Train A and Train B,#simultaneously depart Station A#and Station B.#Station A and Station B are 252.5 miles#apart from each other.#Train A is moving at 124.7mph towards#Station B, and Train B is moving at#253.5mph towards station A.#If both trains departed at 10:00AM and it#is now 10:08, how much longer until#both trains pass each other?
 mettquiz_q4_text
-31.054 minut
+31.054 minutes
 mettquiz_q4_a1
-16.232 minut
+16.232 minutes
 mettquiz_q4_a2
-32.049 minut
+32.049 minutes
 mettquiz_q4_a3
-32.058 minut
+32.058 minutes
 mettquiz_q4_a4
-Ile jest much#w tym słoiku?
+How many flies are#in this jar?
 mettquiz_q5_text
 54
 mettquiz_q5_a1
@@ -33016,30 +33016,30 @@ mettquiz_q5_a2
 mettquiz_q5_a3
 52
 mettquiz_q5_a4
-Co to za potwór?
+What monster is this?
 mettquiz_q6_text
 mettquiz_q6_a1
 mettquiz_q6_a2
 mettquiz_q6_a3
 mettquiz_q6_a4
-Pocałowałbyś#ducha?
+Would you smooch#a ghost?
 mettquiz_q7_text
 Heck Yeah
 mettquiz_q7_a1
 mettquiz_q7_a2
 mettquiz_q7_a3
 mettquiz_q7_a4
-Ile jest liter w#imieniu Mettaton
+How many letters in#the name Mettaton
 mettquiz_q8_text
-W grze randkowej#"Mew Mew Kissy Cutie"#co jest ulubionym#jedzeniem Mew Mew?
+In the dating#simulation video game#"Mew Mew Kissy Cutie"#what is Mew Mew's#favorite food?
 mettquiz_q9_text
-Na kim Dr. Alphys#ma crusha?
+Who does Dr. Alphys#have a crush on?
 mettquiz_q10_text
 mettquiz_q10_a1
 mettquiz_q10_a2
-Człowiek
+The human
 mettquiz_q10_a3
-Nie wiem
+Don't know
 mettquiz_q10_a4
 ＊ \[I]を　じめんに&　 おいて　「おつかれさま」と&　 なでてあげた。
 ニャッハッ&ハッ^1！&かくごは&いいか…！/%%
