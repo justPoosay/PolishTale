@@ -6411,9 +6411,9 @@ Karta Dziurkowana
 item_name_26
 Annoying Dog
 item_name_27
-Psia Sałatka
+Psia Sałata
 item_name_28
-Psie Pozostałości
+Psie Poz.
 item_name_29
 item_name_30
 item_name_31
@@ -8517,7 +8517,7 @@ W takim razie^1,&jest to postanowione./%%
 * hej./
 * czy twoja lodówka&  działa prawidłowo?/
  & &         tak         nie\C
-* dobrze^1.&* przyję odebrać&  browary./%%
+* dobrze^1.&* przyjdę odłożyć&  moje browary./%%
 * ok^1, wyśle kogoś^1,&  by to naprawił./
 * dzięki, że dałeś&  znać./
 * dobra komunikacja&  jest ważna./%%
@@ -9352,7 +9352,7 @@ obj_adate_1300
 obj_adate_1311
 \E3I mean.../
 obj_adate_1312
-Undyne..^1.&I.../%%
+Undyne..^1.&Ja.../%%
 obj_adate_1313
 \F4I've been lying to&you!/%%
 obj_adate_1326
@@ -9874,7 +9874,7 @@ I do not want to&hurt anyone./
 obj_asgore_lastcutscene_296
 I just wanted everyone&to have hope.../
 obj_asgore_lastcutscene_297
-But.../
+Ale.../
 obj_asgore_lastcutscene_298
 I cannot take this&any longer./
 obj_asgore_lastcutscene_299
@@ -10093,7 +10093,7 @@ obj_asgoremeet_event_224
 obj_asgoremeet_event_247
 \E2* I so badly want to&  say^1, "would you like&  a cup of tea?"/
 obj_asgoremeet_event_248
-* But.../
+* Ale.../
 obj_asgoremeet_event_249
 \E3* You know how it is./%%
 obj_asgoremeet_event_250
@@ -10703,7 +10703,7 @@ obj_battlebomb_541
 obj_battlebomb_542
 * WYGRAŁEŚ!&* Zdobyłeś \[1] EXP i \[2] kasy.
 obj_battlecontroller_286
-&* Your LOVE increased.
+&* Twoje LOVE się zwiększyło.
 obj_battlecontroller_287
  error/%%
 obj_bed_dark_64
@@ -11415,7 +11415,7 @@ obj_darksans1_214
 obj_darksans1_215
 \E1* (rany^1, babko^1, naprawdę&  wiesz jak zepsuć&  moment, huh...?)/
 obj_darksans1_216
-\E2* OK^1, that's fine^1.&* everyone's got their&  own sense of humor./
+\E2* OK^1, nie szkodzi^1.&* każdy ma indywidualne&  poczucie humoru./
 obj_darksans1_217
 obj_darksans1_218
 obj_darksans1_219
@@ -11522,7 +11522,7 @@ obj_darksans1_666
 obj_darksans1_720
 \E1* uh^1, ok^1, najwyraźniej&  nie musisz./%%
 obj_darksans1_721
-SANS!!^1!&ZNALAZŁEŚ JUŻ&JAKIEGOŚ CZŁOWIEKA!??!/
+SANS!!^1!&ZNALAZŁEŚ JUŻ&CZŁOWIEKA!??!/
 obj_darksans1_750
 * ta./
 obj_darksans1_752
@@ -12712,27 +12712,27 @@ obj_f_frasier_77
 obj_f_frasier_78
 * Don't you have anything&  better to do?/%%
 obj_f_frasier_82
-* Froggit doesn't seem to&  know why it's here.
+* Froggit nie wydaje się&  wiedzieć po co tu jest.
 obj_fakefroggit_479
-* Froggit hops to and fro.
+* Froggit skacze na przód.
 obj_fakefroggit_480
-* The battlefield is filled   with the smell of&   mustard seed.
+* Pole bitwy jest&  wypełnione zapachem&  nasion gorczycy.
 obj_fakefroggit_481
-* You are intimidated by&  Froggit's raw strength^4.&  * Only kidding.
+* Jesteś zaskoczony&  surową siłą Froggita^4.&  * Taki żarcik.
 obj_fakefroggit_482
 * Froggit wydaje się&  odechciewać walki&  z tobą.
 obj_fakefroggit_483
-* Froggit is trying to&  run away.
+* Froggit próbuje uciec.
 obj_fakefroggit_484
-* FROGGIT - ATK 4 DEF 5&* Life is difficult for&  this enemy./^
+* FROGGIT - ATK 4 DEF 5&* Życie jest ciężkie&  dla tego potwora./^
 obj_fakefroggit_500
 * Froggit nie zrozumiał&  to co powiedziałeś^1, ale&  i tak było mu miło./^
 obj_fakefroggit_508
 * Froggit nie zrozumiał&  to co powiedziałeś^1, ale&  i tak się przestraszył./^
 obj_fakefroggit_518
-* (It's a potted plant.)/%%
+* (To roślina w doniczce.)/%%
 obj_ficus_72
-* (The potted plant is judging&  you for your sins.)/%%
+* (Roślina w doniczce ocenia&  cię po twoich grzechach.)/%%
 obj_ficus_75
 * (It's a platoon of ficuses.)/%%
 obj_ficus_81
@@ -13124,11 +13124,11 @@ obj_floweytrigger2_232
 obj_floweytrigger2_233
 \E6* Wszystkich^1, wszystko w&  tych \E7bezwartościowych&  wswpomnieniach.../
 obj_floweytrigger2_234
-\E5* Let's turn 'em all&  to dust./%%
+\E5* Zamieńmy ich&  wszystkich w pył./%%
 obj_floweytrigger2_235
-* Mądre.&* Barrrrrrrdzo mądre./
+* Mądre.&* Baaaaardzo mądre./
 obj_floweytrigger2_245
-* Myślisz że jesteś&  bardzo mądry^1, czyż nie?/
+* Myślisz że jesteś&  taki mądry^1, czyż nie?/
 obj_floweytrigger2_246
 obj_floweytrigger2_247
 \E1* Więc byłeś w stanie&  zagrać z własnymi&  zasadami./
@@ -13140,7 +13140,7 @@ obj_floweytrigger2_250
 obj_floweytrigger2_253
 * Pomyśł o tych imionach./
 obj_floweytrigger2_254
-* Do you think any of&  those monsters have&  families?/
+* Myślisz^1, że które-&  kolwiek z tych potworów&  ma swoją rodzinę?/
 obj_floweytrigger2_255
 * Myślisz^1, że ktokolwiek&  z nich ma przyjaciół?/
 obj_floweytrigger2_256
@@ -18150,7 +18150,7 @@ obj_mkid_battle_450
 obj_mkid_battle_479
 Undyne..^1.&Jesteś..^1.&Jesteś ranna.../%%
 obj_mkid_battle_553
-Hurt?&To nic wielkiego./
+Ranan?&To nic wielkiego./
 obj_mkid_battle_565
 Następnym razem^1,&posłuchaj się&mojej prośby^1, okej?/%%
 obj_mkid_battle_566
@@ -18191,13 +18191,13 @@ obj_mkid_battle_706
 obj_mkid_battle_707
 \E5To już nie chodzi&tylko o potwórów^1,&czyż nie?/
 obj_mkid_battle_708
-Jeśli przejdziesz&przeze mnie^1, to ty.../
+Jeśli przejdziesz&przeze mnie^1, ty.../
 obj_mkid_battle_709
 Ty zniszczysz ich&wszystkich^1, prawda?/
 obj_mkid_battle_710
-Potwory..^1.&Ludzie..^1.&Wszystich i&wszystko.../
+Potworów..^1.&Ludzi..^1.&Wszystkich i&wszystko.../
 obj_mkid_battle_711
-Wszystkich nadziei^1.&Wszystkic marzeń^1.&wyeliminowane w&mgnieniu oka./
+Wszystkich nadzieje^1.&Wszystkich marzenia^1.&wyeliminowane w&mgnieniu oka./
 obj_mkid_battle_712
 \E6Ale ja ci NIE&POZWOLĘ tego&zrobić./
 obj_mkid_battle_713
@@ -18215,7 +18215,7 @@ obj_mkid_battle_718
 obj_mkid_battle_719
 \E9Ja^1, UNDYNE^1,&powalę cię&na ziemię!/%%
 obj_mkid_battle_728
-Będziesz musiał&więcej włożyć&niż TO./%%
+Będziesz musiał&bardziej się&postarać./%%
 obj_mkid_battle_827
 Ty.../
 obj_mkid_battle_883
@@ -18418,14 +18418,14 @@ obj_monsterkidtrigger7_215
 * Powiedziała^1, że..^1.&* Skrzywdziłeś wiele osób./
 obj_monsterkidtrigger7_216
 obj_monsterkidtrigger7_217
-* But^1, jo^1, to nieprawda^1,&  co nie!?/
+* Ale^1, jo^1, to nieprawda^1,&  co nie!?/
 obj_monsterkidtrigger7_218
 obj_monsterkidtrigger7_219
 * ... jo..^1.&* Czemu mi nie odpowiesz?/
 obj_monsterkidtrigger7_220
 * A..^1. a..^1. a co jest z tą&  dziwną twarzą...?/%%
 obj_monsterkidtrigger7_221
-* Jo^1, dude..^1.&* Ja..^1. słyszałem trochę&  rzeczy^1, i.../
+* Jo^1, ziom..^1.&* Ja..^1. słyszałem trochę&  rzeczy^1, i.../
 obj_monsterkidtrigger7_225
 * Co^1?&* Spojrzeć się tam^1?&* A czemu  %%
 obj_monsterkidtrigger7_226
@@ -20233,7 +20233,7 @@ obj_papyrus1_412
 obj_papyrus1_413
 \E1* czy ty nie masz&  tylko jeden strój?/
 obj_papyrus1_415
-\E2TA^1, ALE MOGĘ&WYSTILOWAĆ&MOJĄ FRYZURĘ!/
+\E2TA^1, ALE MOGĘ&UŁOŻYĆ LEPIEJ&MOJĄ FRYZURĘ!/
 obj_papyrus1_417
 \E0* oh^1. racja^1.&* dobry pomysł./
 obj_papyrus1_419
@@ -20433,15 +20433,15 @@ obj_papyrus2_511
 obj_papyrus2_552
 \E3HMMM..^1. MUSISZ BYĆ&TERAZ W KULTU-&ROWYM SZOKU./
 obj_papyrus2_553
-\E0WIDZISZ^1, STĄD^1, GDZIE&POCHODZĘ^1, TO JEST&KOCHANA TRADYCJA./
+\E0WIDZISZ^1, TAM^1, SKĄD&POCHODZĘ^1, TO JEST&KOCHANA TRADYCJA./
 obj_papyrus2_554
-ABY CIERPIEĆ PRZEZ&OKROPNE ZAGADKI&BEZ ŻADNEGO POWODU./
+ABY CIERPIEĆ PRZEZ&OKROPNE ZAGADKI BEZ&ŻADNEGO POWODU./
 obj_papyrus2_555
 \E5WIĘC^1, UH^1, PO PROSTU&WRÓC TAM I UM.../
 obj_papyrus2_556
 obj_papyrus2_557
 obj_papyrus2_601
-\E3CZEMU NIE MOGLIŚMY&TRAFIĆ NA CZŁOWIEKA^1,&KTÓRY LUBI ZAGADKI???/%%
+\E3CZEMU NIE MOGLIŚMY&TRAFIĆ NA CZŁOWIEKA&KTÓRY LUBI ZAGADKI??/%%
 obj_papyrus2_602
 CZŁOWIEKU!!^1!&MAM NADZIEJĘ^1, ŻE&JESTEŚ GOTOWY NA.../%%
 obj_papyrus3_177
@@ -20480,7 +20480,7 @@ obj_papyrus4_405
 obj_papyrus4_406
 ON CIĄGLE POMIJA&MOJE PUZLE!/
 obj_papyrus4_407
-\E3ON POWINIEN BYŁ MI&POZWOLIĆ WYTŁUMACZYĆ&ZASADY PUZZLI./
+\E3ON POWINIENI POZ-&WOLIĆ WYTŁUMACZYĆ&MU ZASADY PUZZLI./
 obj_papyrus4_408
 \E0A POTEM IM POGROZIĆ&NIEŚMIESZNYMI&ŻARCIKAMI./
 obj_papyrus4_409
@@ -20509,7 +20509,7 @@ obj_papyrus4_427
 \E0MY MÓWIMY COŚ&ŚWIETNEGO W&ZAMIAN./
 obj_papyrus4_428
 obj_papyrus4_429
-\E0DOBRA^1, MOŻE ROZWIĄ-&ŻESZ TĄ ZAGADKĘ&SAMODZIELNIE./%%
+\E0DOBRA^1, MOŻE ROZWIĄ&ŻESZ TĄ ZAGADKĘ&SAMODZIELNIE./%%
 obj_papyrus4_430
 CZŁOWIEKU!/
 obj_papyrus5_209
@@ -24291,12 +24291,12 @@ obj_sansmailbox_60
 obj_sanssnowman_98
 * Seems like someone was&  walking in circles just&  to make noises.../%%
 obj_sanssteps_56
-\R* \[1] left./%%
+\R* Jeszcze \[1]./%%
 obj_savepoint_97
-\R* That comedian.../%%
+\R* Co za komik.../%%
 obj_savepoint_99
 obj_savepoint_101
-* The comedian got away^1.&* Failure./%%
+* Ten komik uciekł^1.&* Co za porażka z niego./%%
 obj_savepoint_103
 obj_savepoint_118
 obj_savepoint_120
@@ -24390,7 +24390,7 @@ obj_shamblingmass_79
 obj_shop1_263
 \E0* Witaj^1, podróżniku^1.&* W czym mogę pomóc?/*
 obj_shop1_264
-* Ale nikt nie przyszedł./*
+* Ale nikt nie&  przyszedł./*
 obj_shop1_265
 \E0Co byś&chciał&kupić?/*
 obj_shop1_352
@@ -24539,7 +24539,7 @@ obj_shop2_445
 obj_shop2_448
 * Uważaj tam na siebie!/%%
 obj_shop2_454
-*Do następnego!./%%
+* Widzimy się później! (nie)./%%
 obj_shop2_456
 * Żyję już dosyć długo^1.&*\E3 Może zbyt długo./
 obj_shop2_462
@@ -26581,7 +26581,7 @@ He was struck&with blow after&blow./*
 obj_storybattle_gen_740
 ASRIEL had the&power to destroy&them all./%%
 obj_storybattle_gen_752
-But.../*
+Ale.../*
 obj_storybattle_gen_767
 ASRIEL did not&fight back./%%
 obj_storybattle_gen_778
@@ -29404,27 +29404,27 @@ obj_undynedate_outside_282
 obj_undynedate_outside_364
 NO^1!&YOU CAN'T ESCAPE&FRIENDSHIP!!/%%
 obj_undynedate_outside_366
-* Yo..^1. did you see that!?/
+* Jo..^1. widziałeś to!?/
 obj_undyneencounter2_329
-* Undyne just.../
+* Undyne właśnie.../
 obj_undyneencounter2_330
-* ... TOUCHED ME!/
+* ... DOTKNĘŁA MNIE!/
 obj_undyneencounter2_331
-* I'm never washing my face&  ever again...!/
+* Już nigdy nie umyję&  mojej twarzy...!/
 obj_undyneencounter2_332
-* Man^1, are you unlucky./
+* Rany^1, jakiego masz niefarta./
 obj_undyneencounter2_333
-* If you were standing just&  a LITTLE bit to the left...!/
+* Gdybyś tylko stanął&  TROSZECZKĘ po lewej...!/
 obj_undyneencounter2_334
-* Yo^1, don't worry^1!&* I'm sure we'll see her&  again!/%%
+* Jo^1, nie martw się^1!&* Z pewnością jeszcze ją&  zobaczymy!/%%
 obj_undyneencounter2_335
-* ... yo^1, did you notice^1?&* She seemed really mad&  about something!/
+* ... jo^1, zauważyłeś^1?&* Ona wydawała się naprawdę&  zła o coś!/
 obj_undyneencounter2_338
-* She looked liked she was&  gonna blast me to pieces!/
+* Wyglądała jakby miała mnie&  roztrzelić na kawałki!/
 obj_undyneencounter2_339
-* But..^1. sigh..^1.&* Then she decided to put&  me down.../
+* Ale..^1. ech..^1.&* Wtedy postanowiła mnie&  położyć na ziemię.../
 obj_undyneencounter2_340
-* Yo^1!&* There's always next time^1,&  right^1? Let's go!/%%
+* Jo^1!&* Będziesz przecież następny&  raz^1, right^1? Chodźmy!/%%
 obj_undyneencounter2_341
 Ten dźwięk chyba&doszedł z&tamtąd.../
 obj_undyneencounter4_255
@@ -29952,7 +29952,7 @@ obj_womandog_269
 obj_womandog_270
 (Poża-&łujesz&tego.)
 obj_womandog_276
-(Klęknij&i ponieś&cierpienie!)
+(Klęknij&i odnieś&cier-&pienie!)
 obj_womandog_277
 (Pocia-&cham cię&na pół!)
 obj_womandog_278
