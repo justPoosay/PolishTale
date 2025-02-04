@@ -6379,7 +6379,7 @@ Wywar z Pająków
 item_name_10
 Ciasto Toffi
 item_name_11
-Wybl. Wstążka
+Wyblakła Wstążka
 item_name_12
 Zabawk. Nóż
 item_name_13
@@ -6413,7 +6413,7 @@ Annoying Dog
 item_name_27
 Psia Sałata
 item_name_28
-Psie Poz.
+Psie Pozost.
 item_name_29
 item_name_30
 item_name_31
@@ -6444,7 +6444,7 @@ Podarty Zeszyt
 item_name_45
 Popl. Fartuch
 item_name_46
-Spal. Pat.
+Spalona Patelnia
 item_name_47
 Czapka Kowboja
 item_name_48
@@ -6478,7 +6478,7 @@ Hush Puppy
 item_name_62
 Ślimacze Ciasto
 item_name_63
-temy armor
+zbroja temy
 item_name_64
 item_nameb_0
 CukrPotw
@@ -6499,7 +6499,7 @@ GhostFrut
 item_nameb_9
 WywarPaj
 item_nameb_10
-CiastoTof
+CiastoCyn
 item_nameb_11
 Wstążka
 item_nameb_12
@@ -6541,7 +6541,7 @@ KosmJedz
 item_nameb_35
 InstaNood
 item_nameb_36
-KrabJapko
+Japko
 item_nameb_37
 Hot Dog
 item_nameb_38
@@ -6550,13 +6550,13 @@ GlamBurg
 item_nameb_40
 item_nameb_41
 item_nameb_42
-Leg.Boh
+Leg.Bohat
 item_nameb_43
 ZadymSzkła
 item_nameb_44
 ZeszTom
 item_nameb_45
-PoplFartu
+PoplFart
 item_nameb_46
 item_nameb_47
 CzapKowb
@@ -6588,7 +6588,7 @@ item_nameb_61
 HushPupe
 item_nameb_62
 item_nameb_63
-Temmie AR
+Temmie ZBR
 item_nameb_64
 item_names_0
 item_names_1
@@ -6652,20 +6652,20 @@ G. Burger
 item_names_40
 item_names_41
 item_names_42
-L. Boh.
+L. Bohat.
 item_names_43
 Okulary
 item_names_44
 Zeszyt
 item_names_45
-Fart.
+Fartuch
 item_names_46
 item_names_47
 item_names_48
 item_names_49
-Nasz.Serc
+Nasz.Serce
 item_names_50
-ZużSzt
+Sztylet
 item_names_51
 item_names_52
 item_names_53
@@ -6684,9 +6684,9 @@ item_names_61
 HushPuppy
 item_names_62
 item_names_63
-Tem.Armor
+ZbrojaTem
 item_names_64
-* If you are reading this,&  I messed up somehow./%
+* Jeśli to czytasz,&  Sans jest gejem./%
 item_desc_0_0
 * "Cukierek Potwór" - Leczy 10 HP&* Ma specyficzny,^1 &  bezlukrecjowy smak./%
 item_desc_1_0
@@ -6840,7 +6840,7 @@ Migosp
 Vegetoid
 Loox
 Napstablook
-Piesio
+Pieseł
 Mniejszejszy Pies
 Dogamy
 Dogaressa
@@ -6893,7 +6893,7 @@ monstername_57b
 Zagubiona Dusza
 Monster Kid
 Undyne the Undying
-Glad Dummy
+Radosny Dummy
 Mettaton NEO
 Sans
 Migospel
@@ -7111,7 +7111,7 @@ SCR_TEXT_62
 * Dziękuję... powodzenia!/
 * Rozumiem^1.&* W takim razie^1, miłej podróży./%%
 SANS!!^1!&TO NIC NIE&DAŁO!/
-SANS!!^1!&ONI NAWET NA TO&NIE SPOJRZELI!/
+SANS!!^1!&ON NAWET NA TO&NIE SPOJRZAŁ!/
 * ups./
 * wiedziałem że powinienem&  był użyć dzisiejszej&  krzyżówki zamiast tego./
 CO!^1?&KRZYŻÓWKA!?/
@@ -7172,7 +7172,7 @@ NYEH HEH HEH!!!/%%
 * muszę jakoś zapłacić&  za same produkty./%%
 * co^1?&* nie masz kasy?/
 * hej^1, nie szkodzi./
-\E1* ja nie mam śniegu XD./%%
+\E1* ja nie mam śniegu./%%
 * wow^1, to jest&  dużo gotówki./
 \E3* dlatego przepraszam, że&  to powiem.../
 \E3* ale nie mogę ci sprzedać&  tego./
@@ -7186,8 +7186,8 @@ NAPRAWDĘ!?/
 \E2WOWIE.../
 NIKOMU DO TEJ PORY&NIE POSMAKOWAŁA&MOJA KUCHNIA.../
 \E0A WIĘC!!/
-OPARŁXS SIĘ&SMAKOWI MOJEGO&MOJEGO SPAGHETTI.../
-TYLKO PO TO&BYŚ MÓGŁ SIĘ PODZIELIĆ&ZE MNĄ???/
+OPARŁEŚ SIĘ&SMAKOWI MOJEGO&SPAGHETTI.../
+TYLKO PO TO BYŚ&MÓGŁ SIĘ ZE MNĄ&PODZIELIĆ???/
 \E0NIE OBAWIAJ SIĘ^1!&JA^1, WIELKI KUCHARZ&PAPYRUS.../
 ZROBIĘ CI TYLE&SPAGHETTI^1, ILE&TYLKO ZAPRAGNIESZ!/
 HEH HEH HEH HEH&HEH HEH NYEH!/%%
@@ -7264,7 +7264,7 @@ I ZRÓB TO W&SWOIM TEMPIE./
 POWODZENIA./
 NYEH..^1.&HEH..^1.&HEH!/%%
 * (Jest tu samotny kisz&  leżący pod ławką.)/
-* (Podniesiesz?)& &         Weź         Zostaw  \C 
+* (Weźmiesz go?)& &         Weź         Zostaw  \C 
 * To tylko ławka./%%
 * (Podniosłeś Porzucony&  Kisz.)/%%
 * (Nosisz zbyt wiele.)/
@@ -7274,7 +7274,7 @@ NYEH..^1.&HEH..^1.&HEH!/%%
 * Nic tu nie ma!!!/%%
 * (Podniosłeś Stare Tutu.)/%%
 * (Nosisz zbyt wiele.)/%%
-* (Skrzynia zawiera \[1] kart.)/
+* (Karty w skrzynce: \[1])/
 * (Dwa robaczki w pudle&  grają w \[1]-karcianą grę.)/
 * (Jest uśmieszek&  złożony z \[1] kart w pudle.)/
 * (Ktoś w pudle stworzył& \[1]-karciany donek.)/
@@ -7286,13 +7286,13 @@ NYEH..^1.&HEH..^1.&HEH!/%%
 * (Radość jest chwilowa.^1)&* (Dostałeś Kartę Dziurkowaną.)/%%
 * (Domek sie burzy.^1)&* (Dostałeś Kartę Dziurkowaną.)/%%
 * (To para baletek.)/
-* (Dostałeś Baletki.)/%%
+* (Podniosłeś Baletki.)/%%
 * (Ten mały ptaszek chce cię&  przenieść przez rozstęp.)/
 * (Akceptujesz ofertę ptaszka?)& &         Tak         Nie        \C 
 * (Parasole i ptaki...^1)&* (Nienajlepsza kombinacja.)/%%
 * (To legendarny artefakt.)/
 * (Artefakt znikł.)/%%
-* (Nigdy do tego nie dojdzie es.)/%%
+* (Nigdy do tego nie dojdzie.)/%%
 * (Nosisz zbyt wiele&  piesełów.)/%%
 * (Lodówka jest wypełniona&  kluskami instant i kolą.)/
 * (Wziąć paczkę klusek?)& &         Weź     Zostaw  \C 
@@ -8032,46 +8032,46 @@ NIE SPIESZ SIĘ!/%%
 * Your supernatural&  princesses.../
 \E6* Heh^1! There's no&  way you're gonna&  fool me!!!/%%
 * (Look inside the bone drawer?)& &         Yes         No\C
-\M5* WHAT A SENSATIONAL OPPORTUNITY&  FOR A STORY!/
-\M3* I CAN SEE THE HEADLINE NOW:/
-\M4* "A DOG EXISTS SOMEWHERE."/
-\M2* FRANKLY^1, I'M BLOWN AWAY./
-* (REPORT THIS ONE?)& &         Report      Look More\C
-\M5* THIS DOG..^1.&* STILL EXISTS!/
-* THIS STORY..^1.&* JUST KEEPS GETTING&  BETTER AND BETTER!/
-\M2* (REPORT THIS ONE?)& &         Report      Look More\C
-\M5* OH MY!!!!/
-\M2* ... IT'S A COMPLETELY&  NONDESCRIPT GLASS OF WATER./
-\M4* BUT ANYTHING CAN MAKE&  A GREAT STORY WITH ENOUGH&  SPIN!/
-\M3* I'M HONORED TO BE IN THE&  PRESENCE OF SUCH A HUGE&  LUKEWARM WATER FAN^1, FOLKS!/
-\M5* OH NO!!^1!&* THAT MOVIE SCRIPT!!^1!&* HOW'D??^1? THAT GET THERE???/
-\M4* IT'S A SUPER-JUICY SNEAK&  PREVIEW OF MY LATEST&  GUARANTEED-NOT-TO-BOMB FILM:/
-\M6* METTATON THE MOVIE XXVIII..^1.&  STARRING METTATON!/
-\M1* I'VE HEARD THAT LIKE THE&  OTHER FILMS.../
-\M1* IT CONSISTS MOSTLY OF A SINGLE&  FOUR-HOUR SHOT OF ROSE PETALS&  SHOWERING ON MY RECLINING BODY./
-\M5* OOH!!^1!&* BUT THAT'S!!^1!&* NOT CONFIRMED!!/
-\M5* YOU WOULDN'T (COUGH) SPOIL MY&  MOVIE FOR EVERYONE WITH A&  PROMOTIONAL STORY^1, WOULD YOU?/
-\M5* PHEW!!^1! THAT WAS CLOSE!^1!&* YOU ALMOST GAVE ME A BUNCH&  OF FREE ADVERTISEMENT!!/%%
+\M5* CO ZA REWELACYJNA OKAZJA&  NA CIEKAWĄ HISTORIĘ!/
+\M3* JUŻ WIDZĘ NAGŁÓWKI:/
+\M4* "PIES SOBIE GDZIEŚ ISTNIEJE."/
+\M2* SZCZERZE^1, JESTEM ZACHWYCONY./
+* (ZROBIĆ O TYM REPORTAŻ?)& &         Relacjuj    Szukaj\C
+\M5* TEN PIES..^1.&* NADAL ISTNIEJE!/
+* TA HISTORIA..^1.&* ROBI SIĘ TYLKO&  CORAZ LEPSZA!/
+\M2* (ZROBIĆ O TYM REPORTAŻ?)& &         Relacjuj    Szukaj\C
+\M5* OJEJ!!!!/
+\M2* ... TO KOMPLETNIE NIEOKREŚ-&  LALNA SZKLANKA WODY./
+\M4* ALE WSZYSTKO MOŻE BYĆ&  WSPANIAŁĄ HISTORIĄ Z&  LEKKIM PRZERYSOWANIEM!/
+\M3* JESTEM ZASZCZYCONY&  OBECNOŚCIĄ TAK OGROMNEGO&  OBSESYWNEGO FANA WODY!/
+\M5* O NIE!!^1!&* TEN SCENARIUSZ FILMOWY!!^1!&* JAK??^1? SIĘ TU DOSTAŁO???/
+\M4* TO SUPER SOCZYSTA ZAPOWIEDŹ&  MOJEGO NAJNOWSZEGO FILMU Z&  GWARANTOWANĄ PREMIERĄ:/
+\M6* METTATON THE MOVIE XXVIII..^1.&  W ROLI GŁÓWNEJ METTATON!/
+\M1* SŁYSZAŁEM ŻE TAK JAK&  W INNYCH FILMACH.../
+\M1* SKŁADA SIĘ GŁÓWNIE Z JEDNEGO&  CZTEROGODZINNEGO KADRU PŁATKÓW&  RÓŻ LECĄCYCH NA MOJE CIAŁO./
+\M5* UUU!!^1!&* ALE TO!!^1!&* NIE JEST POTWIERDZONE!!/
+\M5* NIE ZEPSUŁBYŚ WSZYSTKIM&  MOJEGO FILMU JAKĄŚ KOMERCYJNĄ&  HISTORIĄ^1, PRAWDA?/
+\M5* UF!!^1! BLISKO BYŁO!^1!&* PRAWIE PODAROWAŁEŚ MI&  DARMOWE REKLAMY!!/%%
 \M2 %%
-\M3* OH^1!&* YOU'RE BACK!/
-\M6* THAT'S RIGHT^1, FOLKS^1!&* IT SEEMS NO ONE CAN RESIST&  THE ALLURE OF MY NEW FILM!/
-\M4* BASKETBALL'S A BLAST^1, ISN'T IT^1,&  DARLING?/
-\M1* TOO BAD YOU CAN'T PLAY WITH&  THESE BALLS./
-\M4* THEY'RE MTT-BRAND FASHION&  BASKETBALLS^1.&* FOR WEARING^1, NOT PLAYING./
-\M6* YOU CAN'T GET RICH AND FAMOUS&  LIKE MOI WITHOUT BEAUTIFYING&  A FEW ORBS./
-* IT SEEMS OUR REPORTER IS DRAWN&  TO SPORTS LIKE MOTHS TO A&  FLAMING BASKETBALL HOOP./
-\M5* OH MY^1! IT'S A PRESENT^1!&* AND IT'S ADDRESSED TO YOU^1,&  DARLING!/
-\M6* AREN'T YOU JUST BURSTING&  WITH EXCITEMENT?/
-\M5* WHAT COULD BE INSIDE^1?&* WELL^1, NO TIME LIKE THE&  "PRESENT" TO FIND OUT!/
-\M4* READY FOR YOUR..^1.&* PRESENTATION?/
-\M4* (... LET'S CUT THAT ONE IN&  POST.)/
-\M5* OOH LA LA^1!&* THIS VIDEO GAME YOU FOUND..^1.&* IS DYNAMITE!!!/
-\M4* THOUGH I DON'T MAKE AN&  APPEARANCE IN IT UNTIL&  THREE-FOURTHS IN./
-\M3* BUT I LIKE THAT./
-\M6* APPEARING FROM THE HEAVENS LIKE&  MANNA^1, SLAKING THE AUDIENCE'S&  HUNGER FOR GORGEOUS ROBOTS.../
-\M5* OOH^1!&* THAT'S METTATON!/
-* AH^1, YOU UNDERSTAND./
-* THIS IS A GAME WHERE YOU&  SHOULD CHECK EVERYTHING&  TWICE./
+\M3* OH^1!&* WITAJ SPOWROTEM!/
+\M6* ZGADZA SIĘ^1, WIDZOWIE^1!&* WYGLĄDA NA TO, ŻE NIKT NIE&  MOŻE SIĘ OPRZEĆ MOJEJ PREMIERY!/
+\M4* KOSZYKÓWKA JEST SUPER^1,&  CZYŻ NIE^1, SŁONKO?/
+\M1* SZKODA TYLKO^1, ŻE NIE&  MOŻESZ SIĘ BAWIĆ&  TYMI BALLSAMI./
+\M4* TO SĄ MTT-BRAND FASHION&  PIŁKI DO SIATKÓWKI^1.&* DO NOSZENIA^1, NIE GRANIA./
+\M6* NIE MOŻESZ SIĘ STAĆ BOGATY I&  POPULARNY JAK JA BEZ&  UPIĘKSZANIA KILKU RZECZY./
+* CHYBA NASZ DZIENNIKARZ JEST&  PRZYWIĄZANY DO SPORTÓW JAK&  GŁUPIE ĆMY DO LAMPY./
+\M5* O RANY^1! TO PREZENT^1!&* I JEST ZAADRESOWANY DO&  CIEBIE^1, SŁONKO!/
+\M6* CZYŻ NIE JESTEŚ&  WYPEŁNIONY RADOŚCIĄ?/
+\M5* CO MOŻE BYĆ W ŚRODKU^1?&* CÓŻ^1, ROBIĆ NIC INNEGO&  NIŻ "ZAPREZENTOWAĆ" GO!/
+\M4* GOTOWY NA TWOJĄ..^1.&* PREZENTACJĘ?/
+\M4* (... UTNIJMY TO DO SCENY.)/
+\M5* UU LA LA^1!&* TA GRA WIDEO..^1.&* TO DYNAMIT!!!/
+\M4* CHOCIAŻ NIE POJAWIAM SIĘ&  W NIEJ AŻ DO TRZECH-&  CZWARTYCH W GRZE./
+\M3* ALE PODOBA MI SIĘ./
+\M6* POJAWIAM SIĘ Z NIEBA JAK&  ANIOŁ^1, NAKARMIAJĄC PRAGNIENIE&  WIDOWNI NA GORĄCE ANDROIDY.../
+\M5* OOH^1!&* TO METTATON!/
+* AH^1, ROZUMIESZ./
+* TO JEST GRA W KRÓREJ&  POWINIENEŚ WSZYSTKO&  SPRAWDZAĆ DWA RAZY./
 * Kupić Wywar z Pająków&  za 9999G?&          Tak         Nie \C
 * Kupić Pajęczy Pączak za 9999G?& &          Tak         Nie \C
 * Kum^1, kum.&* (Słyszałem^1, że jesteś całkiem&  empatyczny jak na człowieka...)/
@@ -13655,7 +13655,7 @@ obj_froggit_214
 obj_froggit_225
 Dawno temu^1, dwie rasy&panowały nad Ziemią^1:&LUDZIE i POTWORY. \E1 ^1 %
 obj_gameintro_fake_44
-Jednego dnia^1, ^7oni wszyscy &zniknęli bez&śladu.
+Jednego dnia^1, ^7oni wszyscy &zniknęli bez śladu.
 obj_gameintro_fake_45
 * (Kupki śmieci.)&* (Jest kilka marek&  które rozpoznajesz.)/%%
 obj_garbagepile_70
@@ -14708,15 +14708,15 @@ obj_killerlab_event_153
 obj_killerlab_event_154
 \M1* TOODLES!/%%
 obj_killerlab_event_155
-* (As per culinary standard^1,&  a death forcefield surrounds&  the kitchen.)/%%
+* (Jak na standardy kulinarne&  przystało^1, śmiertelne pole&  siłowe otacza kuchnię.)/%%
 obj_kitchenforcefield_123
-* (As per journalistic standards^1,&  a death forcefield surrounds&  the area of intrigue.)/%%
+* (Jak na wywiadowe standardy&  przystało^1, śmiertelne pole&  siłowe otacza to miejsce.)/%%
 obj_kitchenforcefield_124
-* (It's the kind of every-day&  death forcefield you see&  at home.)/%%
+* (To rodzaj śmiertelnego pola&  siłowego codziennego użytku&  takie jak w domach.)/%%
 obj_kitchenforcefield_125
-* (It's a forcefield.)/%%
+* (To pole siłowe.)/%%
 obj_kitchenforcefield_126
-* (It's a battery-powered&  forcefield.)/%%
+* (To zasilane bateriami&  pole siłowe.)/%%
 obj_kitchenforcefield_127
 obj_kitchenforcefield_128
 obj_knock_room_62
@@ -26283,7 +26283,7 @@ obj_spagnot_153
 obj_spagnot_158
 * (Hej^1!)/
 obj_spagnot_163
-* (Go up the creepy alleyway&  on the right for some&  great deals!)/%%
+* (Idź do tej mrocznej&  alejki po prawej po&  świetne oferty!)/%%
 obj_spagnot_164
 What is it,&deary?/%%
 obj_spiderb_220
@@ -28539,7 +28539,7 @@ obj_undyne_ex_870
 obj_undyne_ex_871
 \E4I że jeśli cokolwiek&pójdzie źle^1, to ona..^1.&zewakuuje wszystkich./
 obj_undyne_ex_872
-\E5Do tego czasu zadzwo-&niła do ASGORE'a by&pochłonął jego 6&ludzkich dusz./%%
+\E5Do tego czasu zadzwo&niła już do ASGORE'a&by pochłonął jego 6&ludzkich dusz./%%
 obj_undyne_ex_873
 I z tą&mocą.../%%
 obj_undyne_ex_881
@@ -31778,235 +31778,235 @@ flowey_load
 flowey_load_failed
 HAHAHAHAHAHAHAHAHAHAHAHAHA
 flowey_haha
-You can#do it!
+Dasz#radę!
 obj_bringitinguys_298
-Ribbit.
+Kum.
 obj_bringitinguys_314
-You've#GOT to#win!
+Ty#MUSISZ#wygrać!
 obj_bringitinguys_329
-We're#with you#too!
+My też#jesteśmy#z tobą!
 obj_bringitinguys_355
-C'mon,#you got#this!
+No weź,#dasz#radę!
 obj_bringitinguys_371
 La la#la la!
 obj_bringitinguys_387
-THE END
+KONIEC
 credits_theend_fake
-SPECIAL THANKS
+SPECJALNE PODZIĘKOWANIA
 credits_specialthanks
-TOUCHED CREDITS
+DOTKNIĘTE IMIONA
 credits_touched
-Incredible work.#Somewhere, felt a#door opening...!
+Wspaniała praca.#Gdzieś, poczułeś#otwieranie drzwi...!
 credits_door
-Thanks to friends and#family for supporting us.#And UNDERTALE TEAM thanks#you, the player, from#the bottom of our hearts.#Without you, all of this#would be impossible.# #Good night.
+Dziękuję przyjaciołom i#rodzinie za wasze wsparcie.#Również drużynie POLISHTALE!#Oraz tobie, graczowi, z#głębi naszych serc.#Bez was, to wszystko#byłoby niemożliwe.# #Dobranoc!
 credits_finalthanks
-(( CAST ))
+(( OBSADA ))
 castroll_title
-by Toby
+przez Toby
 castroll_by_toby
-by Toby...?
+przez Toby...?
 castroll_by_toby_2
-by Toby & Temmie
+przez Toby & Temmie
 castroll_by_toby_and_temmie
-by Temmie
+przez Temmie
 castroll_by_temmie
-by Temmie (reluctantly)
+przez Temmie (niechętnie)
 castroll_by_temmie_2
-by Temmie & Toby
+przez Temmie & Toby
 castroll_by_temmie_and_toby
-by Magnolia Porter
+przez Magnolia Porter
 castroll_by_magnolia_porter
-by Magnolia Porter (and Toby???)
+przez Magnolia Porter (i Toby???)
 castroll_by_magnolia_porter_and_toby
-by Michelle
+przez Michelle
 castroll_by_michelle
 FROGGIT
 castroll_name_froggit
-Pondering#Life
+Rozważa#nad Życiem
 castroll_white_froggit
-Professional#Frog
+Profesjonalna#Żaba
 castroll_yellow_froggit
 WHIMSUN
 castroll_name_whimsun
-Still A Bit#Guilty
+Dalej Trochę#Winny
 castroll_white_whimsun
-Braver Every#Day 
+Odważny#Każdego Dnia 
 castroll_yellow_whimsun
 MOLDSMAL
 castroll_name_moldsmal
-Found a New#Cave
+Znalazł Nową#Jaskinię
 castroll_white_moldsmal
-Backup Dancer
+Rezerwowa#Tancerka
 castroll_yellow_moldsmal
 LOOX
 castroll_name_loox
-Slightly#Bully-like
+Trochę#Czepialski
 castroll_white_loox
-Reformed#Bully
+Zreformowany#Tyran
 castroll_yellow_loox
 VEGETOID
 castroll_name_vegetoid
-Pushy Grocer
+Natrętny#Sklepikarz
 castroll_white_vegetoid
-Popular#Nutritionist
+Popularny#Gastrolog
 castroll_yellow_vegetoid
 MIGOSP
 castroll_name_migosp
-Dedicated#Yesman
+Dedykowany#Yesman
 castroll_white_migosp
-Casually#Enjoys Life
+Cieszy Się#Życiem
 castroll_yellow_migosp
 NAPSTABLOOK
 castroll_name_napstablook
 Zzzzzzz...
 castroll_white_napstablook
-Spooky DJ
+Straszny DJ
 castroll_yellow_napstablook
 SNOWDRAKE
 castroll_name_snowdrake
-Still Looking#For Laughs
+Dalej Szuka#Śmiechów
 castroll_white_snowdrake
-Semi-successful#Comedian
+Semi-sukcesywny#Komik
 castroll_yellow_snowdrake
 ICECAP
 castroll_name_icecap
-Thinking#About Its Hat
+Myśli o#Swojej Czapce
 castroll_white_icecap
-Fashion#Designer
+Projektant#Mody
 castroll_yellow_icecap
 GYFTROT
 castroll_name_gyftrot
-Finding Peace#And Quiet
+Osiąga Pokój#i Ciszę
 castroll_white_gyftrot
-Christmas#Display
+Wystawa#Świąteczna
 castroll_yellow_gyftrot
-DOGGO
+PIESEŁ
 castroll_name_doggo
-Believes In The#Almighty Stick
+Wyznaje wiarę#Potężnego Kija
 castroll_white_doggo
-Has His Own#Seeing Eye Dog
+Ma Własnego#Widzącego Piesa
 castroll_yellow_doggo
 DOGAMY & DOGARESSA
 castroll_name_dogamy
-Still Thinking#About That Stick
+Dalej Myślą#o Tym Patyku
 castroll_white_dogamy
-Finally No. 1 Nose#Nuzzle Champions
+W Końcu 1 Miejsce#Mistrzostw Miziania
 castroll_yellow_dogamy
-LESSER DOG
+MNIEJSZ. PIES
 castroll_name_lesserdog
-Searching For#Affection
+W Poszukiwaniu#Sympatii
 castroll_white_lesserdog
-Found A Loving#Owner
+Znalazł Kochanego#Właściciela
 castroll_yellow_lesserdog
-GREATER DOG
+WIĘKSZ. PIES
 castroll_name_greaterdog
-Unaware of Life's#Changes
+Nieświadomy#Zmian Życiowych
 castroll_white_greaterdog
-Excited by Life's#Changes
+Podekscytowany#Zmianami Życiowymi
 castroll_yellow_greaterdog
 AARON
 castroll_name_aaron
-Still Flexing
+Dalej Flexuje
 castroll_white_aaron
-Paranormal#Investigator
+Paranormalny#Badacz
 castroll_yellow_aaron
 MOLDBYGG
 castroll_name_moldbygg
-Wistfully Adjusting#to City Life
+Dostosowuje Się#Do Życia W Mieście
 castroll_white_moldbygg
-Idyllic Life#on the Beach
+Sielankowe Życie#na Plaży
 castroll_yellow_moldbygg
 WOSHUA
 castroll_name_woshua
-Inspired by OMOCAT
+Zainspirowany#OMOCATem
 castroll_extra_woshua
-Normal#Janitor
+Normalny#Woźny
 castroll_white_woshua
-Legendary#Janitor
+Legendarny#Woźny
 castroll_yellow_woshua
 TEMMIE
 castroll_name_temmie
 castroll_extra_temmie
 castroll_white_temmie
 castroll_yellow_temmie
-MAD DUMMY
+ZŁY MANEKIN
 castroll_name_maddummy
-Changed Name to#Angry Dummy
+Zmienił imię na#Wkurzony Manekin
 castroll_white_maddummy
-Calmed Down...#Just a Bit
+Uspokoił Się...#Tylko Troszeczke
 castroll_yellow_maddummy
 SHYREN
 castroll_name_shyren
-Taking Piano#Lessons Again
+Znowu Bierze#Lekcje Pianina
 castroll_white_shyren
-Released Her First Hit Single,#"When You Say Goodbye#It's Like Magical Bullets#Are Slowly Flying Out of#Your Mouth And Hitting Me"
+Wypuściła Swój Pierwszy Hit,#"Kiedy Się Żegnasz Jakby#Małe Nutki Powoli Wylatywały#z Twoich Ust I Mnie Uderzały"
 castroll_yellow_shyren
 VULKIN
 castroll_name_vulkin
-Strolling#Happily
+Wesoło#Spaceruje
 castroll_white_vulkin
-Encouraging#Space Heater
+Zachęcający Grzejnik#Powietrza
 castroll_yellow_vulkin
 TSUNDERPLANE
 castroll_name_tsunderplane
-New Student#At School
+Nowy Uczeń#W Szkole
 castroll_white_tsunderplane
-Finally Confesses#(What!? I don't!!)
+W Końcu Wyznaje Miłość#(Co!? Nieprawda!!)
 castroll_yellow_tsunderplane
 PYROPE
 castroll_name_pyrope
-Continually#In Trouble
+Dalej W#Tarapatach
 castroll_white_pyrope
-Candle In The#World's Largest#Birthday Cake
+Świeczka w#Największym#Cieście Urodzinowym
 castroll_yellow_pyrope
 MUFFET
 castroll_name_muffet
-Trying To Make#Spider Ends Meet
+Próbuje Związać#Końce Pająków
 castroll_white_muffet
-Spider Success#With a New Bakery
+Pajęczy Sukces Z#Nową Piekarnią
 castroll_yellow_muffet
 ROYAL GUARDS
 castroll_name_royalguards
-Use Your#Imagination
+Użyj Twojej#Wyobraźni#(Say Gex)
 castroll_white_royalguards
 castroll_yellow_royalguards
-FINAL FROGGIT
+FINALNY FROGGIT
 castroll_name_finalfroggit
-Searching For#Life's Meaning
+Poszukuje#Sensu Życia
 castroll_white_finalfroggit
-Giving Life#Its Own Meaning
+Nadaje Życiu#Własne Znaczenie
 castroll_yellow_finalfroggit
 WHIMSALOT
 castroll_name_whimsalot
-Fighting For#The Future
+Walczy o#Przyszłość
 castroll_white_whimsalot
-The Long Battle#Finally Ending...
+Długa Bitwa w#Końcu dobiegła#Końca...
 castroll_yellow_whimsalot
-ASTIGMATISM
+ASTYGMATYSM
 castroll_name_astigmatism
-Still A Big#Bully
+Nadal Duży#Tyran
 castroll_white_astigmatism
-Domineering#Glasses Seller
+Nominujący#Sprzedawca#Okularów
 castroll_yellow_astigmatism
 MADJICK
 castroll_name_madjick
-Learning#Bowling
+Uczy Się#Kręgli
 castroll_white_madjick
-Street#Magician
+Uliczny#Magik
 castroll_yellow_madjick
 KNIGHT KNIGHT
 castroll_name_knightknight
-Retail Job
+Praca W#Ubezpieczalnii
 castroll_white_knightknight
-Taking a Well-#Deserved Nap
+Bierze Zasłużoną#Drzemkę
 castroll_yellow_knightknight
-AMALGAMATES
+AMALGAMATY
 castroll_name_amalgamates
 ??????
 castroll_extra_amalgamates
-Living With#Their Families,#Thinking About#Sticks
+Żyją Ze Swoimi#Rodzinami,#Myśląc o#Patykach
 castroll_white_amalgamates
-Living With#Their Families
+Żyją Ze#Swoimi Rodzinami
 castroll_yellow_amalgamates
 credits_short_160
 Logo Design#Cutscene Artist#Overworld Artist+#Animator (Area 1,2,3)#Shop Artist (Area 2,3)#Tile Artist (Area 2)
@@ -32038,9 +32038,9 @@ Easynam (Tile Area 1)#Guzusuru (Asgore Spear Reveal)
 credits_short_201
 Guest Monster Designs
 credits_short_205
-"Muffet" - Michelle Czajkowski#"Woshua" - Inspired by OMOCAT
+"Muffet" - Michelle Czajkowski#"Woshua" - Zainspirowany OMOCATem
 credits_short_207
-Photoshop#Flowey Battle Co-design
+Fotoszop#Flowey Battle Co-design
 credits_short_219
 Everdraed
 credits_short_221
@@ -32103,19 +32103,19 @@ credits_short_loc2_3a
 Sepia + Area-Themed Borders
 credits_short_loc2_4
 credits_short_loc2_4a
-Testers
+Tłumacze i Testerzy
 credits_short_test_0
-Graeme Howard
+justPoosai
 credits_short_test_1
-Brian Carmody
+Benziuu
 credits_short_test_2
-Derek Carmody
+TeaWithBread
 credits_short_test_3
-Kevin Chitester
+sorrowhaze
 credits_short_test_4
-Michael Ferguson
+yourcreepyhero
 credits_short_test_5
-Clyde "Tomato" Mandelin
+holllowwss
 credits_short_test_6
 credits_short_test_7
 Adil Mohyuddin
@@ -32126,7 +32126,7 @@ Jenna Post
 credits_short_test_10
 Christopher Warriner
 credits_short_test_11
-Special Thanks
+Specjalne Podziękowania
 credits_short_thanks_0
 Reid Young
 credits_short_thanks_1
@@ -32170,55 +32170,55 @@ Fontworks Inc.
 credits_short_thanks_last_1
 Yutaka Sato (Happy Ruika)
 credits_short_thanks_last_2
-MTT-BRAND STILL TOP-RATED    ||    SCHOOL CANCELLED OVER REACTIVATED PUZZLES    ||     
+MTT-BRAND NADAL NA TOPIE    ||    SZKOŁA ZAMKNIĘTA Z POWODU REAKTYWOWANYCH ŁAMIGÓWEK    ||     
 mettnews_ticker_1
-SCIENTIST DISCOVERS HEALTH BENEFITS OF USING COMPUTER (JUST KIDDING LOL)   ||     
+NAUKOWIEC ODKRYWA BENEFITY ZDROWOTNE UŻYWANIA KOMPUTERA (JK LOL)   ||     
 mettnews_ticker_2
-LOCAL METTATON VERY RICH FAMOUS AND GORGEOUS ||    
+LOKALNY METTATON BARDZO BOGATY I PRZEPIĘKNY ||    
 mettnews_ticker_3
-TINY VOLCANO MONSTER TRIES ITS BEST, RECEIVES TINY APPLAUSE ||    
+MALUTKI WULKANIK POTWÓR DAJE Z SIEBIE WSZYSTKO, OTRZYMUJE MAŁE OKLASKI ||    
 mettnews_ticker_4
-PYROPE IRONICALLY MISSES INVITATION TO THIS SCENARIO "WOULD HAVE LOVED IT"  ||    
+PYROPE IRONICZNIE ZAPOMINA O TYM SCENARIUSZU "POKOCHAŁBY TO"  ||    
 mettnews_ticker_5
-LOCAL PLANE CREATES HUGE LINE AT STORE BY SAYING "IT'S NOT LIKE I WANT TO BUY THESE PRODUCTS OR ANYTHING" CASHIER CONFUSED   ||     
+LOKALNY SAMOLOT TWORZY OGROMNĄ KOLEJKĘ W SKLEPIE MÓWIĄC "TO NIE TAK ŻE CHCĘ KUPIĆ TE RZECZY CZY COŚ" KASJERZ ZAKŁOPOTANY   ||     
 mettnews_ticker_6
-HOTLAND TECHNICAL MALFUNCTIONS ACCEDE AND RECEDE IN LINEAR PROGRESSION THROUGHOUT AREA  ||     
+PROBLEMY TECHNICZNE HOTLANDU  POJAWIAJĄ SIĘ I ZNIKAJĄ W LINIOWEJ PROGRESJI W CAŁYM OBSZARZE  ||     
 mettnews_ticker_7
-WOSHUA CLEANS UP LOCAL CRIME, LITERALLY FINDS CRIMINALS AND DOUSES THEM IN SOAP, CRIME DOESN'T GO DOWN BUT IT SMELLS AMAZING   ||   
+WOSHUA CZYŚCI LOKALNE ZBRODNIE, DOSŁOWNIE ZNAJDUJE ZBRODNIARZY I MOCZY ICH W MYDLE, PRZESTĘPCZOŚĆ NIEZMIENIONA ALE ŁADNIE PACHNIE   ||   
 mettnews_ticker_8
-HISTORIC NEWS TICKER HEADLINE SHORTAGE ||     
+NIEDOBÓR NAGŁÓWKÓW TELEWIZYJNYCH HISTORYJEK ||     
 mettnews_ticker_9
-120 SECONDS LEFT! DEFUSE 6 BOMBS!
+120 SEKUND! ZOZBROJ 6 BOMB!
 mettnews_ticker_doom_start
-\[1] SECONDS LEFT!
+\[1] SEKUND!
 mettnews_ticker_doom_timeleft
- \[1] BOMBS LEFT!
+ POZOSTAŁO \[1] BOMB!
 mettnews_ticker_doom_bombsleft
- HURRY UP!
+ POSPIESZ SIĘ!
 mettnews_ticker_doom1
- TIME'S RUNNING OUT!
+ CZAS SIĘ KOŃCZY!
 mettnews_ticker_doom2
- DO YOUR BEST!
+ POSTARAJ SIĘ!
 mettnews_ticker_doom3
- SPEED UP!
+ ZWIĘKSZONA PRĘDKOŚĆ!
 mettnews_ticker_doom4
- RUN! RUN! RUN!
+ BIEGNIJ! BIEGNIJ! BIEGNIJ!
 mettnews_ticker_doom5
- GIVE IT YOUR ALL!
+ WŁÓŻ W TO SERCE!
 mettnews_ticker_doom6
- DON'T WAIT UP!
+ NIE CZEKAJ!
 mettnews_ticker_doom7
-TIME:\[1]
+CZAS:\[1]
 mettnews_timer
-RATINGS \[1]
+WIDOWNIA \[1]
 mett_ratings
-ESSAY PROMPT:#What do you#love most about#Mettaton?#(No X or Z)
+PYTANIE:#Co najbardziej#kochasz w#Mettatonie?#(Bez X i Z)
 mett_essay_prompt_pc
-ESSAY PROMPT: What do you love most about Mettaton?
+PYTANIE: Co najbardziej kochasz w Mettatonie?
 mett_essay_prompt_console
-[START TYPING]
+[ZACZNIJ PISAĆ]
 mett_essay_start
-TIME UP!!!
+KONIEC CZASU!!!
 mett_essay_timeup
 $ - \[G]G
 obj_golddisplay_42
@@ -32264,11 +32264,11 @@ shop1_talk6_title
 shop1_talk7_title
 Przyszłość
 shop1_talk8_title
-Heals 18HP#(Looks#like a#crab.)
+Leczy 18HP#(Wygląda#jak#krab.)
 shop2_itemdesc_37
-Heals 10HP#SPEED#up in#battle.
+Leczy 10HP#PRĘDKOŚĆ#w górę#w walce.
 shop2_itemdesc_41
-Armor: 5DF#(\[2] DF)#Invincible#longer
+Zbroja: 5DF#(\[2] DF)#Dłużej#unikalny
 shop2_itemdesc_44
 Weapon: 2AT#(\[1] AT)#Invincible#longer
 shop2_itemdesc_45
