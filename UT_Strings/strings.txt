@@ -23783,324 +23783,324 @@ obj_sans_sentry2_142
 obj_sans_sentry2_306
 * Przeszedłeś dalej.
 obj_sansb_90
-what^1?&you think i'm just&gonna stand there&and take it?/%%
+co^1?&myślałeś że będę&po prostu stać&jak głupi?/%%
 obj_sansb_252
-our reports showed&a massive anomaly&in the timespace&continuum./
+nasze dane wykazały&ogromne dziury w&czasoprzestrzeni./
 obj_sansb_256
-timelines jumping&left and right,&stopping and&starting.../%%
+osie czasowe w&prawo i lewo,&zatrzymując i&zaczynając.../%%
 obj_sansb_257
-\E4until suddenly^1,&everything ends./%%
+\E4aż do chwili^1,&gdy wszystko&się skończy./%%
 obj_sansb_262
 \E4heh heh heh.../
 obj_sansb_266
-\E5that's your fault^1,&isn't it?/%%
+\E5to twoja wina^1,&czyż nie?/%%
 obj_sansb_267
-\E1you can't understand&how this feels./%%
+\E1nie jesteś w&stanie zrozumieć&tego uczucia./%%
 obj_sansb_272
-\E4knowing that one&day^1, without any&warning.../
+\E4wiedząc że jednego&dnia^1, bez żadnego&ostrzeżenia.../
 obj_sansb_277
-\E9it's all going to&be reset./%%
+\E9to wszystko&zostanie&zresetowane./%%
 obj_sansb_278
-\E9look^1.&i gave up trying&to go back a long&time ago./%%
+\E9słuchaj^1.&ja poddałem się&dalszych prób&powrotu już dawno./%%
 obj_sansb_284
-\E4and getting to the&surface doesn't&really appeal&anymore^1, either./%%
+\E4i dostanie się na&powierzchnięnie&bardzo mnie już&motywuje./%%
 obj_sansb_290
-\E4cause even if we&do.../
+\E4bo nawet jeśli&wyjdziemy.../
 obj_sansb_296
-\E5we'll just end up&right back here^1,&without any memory&of it^1, right?/%%
+\E5to i tak skończymy&spowrotem tutaj^1,&bez żadnych wspom-&nień^1, prawda?/%%
 obj_sansb_297
-\E1to be blunt.../
+\E1szczerze&mówiąc.../
 obj_sansb_303
-\E4it makes it kind&of hard to give&it my all./%%
+\E4to utrudnia&chęc włożenia&w to wszystkiego./%%
 obj_sansb_304
-\E1... or is that just&a poor excuse for&being lazy...?/
+\E1... albo to tylko&głupia wymówka&bycia leniwym...?/
 obj_sansb_310
-\E3hell if i know./%%
+\E3chuj wie./%%
 obj_sansb_311
-\E4all i know is..^1.&seeing what comes&next.../
+\E4jedyne co wiem..^1.&widząc co będzie&dalej.../
 obj_sansb_317
-\E9i can't afford not&to care anymore./%%
+\E9po prostu nie&chce mi się&obchodzić już./%%
 obj_sansb_318
-\E9ugh..^1.&that being said.../
+\E9ugh..^1.&to powiedziawszy.../
 obj_sansb_334
-\E1you^1, uh^1, really&like swinging that&thing around^1,&huh?/
+\E1ty^1, uh^1, naprawdę&lubisz huśtać&tym czymś^1, huh?/
 obj_sansb_335
 obj_sansb_336
-\E4listen./
+\E4słuchaj./
 obj_sansb_337
-i know you didn't&answer me before^1,&but.../
+wiem, że poprzednio&mi nie odpowiedziałeś^1,&ale.../
 obj_sansb_338
-\E4somewhere in&there^1.&i can feel it./
+\E4gdzieś tam&u ciebie^1.&czuję to./
 obj_sansb_339
-\E0there's a glimmer&of a good person&inside of you./
+\E0czuję promyczek&dobrej osoby&wewnątrz ciebie./
 obj_sansb_340
-\E4the memory of&someone who once&wanted to do the&right thing./
+\E4wspomnienia kogoś&kto wcześniej&chciał zrobić&właściwą rzecz./
 obj_sansb_341
-\E1someone who^1, in&another time^1,&might have even&been.../
+\E1ktoś kto^1, w&innej osi&czasowej^1, mógł&nawet być.../
 obj_sansb_342
-\E4a friend?/
+\E4przyjacielem?/
 obj_sansb_343
-\E3c'mon^1, buddy./
+\E3no chodź&ziom./
 obj_sansb_344
-\E0do you remember&me?/
+\E0pamiętasz&mnie?/
 obj_sansb_345
-\E4please^1, if you're&listening.../
+\E4proszę^1, jeśli&mnie słyszysz.../
 obj_sansb_346
-\E9let's forget all&this^1, ok?/
+\E9zapomnijmy&o tym^1, ok?/
 obj_sansb_347
-\E3just lay down&your weapon^1, and.../
+\E3po prostu połóż&twoją broń^1, i.../
 obj_sansb_348
-\E4well^1, my job&will be a lot&easier./%%
+\E4cóż^1, moja praca&będzie o wiele&łatwiejsza./%%
 obj_sansb_349
 obj_sansb_353
 obj_sansb_354
 obj_sansb_355
 obj_sansb_356
-friendship.../
+przyjaźń.../
 obj_sansb_357
-\E3it's really great^1,&right?/
+\E3jest świetna^1,&co nie?/
 obj_sansb_358
-let's quit fighting./%%
+skończmy&ten nonsens./%%
 obj_sansb_359
-\E3welp^1, it was&worth a shot./
+\E3cóż^1, było&warto spró-&bować./
 obj_sansb_380
-\E5guess you like&doing things the&hard way^1, huh?/%%
+\E5najwyraźniej lubisz&załatwiać sprawy tą&cięższą metodą^1, huh?/%%
 obj_sansb_381
-\E3woah^1, you look&REALLY pissed off.../
+\E3woah^1, wyglądasz&MOCNO wkurwiony.../
 obj_sansb_384
 \E4heheheh.../
 obj_sansb_385
-\E5did i getcha?/
+\E5złapałem cię?/
 obj_sansb_386
-\E4well^1, if you came&back anyway.../
+\E4cóż^1, jeśli&powróciłeś.../
 obj_sansb_387
-\E1i guess that means&we never really&WERE friends^1, huh?/
+\E1to znaczy że my&nigdy nie BYLIŚMY&przyjaciółmi^1, huh?/
 obj_sansb_388
 \E4heh./
 obj_sansb_389
-\E9don't tell that&to the other&sans-es^1, ok?/%%
+\E9nie mów tego&innym sansom^1,&ok?/%%
 obj_sansb_390
-\E4sounds strange^1, but&before all this i&was secretly hoping&we could be friends./
+\E4brzmi dziwnie^1, ale&przed tym wszystkim&miałem nadzieję że&się zaprzyjaźnimy./
 obj_sansb_398
-\E1i always thought the&anomaly was doing&this cause they&were unhappy./
+\E1zawsze myślałem że&ta anomalia robiła&to ponieważ oni&byli nieszczęśliwi./
 obj_sansb_399
-and when they got&what they wanted^1,&they would stop&all this./%%
+a kiedy dostali&to czego chcieli^1,&przestaliby robić&to wszystko./%%
 obj_sansb_400
-\E3and maybe all they&needed was..^1.&i dunno./
+\E3i może jedyne co&potrzebowali to..^1.&idk./
 obj_sansb_405
-\M1some good food^1,&some bad laughs^1,&some nice friends./%%
+\M1trochę jedzenia^1,&słabych żartów^1,&miłych przyjaciół./%%
 obj_sansb_406
-\E4but that's&ridiculous^1,&right?/
+\E4ale to jest&absurdalne^1,&prawda?/
 obj_sansb_411
-\E5yeah^1, you're the&type of person&who won't EVER&be happy./%%
+\E5ta^1, ty jesteś&typem osoby która&NIGDY nie będzie&zadowolona./%%
 obj_sansb_412
-\E5you'll keep&consuming timelines&over and over^1,&until.../
+\E5będziesz pożerał&osie czasowe w&kółko^1, dopóki.../
 obj_sansb_417
-\E4well./
+\E4cóż./
 obj_sansb_418
-\M1hey./
+\M1hej./
 obj_sansb_419
-\E3take it from me^1,&kid./
+\E3słuchaj^1,&dzieciaku./
 obj_sansb_420
-someday.../
+jednego dnia.../
 obj_sansb_421
-you gotta learn&when to QUIT./%%
+będziesz musiał&się nauczyć&kiedy masz&ODPUŚCIĆ./%%
 obj_sansb_422
 obj_sansb_423
-\E3and that day's&TODAY./%%
+\E3a to kiedyś&to DZISIAJ./%%
 obj_sansb_427
-\E4cause..^1.&y'see../
+\E4bo..^1.&widzisz../
 obj_sansb_433
-\E1all this fighting&is really tiring&me out./%%
+\E1to całe walczenie&naprawdę mnie&wykańcza./%%
 obj_sansb_434
-\E4and if you keep&pushing me.../
+\E4i jeśli będziesz&mnie dalej pchał.../
 obj_sansb_441
-\Xt\E3hen i'll be&forced to use my\R &special attack\X./%%
+\Xt\E3o będę zmuszony&do użycia mojego\R &specjalnego ataku\X./%%
 obj_sansb_442
-\Xy\E3eah^1, my \Rspecial&attack\X.&sound familiar?/
+\Xt\E3a^1, mój&\Rspecjalny atak\X.&brzmi znajomo?/
 obj_sansb_448
-\Xw\E1ell^1, get ready^1.&cause after the&next move^1, i'm&going to \Ruse it\X./
+\Xc\E1óż^1, przygotuj się^1.&bo w następnej&kolejce^1, ja go&\Rużyję\X./
 obj_sansb_449
-\E3so^1, if you don't&wanna see it^1, now&would be a good&time to die./%%
+\E3więc^1, jeśli nie&chcesz go zobaczyć^1,&teraz jest dobry&czas na śmierć./%%
 obj_sansb_450
-\E4well^1, here goes&nothing.../
+\E4cóż^1, sam tego&chciałeś.../
 obj_sansb_456
-\E3are you ready?/
+\E3gotowy?/
 obj_sansb_457
-\Xs\E5urvive THIS^1, and&i'll show you my\R &special attack\X!/%%
+\Xp\E5rzetrwaj TO^1, a&pokaże ci mój\R &specjalny atak\X!/%%
 obj_sansb_458
 obj_sansb_477
-you're sparing me?/
+oszczędzasz mnie?/
 obj_sansb_478
-\E1finally./
+\E1w końcu./
 obj_sansb_479
-\E3buddy^1.&pal./
+\E3kumplu^1.&ziom./
 obj_sansb_480
-\E4i know how hard&it must be.../
+\E4wiem jakie to&musi być ciężkie.../
 obj_sansb_481
-to make that&choice./
+aby podjąć&tą decyzję./
 obj_sansb_482
-to go back on&everything you've&worked up to./
+aby zrezygnować ze&wszystkiego nad&czym pracowałeś./
 obj_sansb_483
-\E0i want you to&know..^1.&i won't let it&go to waste./
+\E0chcę żebyś&wiedział..^1.&nie pozwolę temu&pójśćna marne./
 obj_sansb_484
 \M1.../
 obj_sansb_485
-\E3c'mere^1, pal./%%
+\E3no chodź^1, ziom./%%
 obj_sansb_486
-* Just keep attacking.
+* Po prostu atakuj dalej.
 obj_sansb_954
-* Sans's movements grow a&  little wearier.
+* Ruchy Sansa robią się coraz&  bardziej zmęczone.
 obj_sansb_956
-* Sans's movements seem to be&  slower.
+* Ruchy Sansa wydają się być&  wolniejsze.
 obj_sansb_958
-* Felt like a turning point.
+* Uczucie punktu zwrotnego.
 obj_sansb_960
-* You felt your sins crawling&  on your back.
+* Poczułeś twoje grzechy&  pełzające po plecach.
 obj_sansb_962
-* You felt your sins weighing&  on your neck.
+* Poczułeś twoje grzechy&  obciążające twój kark.
 obj_sansb_963
-* KARMA coursing through your&  veins.
+* KARMA płynie przez&  twoje żyły.
 obj_sansb_964
-* Doomed to death of KARMA!
+* Skazany na śmierć KARMĄ!
 obj_sansb_965
-* The REAL battle finally begins.
+* PRAWDZIWA walka w końcu&  się zaczyna.
 obj_sansb_969
-* Reading this doesn't seem&  like the best use of time.
+* Czytanie tego nie wydaje się&  być najlepszym wykorzystaniem&  twojego czasu.
 obj_sansb_971
-* Sans is starting to look&  really tired.
+* Sans zaczyna wyglądać&  naprawdę zmęczony.
 obj_sansb_973
-* Sans is preparing something.
+* Sans przygotowuje coś.
 obj_sansb_975
-* Sans is getting ready to&  use his special attack.
+* Sans przygotowuje się do&  użycia jego specjalnego ataku.
 obj_sansb_977
-* Sans is sparing you.
+* Sans cię oszczędza.
 obj_sansb_985
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./
+* SANS 1 ATK 1 DEF&* Najłatwiejszy potwór^1.&* Może tylko zadać 1 obrażenie./
 obj_sansb_1013
-* Can't keep dodging forever^1.&* Keep attacking./^
+* Nie może unikać ataków&  w nieskończoność^1.&* Atakuj dalej./^
 obj_sansb_1014
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./^
+* SANS 1 ATK 1 DEF&* Najłatwiejszy potwór^1.&* Może tylko zadać 1 obrażenie./^
 obj_sansb_1018
-it's a beautiful&day outside./
+Jest przepiękny&dzień na dworze./
 obj_sansb_1079
-birds are singing^1,&flowers are&blooming.../
+ptaszki&śpiewają^1,&kwiatki&kwitną.../
 obj_sansb_1080
-on days like these^1,&kids like you.../%%
+w takie dni^1,&dzieciaki&jak ty.../%%
 obj_sansb_1081
 obj_sansb_1084
-birds are singing^1,%%
+ptaszki śpiewają^1,%%
 obj_sansb_1085
-ready?/%%
+gotowy?/%%
 obj_sansb_1089
-Should&be&burning&in hell./%%
+Powinny&płonąć&w&piekle./%%
 obj_sansb_1152
 \E1huh./
 obj_sansb_body_1446
-\M1always wondered why&people never use&their strongest&attack first./%%
+\M1zawsze zastanawiałem&się dlaczego inni nie&używają najsilniejszych&ataków na start./%%
 obj_sansb_body_1447
-\E3anyway^1, as i was&saying^1, it's a&nice day out./
+\E3w każdym razie^1, tak jak&mówiłem^1, jest ładny&dzień na zewnątrz./
 obj_sansb_body_1450
-\M1why not relax and&take a load off?/%%
+\M1czemu nie zrelaksować&się i iść na urlop?/%%
 obj_sansb_body_1451
-here we go./%%
+zaczynamy./%%
 obj_sansb_body_1455
-* You feel like you're going to&  have a bad time.
+* Czujesz, że będziesz&  miał zły czas.
 obj_sansb_body_1468
-huff..^1. puff.../
+huf..^1. puf.../
 obj_sansb_body_2091
-all right^1.&that's it./
+okej^1.&doczekałeś&się./
 obj_sansb_body_2092
-\Xi\M1t's time for my\R &special attack\X./
+\Xc\M1zas na mój\R &specjalny atak\X./
 obj_sansb_body_2093
 obj_sansb_body_2094
-\E4here goes nothing./%%
+\E4no to lecimy./%%
 obj_sansb_body_2095
 \E1yep./
 obj_sansb_body_2111
-\E1that's right./
+\E1zgadza sie./
 obj_sansb_body_2112
-\E3it's literally&nothing./
+\E3to dosłownie&nic./
 obj_sansb_body_2113
-\E1and it's not gonna&be anything^1,&either./
+\E1i nic też&nie będzie^1,&zresztą./
 obj_sansb_body_2114
-\E4heh heh heh..^1.&ya get it?/
+\E4heh heh heh..^1.&czaisz?/
 obj_sansb_body_2115
-\E1i know i can't&beat you./
+\E1wiem że nie&mogę cię&pokonać./
 obj_sansb_body_2116
-\E4one of your turns.../
+\E4w jednej z&twoich kolejek.../
 obj_sansb_body_2117
-\E9you're just gonna&kill me./
+\E9po prostu&mnie zabijesz./
 obj_sansb_body_2118
-\E1so^1, uh./
+\E1więc^1, uh./
 obj_sansb_body_2119
-\E4i've decided.../
+\E4postanowiłem.../
 obj_sansb_body_2120
-it's not gonna BE&your turn^1.&ever./
+że nigdy nie&BĘDZIE twojej&kolejki./
 obj_sansb_body_2121
-\E3i'm just gonna&keep having MY&turn until you&give up./
+\E3po prostu będę&trzymałMOJĄ&kolejkę aż&się poddasz./
 obj_sansb_body_2122
-\E5even if it means&we have to stand&here until the&end of time./
+\E5nawet jeśli to&znaczy że my&będziemy stali&do końca czasu./
 obj_sansb_body_2123
-\E1capiche?/%%
+\E1czaisz baze?/%%
 obj_sansb_body_2124
-\E9you'll get bored&here./
+\E9znudzisz się&tutaj./
 obj_sansb_body_2141
-\E1if you haven't&gotten bored&already^1, i mean./
+\E1jeśli już się&nie znudziłeś^1,&to znaczy./
 obj_sansb_body_2142
-\E5and then^1, you'll&finally quit./%%
+\E5a wtedy^1, ty&w końcu&odpuścisz./%%
 obj_sansb_body_2143
-\E5i know your type./
+\E5znam twój typ./
 obj_sansb_body_2161
-\E1you're^1, uh^1, very&determined^1, aren't&you?/
+\E1jesteś^1, uh^1, bardzo&zdeterminowany^1,&czyż nie?/
 obj_sansb_body_2162
-\E4you'll never give&up^1, even if&there's^1, uh.../
+\E4nigdy się nie&poddasz^1, nawet&jeśli nie ma^1, uh.../
 obj_sansb_body_2163
-\E3absolutely NO&benefit to&persevering&whatsoever./
+\E3absolutnie ZERO&benefitów by&brnąć w to&dalej./
 obj_sansb_body_2164
-\E1if i can make&that clear./
+\E1jeśli mogę to&dobrze określić./
 obj_sansb_body_2165
-\E4no matter what^1,&you'll just keep&going./
+\E4niezależnie co^1,&ty po prostu&będziesz szedł&dalej./
 obj_sansb_body_2166
-\E9not out of any&desire for good&or evil.../
+\E9nie z żadnego&pragnienia&dobra czy zła.../
 obj_sansb_body_2167
-\E3but just because&you think you&can./
+\E3ale po prostu&dlatego, że&myślisz że&możesz./
 obj_sansb_body_2168
-\E1and because you&"can".../
+\E1i ponieważ&"możesz".../
 obj_sansb_body_2169
-\E9... you "have to."/%%
+\E9... to "musisz."/%%
 obj_sansb_body_2170
-\E9but now^1, you've&reached the end./
+\E9ale teraz^1,&dobiegłeś do&końca./
 obj_sansb_body_2188
-\E4there is nothing&left for you now./
+\E4nie pozostało&już nic dla&ciebie teraz./
 obj_sansb_body_2189
-\E1so^1, uh^1, in my&personal opinion.../
+\E1więc^1, uh^1, w mojej&osobistej opinii.../
 obj_sansb_body_2190
-\E3the most&"determined"&thing you can&do here?/
+\E3najbardziej&"zdeterminowaną"&rzeczą którą tu&możesz zrobić?/
 obj_sansb_body_2191
-\E1is to^1, uh^1,&completely give&up./
+\E1to^1, uh^1,&kompletnie&się poddać./
 obj_sansb_body_2192
-\E3and..^1. (yawn)&do literally&anything else./%%
+\E3i..^1. (ziew)&robić dosłownie&cokolwiek innego./%%
 obj_sansb_body_2193
-heh^1, didja&really think you&would be able to
+heh^1, czy ty serio&myślałeś że będziesz&w stanie mnie
 obj_sansb_body_2344
 obj_sansb_body_2495
 obj_sansb_body_2496
 obj_sansb_body_2497
-so.../
+więc.../
 obj_sansb_body_2498
 guess that's it^1,&huh?/
 obj_sansb_body_2499
 obj_sansb_body_2500
-just.../
+po prostu.../
 obj_sansb_body_2501
 don't say i&didn't warn you./%%
 obj_sansb_body_2502
-welp./
+no coż./
 obj_sansb_body_2539
-i'm going to&grillby's./%%
+idę do&grillby's./%%
 obj_sansb_body_2540
-papyrus^1, do you&want anything?/%%
+papyrus^1,&chcesz czegoś?/%%
 obj_sansb_body_2574
 * w sumie^1, hej..^1.&* nie chcę cię trzymać^1,& ale zrobisz coś dla mnie?/
 obj_sansbyetrigger_124
@@ -24124,7 +24124,7 @@ obj_sansbyetrigger_134
 obj_sansbyetrigger_135
 * To jakiegoś rodzaju&  checkpoint czy&  stacyjka./
 obj_sanscheckpoint_98
-* Ale tu są butelki&  ketchupu^1, musztardy^1, i&  inne smaki w środku.../%%
+* Ale tu są butelki&  ketchupu^1, musztardy^1, i&  innych sosów w środku.../%%
 obj_sanscheckpoint_99
 * cóż^1, oto jesteśmy./%%
 obj_sansdate3_116
@@ -32036,7 +32036,7 @@ Misc. Art
 credits_short_199
 Easynam (Tile Area 1)#Guzusuru (Asgore Spear Reveal)
 credits_short_201
-Guest Monster Designs
+Szkice Zewnętrznych Potworów
 credits_short_205
 "Muffet" - Michelle Czajkowski#"Woshua" - Zainspirowany OMOCATem
 credits_short_207
@@ -63972,3 +63972,4 @@ gml_RoomCC_room_fire10_old_6268_Create
 gml_RoomCC_room_fire10_old_6269_Create
 gml_RoomCC_room_fire10A_old_6270_Create
 gml_RoomCC_room_monsteralign_test_6271_Create
+music/badtom.ogg
