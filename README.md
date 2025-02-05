@@ -9,6 +9,9 @@
 hOI, am tEMMIE. Dis mod iz dedicated for polish UNDERTALE loverz!!1! feel free tu try it out and leave frienly notes/pecez ow adwis1!!
 <br/>
 <br/>
+## Status: 65% complete!
+<br/>
+(current translated areas consist of: Ruins, Snowdin, Waterfall; as well as most of the underground monsters)
 <br/>
 <br/>
 
