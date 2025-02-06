@@ -63972,3 +63972,5 @@ gml_RoomCC_room_fire10_old_6268_Create
 gml_RoomCC_room_fire10_old_6269_Create
 gml_RoomCC_room_fire10A_old_6270_Create
 gml_RoomCC_room_monsteralign_test_6271_Create
+music/badtom.ogg
+mus_badtom

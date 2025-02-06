@@ -2624,7 +2624,7 @@ music/house1.ogg
 music/intronoise.ogg
 music/cymbal.ogg
 music/silence.ogg
-music/piano.ogg
+music/badtom.ogg
 music/battle1.ogg
 music/boss1.ogg
 music/house2.ogg
@@ -2849,7 +2849,7 @@ music/birdsong.ogg
 music/chokedup.ogg
 music/dummybattle.ogg
 music/ruinspiano.ogg
-music/kingdescription.ogg
+music/zz_megalovania_alt.ogg
 music/race.ogg
 music/undynetruetheme.ogg
 music/undynepiano.ogg
@@ -2860,7 +2860,7 @@ music/hotel.ogg
 music/mettsad.ogg
 music/spider.ogg
 music/sansdate.ogg
-music/star.ogg
+music/zz_hysteria.ogg
 music/news.ogg
 music/news_battle.ogg
 music/hotel_battle.ogg
@@ -15376,144 +15376,144 @@ obj_lastsans_trigger_580
 obj_lastsans_trigger_581
 * (You felt something on your&  keychain.)/%%
 obj_lastsans_trigger_582
-\E0* heya./
+\E0* heja./
 obj_lastsans_trigger_634
-\E1* you've been busy^1,&  huh?/
+\E1* byłeś zajęty^1,&  huh?/
 obj_lastsans_trigger_635
 obj_lastsans_trigger_636
-\E0* so^1, i've got a&  question for ya./
+\E0* więc^1, mam dla&  ciebie pytanko./
 obj_lastsans_trigger_637
-\E3* do you think even&  the worst person can&  change...?/
+\E3* myślisz że nawet&  najgorsza osoba może&  zię zmienić...?/
 obj_lastsans_trigger_638
-\E3* that everybody can be&  a good person^1, if&  they just try?/%%
+\E3* że każdy może być&  dobrą osobą^1, jeśli&  się tylko postara?/%%
 obj_lastsans_trigger_639
 obj_lastsans_trigger_643
-\E1* you look frustrated&  about something./
+\E1* wyglądasz na&  sfrustrowanego&  czymś./
 obj_lastsans_trigger_644
-\E4* guess i'm pretty good&  at my job^1, huh?/%%
+\E4* chyba jestem nieco&  dobry w mojej roli^1,&  huh?/%%
 obj_lastsans_trigger_645
-\E0* hmm^1.&* that expression.../
+\E0* hmm^1.&* ta twarz.../
 obj_lastsans_trigger_650
-\E1* that's the expression&  of someone who's died&  twice in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł dwukrotnie&  z rzędu./
 obj_lastsans_trigger_651
-\E2* suffice to say^1, you&  look really..^1.&* unsatisfied./
+\E2* nietrudno stwierdzić^1,&  że wyglądasz nieco..^1.&* nieusatysfakcjonowany./
 obj_lastsans_trigger_652
-\E3* all right./
+\E3* no spoko./
 obj_lastsans_trigger_653
-\E4* how 'bout we make it&  a third?/%%
+\E4* to może policzymy&  do trzech?/%%
 obj_lastsans_trigger_654
 obj_lastsans_trigger_659
-\E1* that's the expression&  of someone who's died&  thrice in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł trzykrotnie&  z rzędu./
 obj_lastsans_trigger_660
 obj_lastsans_trigger_661
-\E1* hey^1, what comes after&  "thrice^1," anyway?/
+\E1* hej^1, co jest następne&  po "trzykrotnie^1,"&  tak wogule?/
 obj_lastsans_trigger_662
-\E4* wanna help me find out?/%%
+\E4* chcesz mi pomóc&  się dowiedzieć?/%%
 obj_lastsans_trigger_663
 obj_lastsans_trigger_668
-\E1* that's the expression&  of someone who's died&  quice in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł czterokrotnie&  z rzędu./
 obj_lastsans_trigger_669
-\E1* quice^1?&* frice?/
+\E1* czworokrotnie^1?&* czterkakrotnie?/
 obj_lastsans_trigger_670
-\E4* welp^1, won't have to&  use it again anyways./%%
+\E4* cóż^1, nie będę musiał&  tego znów używać&  i tak./%%
 obj_lastsans_trigger_671
 obj_lastsans_trigger_676
-\E1* that's the expression&  of someone who's died&  five times in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł pięć razy&  z rzędu./
 obj_lastsans_trigger_677
-\E2* convenient^1, huh^1?&* that's one for each&  finger./
+\E2* dogodne^1, huh^1?&* to po jedno na&  każdy palec./
 obj_lastsans_trigger_678
-\E3* but soon.../
+\E3* ale niedługo.../
 obj_lastsans_trigger_679
-\E4* you'll need a cool&  mutant hand to count&  all of your deaths./%%
+\E4* będziesz potrzebował&  ręki mutanta by liczyć&  twoje wszystkie śmierci./%%
 obj_lastsans_trigger_680
 obj_lastsans_trigger_685
-\E1* that's the expression&  of someone who's died&  six times in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł sześć razy&  z rzędu./
 obj_lastsans_trigger_686
-\E2* that's the number of&  fingers on a mutant&  hand./
+\E2* to liczba palców na&  ręce mutanta./
 obj_lastsans_trigger_687
 obj_lastsans_trigger_688
-\E4* you'll need to find&  a mutant hand with&  even more fingers./%%
+\E4* będziesz musiał znaleźć&  rękę mutanta z jeszcze&  więcej palcami./%%
 obj_lastsans_trigger_689
 obj_lastsans_trigger_694
-\E1* that's the expression&  of someone who's died&  seven times in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł siedem razy&  z rzędu./
 obj_lastsans_trigger_695
-\E0* hey^1, that's good^1.&* seven's supposed to be&  a lucky number./
+\E0* hej^1, dobrze się składa^1.&* siedem to podobno&  szczęśliwa cyferka./
 obj_lastsans_trigger_696
-\E2* who knows^1, maybe&  you'll hit the&  jackpot.../
+\E2* kto wie^1, może&  walniesz jackpota.../
 obj_lastsans_trigger_697
-\E4* and that number will&  multiply tenfold./%%
+\E4* i liczba się namnoży&  dziesięciokrotnie./%%
 obj_lastsans_trigger_698
 obj_lastsans_trigger_703
-\E1* that's the expression&  of someone who's died&  eight times in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł osiem razy&  z rzędu./
 obj_lastsans_trigger_704
-\E2* that's the number of&  fingers on a spider./
+\E2* to liczba palców u&  typowego pająka./
 obj_lastsans_trigger_705
 obj_lastsans_trigger_706
-\E1* wait^1, don't spiders&  have legs?/%%
+\E1* chwila^1, czy pająki&  nie mają nóg?/%%
 obj_lastsans_trigger_707
 obj_lastsans_trigger_713
 obj_lastsans_trigger_714
 obj_lastsans_trigger_715
-\E2* nope^1, wait^1, that's&  definitely nine^1, sorry./
+\E2* niet^1, chwila^1, to&  definitywnie dziewięć^1,&  sorry./
 obj_lastsans_trigger_716
-\E4* or was it ten?/%%
+\E4* czy może dziesięć?/%%
 obj_lastsans_trigger_717
 obj_lastsans_trigger_723
-\E1* that's the expression&  of someone who's died&  ten times in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł dziesięć&  razy z rzędu./
 obj_lastsans_trigger_724
-\E2* hey^1, congrats^1!&* the big one-oh!/
+\E2* hej^1, gratki^1!&* dwucyfrówka!/
 obj_lastsans_trigger_725
-\E1* let's invite all your&  friends over for a&  big shindig./
+\E1* zaprośmy wszystkich&  twoich przyjaciół na&  wielkie przyjęcie./
 obj_lastsans_trigger_726
-\E2* we can have pie^1, and&  hot dogs^1, and.../
+\E2* możemy mieć ciasto^1, i&  hot dogi^1, i.../
 obj_lastsans_trigger_727
-\E3* hmmm..^1. wait^1.&* something's not right./
+\E3* hmmm..^1. chwila^1.&* coś się nie zgadza./
 obj_lastsans_trigger_728
-\E4* you don't have any&  friends./%%
+\E4* ty nie masz żadnych&  przyjaciół./%%
 obj_lastsans_trigger_729
 obj_lastsans_trigger_735
-\E1* that's the expression&  of someone who's died&  eleven times in a row./
+\E1* to wyraz twarzy kogoś&  kto umarł jedenaście&  razy z rzędu./
 obj_lastsans_trigger_736
-\E2* well^1, give or take./
+\E2* cóż^1, dokładaj albo&  zabieraj./
 obj_lastsans_trigger_737
-\E1* there's nuance to&  this stuff./
+\E1* ale jest jedna sprawa&  do tej kwestii.../
 obj_lastsans_trigger_738
-\E2* don't think i'll be&  able to count very&  well from here./
+\E2* nie licz^1, że będę&  w stanie dobrze&  liczyć od teraz./
 obj_lastsans_trigger_739
-\E1* count for me^1, ok?/
+\E1* licz za mnie^1, ok?/
 obj_lastsans_trigger_740
-\E4* we'll start from 12./%%
+\E4* zaczniemy od 12./%%
 obj_lastsans_trigger_741
-\E0* let's just get to&  the point./%%
+\E0* przejdźmy po prostu&  do rzeczy./%%
 obj_lastsans_trigger_747
 obj_lastsans_trigger_752
-\E1* that expression that&  you're wearing.../
+\E0* hmm^1.&* ten wyraz twarz.../
 obj_lastsans_trigger_753
 obj_lastsans_trigger_754
-\E4* well^1, i won't grace&  it with a description./%%
+\E4* cóż^1, nawet nie&  obdaruję go&  żadnym opisem./%%
 obj_lastsans_trigger_755
 obj_lastsans_trigger_759
 obj_lastsans_trigger_760
 obj_lastsans_trigger_761
-\E4* you're really kind&  of a freak^1, huh?/%%
+\E4* ty naprawdę jesteś&  jakims psycholem^1, huh?/%%
 obj_lastsans_trigger_762
 \E3* heh heh heh heh.../
 obj_lastsans_trigger_786
-\E1* all right./
+\E1* w porządku./
 obj_lastsans_trigger_787
-\E3* well^1, here's a better&  question./
+\E3* cóż^1, oto lepsze&  pytanie./
 obj_lastsans_trigger_788
-\E4* do you wanna have&  a bad time?/
+\E4* chcesz mieć&  zły czas?/
 obj_lastsans_trigger_789
-\E3* 'cause if you take&  another step&  forward.../
+\E3* bo jeśli weźmiesz&  kolejny krok&  naprzód.../
 obj_lastsans_trigger_790
-\E4* you are REALLY not&  going to like what&  happens next./%%
+\E4* to NAPRAWDĘ nie&  polubisz tego co&  jest dalej./%%
 obj_lastsans_trigger_791
 \E3* welp./
 obj_lastsans_trigger_815
-\E3* sorry^1, old lady./
+\E3* sorry^1, stara loszko./
 obj_lastsans_trigger_817
-* this is why i never&  make promises./%%
+* właśnie dlateo&  nigdy nie robię&  obietnic./%%
 obj_lastsans_trigger_818
 * (You took the key and&  put it on your phone's&  key-chain.)/%%
 obj_latchkey_71
@@ -23999,9 +23999,9 @@ obj_sansb_1152
 obj_sansb_body_1446
 \M1zawsze zastanawiałem&się dlaczego inni nie&używają najsilniejszych&ataków na start./%%
 obj_sansb_body_1447
-\E3w każdym razie^1, tak jak&mówiłem^1, jest ładny&dzień na zewnątrz./
+\E3w każdym razie^1,&tak jak mówiłem^1,&jest ładny dzień&na zewnątrz./
 obj_sansb_body_1450
-\M1czemu nie zrelaksować&się i iść na urlop?/%%
+\M1czemu nie&zrelaksować się&i wziąć urlop?/%%
 obj_sansb_body_1451
 zaczynamy./%%
 obj_sansb_body_1455
@@ -24038,7 +24038,7 @@ obj_sansb_body_2119
 obj_sansb_body_2120
 że nigdy nie&BĘDZIE twojej&kolejki./
 obj_sansb_body_2121
-\E3po prostu będę&trzymałMOJĄ&kolejkę aż&się poddasz./
+\E3po prostu będę&trzymał MOJĄ&kolejkę aż&się poddasz./
 obj_sansb_body_2122
 \E5nawet jeśli to&znaczy że my&będziemy stali&do końca czasu./
 obj_sansb_body_2123
@@ -24089,14 +24089,14 @@ obj_sansb_body_2496
 obj_sansb_body_2497
 więc.../
 obj_sansb_body_2498
-guess that's it^1,&huh?/
+tak to się&kończy^1, huh?/
 obj_sansb_body_2499
 obj_sansb_body_2500
-po prostu.../
+ale.../
 obj_sansb_body_2501
-don't say i&didn't warn you./%%
+nie mów że cię&nie ostrzegałem./%%
 obj_sansb_body_2502
-no coż./
+no cóż./
 obj_sansb_body_2539
 idę do&grillby's./%%
 obj_sansb_body_2540
@@ -52269,8 +52269,8 @@ mus_cymbal
 mus_cymbal.ogg
 mus_silence
 mus_silence.ogg
-mus_piano
-mus_piano.ogg
+mus_badtom
+mus_badtom.ogg
 mus_boss1
 mus_boss1.ogg
 mus_house2
@@ -52339,8 +52339,8 @@ mus_dummybattle
 mus_dummybattle.ogg
 mus_ruinspiano
 mus_ruinspiano.ogg
-mus_kingdescription
-mus_kingdescription.ogg
+mus_zz_megalovania_alt
+mus_zz_megalovania_alt.ogg
 mus_race
 mus_race.ogg
 mus_undynetruetheme
@@ -52399,8 +52399,8 @@ mus_spider
 mus_spider.ogg
 mus_sansdate
 mus_sansdate.ogg
-mus_star
-mus_star.ogg
+mus_zz_hysteria
+mus_zz_hysteria.ogg
 mus_news
 mus_news.ogg
 mus_news_battle
@@ -63973,3 +63973,4 @@ gml_RoomCC_room_fire10_old_6269_Create
 gml_RoomCC_room_fire10A_old_6270_Create
 gml_RoomCC_room_monsteralign_test_6271_Create
 music/badtom.ogg
+mus_badtom
