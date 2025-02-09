@@ -14310,9 +14310,9 @@ obj_heartdefeated_204_0
 obj_heartdefeated_204_1
   geeettttttt&  dunked on!!!/
 obj_heartdefeated_300_0
-  jeśli naprawdę&  jesteśmy przyjaciółmi.../
+  jeśli naprawdę&  się przyjaźnimy.../
 obj_heartdefeated_300_1
-  to nie powrócisz./%%
+  to już więcej&  nie powrócisz./%%
 obj_heartdefeated_300_2
 * Ale odmówiło^5.%%
 obj_heartdefeated_343
@@ -15511,9 +15511,9 @@ obj_lastsans_trigger_790
 obj_lastsans_trigger_791
 \E3* welp./
 obj_lastsans_trigger_815
-\E3* sorry^1, stara loszko./
+\E3* sorry^1, ziom./
 obj_lastsans_trigger_817
-* właśnie dlateo&  nigdy nie robię&  obietnic./%%
+* właśnie dlatego&  nigdy nie robię&  obietnic./%%
 obj_lastsans_trigger_818
 * (You took the key and&  put it on your phone's&  key-chain.)/%%
 obj_latchkey_71
@@ -22420,60 +22420,60 @@ obj_readable_room1_557
 obj_readable_room1_558
 * What happens when something&  without a SOUL gains&  the will to live?/%%
 obj_readable_room1_559
-* (None of the buttons work.^1)&* (It seems to have lost power.)/%%
+* (Przyciski nie działają.^1)&* (Wydaje się, że winda&  straciła zasilanie.)/%%
 obj_readable_room1_565
-* (The door is jammed shut&  with vines.)/%%
+* (Drzwi są zatrzaśnięte&  pnączami.)/%%
 obj_readable_room1_570
-* (Seems like another elevator&  has lost its power.)/%%
+* (Wygląda na to, że kolejna&  winda straciła zasilanie.)/%%
 obj_readable_room1_575
 * (Ta szafa grająca jest&  zepsuta.)/%%
 obj_readable_room1_580
 obj_readable_room1_585
-* (It's a worn mattress.^1)&* (The sheets are bunched up in a&  weird^1, creasy ball.)/%%
+* (To ztarty materac.^1)&* (Pościel jest zwinięta&  w dziwną^1, marną kulę.)/%%
 obj_readable_room1_590
-* (There's a photo album inside&  the drawer.)/
+* (W szufladzie jest album&  ze zdjęciami.)/
 obj_readable_room1_595
-* (There are photos of Sans with&  a lot of people you don't&  recognize.)/
+* (Są tu zdjęcia z Sansem i&  wielu osób których nie&  rozpoznajesz.)/
 obj_readable_room1_596
-* (He looks happy.)/%%
+* (Wygląda na szczęśliwego.)/%%
 obj_readable_room1_597
 obj_readable_room1_602
 obj_readable_room1_603
-* (... and^1, one photo of you&  standing with Sans and all&  your friends.)/
+* (... oraz^1, jedno zdjęcie z&  tobą, Sansem oraz wszystkimi&  twoimi przyjaciółmi.)/
 obj_readable_room1_604
 obj_readable_room1_605
 obj_readable_room1_610
-* (There are photos of..^1. Huh?)/
+* (Są tu zdjęcia z..^1. Huh?)/
 obj_readable_room1_611
-* (A card is sticking out from&  the back flap of the binder.)/
+* (Jakaś karta wystaje z&  tylniej klapy albumu.)/
 obj_readable_room1_612
-* (It's a poorly drawn picture&  of three smiling people.^1)&* (Written on it...)/
+* (To marnie narysowany rysunek&  trzech uśmiechniętych osób.^1)&* (Pod spodem napis...)/
 obj_readable_room1_613
-* "don't forget."/%%
+* "nie zapomnij."/%%
 obj_readable_room1_614
-* (It's a poster for Mettaton's&  latest stage performance.)/
+* (To plakat promujący kolejny&  występ Mettatona.)/
 obj_readable_room1_621
-* (A tragic tale of two star-&  crossed lovers^1, kept apart&  by the tides of fate...)/
+* (Dramatyczna powieść o dwóch&  kochankach^1, rozdzielonych&  niefortunną falą losu...)/
 obj_readable_room1_622
-* (Looks like it's almost time&  for the performance.)/%%
+* (Wygląda na to^1, że już prawie&  nadszedł czas na ten występ.)/%%
 obj_readable_room1_623
 * (Jest zamknięte od środka.)/%%
 obj_readable_room1_628
-* (There's an inscription on&  this fountain.)/
+* (Jest dedykacja na&  tej fontannie.)/
 obj_readable_room1_633
-* Royal Memorial Fountain&* Built 201X&* (Mettaton Added Last Week)/%%
+* Królewska Fontanna Pomnikowa&* Data postawienia: 201X&* (Mettaton Dodany Tydzień Temu)/%%
 obj_readable_room1_634
-* (It's a Wall of Fame full of&  quotes and photos from visiting&  celebrities.)/
+* (To Ściana Sławy&  pełna cytatów i zdjęć&  odwiedzających celebrytów.)/
 obj_readable_room1_639
-* "The food is to die for!^1"&* "Gorgeous style and fragrance!^1"&* "My face tastes beautiful!"/
+* "Jedzenie jest wspaniałe!^1"&* "Przepiękny wystrój i aromat!^1"&* "Moja twarz smakuje pysznie!"/
 obj_readable_room1_640
-* (... these are all Mettaton.)/%%
+* (... to wszystko Mettaton.)/%%
 obj_readable_room1_641
 * (To lampa.^1)&* (Nie ma przełącznika.)/
 obj_readable_room1_646
-* (It says that stars make&  their own light...)/%%
+* (Pisze że gwiazdy tworzą&  swoje własne światło...)/%%
 obj_readable_room1_647
-* (Rich history of Tem.)/%%
+* (Bogata historia Temów.)/%%
 obj_readable_room1_652
 obj_readable_room2_60
 * (Pusta ramka na zdjęcie.)&* (Jest dosyć zakurzone...)/%%
@@ -22500,16 +22500,16 @@ obj_readable_room2_85
 obj_readable_room2_90
 * Jest przebranie Mikołaja&  w środku./%%
 obj_readable_room2_91
-\R* Nothing useful./%%
+\R* Nic użytecznego./%%
 obj_readable_room2_94
 * (Są tu albumy ze zdjęciami...^1)&* (Brudnopisy...^1)&* (Poradniki na herbatę...)/%%
 obj_readable_room2_100
-* (One wszystkie są&  nieco ztarte.)/%%
+* (One wszystkie się wydają&  bardzo stare i kruche.)/%%
 obj_readable_room2_101
 obj_readable_room2_105
 * To złoty kwiatek./%%
 obj_readable_room2_111
-* W środkku jest stary&  kalendarz z początków&  201X./%%
+* W środku jest stary&  kalendarz z początków&  201X./%%
 obj_readable_room2_114
 * (To złoty kwiatek.)/%%
 obj_readable_room2_115
@@ -22533,57 +22533,57 @@ obj_readable_room2_140
 obj_readable_room2_141
 * (Większość ciasta znikła.^1)&* (Są widoczne ślady psich&  łapek w cieście...)/%%
 obj_readable_room2_144
-* While monsters are mostly made&  of magic^1, human beings are&  mostly made of water./
+* Kiedy potwory są głównie&  z magii^1, istoty ludzkie są&  głównie z wody./
 obj_readable_room2_149
-* Humans^1, with their physical&  forms^1, are far stronger&  than us./
+* Człowieki^1, z ich fizyczną&  formą^1, są o wiele silniejsi&  od nas./
 obj_readable_room2_150
-* But they will never know&  the joy of expressing&  themselves through magic./
+* Ale oni nigdy nie poznają&  radości z wyrażania siebie&  poprzez magię./
 obj_readable_room2_151
-* They'll never get a bullet-&   pattern birthday card.../%%
+* Oni nigdy nie dostaną&  kartki urodzinowej w&  kształcie pocisku.../%%
 obj_readable_room2_152
 * Drzwi./%%
 obj_readable_room2_164
 obj_readable_room2_166
-\W* \OBravery^1. \YJustice.\W  &*\B Integrity^1. \GKindness^1.\W &*\P Perseverance^1. \LPatience. \W /
+\W* \OOdwaga^1. \YSprawiedliwość.\W  &*\B Uczciwość^1. \GŻyczliwość^1.\W &*\P Wytrwałość^1. \LCierpliwość. \W /
 obj_readable_room2_178
-\W* Using these^1, you were&  able to win at "\RBall Game\W."/
+\W* Dzięki temu^1, ty byłeś w&  stanie wygrać "\RGrę w Kulę\W."/
 obj_readable_room2_179
-* (You are awarded 50G.)/%%
+* (Zostałeś nagrodzony 50G.)/%%
 obj_readable_room2_180
-\W* \RRED\W - Try as you might^1,&  you continue to be yourself./
+\W* \RCZERWONY\W - Staraj się do&  końca^1, a pozostaniesz sobą./
 obj_readable_room2_186
-* (You are awarded 10G.)/%%
+* (Zostałeś nagrodzony 10G.)/%%
 obj_readable_room2_187
-\W* \OORANGE\W - You are the kind of&  person who rushes fists-first&  through all obstacles./
+\W* \OPOMARAŃCZOWY\W - Jesteś typem&  osoby^1, która speedrunuje&  przez wszystkie przeszkody./
 obj_readable_room2_194
-* (You are awarded 5G.)/%%
+* ( Zostałeś nagrodzony 5G.)/%%
 obj_readable_room2_195
-\W* \YYELLOW\W - Your sure-fire&  accuracy put an end to&  the mayhem of "Ball."/
+\W* \YŻÓŁTY\W - Twoja dokładność&  i cel doprowadziły do&  pokonania "Kuli."/
 obj_readable_room2_201
-* (You are awarded 3G.)/%%
+* (Zostałeś nagrodzony 3G.)/%%
 obj_readable_room2_202
-\W* \BBLUE\W - Hopping and twirling^1,&  your original style&  pulled you through./
+\W* \BNIEBIESKI\W - Skakanie i adhd^1,&  twój oryginalny styl&  przepuścił cię do celu./
 obj_readable_room2_208
-* (You are awarded 2G.)/%%
+* (Zostałeś wynagrodzony 2G.)/%%
 obj_readable_room2_209
-\W* \GGREEN\W - Your concern and care&  for "Ball" led you to a&  delicious victory./
+\W* \GZIELONY\W - Twoja troska i&  dbałość o "Kulę" doprowadziła&  cię do smacznego zwycięstwa./
 obj_readable_room2_215
-* (You are awarded 1G.)/%%
+* (Zostałeś wynagrodzony 1G.)/%%
 obj_readable_room2_216
-\W* \PPURPLE\W - Even when you felt&  trapped^1, you took notes and&  achieved the end of "Ball."/
+\W* \PFIOLETOWY\W - Nawet kiedy czułeś&  się klastrofobicznie^1, robiłeś&  notatki i ukończyłeś "Kulę."/
 obj_readable_room2_222
 obj_readable_room2_223
-\W* \LLIGHT BLUE\W - "Ball" is "Small.^1"&* You waited^1, still^1, for&  this opportunity.../
+\W* \LJ.NIEBIESKI\W - "Kula" jest& "Mała.^1" Czekałeś^1, cierpliwie^1,&  na tą okoliczność.../
 obj_readable_room2_229
-* ... then dethroned "Ball" with&  a sharp attack./
+* ... wtedy zdetronizowałeś& "Kulę" ostrym atakiem./
 obj_readable_room2_230
-* (You are awarded 4G.)/%%
+* (Zostałeś wynagrodzony 4G.)/%%
 obj_readable_room2_231
-* (This flag has nothing else&  to offer.)/%%
+* (Ta flaga nie ma nic więcej&  do zaoferowania.)/%%
 obj_readable_room2_238
-\W* Ah^1! Wow^1! Woah^1!&* It's a "\RHole\W"./%%
+\W* Ah^1! Wow^1! Ło^1!&* To "\RDziura\W"./%%
 obj_readable_room2_245
-* There's a hole here./%%
+* Jest tutaj dziura./%%
 obj_readable_room2_247
 * (Jej.)/%%
 obj_readable_room2_252
@@ -22649,31 +22649,31 @@ obj_readable_room2_320
 obj_readable_room2_326
 * I keep catching the same&  one./%%
 obj_readable_room2_327
-* (It's a computer.^1)&* (It's accessing some kind of&  puzzle in Snowdin.)/%%
+* (To komputer.^1)&* (Kontroluje on jakąś&  łamigówkę w Snowdinie.)/%%
 obj_readable_room2_332
 obj_readable_room2_333
-* (It's an oven.^1)&* (It looks pretty modern.)/%%
+* (To piec.^1)&* (Wygląda całkiem&  nowocześnie.)/%%
 obj_readable_room2_343
 obj_readable_room2_345
-* OH YES^1! MTT-BRAND OVENS CAN &  REACH TEMPERATURES UP TO&  NINE-THOUSAND DEGREES!/
+* O TAK^1! MTT-BRAND PIECE MOGĄ &  OSIĄGNĄĆ TEMPERATURY AŻ DO&  DZIEWIĘCIU TYSIĘCY STOPNI!/
 obj_readable_room2_353
-* ROASTING^1! TOASTING^1! BURNING^1!&* CHARRING^1! YOU'RE EXCITED^1,&  AREN'T YOU^1, DARLING? (TM)/%%
+* PIECZENIE^1! SMAŻENIE^1! SPALANIE^1!&* ZWĘGLANIE^1! JESTEŚ PODEKSCY-&  TOWANY^1, SŁOŃCE? (TM)/%%
 obj_readable_room2_354
-* (It's the oven.^1)&* (Looks like someone forgot&  to preheat it.)/%%
+* (To piec.^1)&* (Wygląda jakby ktoś zapomniał&  go wcześniej podgrzać.)/%%
 obj_readable_room2_360
-* You wanna see my&  room?/
+* Chcesz zobaczyć mój pokój?/
 obj_readable_room2_373
-\E3* TOO BAD^1!&* No nerds allowed!/
+\E3* WOMP WOMP^1!&* Zakaz wstępu nerdom!/
 obj_readable_room2_374
-\E9* ... well^1, maybe some&  nerds.../%%
+\E9* ... cóż^1, może niektórym&  nerdom.../%%
 obj_readable_room2_375
-* You're being kind&  of creepy./%%
+* Jesteś trochę psychopatyczny./%%
 obj_readable_room2_377
-* (It's a spider donut.^1)&* (It looks more...^1)&* (Rubbery than usual.)/%%
+* (To pajęczy pączek.^1)&* (Wygląda nieco bardziej...^1)&* (Gumowaty niż zwykle.)/%%
 obj_readable_room2_390
-* (North^1, the warrior's path.)&* (West^1, the sage's path.)&* (Any path leads to The End.)/%%
+* (Północ^1, ścieżka wojownika.)&* (Zachód^1, ścieżka mędrca.)&* (Każda prowadzi do Końca.)/%%
 obj_readable_room2_395
-* (To the East^1!)&* (This is The End.)/%%
+* (Na Wschód idziemy^1!)&* (To jest Koniec.)/%%
 obj_readable_room2_400
 * ENTRY NUMBER 2/
 obj_readable_room2_405
@@ -23997,7 +23997,7 @@ Powinny&płonąć&w&piekle./%%
 obj_sansb_1152
 \E1huh./
 obj_sansb_body_1446
-\M1zawsze zastanawiałem&się dlaczego inni nie&używają najsilniejszych&ataków na start./%%
+\M1zawsze zastanawiałem&się dlaczego inni nie&używają najsilniej-&szych ataków na start./%%
 obj_sansb_body_1447
 \E3w każdym razie^1,&tak jak mówiłem^1,&jest ładny dzień&na zewnątrz./
 obj_sansb_body_1450
@@ -24128,85 +24128,85 @@ obj_sanscheckpoint_98
 obj_sanscheckpoint_99
 * cóż^1, oto jesteśmy./%%
 obj_sansdate3_116
-* so./
+* więc./
 obj_sansdate3_124
-* your journey's&  almost over^1, huh?/
+* twoja podróż w końcu&  dobiega końca^1, huh?/
 obj_sansdate3_125
-\E0* you must really&  wanna go home./
+\E0* musisz naprawdę chcieć&  wrócić do domu./
 obj_sansdate3_126
-\E1* hey^1.&* i know the feeling^1,&  buddo./
+\E1* hej^1.&* znam to uczucie^1,&  ziom./
 obj_sansdate3_127
-\E0* though.../
+\E0* chociaż.../
 obj_sansdate3_128
-\E1* maybe sometimes it's&  better to take what's&  given to you./
+\E1* może czasami lepiej&  czerpać z tego co&  masz pod nosem./
 obj_sansdate3_129
-\E0* down here you've&  already got food^1,&  drink^1, friends.../
+\E0* tu na dole masz już&  jedzenie^1, picie^1,&  przyjaciół.../
 obj_sansdate3_130
-* is what you have&  to do.../
+* czy to co musisz&  zrobić.../
 obj_sansdate3_131
-\E1* really worth it?/%%
+\E1* jest tego warte?/%%
 obj_sansdate3_132
 obj_sansdate3_149
-\E1* ah^1, forget it./
+\E1* ah^1, zapomnij./
 obj_sansdate3_150
-\E0* i'm rootin' for&  ya^1, kid./%%
+\E0* kibicuję ci^1, ziom./%%
 obj_sansdate3_151
 obj_sansdate3_168
-\E1* let me tell you&  a story./
+\E1* opowiem ci pewną&  historię./
 obj_sansdate3_169
-\E0* so i'm a sentry in&  snowdin forest^1, right?/
+\E0* więc jestem posterun-&  kowym w lesie snowdin^1,&  co nie?/
 obj_sansdate3_170
-* i sit out there&  and watch for humans^1.&* it's kind of boring./
+* siedzę tam sobie i&  czekam na człowieka^1.&* to nieco nudne./
 obj_sansdate3_171
-\E2* fortunately^1, deep in&  the forest.../
+\E2* na szczęście^1, głęboko&  w tym lesie.../
 obj_sansdate3_172
-\E0* there's this HUGE&  locked door./
+\E0* są takie OGROMNE&  zamknięte drzwi./
 obj_sansdate3_173
-* and it's perfect&  for practicing&  knock knock jokes./
+* i są idealne do&  ćwiczenia żartów&  typu puk-puk./
 obj_sansdate3_174
-* so one day^1, i'm&  knocking 'em out^1,&  like usual./
+* więc jednego dnia^1,&  odwiedzam te drzwi^1,&  jak zwykle./
 obj_sansdate3_175
-* i knock on the&  door and say&  "knock knock."/
+* pukam w te drzwi&  i mówię "puk puk."/
 obj_sansdate3_176
-* and suddenly^1, from&  the other side.../
+* i nagle^1, z drugiej&  strony.../
 obj_sansdate3_177
-\E1* i hear a woman's&  voice./
+\E1* słyszę głos kobiety./
 obj_sansdate3_178
-\Tt*\E0 "who is there?" /
+\Tt*\E0 "kto tam?" /
 obj_sansdate3_179
-\Ts*\E1 so^1, naturally^1, I&  respond:/
+\Ts*\E1 więc^1, naturalnie^1,&  odpowiadam:/
 obj_sansdate3_180
-\E0* "dishes."/
+\E0* "tojest."/
 obj_sansdate3_181
-\Tt* "dishes who?"/
+\Tt* "tojest kto?"/
 obj_sansdate3_182
-\Ts*\E2 "dishes a very&  bad joke."/
+\Ts*\E2 "tojest naprawdę&  słaby żart."/
 obj_sansdate3_183
-\E0* then she just&  howls with laughter./
+\E0* i wtedy ona po prostu&  umiera ze śmiechu./
 obj_sansdate3_184
-\E1* like it's the best&  joke she's heard&  in a hundred years./
+\E1* jakby to był najlepszy&  żart jaki słyszała&  od stu lat./
 obj_sansdate3_185
-\E0* so I keep 'em&  coming^1, and she keeps&  laughing./
+\E0* więc dalej walę&  żartami^1, i ona&  dalej się śmieje./
 obj_sansdate3_186
-\E1* she's the best&  audience i've ever&  had./
+\E1* ona jest najlepszą&  widownią jaką kiedy-&  kolwiek miałem./
 obj_sansdate3_187
-\E0* then^1, after a&  dozen of 'em^1,&  SHE knocks and says.../
+\E0* potem^1, po wielu&  żartach^1, ONA&  puka i mówi.../
 obj_sansdate3_188
-\Tt* "Knock knock!"/
+\Tt* "Puk puk!"/
 obj_sansdate3_189
-\Ts* \E1i say "whos&  there?"/
+\Ts* \E1ja mówię& "kto tam?"/
 obj_sansdate3_190
-\Tt* \E0"old lady!"/
+\Tt* \E0"stara pani!"/
 obj_sansdate3_191
-\Ts*\E1 "old lady who?"/
+\Ts*\E1 "stara pani kto?"/
 obj_sansdate3_192
-\Tt*\E2 "oh! I did not&  know you could&  yodel!"/
+\Tt*\E2 "oh! Ja nie wiedziałam&  że ty jesteś bezpośredni!"/
 obj_sansdate3_193
 \Ts*\E1 wow./
 obj_sansdate3_194
-\E2* needless to say^1,&  this woman was&  extremely good./
+\E2* mówiąc wprost^1,&  ta pani była&  niesamowicie dobra./
 obj_sansdate3_195
-\E0* we kept telling&  each other jokes&  for hours./
+\E0* kontynuowaliśmy&  mówienie żartów&  przez godziny./
 obj_sansdate3_196
 \E0* eventually^1, i had&  to leave./
 obj_sansdate3_197
@@ -26285,242 +26285,242 @@ obj_spagnot_158
 obj_spagnot_163
 * (Idź do tej mrocznej&  alejki po prawej po&  świetne oferty!)/%%
 obj_spagnot_164
-What is it,&deary?/%%
+Co tam,&słonko?/%%
 obj_spiderb_220
 obj_spiderb_224
-No, no, it's&time to go~/%%
+Nie, nie,&czas już&wracać~/%%
 obj_spiderb_225
-...&well... maybe&ONE little&nibble~~/%%
+...&cóż... może&JEDEN mały&dziab~~/%%
 obj_spiderb_226
-Just kidding,&of course~/%%
+Taki żarcik,&oczywiście~/%%
 obj_spiderb_227
-If you don't mind&being gobbled up~&Ahuhuhu~/%%
+Jeśli nie przesz-&kadza ci bycie&pożartym~&Ahuhuhu~/%%
 obj_spiderb_228
-Ahuhuhuhu~&Well, I don't&mind keeping&you here~/%%
+Ahuhuhuhu~&Cóż, nie mam&nic przeciwko&twojej gościnie~/%%
 obj_spiderb_229
-Feeling comfortable&trapped in that&web?/%%
+Wygodnie ci&uwięziony w tej&pajęczynie?/%%
 obj_spiderb_230
-It's time to go~/%%
+Czas już iść~/%%
 obj_spiderb_231
-Ahuhuhu~&What are you&doing~/%%
+Ahuhuhu~&Co ty&robisz~/%%
 obj_spiderb_232
 obj_spiderb_236
-Why so pale?&You should be proud~/%%
+Czemu taki blady?&Powinieneś być z&siebie dumny~/%%
 obj_spiderb_240
-Proud that you're&going to make a&delicious cake~&Ahuhuhu~/%%
+Dumny z tego, że&będzie z ciebie&przepyszne ciasto~&Ahuhuhu~/%%
 obj_spiderb_245
-Let you go^1?&Don't be silly~/%%
+Wypuścić cię^1?&Nie bądź&śmieszny~/%%
 obj_spiderb_250
-Your SOUL is going&to make every spider&very happy~~~/%%
+Twoja DUSZA uczyni&każdego pajączka&szczęśliwym~~~/%%
 obj_spiderb_255
-You're scaring off&all my customers!/%%
+Odstraszasz moich&jedynych klientów!/%%
 obj_spiderb_256
-Oh, how rude of me!&I almost forgot&to introduce you&to my pet~/
+Oh, jakie niemiłe!&Prawie zapomniałam&przedstawić cię&mojemu zwierzakowi~/
 obj_spiderb_261
-It's breakfast time,&isn't it?&Have fun, you two~ /%%
+Pora na śniadanie,&czyż nie? Bawcie&się dobrze~ /%%
 obj_spiderb_262
-The person who warned&us about you.../%%
+Osoba, która&nas ostrzegała&przed tobą.../%%
 obj_spiderb_267
-Offered us a LOT of&money for your SOUL./%%
+Zaoferowała nam&DUŻO pieniędzy&za twoją DUSZĘ./%%
 obj_spiderb_272
-Looked like a total&nerd./%%
+Wyglądała na&totalnego nerda./%%
 obj_spiderb_273
-They had such a sweet&smile~ and... ahuhu~/%%
+Miała taki uroczy&uśmiech~ i... ahuhu~/%%
 obj_spiderb_278
-She was very&adamant I run away&with her~~~&Ahuhuhu~~~/%%
+Mocno nalegała,&abym z nią&uciekła~~~&Ahuhuhu~~~/%%
 obj_spiderb_279
-It's strange, but&I swore I saw them&in the shadows...&Changing shape...?/%%
+To dziwne, ale&przysięgam, że&widziałam jej cień...&Zmieniający kształt...?/%%
 obj_spiderb_284
-She even left a&route for me to&escape from~/%%
+Zostawiła mi nawet&kierunki gdzie mam&się przenieść~/%%
 obj_spiderb_285
-Oh, it's lunch time,&isn't it?&And I forgot to&feed my pet~/%%
+Oh, czas na lunch,&czyż nie? Zapomniałam&też nakarmić mojego&zwierzaczka~/%%
 obj_spiderb_291
-With that money,&the spider clans&can finally be&reunited~/%%
+Z tymi pieniędzmi,&klan pająków w końcu&zostanie zjednoczony~/%%
 obj_spiderb_296
-She said she would&block off the rest&of Hotland after I&followed her~/%%
+Powiedziała że ona&zablokuje resztę&Hotlandu jak ja z&nią pójdę~/%%
 obj_spiderb_297
-You haven't heard?&Spiders have been&trapped in the RUINS&for generations!/%%
+Nie słyszałaś, że&pająki były uwięzione&w RUINACH od wieków?/%%
 obj_spiderb_302
-Foolish nerd~&A spider NEVER leaves&her web~/
+Jaka frajerka~&Pająki NIGDY nie&opuszczają swojej&sieci~/
 obj_spiderb_303
-(Except to sell&pastries~)/%%
+(Z wyjątkiem kiedy&sprzedaje wypieki~)/%%
 obj_spiderb_304
-Even if they go&under the door,&Snowdin's fatal cold&is impassable alone./%%
+Nawet jeśli one się&prześlizgną pod drzwi,&fatalny chłód Snowdina&jest nie do zniesienia./%%
 obj_spiderb_309
-Ah^1, but I do feel&a little regret&over it now.../%%
+Ah^1, chociaż teraz&zaczynam troszeczkę&tego żałować.../%%
 obj_spiderb_310
-But with the money&from your SOUL, we'll&be able to rent&them a heated limo~/%%
+Ale z pieniędzmi za&twoją DUSZĘ, w końcu&będziemy w stanie&wukupić grzejnik~/%%
 obj_spiderb_315
-Yes^1, I should have&wrapped her up when&I had the chance~/%%
+Tak^1, powinnam była&ją owinąć pajęczyną&kiedy miałam okazję~/%%
 obj_spiderb_316
-And with all of&the leftovers...^1?&We could have a&nice vacation~/
+I z wszystkimi&resztkami...^1?&Moglibyśmy mieć&miłe wakacje~/
 obj_spiderb_321
-Or even build a&spider baseball&field~/%%
+Albo nawet zbudować&pole bejsbolowe&dla pająków~/%%
 obj_spiderb_322
-She looked like she&would have made a&juicy donut~~~/%%
+Wyglądała jakby&była składnikiem&na soczystego&pączka z dżemem~~~/%%
 obj_spiderb_323
-But enough of that...&It's time for&dinner, isn't it?&Ahuhuhu~/%%
+Ale wystarczy gadki...&Nadszedł już czas&na obiad, czyż nie?&Ahuhuhu~/%%
 obj_spiderb_328
-Don't look so&blue^1, my deary~/%%
+Nie bądź taki&przygnębiony^1,&słońce~/%%
 obj_spiderb_336
-* Muffet pours you a cup of&  spiders.
+* Muffet leje ci filiżankę&  pająków.
 obj_spiderb_599
-* All the spiders clap along to&  the music.
+* Wszystkie pająki klaszczą&  do muzyki.
 obj_spiderb_600
-* Muffet does a synchronized&  dance with the other spiders.
+* Muffet robi synchroniczną&  balladę z innymi pająkami.
 obj_spiderb_601
-* Muffet tidies up the web&  around you.
+* Muffet czyści pajęczyny&  wokół ciebie.
 obj_spiderb_602
-* Smells like freshly baked&  cobwebs.
+* Pachnie jak świeżo wypiekane&  pajęczyny.
 obj_spiderb_603
-* MUFFET - ATK 38.8 DEF 18.8&* If she invites you to her&  parlor^1, excuse yourself./^
+* MUFFET - ATK 38.8 DEF 18.8&* Jeśli cię zaprosi na podwie-&  czorek^1, wymigaj się z tego./^
 obj_spiderb_636
-* You struggle to escape the web^1.&* Nothing happened./^
+* Próbujesz wyrwać się z sieci^1.&* Bez efektu./^
 obj_spiderb_646
-* You struggle to escape the web^1.&* Muffet covers her mouth&  and giggles at you./^
+* Próbujesz wyrwać się z sieci^1.&* Muffet zakrywa usta i&  chichocze na twój widok./^
 obj_spiderb_647
-* You struggle to escape the web^1.&* Muffet laughs and claps&  her hands./^
+* Próbujesz wyrwać się z sieci^1.&* Muffet śmieje się i klaszcze&  dłońmi./^
 obj_spiderb_648
-* You struggle to escape the web./
+* Próbujesz wydostać się z sieci./
 obj_spiderb_649
-* Muffet is so amused by your&  antics that she gives you a&  discount!/^
+* Muffet jest tak zachwycona&  twoimi antykami, że daje ci&  sympatyczną zniżkę!/^
 obj_spiderb_650
 obj_spiderb_656
-* You pay \[1]G^1.&* Muffet reduces her ATTACK&  for this turn!/^
+* Płacisz \[1]G^1.&* Muffet redukuje jej ATAK&  na tą kolejkę!/^
 obj_spiderb_678
-* You empty your pockets^1, but you&  don't have enough money.&* Muffet lowers the price./^
+* Opróżniasz kieszenie^1, ale nie&  miałeś wystarczająco pieniędzy.&* Muffet obniża cenę./^
 obj_spiderb_693
-* You're out of money^1.&* Muffet shakes her head./^
+* Wyskoczyłeś z kasy^1.&* Muffet kręci głową,&  zawiedziona./^
 obj_spiderb_710
-* You empty your pockets..^1.&* But you don't have any&  money at all!/
+* Opróżniasz kieszenie..^1.&* Ale nie masz ani grosza!/
 obj_spiderb_714
-* Muffet takes pity on you&  and reduces her ATTACK for&  this turn./^
+* Muffet żali się nad tobą i&  redukuje jej ATAK na tą&  kolejkę./^
 obj_spiderb_715
-* Muffet refuses your money./^
+* Muffet odmawia twoich&  pieniędzy./^
 obj_spiderb_722
-... I think purple is&a better look on&you! Ahuhuhu~/%%
+... Myślę, że&fioletowy lepiej&ci leży! Ahuhuhu~/%%
 obj_spiderb_762
-* You're trapped in a strange&  purple web!
+* Jesteś uwięziony w dziwnej&  fioletowej pajęczynie!
 obj_spiderb_774
-You're still alive^1?&Ahuhuhu~/
+Jeszcze żyjesz^1?&Ahuhuhu~/
 obj_spiderb_783
-Oh, my pet~&Looks like it's&time for dessert~/%%
+Oh, zwierzaczku~&Chyba jest pora&na deserek~/%%
 obj_spiderb_784
-Huh^1?&Where did you get&that...?/
+Huh^1?&Gdzie ty to&zdobyłeś...?/
 obj_spiderb_787
-Did you steal it?/
+Ukradłeś to?/
 obj_spiderb_788
-Oh^1, my pet^1~&It's time to show&them what we do&with thieves~/%%
+Oh^1, zwierzaczku^1~&Czas mu pokazać&co się robi ze&złodziejaszkami~/%%
 obj_spiderb_789
-Huh?&A telegram from&the spiders in&the RUINS?/
+Hę?&Telegramik od&pajączków z RUIN?/
 obj_spiderb_805
-What?&They're saying&that they saw&you, and.../
+Co?&Mówią, że&widzieli cię&tam, i.../
 obj_spiderb_806
-... that this is&an error message!?/
+... error bepis&kutas cycki!?/
 obj_spiderb_807
-... even if you&are stingy, you&never hurt a&single spider!/
+... nawet jeśli&śmierdzisz, to ty&nigdy nie skrzyw-&dziłeś pajączka!/
 obj_spiderb_811
-... even if you&hurt others, you&never hurt a&single spider!/
+... nawet jeśli&raniłeś innych,&nigdy nie skrzyw-&dziłeś pajączka!/
 obj_spiderb_814
-... you helped donate&to their cause!/
+... pomogłeś&wesprzeć w&fundacji!/
 obj_spiderb_819
-... you were&really passionate&about spiders!/
+... byłeś wielkim&pasjonatem naszych&pajączków!/
 obj_spiderb_823
-... you're a total&spider fanatic!/
+... jesteś wielkim&fanatykiem pająków!/
 obj_spiderb_827
-They say even if&you are a hyper-&violent murderer.../
+Mówią, że nawet&jeśli jesteś hiper-&złowieszczym&mordercą.../
 obj_spiderb_832
-You never laid a&single finger on a&spider!/
+To nigdy nie&uniosłeś ręki&na pajączka!/
 obj_spiderb_833
-Oh my, this has&all been a big&misunderstanding~/
+O jejku, to było&jedno wielkie&nieporozumienie~/
 obj_spiderb_836
-I thought you&were someone that&hated spiders~/
+Myślałam, że&tyś osobą, która&nienawidzi&pajączków~/
 obj_spiderb_837
-The person who&asked for that SOUL.../
+Ta osoba która&prosiła o tą&DUSZĘ.../
 obj_spiderb_838
-They must have&meant a DIFFERENT&human in a&striped shirt~/
+Musiała mówić o&INNYM człowieku&w pasiastej&koszulce~/
 obj_spiderb_839
-The person who&warned me about&you.../
+Osoba, która mnie&ostrzegała przed&tobą.../
 obj_spiderb_842
-They really had&no idea what they&were talking about~/
+Naprawdę nie miała&pojęcia o czym ona&gadała~/
 obj_spiderb_843
-Sorry for all the&trouble~&Ahuhuhu~/
+Przepraszam&za to całe&zamieszanie~&Ahuhuhu~/
 obj_spiderb_846
-I'll make it up&to you~/
+Postaram się&tobie to&wynagrodzić~/
 obj_spiderb_847
-You can come back&here any time...&And, for no charge&at all.../
+Możesz powrócic&kiedy chcesz...&Oraz, bez obcią-&żenia podatku.../
 obj_spiderb_848
-I'll wrap you&up and let you&play with my pet&again!/
+Owinę cię i&pozwolę pobawić&znów z moim&zwierzaczkiem!/
 obj_spiderb_849
-Ahuhuhuhuhuhu~&Just kidding~/
+Ahuhuhuhuhuhu~&Tylko żartuję~/
 obj_spiderb_850
-I'll SPARE you&now~/%%
+OCZCZĘDZĘ&cię teraz~/%%
 obj_spiderb_851
-* Muffet is sparing you.
+* Muffet cię oszczędza.
 obj_spiderb_859
-* Welcome to our parlor^1, dearie^1~&* Interested in some spider&  pastries?/
+* Witaj w naszym wypieku^1, słonko^1~&* Zainteresowany świeżościami&  lokalnych pająków?/
 obj_spidergirl_shop_74
-* All proceeds go to real&  spiders~/%%
+* Wszystkie wpłaty przekazywane&  są prawdziwym pająkom~/%%
 obj_spidergirl_shop_75
-* Check out the webs to&  make a purchase~/%%
+* Zbadaj pajęczyny aby dokonać&  zakupu~/%%
 obj_spidergirl_shop_76
 * Ahuhuhuhu.../
 obj_spidertalkevent_103
-* Did you hear what they&  just said?/%%
+* Słyszeliście co on&  powiedział?/%%
 obj_spidertalkevent_104
-* Did you hear what she&  said?/%%
+* Słyszeliście co ona&  powiedziała?/%%
 obj_spidertalkevent_106
-* They said a human wearing a&  striped shirt will come&  through./%%
+* Mówią że człowiek w pasiastej&  koszulce będzie przechodził./%%
 obj_spidertalkevent_114
-* I heard that they hate&  spiders./%%
+* Słyszałam, że nienawidzi&  pająków./%%
 obj_spidertalkevent_122
-* I heard that they love to&  stomp on them./%%
+* Słyszałam, że on kocha po&  nich stompać./%%
 obj_spidertalkevent_130
-* I heard that they hate&  everybody./%%
+* Słyszałam, że on nienawidzi&  wszystkich i wszystko./%%
 obj_spidertalkevent_132
-* I heard that they like to&  tear their legs off./%%
+* Słyszałam, że on kocha im&  odrywać kończyny./%%
 obj_spidertalkevent_140
-* I heard.../%%
+* Słyszałam.../%%
 obj_spidertalkevent_149
-* However.../%%
+* Jednak.../%%
 obj_spidertalkevent_152
-* And even if they gave us&  money^1, I heard.../%%
+* I nawet jeśli on dawał nam&  pieniądze^1, to słyszałam.../%%
 obj_spidertalkevent_154
-* ... that they're awfully&  stingy with their money./
+* ... że jest okropnie skromny&  ze swoimi pieniędzmi./
 obj_spidertalkevent_267
-* ... a certain stingy human&  hates spiders./%%
+* ... że pewien cuchnący człowiek&  aktywnie nienawidzi pająków./%%
 obj_spidertalkevent_271
 obj_spidertalkevent_273
-* You think your taste&  is too refined for our&  pastries^1, don't you^1, deary?/
+* Uważasz swój gust kulinarny&  za zbyt wysoki jak na nasze&  wypieki^1, czyż nie^1, słonko?/
 obj_spidertalkevent_274
-* Ahuhuhu..^1.&* I disagree with that&  notion./
+* Ahuhuhu..^1.&* Nie zgadzam się z tym./
 obj_spidertalkevent_275
-* I think your taste.../
+* Myślę, że twój smak.../
 obj_spidertalkevent_276
-* Is exactly what this&  next batch needs!/%%
+* Jest w sam raz do naszego&  nowego wypieku!/%%
 obj_spidertalkevent_277
-* ... that can't be true^1,&  can it?/
+* ... to nie może być prawdą^1,&  prawda?/
 obj_spidertalkevent_283
 * Ahuhuhu.../
 obj_spidertalkevent_284
-* You donated so much money&  to us./
+* Przekazałeś nam tak dużo&  pieniędzy./
 obj_spidertalkevent_285
-* All the spiders want you&  to know how thankful&  they are!/
+* Wszystkie pająki chcą ci&  przekazać^1, jacy są wdzięczni!/
 obj_spidertalkevent_286
-* We're in your debt^1, dearie~/%%
+* Jesteśmy ci wiecznie&  wdzięczni^1, słonko~/%%
 obj_spidertalkevent_287
-* ... that they have some awful&  taste./
+* ... że on ma okropny smak./
 obj_spidertalkevent_293
-* What a shame^1.&* A human comes through and they&  aren't even fit to be eaten~/
+* Jaka szkoda^1.&* Człowiek tędy przechodzi, a&  nie jest nawet dobry w smaku~/
 obj_spidertalkevent_294
-* Oh well^1!&* Rotten ingredients can&  always be discarded~/%%
+* No cóż^1!&* Zgniłe składniki się po&  prostu wyrzuca do kosza~/%%
 obj_spidertalkevent_295
 obj_spidertalkevent_392
-* That was fun^1!&* See you again^1, dearie!/%%
+* Ale zabawa^1!&* Widzimy się&  później^1, słonko!/%%
 obj_spidertalkevent_393
 * (To ciężko-wyglądająca gałąź.)&* (Jest zbyt ciężka^1, by&  ją podnieść.)/%%
 obj_stick_95
-* (It's been smashed like it&  was nothing...)/%%
+* (Zostało rozmiażdzone jakby&  było niczym...)/%%
 obj_stick_99
 A long time ago,&a human fell&into the RUINS./*
 obj_storybattle_gen_295
@@ -47950,7 +47950,7 @@ power
 numnum
 ex
 damage_special_
-MISS
+PUDLO
 action_set_gravity
 action_set_hspeed
 dt
@@ -63974,3 +63974,12 @@ gml_RoomCC_room_fire10A_old_6270_Create
 gml_RoomCC_room_monsteralign_test_6271_Create
 music/badtom.ogg
 mus_badtom
+flag_index
+flag_message
+get_integer
+array_length_1d
+show_message
+Enter a flag to check its value: 
+global.flag[
+] = 
+input empty or invalid, exiting...

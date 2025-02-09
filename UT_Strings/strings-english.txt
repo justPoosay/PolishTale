@@ -63974,3 +63974,12 @@ gml_RoomCC_room_fire10A_old_6270_Create
 gml_RoomCC_room_monsteralign_test_6271_Create
 music/badtom.ogg
 mus_badtom
+flag_index
+flag_message
+get_integer
+array_length_1d
+show_message
+Enter a flag to check its value: 
+global.flag[
+] = 
+input empty or invalid, exiting...

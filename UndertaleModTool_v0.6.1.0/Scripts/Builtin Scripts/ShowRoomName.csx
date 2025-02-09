@@ -1,4 +1,5 @@
 // Adds room ID and name display under the debug mode timer display
+
 EnsureDataLoaded();
 ScriptMessage("Show room name and ID in debug mode\nby krzys_h, Kneesnap\n");
 Data.Functions.EnsureDefined("room_get_name", Data.Strings); // required for Deltarune
