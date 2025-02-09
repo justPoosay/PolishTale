@@ -15383,7 +15383,7 @@ obj_lastsans_trigger_635
 obj_lastsans_trigger_636
 \E0* więc^1, mam dla&  ciebie pytanko./
 obj_lastsans_trigger_637
-\E3* myślisz że nawet&  najgorsza osoba może&  zię zmienić...?/
+\E3* myślisz że nawet&  najgorsza osoba może&  się zmienić...?/
 obj_lastsans_trigger_638
 \E3* że każdy może być&  dobrą osobą^1, jeśli&  się tylko postara?/%%
 obj_lastsans_trigger_639
@@ -23997,7 +23997,7 @@ Powinny&płonąć&w&piekle./%%
 obj_sansb_1152
 \E1huh./
 obj_sansb_body_1446
-\M1zawsze zastanawiałem&się dlaczego inni nie&używają najsilniej-&szych ataków na start./%%
+\M1ciekawe czemu inni&nie robią najsil-&niejszych ataków&na początku./%%
 obj_sansb_body_1447
 \E3w każdym razie^1,&tak jak mówiłem^1,&jest ładny dzień&na zewnątrz./
 obj_sansb_body_1450
