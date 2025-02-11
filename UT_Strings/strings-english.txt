@@ -63983,3 +63983,4 @@ Enter a flag to check its value:
 global.flag[
 ] = 
 input empty or invalid, exiting...
+spr_face_sansdisgust

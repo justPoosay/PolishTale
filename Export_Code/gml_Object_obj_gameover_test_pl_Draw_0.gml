@@ -1,0 +1,10 @@
+draw_set_color(c_white)
+if (global.testhp <= 0)
+    draw_text_transformed(100, 20, "Game Under", 2, 2, 0)
+else
+    draw_text_transformed(100, 20, "Big Wienener Zone.", 2, 2, 0)
+draw_text(100, 80, "Hall of failure.")
+for (i = 26; i < 57; i += 1)
+    draw_text(50, (100 + (i - 26) * 12), ("Attack " + string(i) + " : " + string(global.failure[i])))
+draw_text(300, 240, "TAke a screenshot#of this every time#for balancing purposes.")
+draw_text(300, 360, "Hold SPACEBAR to restart from#Attack 30")

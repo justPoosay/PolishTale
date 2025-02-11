@@ -11329,23 +11329,23 @@ obj_core_laserswitch_135
 obj_core_laserswitch_136
 obj_core_laserswitch_137
 obj_core_laserswitch_138
-* PERFECT^1!&* GREAT JOB^1, BEAUTIFUL!/
+* SUPER^1!&* DOBRA ROBOTA^1, PRZEPIĘKNA!/
 obj_countermiddle_116
-* WE'VE GOT ALL OF THE&  INGREDIENTS WE NEED TO BAKE&  THE CAKE!/
+* MAMY WSZYSTKIE SKŁADNIKI&  KTÓRE POTRZEBUJEMY DO&  UPIECZENIA CIASTA!/
 obj_countermiddle_117
-\W* \YMILK\W... &* \YSUGAR\W...&* \YEGGS\W.../
+\W* \YMLEKO\W... &* \YCUKIER\W...&* \YJAJKA\W.../
 obj_countermiddle_118
-* ... OH MY^1!&* WAIT A MAGNIFICENT MOMENT^1!&* HOW COULD I FORGET!!!/
+* ... O MATKO^1!&* ZACZEKAJ WSPANIAŁĄ CHWILĘ^1!&* JAK MOGŁEM ZAPOMNIEĆ!!!/
 obj_countermiddle_119
-\W* WE'RE MISSING THE MOST&  \YIMPORTANT INGREDIENT\W!/%%
+\W* BRAKUJE NAM NAJBARDZIEJ&  \YWAŻNEGO SKŁADNIKA\W!/%%
 obj_countermiddle_120
-\XI mean^1, we haven't&even done the\R &Special Thanks\X yet.../
+\XW sensie^1, my nawet&nie robiliśmy jeszcze\R &Specjalnych Podziękowań\X.../
 obj_creditsloader_449
-Ready^1?&Let's end all of&this for good!/%%
+Gotowy^1?&Zakończmy to&wszystko na dobre!/%%
 obj_creditsloader_450
-Ha ha ha ha.../
+Ha ha ha ha... /
 obj_creditsloader_492
-\M1Did you REALLY&think it was&OVER!?!?/%%
+\M1Czy ty NAPRAWDĘ&myślałeś że to&KONIEC!?!?/%%
 obj_creditsloader_493
 * Napstablook chętnie oczekuje&  na twoją odpowiedź.
 obj_crygen3_56
@@ -11356,20 +11356,20 @@ nazywam&to&"drip&blook"
 obj_crygen3_108
 obj_crygen3_109
 obj_darkfridge_116
-* (It's a refrigerator.^1)&* (It seems to contain&  samples of some kind.)/%%
+* (To zamrażarka.^1)&* (Wydaje się zawierać&  jakiegoś rodzaju próbki.)/%%
 obj_darkfridge_122
-* There's something here..^1.&* It feels like it's&  breathing./%%
+* Coś tutaj jest..^1.&* Wydaje się, jakby to coś&  oddychało./%%
 obj_darkfridge_126
 obj_darkfridge_133
-* There's something here..^1.&* It feels like a tree^1, ripe&  with delicious fruit./%%
+* Coś tutaj jest..^1.&* Wydaje się być drzewem^1,&  z przepysznymi owocami./%%
 obj_darkfridge_136
 obj_darkfridge_142
-* There's something here..^1.&* Something in the shape&  of a man./%%
+* Coś tutaj jest..^1.&* Coś w kształcie osoby./%%
 obj_darkfridge_145
 obj_darkfridge_151
-* There's something here..^1.&* It feels warm^1, and moist./%%
+* Coś tutaj jest..^1.&* Wydaje się ciepłe^1,&  i wilgotne..?/%%
 obj_darkfridge_154
-* (It's a fake plant.)/%%
+* (To sztuczna roślinka.)/%%
 obj_darkplant_64
 * heheh... stara sztuczka&  pierdziuszki w ręku./
 obj_darksans1_187
@@ -11383,9 +11383,9 @@ obj_darksans1_190
 obj_darksans1_193
 \E1* chwila..^1.&* słyszałeś o tym&  wcześniej czy coś?/
 obj_darksans1_194
-\E1* obróciłeś się zanim&  powiedziałem żebyś..^1.&* ... dziwne./
+\E5* obróciłeś się zanim&  powiedziałem żebyś..^1.&* ... dziwne./
 obj_darksans1_195
-* ... nieważne^1.&* jesteś człowiekiem^1, prawda?/
+\E3* ... nieważne^1.&\E0* jesteś człowiekiem^1, prawda?/
 obj_darksans1_196
 \E0* jestem sans^1.&* szkielet sans./
 obj_darksans1_198
@@ -11410,7 +11410,7 @@ obj_darksans1_211
 obj_darksans1_212
 \E1* to jest^1, uh^1.&* część^1, w której&  się smiejesz./
 obj_darksans1_213
-\E2* albo^1, uh^1, zrobić emotkę&  jeśli już...?/
+\E5* albo^1, uh^1, zrobić emotkę&  jeśli już...?/
 obj_darksans1_214
 obj_darksans1_215
 \E1* (rany^1, babko^1, naprawdę&  wiesz jak zepsuć&  moment, huh...?)/
@@ -11435,7 +11435,7 @@ obj_darksans1_347
 obj_darksans1_354
 obj_darksans1_355
 obj_darksans1_356
-* szybko^1, za tym&  dogodnie-kształtną&  lampą./%%
+* szybko^1, idź za tą&  dogodnie-kształtną&  stojącą lampą./%%
 obj_darksans1_399
 * sup^1, bro?/
 obj_darksans1_457
@@ -11562,16 +11562,16 @@ obj_darksausagenpc_103
 obj_darksausagenpc_104
 * Error./%%
 obj_darksink_91
-* (You turned on the sink.)/%%
+* (Odkręciłeś zlew.)/%%
 obj_darksink_98
-* (You really like to wash&  your hands.)/%%
+* (Naprawdę lubisz myć ręce.)/%%
 obj_darksink_100
-* (You turned off the sink.)/%%
+* (Zakręcasz zlew.)/%%
 obj_darksink_110
 obj_darksink_122
-* (There's a red key lying&  in the sink.)/
+* (Na dnie zlewu leży&  czerwony klucz.)/
 obj_darksink_132
-* (You took it and put it&  on your keychain.)/%%
+* (Wziąłeś go i umieściłeś&  na twoim breloczku.)/%%
 obj_darksink_133
 \E3I SEE^1. I SEE./
 obj_dateheart_158
@@ -11850,7 +11850,7 @@ obj_doodlebug_371
 obj_doodlebug_381
 * powiedz.../
 obj_doublesans_75
-\E1* czy ty mnie śledzisz?/%%
+\E5* czy ty mnie śledzisz?/%%
 obj_doublesans_76
 * zgubiłeś się?/%%
 obj_doublesans_77
@@ -13124,7 +13124,7 @@ obj_floweytrigger2_232
 obj_floweytrigger2_233
 \E6* Wszystkich^1, wszystko w&  tych \E7bezwartościowych&  wswpomnieniach.../
 obj_floweytrigger2_234
-\E5* Zamieńmy ich&  wszystkich w pył./%%
+\E5* Zamieńmy ich&  wszystkich w prochy./%%
 obj_floweytrigger2_235
 * Mądre.&* Baaaaardzo mądre./
 obj_floweytrigger2_245
@@ -13671,62 +13671,62 @@ obj_garbagepile_74
 obj_garbagepile_75
 * (Złom.)/%%
 obj_garbagepile_76
-* Alphys might work faster^1.&* But the old Royal Scientist^1,&  Doctor W.D. Gaster?/
+* Alphys może pracować szybciej^1.&* Ale poprzedni Królewski&  Naukowiec^1, Doktor W.D. Gaster?/
 obj_gaster_follower_a_94
-* One day^1, he vanished&  without a trace./
+* Jednego dnia^1, on zniknął&  bez śladu./
 obj_gaster_follower_a_95
-* They say he shattered&  across time and space./
+* Mówią, że on roztrzaskał się&  w czasie i przestrzeni./
 obj_gaster_follower_a_96
-* Ha ha..^1.&* How can I say so&  without fear?/
+* Ha ha..^1.&* Jak mogę to mówić&  bez strachu?/
 obj_gaster_follower_a_97
-* I'm holding a piece of&  him right here./%%
+* Trzymam kawałek jego&  dosłownie tutaj./%%
 obj_gaster_follower_a_98
-* It makes sense why ASGORE&  took so long to hire a&  new Royal Scientist./
+* Ma sens dlaczego zajęło&  ASGORE'owi tyle czasu aby&  zatrudnić nowego Naukowca./
 obj_gaster_follower_b_94
-* After all^1, the old one..^1.&* Dr. Gaster^1.&* What an act to follow!/
+* W końcu^1, poprzedni..^1.&* Dr. Gaster^1.&* Co za autorytet!/
 obj_gaster_follower_b_95
-* They say he created the CORE./
+* Mówią że on stworzył RDZEŃ./
 obj_gaster_follower_b_96
-* However^1, his life..^1.&* Was cut short./
+* Jednak^1, jego życie..^1.&* Zostało szybko zakończone./
 obj_gaster_follower_b_97
-* One day^1, he fell into&  his creation^1, and.../%%
+* Jednego dnia^1, on wpadł do&  jego dzieła^1, i.../%%
 obj_gaster_follower_b_98
-* Will Alphys end up the&  same way?/%%
+* Czy Alphys skończy w&  ten sam sposób?/%%
 obj_gaster_follower_b_102
-* I understand why ASGORE&  waited so long to hire a&  new Royal Scientist./
+* Rozumiem dlaczego ASGORE&  czekał tak długo aby zatrudnić&  nowego Królewskiego Naukowca./
 obj_gaster_follower_c_95
-* The previous one..^1.&* Dr. Gaster./
+* Poprzedni..^1.&* Dr. Gaster./
 obj_gaster_follower_c_96
-* His brilliance was&  irreplaceable./
+* Jego znakomitość&  była niezastąpiona./
 obj_gaster_follower_c_97
 obj_gaster_follower_c_98
-* One day^1, his experiments&  went wrong^1, and.../%%
+* Jednego dnia^1, jego&  eksperymenty zawiodły^1, i.../%%
 obj_gaster_follower_c_99
-* Well^1, I needn't gossip./
+* Cóż^1, nie powinienem&  plotkować./
 obj_gaster_follower_c_103
-* After all^1, it's rude to&  talk about someone who's&  listening./%%
+* W końcu^1, to niemiłe&  rozmawiać o kimś kto&  nadsłuchuje za plecami./%%
 obj_gaster_follower_c_104
-ENTRY NUMBER&SEVENTEEN/
+WPIS NUMER&SIEDEMNASCIE/
 obj_gaster_room_34
-DARK&DARKER&YET DARKER/
+CIEMNO&CIEMNIEJ&JESZCZE CIEMNIEJ/
 obj_gaster_room_35
-THE DARKNES^2S&KEEPS GROWING/
+CIEMNOS^2C&STALE ROSNIE/
 obj_gaster_room_36
-THE SHADOW^2S&CUTTING DEEPER/
+CIENI^2E&UCINAJA GLEBIEJ/
 obj_gaster_room_37
-PHOTON&READING^2S&NEGATIVE/
+CZYTNIK&FOTONO^2W&NEGATYWNY/
 obj_gaster_room_38
-THIS NEX^2T&EXPERIMENT/
+TEN NASTEPN^2Y&EKSPERYMENT/
 obj_gaster_room_39
-SEEMS/
+WYDAJE SIE/
 obj_gaster_room_40
-VERY/
+BARDZO/
 obj_gaster_room_41
 obj_gaster_room_42
-INTERESTING/
+INTERESUJACY/
 obj_gaster_room_43
 obj_gaster_room_44
-WHAT DO YOU&TWO THINK/%%
+CO WY DWAJ&O TYM MYSLICIE/%%
 obj_gaster_room_45
 Dzięki!
 obj_gladdummy_216
@@ -14328,25 +14328,25 @@ obj_heatsflamesman_90
 obj_heatsflamesman_97
 * hOIVS!/%%
 obj_hivestem_99
-* p..^1.&* tem heard human allergics&  to tem.../
+* p..^1.&* tem słyszoł czułoieki&  aulełgicne na tem.../
 obj_hivestem_103
-* dat OK..^1.&* tem understan.../
+* ale nue szkuodzui..^1.&* tem rozumuec.../
 obj_hivestem_104
-* tem..^1.&* ALSO allergic to tem!!!/%%
+* tem..^1.&* RUWNUIESZ aluergicny na tem!!!/%%
 obj_hivestem_105
 * bepis/%%
 obj_hotelreceptionist_95
-* Sorry^1, we aren't allowing&  any more guests at this time./
+* Sorki^1, już nie zezwalamy na&  więcej gości na tą chwilę./
 obj_hotelreceptionist_100
-* Or ever again./%%
+* Ani nigdy więcej./%%
 obj_hotelreceptionist_101
-* How unusual./
+* Jakie nietypowe./
 obj_hotelreceptionist_107
-* Mettaton usually shows up&  now to tell everyone they're&  doing a great job./
+* Mettaton zazwyczaj się pojawia&  teraz aby powiedzieć wszystkim&  że robią dobrą robotę./
 obj_hotelreceptionist_108
-* Even if I was having a bad&  day^1, we'll always give each&  other a thumbs-up^1, and.../
+* Nawet jeśli miałam zły dzień^1,&  my zawsze dajemy sobie kciuki&  w górę^1, i.../
 obj_hotelreceptionist_109
-* ... oh^1, what am I doing^1?&* I'm not being very&  professional./%%
+* ... oh^1, co ja wyprawiam^1?&* Nie jestem za bardzo&  profesjonalna w tym momencie./%%
 obj_hotelreceptionist_110
 Gdzie&TWOJA&czapka?
 obj_icecap_139
@@ -14603,52 +14603,52 @@ obj_jerry_450
 obj_jetpackchara_198
 * WYGLĄDA NA TO ŻE&  MNIE PRZECHYTRZYŁEŚ./
 obj_jetpackchara_199
-* BUT ONLY BECAUSE YOU HAD&  THE HELP OF THE BRILLIANT&  DOCTOR ALPHYS!/
+* ALE TYLKO DZIĘKI TEMU ŻE&  MIAŁEŚ POMOC WSPANIAŁEJ&  DOKTOR ALPHYS!/
 obj_jetpackchara_200
-* OH^1, I LOATHE TO THINK OF&  WHAT WOULD HAVE HAPPENED&  TO YOU WITHOUT HER!!!/
+* OH^1, BRZYDZĘ SIĘ MYŚLĄ&  CO BY SIĘ STAŁO TOBIE&  BEZ JEJ POMOCY!!!/
 obj_jetpackchara_201
-* WELL^1, TOODLES!!/%%
+* CÓŻ^1, PAPATKI!!/%%
 obj_jetpackchara_203
-* OH YES^1!&* ABOUT THE SUBSTITUTION.../
+* O TAK^1!&* CO DO TEJ ALTERNATYWY.../
 obj_jetpackchara_223
-* HAVEN'T YOU EVER SEEN&  A COOKING SHOW BEFORE?/
+* NIE WIDZIAŁEŚ NIGDY WCZEŚNIEJ&  PROGRAMU KULINARNEGO?/
 obj_jetpackchara_224
-* I ALREADY BAKED THE CAKE&  AHEAD OF TIME!!!!!&* SO FORGET IT!!!/%%
+* JA JUŻ UPIEKŁEM TO CIASTO&  JESZCZE PRZED CZASEM!!!!!&* WIĘC ZAPOMNIJ!!!/%%
 obj_jetpackchara_225
 obj_jetpackchara_301
 obj_jetpackchara_302
-* Wh-what!^1?&* Wh-why aren't you&  m-m-moving?/
+* C-co!^1?&* D-dlaczego ty się&  nie r-r-ruszasz?/
 obj_jetpackchara_303
-* N-no...^1!&* I must not have&  added enough fuel!/
+* N-nie...^1!&* Musiałam nie zalać&  baku do pełna!/
 obj_jetpackchara_304
-\E8* D-darnit..^1.&* I'm sorry.../
+\E8* K-kurde..^1.&* Przepraszam.../
 obj_jetpackchara_305
-* Even when it's&  something like&  this^1, I.../
+* Nawet kiedy jest&  coś takiego^1, to.../
 obj_jetpackchara_306
-* I still...^1!&* I still.../%%
+* Ja nadal...^1!&* Ja nadal.../%%
 obj_jetpackchara_307
-* OH NO^1, WOULD YOU LOOK AT&  THAT!/
+* OH NIE^1, SPÓJRZCIE NA TO!/
 obj_jetpackchara_324
 obj_jetpackchara_325
-* What?/
+* Co?/
 obj_jetpackchara_326
 \TS \E0 \F0 \TM %
 obj_jetpackchara_327
-* I FORGOT!&* RIGHT ABOUT NOW IS WHEN&  WE HAVE OUR COMMERCIAL BREAK!/
+* ZAPOMNIAŁEM!&* DOSŁOWNIE TERAZ NADSZEDŁ&  CZAS NA NASZE REKLAMY!/
 obj_jetpackchara_328
 obj_jetpackchara_329
-* Wh..^1.&* What are you...%
+* C..^1.&* Co ty...%
 obj_jetpackchara_330
 obj_jetpackchara_331
-* UNFORTUNATELY, THAT MEANS&  NO ONE IS WATCHING THIS&  RIGHT NOW./
+* NIEFORTUNNIE, TO OZNACZA ŻE&  NIKT TERAZ TEGO NIE OGLĄDA./
 obj_jetpackchara_332
-* I'M NOT GOING TO DESTROY&  YOU WITHOUT A LIVE&  TELEVISION AUDIENCE!!/
+* NIE ZNISZCZĘ CIĘ BEZ&  MOJEJ ŻYWEJ WIDOWNI&  TELEWIZYJNEJ!!/
 obj_jetpackchara_333
-* LOOKS LIKE YOU'VE FOILED ME&  ONCE AGAIN, THANKS TO THE&  BRILLIANT DR. ALPHYS!!!/
+* WYGLĄDA NA TO, ŻE TY ZNÓW&  MNIE POKONAŁEŚ, DZIĘKI&  WSPANIAŁEJ DR. ALPHYS!!!/
 obj_jetpackchara_334
-* UNTIL NEXT TIME, BEAUTIFUL!/
+* DO NASTĘPNEGO, ŚLICZNOTKO!/
 obj_jetpackchara_335
-* TOODLES!/%%
+* PAPATKI!/%%
 obj_jetpackchara_336
 obj_judgeshroom_91
 obj_judgeshroom_95
@@ -14682,31 +14682,31 @@ obj_killerboysnightout_event_101
 obj_killerboysnightout_event_102
 * Jakby^1, Undyne^1!&* Pomścimy cię!/%%
 obj_killerboysnightout_event_103
-* OH^1, THERE YOU ARE./
+* OH^1, TUTAJ JESTEŚ./
 obj_killerlab_event_113
-\M5* YOU UGLY LITTLE CREATURE^1.&* YOU'VE MADE QUITE A NAME&  FOR YOURSELF./
+\M5* TY OBRZYDLIWA MAŁA KREATURO^1.&* ZROBIŁEŚ CAŁKIEM NIEZŁE&  IMIĘ DLA SIEBIE./
 obj_killerlab_event_114
-\M3* SUCH INFAMY...^1!&* I'M IMPRESSED./
+\M3* CO ZA HAŃBA...^1!&* JESTEM POD WRAŻENIEM./
 obj_killerlab_event_115
-\M4* OH^1. YES^1.&* IF YOU'RE LOOKING FOR ALPHYS^1,&  SHE'S NOT HERE./
+\M4* OH^1. TAK^1.&* JEŚLI SZUKASZ ALPHYS^1,&  NIE MA JEJ TUTAJ./
 obj_killerlab_event_116
-\M0* WHILE YOU WERE BUSY DOING&  YOUR^1, AHEM^1, THING.../
+\M0* KIEDY BYŁEŚ ZAJĘTY&  ROBIENIEM TWOJEJ^1,&  AHEM^1, RZECZY.../
 obj_killerlab_event_117
-* SHE WAS RUNNING AROUND&  EVACUATING PEOPLE TO SAFETY./
+* ONA BIEGŁA WSZĘDZIE ABY&  ZEWAKUOWAĆ WSZYSTKICH&  DO BEZPIECZEŃSTWA./
 obj_killerlab_event_118
-\M4* NOW THEY'RE IN A PLACE&  WHERE YOU'LL NEVER GET TO&  THEM./
+\M4* TERAZ ONI SĄ W MIEJSCU&  GDZIE TY NIGDY DO NICH&  NIE DOTRZESZ./
 obj_killerlab_event_119
-\M2* DECIDING NOT TO FIGHT YOU^1.&* MY MY^1, SHE REALLY IS THE&  ONLY SMART ONE^1, ISN'T SHE?/%%
+\M2* POSTANOWIŁA Z TOBĄ NIE WALCZYĆ^1.&* PROSZĘ PROSZĘ^1, ONA NAPRAWDĘ&  JEST JEDYNĄ MĄDRĄ^1, CZYŻ NIE?/%%
 obj_killerlab_event_120
-\M0* OH^1?&* HOW SASSY./
+\M0* OH^1?&* JAKIE STRASZNE./
 obj_killerlab_event_151
-\M4* YOU'RE JUST ITCHING TO GET&  YOUR HANDS ON ME^1, AREN'T&  YOU?/
+\M4* SWĘDZISZ SIĘ ABY UŁOŻYĆ&  TWOJE RĘCE NA MNIE^1,&  CZYŻ NIE?/
 obj_killerlab_event_152
-\M5* WELL..^1. T-O-O B-A-D!/
+\M5* CÓŻ..^1. W-O-M-P W-O-M-P!/
 obj_killerlab_event_153
-\M4* THIS WORLD NEEDS STARS MORE&  THAN IT NEEDS CORPSES!/
+\M4* TEN ŚWIAT POTRZEBUJE&  CELEBRYTÓW BARDZIEJ&  NIŻ POTRZEBUJE TRUPÓW!/
 obj_killerlab_event_154
-\M1* TOODLES!/%%
+\M1* PAPATKI!/%%
 obj_killerlab_event_155
 * (Jak na standardy kulinarne&  przystało^1, śmiertelne pole&  siłowe otacza kuchnię.)/%%
 obj_kitchenforcefield_123
@@ -14720,617 +14720,617 @@ obj_kitchenforcefield_126
 obj_kitchenforcefield_127
 obj_kitchenforcefield_128
 obj_knock_room_62
-* (Doesn't seem like&  anyone's home.)/%%
+* (Nie wydaje się jakby&  ktokolwiek był w domu.)/%%
 obj_knock_room_65
-* (If someone's there^1,&  they aren't answering&  the door.)/%%
+* (Jeśli ktoś jest w środku^1,&  on nie odpowiada na drzwi.)/%%
 obj_knock_room_67
-* (No one is home.^1)&* (And you get the feeling&  no one ever will be.)/%%
+* (Nikogo nie ma w domu.^1)&* (I masz przeczucie że już&  nikogo tam nie będzie.)/%%
 obj_knock_room_69
-* (You hear irritated groans&  from the inside.)/%%
+* (Słyszysz zirytowane jęki&  dochodzące ze środka.)/%%
 obj_knock_room_71
-* (Sounds like only fire&  lives here now.)/%%
+* (Brzmi jakby tylko ogień&  tu teraz mieszkał.)/%%
 obj_knock_room_75
-* Who's there^1?&* I'm in the middle of&  my favorite TV program./
+* Kto tam^1?&* Jestem w środku mojego&  ulubionego programu TV./
 obj_knock_room_81
-* I know^1, I know..^1.&* Staring at a screen...&* Sounds like a boring hobby./
+* Wiem^1, wiem..^1.&* Gapienie się w ekran...&* Brzmi jak zanudzające hobby./
 obj_knock_room_82
-* But TV offers an escape&  to another world^1.&* We really need that./%%
+* Ale TV oferuje ucieczkę&  do innego świata^1.&* Naprawdę tego potrzebujemy./%%
 obj_knock_room_83
-* You wanna watch too^1?&* Sorry^1, this is a one-player&  TV show./%%
+* Chcesz też pooglądać^1?&* Sorry^1, to jest jednoosobowy&  program TV./%%
 obj_knock_room_86
-* Ahh^1, what a beautiful knock..^1.!&* Maybe if I don't answer^1,&  I'll hear it again./%%
+* Ahh^1, co za przepiękny puk..^1.!&* Może jeśli nie odpowiem^1, to&  usłyszę go ponownie./%%
 obj_knock_room_91
-* Ahh^1, my patience rewards me./%%
+* Ahh^1, moja cierpliwość mnie&  nagradza./%%
 obj_knock_room_93
 * Ahh.../%%
 obj_knock_room_95
-* (No answer.)/%%
+* (Brak odpowiedzi.)/%%
 obj_knock_room_99
 obj_knock_room_113
-* Hey^1!&* Stop!!!/%%
+* Hej^1!&* Przestańcie!!!/%%
 obj_lab_powerswitch_218
-* I got you guys some&  food^1, okay!?/%%
+* Mam dla was trochę&  jedzenia^1, okej!?/%%
 obj_lab_powerswitch_258
-\E4* Sorry about that.../
+\E4* Przepraszam za to.../
 obj_lab_powerswitch_294
-\E2* They get kind of sassy&  when they don't get&  fed on time./
+\E2* Robią się nieco agre-&  sywni kiedy oni nie są&  nakarmiani na czas./
 obj_lab_powerswitch_295
-\E3* Um!!/
+\E3* Umm!!/
 obj_lab_powerswitch_296
-\E3* I think they smelled&  the potato chips you&  had^1, and.../
+\E3* Wydaje mi się^1, że oni&  wyczuli twoje czipsy&  w kieszeni^1, i.../
 obj_lab_powerswitch_299
-\E3* Anyway!/
+\E3* W każdym razie!/
 obj_lab_powerswitch_301
-\E6* The power went out^1,&  and I've been trying&  to turn it back on!/
+\E6* Zasilanie wysiadło^1, i&  próbowałam go jakoś&  spowrotem przywrócić!/
 obj_lab_powerswitch_302
-\E4* But it seems like you&  were one step ahead&  of me./
+\E4* Ale wygląda na to^1, że&  byłeś o krok przede mną./
 obj_lab_powerswitch_303
-\E2* This was probably just&  a big inconvenience&  for you.../
+\E2* To był prawdopodobnie&  ogromny kłopot dla&  ciebie.../
 obj_lab_powerswitch_304
-\E4* B-but I appreciate&  that you came here&  to back me up!/
+\E4* A-ale doceniam to że&  przybyłeś tutaj aby&  mnie wesprzeć!/
 obj_lab_powerswitch_305
-\E4* As I said^1, I was&  afraid I might.../
+\E4* Tak jak mówiłam^1,&  obawiałam się że ja.../
 obj_lab_powerswitch_306
-\E8* Not come back.../
+\E8* już nie powrócę.../
 obj_lab_powerswitch_307
-\E5* But that's not because&  of these guys or&  anything!/
+\E5* Ale nie przez tych&  potworów czy coś!/
 obj_lab_powerswitch_308
-\E4* I was just worried I&  would be too afraid.../
+\E4* Po prostu obawiałam się&  że za bardzo bym się&  bała tego.../
 obj_lab_powerswitch_309
-\E9* To tell the truth.../
+\E9* Żeby powiedzieć&  wszystkim prawdę.../
 obj_lab_powerswitch_310
-\E8* That I might run away^1,&  or do something.../
+\E8* Że mogłabym uciec^1,&  albo coś zrobić.../
 obj_lab_powerswitch_311
-\E9* Cowardly./
+\E9* Tchórzliwego./
 obj_lab_powerswitch_312
 obj_lab_powerswitch_313
-*\E8 Uh..^1. I..^1.&* I suppose I owe you&  an explanation./
+*\E8 Uh..^1. Ja..^1.&* Myślę^1, że należy&  ci się wyjaśnienie./
 obj_lab_powerswitch_314
-\E9* As you probably know^1,&  ASGORE asked me to study&  the nature of SOULs./
+\E9* Jak pewnie wiesz^1,&  ASGORE poprosił mnie&  aby zbadać naturę DUSZ./
 obj_lab_powerswitch_315
-\E3* During my research^1, I&  isolated a power I&  called "determination."/
+\E3* Podczas moich badań^1,&  odizolowałam moc którą&  nazwałam "determinacją."/
 obj_lab_powerswitch_316
-\E6* I injected it into dying&  monsters so their SOULs&  would last after death./
+\E6* Wstrzyknęłam ją w&  potworów aby ich DUSZE&  przetrwały po śmierci./
 obj_lab_powerswitch_317
-\E9* But the experiment&  failed./
+\E9* Ale eksperyment się&  nie powiódł./
 obj_lab_powerswitch_318
-* You see^1, unlike humans',&  monsters' bodies don't&  have enough.../
+* Widzisz^1, w porównaniu do&  ludzi^1, ciała potworów&  nie mają wystarczająco../
 obj_lab_powerswitch_319
-* Physical matter to take&  those concentrations&  of "determination."/
+* Fizycznej materii aby&  udźwignęły te dawki&  "determinacji."/
 obj_lab_powerswitch_320
-* Their bodies started to&  melt^1, and lost what&  physicality they had./
+* Ich ciała zaczęły się&  topić^1, i utraciły całą&  fizyczność jaką mieli./
 obj_lab_powerswitch_321
-\E3* Pretty soon^1, all of the&  test subjects had melted&  together into.../
+\E3* Lada później^1, wszystkie&  obiekty testowe się&  roztopiły razem w.../
 obj_lab_powerswitch_322
-\E8* Those./
+\E8* Te coś./
 obj_lab_powerswitch_323
-\E9* Seeing them like this^1,&  I knew.../
+\E9* Widząc ich w takim&  stanie^1, wiedziałam.../
 obj_lab_powerswitch_324
-\E8* I couldn't tell their&  families about it./
+\E8* Wiedziałam^1, że nie mogę&  powiedzieć ich rodzinom&  o tym wszystkim./
 obj_lab_powerswitch_325
-\E8* I couldn't tell anyone&  about it./
+\E8* Nie mogłam o tym&  nikomu powiedzieć./
 obj_lab_powerswitch_326
-\E9* No matter how much&  everyone was asking me./
+\E9* Niezależnie jak mocno&  wszyscy mnie wypytywali./
 obj_lab_powerswitch_327
-\E9* And I was too afraid to&  do any more work^1,&  knowing.../
+\E9* I zbyt bardzo się bałam&  robienia więcej badań^1,&  wiedząc że.../
 obj_lab_powerswitch_328
-\E8* ... everything I'd done&  so far had been such&  a horrific failure./
+\E8* ... wszystko co ja&  zrobiłam do tej pory&  było ogromną porażką./
 obj_lab_powerswitch_329
-\E9* ... but now./
+\E9* ... ale teraz./
 obj_lab_powerswitch_330
-\E9* Now^1, I've changed my&  mind about all this./
+\E9* Teraz^1, zmieniłam&  zdanie o tym wszystkim./
 obj_lab_powerswitch_331
-\E9* I'm going to tell&  everyone what I've done./
+\E9* Powiem wszystkim to&  co ja zrobiłam./
 obj_lab_powerswitch_332
 obj_lab_powerswitch_333
-* It's going to be hard./
+* Będzie ciężko./
 obj_lab_powerswitch_335
-* Being honest..^1.&* Believing in myself.../
+* Szczerze mówiąc..^1.&* Z wiarą w siebie.../
 obj_lab_powerswitch_336
-* I'm sure there will be&  times where I'll&  struggle./
+* Jestem pewna że będą&  czasy w których będę&  się zmagała ze sobą./
 obj_lab_powerswitch_337
-* I'm sure there will be&  times where I screw&  up again./
+* Jestem pewna że będą&  czasy w których ja&  znów zchrzanię./
 obj_lab_powerswitch_338
-\E0* But knowing^1, deep down^1,&  that I have friends&  to fall back on.../
+\E0* Ale wiedząc^1, głęboko^1,&  że mam przyjaciół na&  których mogę upadać.../
 obj_lab_powerswitch_339
-\E7* I know it'll be a&  lot easier to stand&  on my own./
+\E7* To wiem^1, że będzie&  o wiele łatwiej aby&  podnieść się samemu./
 obj_lab_powerswitch_340
-* Thank you./%%
+* Dziękuję./%%
 obj_lab_powerswitch_341
-* Come on^1, guys./
+* Chodźcie^1, chłopaki./
 obj_lab_powerswitch_406
-* It's time for everyone&  to go home./%%
+* Czas^1, aby każdy&  wrócił do domu./%%
 obj_lab_powerswitch_407
- WARNING! WARNING^6!%
+ UWAGA! UWAGA^6!%
 obj_labelevator_a_242
- ELEVATOR LOSING POWER^6!%
+ WINDA TRACI ZASILANIE^6!%
 obj_labelevator_a_243
- EM TETHER STABILITY LOST^6!%
+ WIĘŹ EM NIESTABILNA.^6!%
 obj_labelevator_a_244
- ALTITUDE DROPPING^6!%%
+ SPADEK WYSOKOŚCI^6!%%
 obj_labelevator_a_245
 obj_labelevator_b_122
-* (It's a voice you have&  never heard before.)/%%
+* (To głos, którego jeszcze&  nigdy nie słyszałeś.)/%%
 obj_labelevator_b_123
-* \[C]..^1.&* Are you there?/
+* \[C]..^1.&* Jesteś tam?/
 obj_labelevator_b_131
-* It's been a long time^1,&  hasn't it...?/
+* Minęło dużo czasu^1,&  czyż nie...?/
 obj_labelevator_b_132
-* But you've done well./
+* Ale dobrze sobie poradziłeś./
 obj_labelevator_b_133
-* Thanks to you^1, everything&  has fallen into place./
+* Dzięki tobie^1, wszystko&  powróciło do swojego miejsca./
 obj_labelevator_b_134
 * \[C].../
 obj_labelevator_b_135
-* See you soon./%%
+* Widzimy się niedługo./%%
 obj_labelevator_b_136
-* (There's a VHS player with a&  few tapes picked out beside&  it...)/
+* (Jest tu odtwarzacz taśm VHS&  z kilkoma taśmamy wystającymi&  z boku odtwarzacza...)/
 obj_labtv_event_94
-* (They seem to be labelled&  in a specific order.)/
+* (Wydają się być oznaczone&  w specyficznej kolejności.)/
 obj_labtv_event_95
-* (Will you watch one...?)/%%
+* (Obejrzysz jedno...?)/%%
 obj_labtv_event_96
-* (Choose a tape to watch.)/%%
+* (Wybierz taśmę do odtworzenia.)/%%
 obj_labtv_event_98
-* Psssst^1.&* Gorey^1, wake up. \Ta/
+* Psssst^1.&* Gorey^1, pobudka. \Ta/
 obj_labtv_event_287
-* Mmm^1?&* What is it^1, dear?/
+* Mmm^1?&* Co tam^1, kochanie?/
 obj_labtv_event_288
-* ... err^1, and why do you&  have that video camera? \TT/
+* ... err^1, i dlaczego masz&  tą kamerę wideo? \TT/
 obj_labtv_event_289
-* Shush^1!&* I want to get your&  reaction./
+* Cii^1!&* Chcę złapać&  twoją reakcję./
 obj_labtv_event_290
-* Gorey^1, dearest^1.&* What is my favorite&  vegetable?\Ta/
+* Gorey^1, słońce^1.&* Jakie jest moje&  ulubione warzywo?\Ta/
 obj_labtv_event_291
-* Hmmm..^1.&* Carrots^1, right?\TT/
+* Hmmm..^1.&* Marchewki^1, prawda?\TT/
 obj_labtv_event_292
-* No no no^1!&* My FAVORITE vegetable is.../
+* Nie nie nie^1!&* Moim ULUBIONYM warzywem jest.../
 obj_labtv_event_293
-* Eda-MOM-e./
+* Fasolki Eda-MAM-a./
 obj_labtv_event_294
-* ... get it???\Ta/
+* ... łapiesz???\Ta/
 obj_labtv_event_295
 obj_labtv_event_296
-* Go back to bed^1, dear.\TT/
+* Idź spowrotem do łóżka^1, słońce.\TT/
 obj_labtv_event_297
-* No no!^1!&* Not yet^1!&* Hee hee hee./
+* Nie nie!^1!&* Jeszcze nie^1!&* Hee hee hee./
 obj_labtv_event_298
-* Now^1, If I were a dog^1,&  what breed of dog would&  I be?\Ta/
+* Teraz^1, Gdybym była pieskiem^1,&  jaką byłabym rasą?\Ta/
 obj_labtv_event_299
-* Hmmm..^1. I don't know^1, honey^1.&* What kind of dog would&  you be?\TT/
+* Hmm..^1. Nie mam pojęcia^1, słońce^1.&* Jaką rasą psa byś była?\TT/
 obj_labtv_event_300
-* I would be.../
+* Byłabym.../
 obj_labtv_event_301
-* A MOMERANIAN.\Ta/
+* MOMERANINEM.\Ta/
 obj_labtv_event_302
 * Hohoho!/
 obj_labtv_event_303
-* You sure are excited to&  have this child./
+* Z pewnością jesteś szczęśliwa&  że mamy to dziecko./
 obj_labtv_event_304
-* You know^1, if you keep&  making jokes like&  this.../
+* Wiesz^1, jeśli nadal&  będziesz robiła&  tego typu żarty.../
 obj_labtv_event_305
-* One day^1, you could be.../
+* Jednego dnia^1, mogłabyś być.../
 obj_labtv_event_306
-* ... a famous MOMedian.\TT/
+* ... sławnym MAMikiem.\TT/
 obj_labtv_event_307
 obj_labtv_event_308
-* Well^1, I am going to bed.\Ta/
+* Cóż^1, idę do łóżka.\Ta/
 obj_labtv_event_309
-* Hey^1!&* Come on^1, Tori^1!&* That one was funny!\TT/
+* Hej^1!&* No weź^1, Tori^1!&* Ten żart był śmieszny!\TT/
 obj_labtv_event_310
-* Hahaha^1, I know^1.&* I am just teasing you./
+* Hahaha^1, wiem^1.&* Tak sobie tylko żartuję./
 obj_labtv_event_311
-* Goodnight^1, dear.\Ta/
+* Dobranoc^1, słońce.\Ta/
 obj_labtv_event_312
-* Goodnight, honey.\TT/
+* Dobranoc, kochanie.\TT/
 obj_labtv_event_313
 obj_labtv_event_314
-* Oh dear^1, perhaps it is too&  dark in here for the&  video to come out.../%%
+* O rany^1, chyba jest zbyt&  ciemno tutaj żeby ten&  film się przechwycił.../%%
 obj_labtv_event_315
-* Okay^1, \[C]^1, are you ready?/
+* Okej^1, \[C]^1, jesteś gotowy?/
 obj_labtv_event_350
-* Do your creepy face!/
+* Zrób twoją straszną twarz!/
 obj_labtv_event_351
 * AHHHHH!^1!&* Hee hee hee!/
 obj_labtv_event_352
-* Oh^1!&* Wait^1!&* I had the lens cap on.../
+* Oh^1!&* Czekaj^1!&* Miałem założoną osłonę.../
 obj_labtv_event_353
-* What!^1?&* You're not gonna do it&  again...?/
+* Co!^1?&* Nie zrobisz tego&  ponownie...?/
 obj_labtv_event_354
-* Come on^1, quit tricking me^1!&* Haha!/%%
+* No weź^1, przestań&  ze mnie żartować^1!&* Haha!/%%
 obj_labtv_event_355
-* Howdy^1, \[C]^1!&* Smile for the camera!/
+* Heja^1, \[C]^1!&* Uśmiech do kamery!/
 obj_labtv_event_391
-* Ha^1, this time I got YOU^1!&* I left the cap on..^1.&* ON PURPOSE!/
+* Ha^1, tym razem MAM cię^1!&* Zostawiłem osłonę nałożoną..^1.&* CELOWO!/
 obj_labtv_event_392
-* Now you're smiling for&  noooo reason^1!&* Hee hee hee!/
+* I teraz się uśmiechasz&  bezzzzzz powodu^1!&* Hee hee hee!/
 obj_labtv_event_393
-* What^1?&* Oh^1, yeah^1, I remember./
+* Co^1?&* Oh^1, ta^1, pamiętam./
 obj_labtv_event_394
-* When we tried to make&  butterscotch pie for Dad^1,&  right?/
+* Kiedy próbowaliśmy upiec&  ciasto toffi dla taty^1,&  prawda?/
 obj_labtv_event_395
-* The recipe asked for cups&  of butter.../
+* W przepisie prosiło o&  trochę barwnika.../
 obj_labtv_event_396
-* But we accidentally put&  in buttercups instead./
+* Ale my przypadkiem daliśmy&  parę płatków barwinka./
 obj_labtv_event_397
-* Yeah^1!&* Those flowers got him&  really sick./
+* Ta^1!&* Te kwiaty dosyć&  mocno go zatruły./
 obj_labtv_event_398
-* I felt so bad^1.&* We made Mom really upset./
+* Miałem takie poczucie winy^1.&* Zawiedliśmy mocno Mamę./
 obj_labtv_event_399
-* I should have laughed it&  off^1, like you did.../
+* Powinienem był to po prostu&  wiśmiać^1, tak jak ty.../
 obj_labtv_event_400
-* Um^1, anyway^1, where are you&  going with this?/
+* Um^1, w każdym razie^1, gdzie&  ty idziesz z tym czymś?/
 obj_labtv_event_401
-* Huh^1?&* Turn off the camera...^1?&* OK./%%
+* Huh^1?&* Wyłączyć kamerę...^1?&* OK./%%
 obj_labtv_event_402
-* I..^1. I don't like this idea^1,&  \[C]./
+* Ja..^1. Nie podoba mi się ten&  pomysł^1, \[C]./
 obj_labtv_event_435
-* Wh.^1. what^1?&* N-no, I'm not.../
+* C.^1. co^1?&* N-nie, ja nie.../
 obj_labtv_event_436
-* ... big kids don't cry./
+* ... duże dzieci nie płaczą./
 obj_labtv_event_437
-* Yeah^1, you're right./
+* Ta^1, masz rację./
 obj_labtv_event_438
-* No^1!&* I'd never doubt you^1, \[C]..^1.&* Never!/
+* Nie^1!&* Nigdy bym w ciebie nie&  zwątpił^1, \[C]..^1. Nigdy!/
 obj_labtv_event_439
-* Y..^1. yeah^1!&* We'll be strong^1!&* We'll free everyone./
+* T..^1. tak^1!&* Będziemy silni^1!&* Uwolnimy wszystkich./
 obj_labtv_event_440
-* I'll go get the flowers./%%
+* Pójdę po kwiaty./%%
 obj_labtv_event_441
-* \[C]..^1.&* Can you hear me^1?&* We want you to wake up...\Ta/
+* \[C]..^1.&* Słyszysz mnie^1?&* Chcemy żebyś się obudził...\Ta/
 obj_labtv_event_473
-* \[C]^1!&* You have to stay determined!/
+* \[C]^1!&* Musisz pozostać&  zdeterminowany!/
 obj_labtv_event_474
-* You can't give up..^1.&* You are the future of humans&  and monsters...\TR/
+* Nie możesz się poddać..^1.&* Jesteś przyszłością&  ludzi i potworów...\TR/
 obj_labtv_event_475
 obj_labtv_event_476
-* Psst... \[C]..^1.&* Please..^1. wake up.../
+* Psst... \[C]..^1.&* Proszę..^1. obudź się.../
 obj_labtv_event_477
-* I don't like this plan&  anymore./
+* Już mi się nie&  podoba ten plan./
 obj_labtv_event_478
-* I..^1. I.../
+* Ja..^1. Ja.../
 obj_labtv_event_479
-* ..^1. no^1, I said..^1.&* I said I'd never doubt you./
+* ..^1. nie^1, mówiłem..^1.&* Mówiłem^1, że nigdy bym&  w ciebie nie zwątpił./
 obj_labtv_event_480
-* Six^1, right^1?&* We just have to get six.../
+* Sześć^1, prawda^1?&* Musimy tylko zyskać sześć.../
 obj_labtv_event_481
-* And we'll do it together^1,&  right?/%%
+* I zrobimy to razem^1, prawda?/%%
 obj_labtv_event_482
 * Spuściłeś&  linię spowrotem./%%
 obj_ladiesfishingrod_137
-* (Didn't work.)/%%
+* (Nie zadziałało.)/%%
 obj_laserswitch1_90
 obj_laserswitch1_119
 obj_laserswitch1_120
-\E3* H-hey^1, watch out^1!&* You're going to get&  really hurt!/
+\E3* H-hej^1, uważaj^1!&* Możesz się naprawdę&  skrzywdzić!/
 obj_laserswitch1_121
-\E8* I can't watch this^1.&* I'm disabling the&  lasers./%%
+\E8* Nie mogę na to patrzeć^1.&* Wyłączam lasery./%%
 obj_laserswitch1_122
 obj_laserswitch1_161
-\E6* Th..^1. there./
+\E6* J..^1. już./
 obj_laserswitch1_162
-\E3* Be careful^1, okay?/
+\E3* Bądź ostrożny^1, okej?/
 obj_laserswitch1_163
 obj_laserswitch1_164
-\E8* I-I'm sorry^1, it's&  m-my fault you&  got hurt./
+\E8* P-przepraszam^1, to&  m-moja wina że&  jesteś skrzywdzony./
 obj_laserswitch1_165
-\E8* I didn't explain the&  lasers well enough^1,&  and../
+\E8* Nie wyjaśniłam ci&  wystarczająco jak&  działają lasery^1, i../
 obj_laserswitch1_166
-\E8* If I hadn't..^1.&* If I hadn't..^1./
+\E8* Gdybym ja..^1.&* Gdybym ja..^1./
 obj_laserswitch1_167
-\E4* Um^1, delayed using&  my hacking skills^1,&  I mean.../
+\E4* Um^1, opóźniłam je&  z moim hackowaniem^1,&  to znaczy.../
 obj_laserswitch1_168
-\E8* ... sorry./
+\E8* ... przepraszam./
 obj_laserswitch1_169
 obj_laserswitch1_170
 obj_laserswitch1_171
 obj_laserswitch1_174
-\E8* I didn't explain the&  lasers well enough^1,&  and.../
+\E8* Nie wyjaśniłam ci&  wystarczająco jak&  działają lasery^1, i.../
 obj_laserswitch1_175
-\E3* O-oh^1, there's no&  time for this now!/
+\E3* O-oh^1, nie ma teraz&  na to czasu!/
 obj_laserswitch1_176
-\E8* Sorry./
+\E8* Przepraszam./
 obj_laserswitch1_177
 obj_laserswitch1_178
 obj_laserswitch1_179
-STOP IT!!
+PRZESTAŃ!!
 obj_lastbeam_230
-STOP IT NOW!!!
+PRZESTAŃ&TERAZ!!!
 obj_lastbeam_255
 obj_lastbeam_296
-* So you finally made it./
+* A więc w końcu dotarłeś./
 obj_lastsans_trigger_187
-* The end of your journey&  is at hand./
+* Koniec twojej podróży jest&  w zasięgu ręki./
 obj_lastsans_trigger_188
-* In a few moments^1, you&  will meet the king./
+* Za lada chwilę^1,&  spotkasz króla./
 obj_lastsans_trigger_189
-* Together.../
+* Razem.../
 obj_lastsans_trigger_190
-* You will determine the&  future of this world./
+* Zdeterminujecie&  przyszłość tego świata./
 obj_lastsans_trigger_191
-* That's then./
+* To jest wtedy./
 obj_lastsans_trigger_192
-* Now./
+* A teraz./
 obj_lastsans_trigger_193
-* You will be judged./
+* Będziesz osądzony./
 obj_lastsans_trigger_194
-* You will be judged for&  your every action./
+* Będziesz osądzony za&  każdą twoją czynność./
 obj_lastsans_trigger_195
-* You will be judged for&  every EXP you've earned./
+* Będziesz osądzony za&  każde EXP które zdobyłeś./
 obj_lastsans_trigger_196
-* What's EXP?/
+* Czym jest EXP?/
 obj_lastsans_trigger_197
-* It's an acronym./
+* To akronim./
 obj_lastsans_trigger_198
-\W* It stands for "\Rexecution&  points\W."/
+\W* Rozwinięcie skrótu to& "\Rpunkty egzekucyjne\W albo&  \Rexecution points\W."/
 obj_lastsans_trigger_199
-* A way of quantifying the&  pain you have inflicted on&  others./
+* Mierzy ona cierpienie&  zadane przez ciebie&  innym./
 obj_lastsans_trigger_200
-* When you kill someone^1,&  your EXP increases./
+* Kiedy kogoś zabijasz^1,&  twoje EXP rośnie./
 obj_lastsans_trigger_201
-* When you have enough EXP^1,&  your LOVE increases./
+* Kiedy masz wystarczająco&  EXP^1, twoje LOVE rośnie./
 obj_lastsans_trigger_202
-* LOVE^1, too^1, is an&  acronym./
+* LOVE^1, także^1, jest&  akronimem./
 obj_lastsans_trigger_203
-\W* It stands for "\RLevel of&  Violence\W."/
+\W* Rozwinięcie skrótu to& "\RPoziom Przemocy\W albo\R&  (Level of Violence)\W."/
 obj_lastsans_trigger_204
-* A way of measuring someone's&  capacity to hurt./
+* Mierzy ona zdolność&  osoby do zabijania./
 obj_lastsans_trigger_205
-* The more you kill^1, the&  easier it becomes to&  distance yourself./
+* Im więcej zabijasz^1, tym&  łatwiej się staje&  unikanie innych./
 obj_lastsans_trigger_206
-* The more you distance&  yourself^1, the less you&  will hurt./
+* Im bardziej unikasz&  innych^1, ty mniej&  odniesiesz obrażenia./
 obj_lastsans_trigger_207
-* The more easily you&  can bring yourself to&  hurt others./%%
+* Tym łatwiej możesz się&  pozbierać do skrzywdzenia&  innych./%%
 obj_lastsans_trigger_208
-* So you finally made it.../%%
+* A więc w końcu dotarłeś.../%%
 obj_lastsans_trigger_214
-* Now^1, you understand./
+* Teraz^1, rozumiesz./
 obj_lastsans_trigger_243
-* It's time to begin your&  judgment./
+* Czas zacząć&  twój wyrok./
 obj_lastsans_trigger_244
-* Look inside yourself./
+* Spójrz w siebie./
 obj_lastsans_trigger_245
-* Have you really done the&  right thing?/
+* Czy na pewno zrobiłeś&  właściwą rzecz?/
 obj_lastsans_trigger_246
-* And^1, considering what&  you've done.../
+* I^1, biorąc pod uwagę&  twoje czynności.../
 obj_lastsans_trigger_247
-* What will you do now?/
+* Co zrobisz teraz?/
 obj_lastsans_trigger_248
-* Take a moment to think&  about this./%%
+* Zajmij chwilę, by&  o tym pomyśleć./%%
 obj_lastsans_trigger_249
 obj_lastsans_trigger_268
-\Ts*\E0 ... but you^1.&* you never gained&  any LOVE./
+\Ts*\E0 ... ale ty^1.&* ty nigdy nie zyskałeś&  żadnego LOVE./
 obj_lastsans_trigger_269
-\E1* 'course^1, that doesn't&  mean you're completely&  innocent or naive./
+\E1* wiadomo^1, to nie znaczy&  że jesteś kompletnie&  niewynny czy naiwny./
 obj_lastsans_trigger_270
-\E0* just that you kept&  a certain tenderness&  in your heart./
+\E0* po prostu to, że&  utrzymałeś empatię&  w twoim sercu./
 obj_lastsans_trigger_271
-* no matter the struggles&  or hardships you&  faced.../
+* nieważne nad jakimi&  trudnościami się&  zmierzyłeś.../
 obj_lastsans_trigger_274
-* you strived to do the&  right thing./
+* starałeś się&  zrobić właściwą&  rzecz./
 obj_lastsans_trigger_275
-* you refused to hurt&  anyone./
+* odmówiłeś&  skrzywdzenia&  kogokolwiek./
 obj_lastsans_trigger_276
-* even when you ran&  away^1, you did it&  with a smile./
+* nawet jeśli ty&  uciekałeś^1, robiłęś&  to z uśmiechem./
 obj_lastsans_trigger_277
-* you never gained LOVE^1,&  but you gained love./
+* nigdy nie zyskałeś&  LOVE^1, natomiast&  zyskałeś miłość./
 obj_lastsans_trigger_278
-* does that make sense?/
+* czy to ma sens?/
 obj_lastsans_trigger_279
-* maybe not./
+* może nie./
 obj_lastsans_trigger_280
-\E3* ..^1.&* now./
+\E3* ..^1.&* teraz./
 obj_lastsans_trigger_283
-\E0* you're about to face&  the greatest challenge&  of your entire journey./
+\E0* za chwilę się zmierzysz&  z największym wyzwaniem&  twojej całej podróży./
 obj_lastsans_trigger_284
-* your actions here.../
+* tutaj twoje&  czynności.../
 obj_lastsans_trigger_285
-* will determine the&  fate of the entire&  world./
+* zdeterminują los&  całego świata./
 obj_lastsans_trigger_286
-* if you refuse to&  fight.../
+* jeśli odmówisz walki.../
 obj_lastsans_trigger_287
-* asgore will take&  your soul and&  destroy humanity./
+* asgore odbierze&  twoją duszę i&  zniszczy ludzkość./
 obj_lastsans_trigger_288
-* but if you kill&  asgore and go&  home.../
+* ale jeśli ty zabijesz&  asgore'a i pójdziesz&  do domu.../
 obj_lastsans_trigger_289
-* monsters will remain&  trapped underground./
+* potwory pozostaną&  uwięzieni pod ziemią./
 obj_lastsans_trigger_290
-* what will you do?/
+* co zrobisz?/
 obj_lastsans_trigger_291
 obj_lastsans_trigger_292
-* well^1, if i were you^1,&  i would have thrown&  in the towel by now./
+* cóż^1, gdybym był tobą^1,&  rzuciłbym teraz&  białą flagę./
 obj_lastsans_trigger_293
-\E1* but you didn't get&  this far by giving&  up^1, did you?/
+\E1* ale ty nie dotarłeś&  tak daleko poddawając&  się^1, czyż nie?/
 obj_lastsans_trigger_294
-\E0* that's right./
+\E0* zgadza się./
 obj_lastsans_trigger_295
-* you have something&  called "determination."/
+* posiadasz coś o nazwie& "determinacja."/
 obj_lastsans_trigger_296
-* so as long as you&  hold on.../
+* więc dopóki będziesz&  się tego trzymał.../
 obj_lastsans_trigger_297
-* so as long as you&  do what's in your&  heart.../
+* więc dopóki będziesz&  podążał głosem&  serca.../
 obj_lastsans_trigger_298
-* i believe you can do&  the right thing./
+* wierzę, że podejmiesz&  właściwą decyzję./
 obj_lastsans_trigger_299
-\E3* alright./
+\E3* dobra./
 obj_lastsans_trigger_300
-\E0* we're all counting&  on you, kid./
+\E0* wszyscy liczymy na&  ciebie, ziom./
 obj_lastsans_trigger_301
-\E2* good luck./%%
+\E2* powodzenia./%%
 obj_lastsans_trigger_302
 obj_lastsans_trigger_361
-\Ts*\E0 truthfully^1, it doesn't&  really matter what you&  said./
+\Ts*\E0 szczerze^1, to nie ma&  za bardzo znaczenia&  co powiedziałeś./
 obj_lastsans_trigger_362
-\E0* all that's important is&  that you were honest&  with yourself./
+\E0* liczy się to, że ty&  byłeś ze sobą szczery./
 obj_lastsans_trigger_363
-* what happens now.../
+* co się stanie teraz.../
 obj_lastsans_trigger_364
-* we leave up to you./%%
+* zostawiamy tobie&  do zdecydowania./%%
 obj_lastsans_trigger_365
-* Then why'd you&  kill my&  brother?/%%
+* To dlaczego ty&  zabiłeś mojego&  brata?/%%
 obj_lastsans_trigger_390
-* You dirty brother&  killer./%%
+* Ty brudny&  zabójco&  bratów./%%
 obj_lastsans_trigger_402
-* huh^1?&* you look bored./
+* huh^1?&* wyglądasz na&  znudzonego./
 obj_lastsans_trigger_421
-\E1* i get the feeling&  you aren't gonna learn&  anything from this./
+\E1* mam takie przeczucie że&  ty niczego nie wyniesiesz&  z tego i tak./
 obj_lastsans_trigger_422
-\E0* well^1, guess I gotta&  judge you then./
+\E0* cóż^1, chyba muszę&  cię w takim razie&  osądzić./
 obj_lastsans_trigger_423
-* come on^1.&* really?/%%
+* no weź^1.&* serio?/%%
 obj_lastsans_trigger_424
-* lv2..^1.&* seems like you messed&  up the slightest amount./
+* lv2..^1.&* wydaje się^1, że zepsułeś&  o najmniejszą liczbę./
 obj_lastsans_trigger_428
-\E1* welp^1.&* that's pretty sad./
+\E1* cóż^1.&* to całkiem smutne./
 obj_lastsans_trigger_429
-\E3* you probably weren't&  even aware of what you&  were doing.../
+\E3* prawdopodobnie ty nie&  byłeś nawet świadom&  tego co robisz.../
 obj_lastsans_trigger_430
-* and when you learned^1,&  it was too late./
+* a kiedy uświadomiłeś^1,&  było już za późno./
 obj_lastsans_trigger_431
-\E2* nah^1, just kidding./
+\E2* nah^1, żartuję tylko./
 obj_lastsans_trigger_432
-\E1* who gets to lv2 on&  accident^1?&* get outta here./%%
+\E1* kto dochodzi do lv2&  przez przypadek^1?&* spadaj stąd./%%
 obj_lastsans_trigger_433
 \E3* lv3.../
 obj_lastsans_trigger_437
-\E1* 3's just an ok number^1,&  i guess./
+\E1* 3 to w porządku liczba^1,&  wydaje mi się./
 obj_lastsans_trigger_438
-\E2* i'll give you a C+./
+\E2*dam ci 3+./
 obj_lastsans_trigger_439
-\E1* you can do better^1,&  right?/%%
+\E1* możesz zrobić lepiej^1,&  prawda?/%%
 obj_lastsans_trigger_440
-\E3* hmmm..^1.&* over lv3^1, huh./
+\E3* hmmm..^1.&* ponad lv3^1, huh./
 obj_lastsans_trigger_444
-\E0* you killed some people&  on purpose^1, didn't you?/
+\E0* zabiłeś parę osób&  celowo^1, czyż nie?/
 obj_lastsans_trigger_445
-\E1* that's probably bad./
+\E1* to prawdopodobnie źle./
 obj_lastsans_trigger_446
-\E3* though^1, maybe some&  of it was in self-&  defense.../
+\E3* choć^1, może część z&  tego była w ramach&  samoobrony.../
 obj_lastsans_trigger_447
-\E1* i don't know^1.&* help me out here./
+\E1* nie wiem^1.&* pomóż mi./
 obj_lastsans_trigger_448
-* i wasn't watching./
+* nie oglądałem./
 obj_lastsans_trigger_449
-\E2* anyways^1, don't do that./%%
+\E2* w każdym razie^1,&  nie rób tego./%%
 obj_lastsans_trigger_450
-\E3* hmmm..^1.&* over lv9^1, huh./
+\E3* hmmm..^1.&* ponad lv9^1, huh./
 obj_lastsans_trigger_454
-\E0* that's over halfway to&  lv20^1, the maximum./
+\E0* to ponad połowa do&  lv20^1, maksimum./
 obj_lastsans_trigger_455
-\E1* but don't think that&  means you're still 50-&  percent good./
+\E1* ale nie myśl sobie że&  jesteś dalej w 50-&  procentach dobry./
 obj_lastsans_trigger_456
-\E3* 50-percent^1, 20-percent./
+\E3* 50-procent^1, 20-procent./
 obj_lastsans_trigger_457
-\E4* those are both still&  failing grades./
+\E4* to są obydwa dalej&  nieprzepuszczalne&  oceny./
 obj_lastsans_trigger_458
-\E1* besides^1.&* chances are.../
+\E1* zresztą^1.&* jest szansa że.../
 obj_lastsans_trigger_459
-* i've already tried to&  steer you in the right&  direction./
+* ja już próbowałem cię&  nakręcić na właściwą&  ścieżkę./
 obj_lastsans_trigger_460
-\E0* so what can i say?/
+\E0* więc cóż mogę dodać?/
 obj_lastsans_trigger_461
-\E3* what can i say that&  will change the mind of&  a being like you...?/%%
+\E3* co mogę powiedzieć co&  zmieni twoje zdanie&  takiej istoty jak ty...?/%%
 obj_lastsans_trigger_462
-\E3* hmmm..^1.&* over lv14^1, huh./
+\E3* hmmm..^1.&* ponad lv14^1, huh./
 obj_lastsans_trigger_466
-\E1* well^1, hmmm..^1.&* judgment-wise.../
+\E1* cóż^1, hmmm..^1.&* mówiąc wprost.../
 obj_lastsans_trigger_467
-\E4* you're a pretty bad&  person./
+\E4* jesteś całkiem złą&  osobą./
 obj_lastsans_trigger_468
-* you wander around^1,&  looking for people.../
+* chodzisz w kółka^1,&  szukając innych.../
 obj_lastsans_trigger_469
-* killing them to take&  their money./
+* i zabijasz by zabrać&  ich pieniądze./
 obj_lastsans_trigger_470
-\E3* that's just plain&  messed up./
+\E3* to już jest po&  prostu chore./
 obj_lastsans_trigger_471
-\E1* and what's worse^1, is&  that as bad as you&  are.../
+\E1* a co gorsza^1, to że&  jakkolwiek jesteś&  teraz zły.../
 obj_lastsans_trigger_472
-\E2* you aren't anywhere near&  as bad as you could&  be./
+\E2* nie jesteś nawet blisko&  temu jak gorszy&  mógłbyś być./
 obj_lastsans_trigger_473
-\E1* you pretty much suck&  at being evil./
+\E1* szczerze^1, ssiesz dupę&  w byciu złym./
 obj_lastsans_trigger_474
-\E1* honestly^1, it's super&  embarrassing./
+\E1* serio^1, taka&  siara z ciebie./
 obj_lastsans_trigger_475
-\E2* but maybe you'd be&  better.../
+\E2* ale może byłbyś&  lepszy.../
 obj_lastsans_trigger_476
-\E1* at not killing anyone?/
+\E1* w niezabijaniu nikogo?/
 obj_lastsans_trigger_477
-\E2* crazy idea^1, huh?/
+\E2* crazy^1, huh?/
 obj_lastsans_trigger_478
-\E0* let me know how that&  one goes./%%
+\E0* daj mi znać jak&  to ci pójdzie./%%
 obj_lastsans_trigger_479
 * ... huh?/
 obj_lastsans_trigger_485
-\E0* what's with that look&  in your eye?/
+\E0* co jest z tym&  spojrzeniem w twoich&  oczach?/
 obj_lastsans_trigger_486
-\E3* did you go through and&  kill someone.../
+\E3* czy ty właśnie&  zabiłeś kogoś.../
 obj_lastsans_trigger_487
-\E3* just to see what i'd&  say about it?/
+\E3* tylko żeby zobaczyć&  co o tym powiem?/
 obj_lastsans_trigger_488
 \E1* wow^1./
 obj_lastsans_trigger_489
-\E2* you're a pretty gross&  person^1, huh?/%%
+\E2* jesteś dosyć&  obrzydliwą osobą^1,&  huh?/%%
 obj_lastsans_trigger_490
-\E1* huh^1?&* you STILL look bored./
+\E1* huh^1?&* ty NADAL wyglądasz&  na znudzonego./
 obj_lastsans_trigger_494
-\E2* okay then^1, consider&  our session over./%%
+\E2* okej^1, uznaj tą&  sesję za zakończoną./%%
 obj_lastsans_trigger_495
 obj_lastsans_trigger_513
-\E1* wait a second./
+\E1* chwila moment./
 obj_lastsans_trigger_514
-\E1* that look on your&  face while i was&  talking.../
+\E1* ten wyraz twarzy&  kiedy rozmawiałem.../
 obj_lastsans_trigger_515
-\E2* you've already heard&  my spiel^1, haven't you?/
+\E2* ty już słyszałeś&  moją gadkę^1,&  czyż nie?/
 obj_lastsans_trigger_516
-\E3* i suspected something&  like this./
+\E3* podejrzewałem&  coś takiego./
 obj_lastsans_trigger_517
-\E3* you're always acting&  like you know what's&  going to happen./
+\E3* zawsze się zachowujesz&  jakbyś wiedział co się&  dalej wydarzy./
 obj_lastsans_trigger_518
-\E1* like you've seen it&  all before./
+\E1* jakbyś ty już to&  wszystko widział./
 obj_lastsans_trigger_519
-\E3* so..^1.&* i have a request for&  you./
+\E3* więc..^1.&* mam do ciebie prośbę./
 obj_lastsans_trigger_520
-\W*\E1 i kind of have a&  \Ysecret codeword\W &  that only i know./
+\W*\E1 tak jakby mam takie&  \Ysekretne słowo\W &  które tylko ja znam./
 obj_lastsans_trigger_521
-\E0* so i know if someone&  tells it to me.../
+\E0* więc wiem że jeśli&  ktoś mi to powie.../
 obj_lastsans_trigger_522
-\E1* they'll have to be a&  time traveller./
+\E1* to musi zdecydowanie&  podróżować w czasie./
 obj_lastsans_trigger_523
-\E2* crazy^1, right?/
+\E2* crazy^1, co nie?/
 obj_lastsans_trigger_524
-\E1* anyway^1, here it is.../
+\E1* w każdym razie^1, oto&  moje słowo.../
 obj_lastsans_trigger_525
-\E3* (whisper^1, whisper)/
+\E3* (szept^1, szept)/
 obj_lastsans_trigger_526
-\E2* i'm counting on you to&  come back here and&  tell me that./
+\E2* liczę na ciebie że&  tu powrócisz i mi&  to powiesz./
 obj_lastsans_trigger_527
-\E1* see you later./%%
+\E1* widzimy się później./%%
 obj_lastsans_trigger_528
 obj_lastsans_trigger_532
-\E1* huh^1?&* do you have something&  to say to me?/
+\E1* huh^1?&* masz mi coś&  do powiedzenia?/
 obj_lastsans_trigger_533
-\E2* what^1? a codeword^1?&* can you speak a&  little louder?/
+\E2* co^1? sekretne słowo^1?&* możesz powtórzyć&  troszeczkę głośniej?/
 obj_lastsans_trigger_534
 obj_lastsans_trigger_535
-* did you.../
+* czy ty.../
 obj_lastsans_trigger_536
-\E2* ... just say "i'm a&  stupid doodoo butt?"/
+\E2* ... właśnie powiedziałeś& "jestem głupiutkim&  dupem dudu?"/
 obj_lastsans_trigger_537
-\E1* wow^1.&* i can't believe you&  would say that./
+\E1* wow^1.&* nie wierzę że to&  powiedziałeś./
 obj_lastsans_trigger_538
-\E3* not only is that&  completely infantile.../
+\E3* nie tylko jest to&  kompletnie dziecięce.../
 obj_lastsans_trigger_539
-\E2* but it's also my&  secret codeword./
+\E2* ale to też moje&  sekretne słowo./
 obj_lastsans_trigger_540
-\E3* that^1, however^1, isn't&  good enough./
+\E3* to^1, natomiast^1, nie jest&  wystarczające./
 obj_lastsans_trigger_541
-\W*\E1 what you need is the&  \Ysecret\W secret codeword./
+\W*\E1 co potrzebujesz to&  \Ysekretne\W sekretne&  słówko./
 obj_lastsans_trigger_542
-\E2* it's only for people&  that know the secret&  codeword./
+\E2* to jest tylko dla osób&  które znają sekretne&  słówko./
 obj_lastsans_trigger_543
-\E0* anyway^1, here it is.../
+\E0* w każdym razie^1, oto&  moje słówko.../
 obj_lastsans_trigger_544
-\E4* (whimsper^1, whimsper).../
+\E4* (szepcik^1, szepcik).../
 obj_lastsans_trigger_545
 obj_lastsans_trigger_546
 obj_lastsans_trigger_547
@@ -15339,42 +15339,42 @@ obj_lastsans_trigger_554
 obj_lastsans_trigger_555
 obj_lastsans_trigger_556
 obj_lastsans_trigger_557
-\E2* ... just say "i'm the&  legendary fartmaster?"/
+\E2* ... właśnie powiedziałeś& "jestem legendarnym&  mistrzem pierdów?"/
 obj_lastsans_trigger_558
 \E1* wow./
 obj_lastsans_trigger_559
-\E1* that's..^1. uh..^1.&* really childish./
+\E1* to jest..^1. uh..^1.&* naprawdę dziecięce./
 obj_lastsans_trigger_560
-\E2* why would you think&  that was a secret&  secret codeword?/
+\E2* dlaczego myślałeś że&  to było sekretne&  sekretne słówko?/
 obj_lastsans_trigger_561
-\E1* whoever told you that&  is a dirty liar./
+\E1* ktokolwiek ci to&  powiedział jest&  brudnym kłamcą./
 obj_lastsans_trigger_562
-\E2* i don't have a secret&  secret codeword./
+\E2* nie posiadam sekretnego&  sekretnego  słówka./
 obj_lastsans_trigger_563
-\E3* however./
+\E3* natomiast./
 obj_lastsans_trigger_564
-\E2* i do have a secret&  secret triple-secret&  codeword./
+\E2* mam sekretne&  sekretne potrójnie&  sekretne słówko./
 obj_lastsans_trigger_565
-\E1* which you just said./
+\E1* które właśnie&  powiedziałeś./
 obj_lastsans_trigger_566
-\E2* so^1, i guess you're&  qualified./
+\E2* więc^1, chyba jesteś&  zakwalifikowany./
 obj_lastsans_trigger_567
-\E2* here's the key to my&  room./
+\E2* oto klucz do mojego&  pokoju./
 obj_lastsans_trigger_568
-\E3* it's time.../
+\E3* już czas.../
 obj_lastsans_trigger_569
-* you learned the truth./
+* abyś poznał prawdę./
 obj_lastsans_trigger_570
 obj_lastsans_trigger_571
-* (When you looked^1, the key was&  already on your keychain.)/%%
+* (Kiedy spojrzałeś^1, ten klucz&  już był na twoim breloczku.)/%%
 obj_lastsans_trigger_572
 obj_lastsans_trigger_578
-\E1* huh^1?&* triple secret codeword?/
+\E1* huh^1?&* potrójnie sekretne&  słówko?/
 obj_lastsans_trigger_579
-\E2* nah^1, i'm out of&  material./
+\E2* nah^1, już mi się&  skończyły pomysły./
 obj_lastsans_trigger_580
 obj_lastsans_trigger_581
-* (You felt something on your&  keychain.)/%%
+* (Poczułeś coś na twoim&  breloczku.)/%%
 obj_lastsans_trigger_582
 \E0* heja./
 obj_lastsans_trigger_634
@@ -15515,54 +15515,54 @@ obj_lastsans_trigger_815
 obj_lastsans_trigger_817
 * właśnie dlatego&  nigdy nie robię&  obietnic./%%
 obj_lastsans_trigger_818
-* (You took the key and&  put it on your phone's&  key-chain.)/%%
+* (Wziąłeś klucz i umieściłeś&  go w breloczku na telefonie.)/%%
 obj_latchkey_71
-But&nobody&came.
+Ale&nikt nie&przyszedł.
 obj_lemonbread_175
-Do you&think&I'm&pretty?
+Myślisz&że ja&jestem&ładna?
 obj_lemonbread_176
-That's&what&they all&say.
+To jest&co oni&wszyscy&mówią.
 obj_lemonbread_177
-Stay&here&with&me...
+Zostań&tutaj&ze mną&...
 obj_lemonbread_178
-Welcome&to my&special&hell.
+Witaj w&moim&unikalnym&piekle.
 obj_lemonbread_196
 obj_lemonbread_200
-Life's&flashing&before&my teeth
+Życie&przelatuje&mi przed&zębami
 obj_lemonbread_202
-I've&felt&this&before.
+Czułam&to już&kiedyś.
 obj_lemonbread_203
 obj_lemonbread_207
-* Smells like sweet lemons.
+* Pachnie jak słodkie cytryny.
 obj_lemonbread_429
-* You hear the melody of&  pulsating flesh.
+* Słuchasz melodię&  pulsującego mięsa.
 obj_lemonbread_433
-* Could this be goodbye!?
+* Czy to może być pożegnanie!?
 obj_lemonbread_434
 obj_lemonbread_435
-* You called for help^1.&* But nobody came./^
+* Zawołałeś o pomoc^1.&* Ale nikt nie przyszedł./^
 obj_lemonbread_468
-* You hum a familiar tune^1.&* Lemon Bread's body shakes.../^
+* Nucisz znajomą nutę^1.&* Ciało Lemon Bread&  zaczyna się trząść.../^
 obj_lemonbread_479
-* You hum a familiar tune^1.&* Nothing else happened./^
+* Nucisz znajomą nutę^1.&* Nic więcej się nie dzieje./^
 obj_lemonbread_483
-* You hum a familiar tune^1.&* Lemon Bread seems to&  remember something./^
+* Nucisz znajomą nutę^1.&* Lemon Bread wydaje się&  coś przypominać sobie./^
 obj_lemonbread_488
-* You screamed out^1.&* But nobody came./^
+* Wrzeszczysz o pomoc^1.&* Ale nikt nie przyszedł./^
 obj_lemonbread_501
-* You flexed your arm^1.&* Lemon Bread's muscle shakes.../^
+* Flexujesz twoją rękę^1.&* Mięśnie Lemon Bread&  zaczynają się trząść.../^
 obj_lemonbread_512
-* You flexed your arm^1.&* Nothing else happened./^
+* Flexujesz twoją rękę^1.&* Nic więcej się nie dzieje./^
 obj_lemonbread_516
-* You flexed your arm^1.&* Lemon Bread seems to&  remember something./^
+* Flexujesz twoją rękę^1.&* Lemon Bread wydaje się&  coś przypominać sobie./^
 obj_lemonbread_521
-* You let Lemon Bread be^1.&* Lemon Bread's teeth shake.../^
+* Pozwalasz Lemon Bread być sobą^1.&* Zęby Lemon Bread&  zaczynają się trząść.../^
 obj_lemonbread_536
-* You let Lemon Bread be^1.&* Nothing else happened./^
+* Pozwalasz Lemon Bread być sobą^1.&* Nic więcej się nie dzieje./^
 obj_lemonbread_540
-* You let Lemon Bread be^1.&* Lemon Bread seems to&  remember something./^
+* Pozwalasz Lemon Bread być sobą^1.&* Lemon Bread wydaje się&  coś sobie przypominać./^
 obj_lemonbread_545
-* You cried as loud as you&  could^1.&* But nobody came./^
+* Płakałeś tak głośno jak&  tylko potrafiłeś^1.&* Ale nikt nie przyszedł./^
 obj_lemonbread_556
 (Huf&huf)
 obj_lesserdoge_204
@@ -18558,37 +18558,37 @@ obj_movedogehead_188
 RUCH?
 obj_movedogehead_263
 obj_movedogehead_264
-* There you are^1, dearie^1.&* You are always welcome in&  my parlor!/
+* Tutaj jesteś^1, słodziaku^1.&* Jesteś zawsze mile widziany&  w moim salonie!/
 obj_muffetnpc2_75
-* Just stay on your best&  behavior^1~&* Ueee hee hee hee~/%%
+* Tylko zachowuj się dobrze^1~&* Ueee hee hee hee~/%%
 obj_muffetnpc2_76
-* Bonjour^1, dearie^1~&* I just finished tallying up&  all of our donations!/
+* Bonjour^1, słodziaku^1~&* Właśnie skończyłam liczyć&  wszystkie twoje donacje!/
 obj_muffetnpc2_81
-* We've finally raised enough&  to rescue all the spiders&  inside of the RUINS./
+* W końcu mamy wystarczająco&  pieniędzy by uratować&  wszystkie pajączki w RUINACH./
 obj_muffetnpc2_82
-* And we'll also be able to&  afford...!/
+* A także wreszcie będzie&  nas stać na...!/
 obj_muffetnpc2_83
-* ... nothing^1, because we&  only sold one donut./
+* ... nic^1, ponieważ my&  tylko sprzedaliśmy&  jednego pączka./
 obj_muffetnpc2_84
-* What's wrong with everyone^1?&* Don't they like spiders~/%%
+* Co jest nie tak z wszystkimi^1?&* Czy oni nie lubią pająków~/%%
 obj_muffetnpc2_85
-* 4 pairs of stylish sunglasses&  for every spider!/%%
+* 4 pary stylowych okularów&  przeciwsłonecznych dla&  każdego pajączka!/%%
 obj_muffetnpc2_87
-* 4 pairs of waterproof booties&  for every spider!/%%
+* 4 pary wodoodpornych bucików&  dla każdego pajączka!/%%
 obj_muffetnpc2_89
-* 4 pairs of stylish heels for&  every spider!/%%
+* 4 pary stylowych szpilek&  dla każdego pajączka!/%%
 obj_muffetnpc2_91
-* A spider baseball field^1!&* We've already got the baseball&  donuts ready~/%%
+* Pajęcze pole baseballowe^1!&* Już mamy przygotowane&  pączki do baseballu~/%%
 obj_muffetnpc2_93
-* A spider football stadium^1!&* We'll play with 4 balls on the&  field at once!/%%
+* Pajęczy stadion do baseballu^1!&* We'll play with 4 balls on the&  field at once!/%%
 obj_muffetnpc2_95
-* A brand new bakery^1!&* Thank you so much^1, dearie!/
+* Świeżutka nowa cukiernia^1!&* Dziękuję ci bardzo^1, słodziaku!/
 obj_muffetnpc2_99
-* It's all because of you^2 &* (r money)./%%
+* To wszystko dzięki tobie^2 &* (twoim pieniądzom)./%%
 obj_muffetnpc2_100
-* A vacation anywhere in the&  entire world!/
+* Wybrane wakacje dookoła&  świata!/
 obj_muffetnpc2_105
-* Should we go to the tropics^1?&* Or a creepy abandoned house^1?&* We can't decide~/%%
+* Pojedziemy na tropiki^1?&* Czy może nawiedzony dom^1?&* Ciężko wybrać~/%%
 obj_muffetnpc2_106
 * OH NO!&* WHATEVER SHALL I DO?/
 obj_multitileevent_121
@@ -18740,7 +18740,7 @@ obj_multitileevent_649
 obj_multitileevent_650
 * NO!/%%
 obj_musicstatue_110
-* (No point in giving it an&  umbrella now.)/%%
+* (Nie ma już powodu podania&  temu parasola.)/%%
 obj_musicstatue_114
 trzymam&się&dobrze,&dzięki.
 obj_napstablook_294
@@ -20841,7 +20841,7 @@ NIE TYLKO NIE&LUBISZ PUZZLI./
 obj_papyrus8_518
 ALE SAM SPOSÓB W&JAKI PRZEMIESZCZASZ&SIĘ PRZEZ SNOWDIN.../
 obj_papyrus8_519
-SAM FAKT^1, ŻE TWOJE&RĘCE SĄ ZAWSZE&POKRYTE W PYŁU./
+SAM FAKT^1, ŻE TWOJE&RĘCE SĄ ZAWSZE&POKRYTE W PROCHU./
 obj_papyrus8_520
 WYDAJE SIĘ.../
 obj_papyrus8_521
@@ -22175,9 +22175,9 @@ obj_readable_room1_164
 obj_readable_room1_198
 * Pogrzeby potworów^1, technicznie&  rzecz mówiąc^2, są zarąbiste./
 obj_readable_room1_199
-* Kiedy potwory są stare i&  kopają w kalendarz^1, &  zamieniają się w pył./
+* Kiedy potwory są stare i&  kopają w kalendarz^1, &  zamieniają się w proch./
 obj_readable_room1_200
-* Na pogrzebach^1, bierzemy ten&  pył i rozsypujemy na&  ulubiony przedmiot tej osoby./
+* Na pogrzebach^1, bierzemy te&  prochy i rozsypujemy na&  ulubiony przedmiot tej osoby./
 obj_readable_room1_201
 * Wtedy ich esencja będzie&  żyć na tym przedmiocie.../
 obj_readable_room1_202
@@ -22303,122 +22303,122 @@ obj_readable_room1_435
 obj_readable_room1_436
 * WPIS NUMER 6/
 obj_readable_room1_441
-* ASGORE asked everyone&  outside the city for monsters&  that had "fallen down."/
+* ASGORE poprosił wszystkich&  spoza stolicy o potwory&  które już "przepadły."/
 obj_readable_room1_442
-* Their bodies came in today./
+* Ich ciała dzisiaj przyszły./
 obj_readable_room1_443
-* They're still comatose..^1.&* And soon^1, they'll all&  turn into dust./
+* Są jeszcze w śpiączce..^1.&* I niedługo^1, one wszystkie&  przemienią się w proch./
 obj_readable_room1_444
-* But what happens if I&  inject "determination" into&  them?/
+* Ale co się stanie jeśli&  wstrzyknę im "determinację"?/
 obj_readable_room1_445
-* If their SOULS persist&  after they perish^1, then.../
+* Jeśli ich DUSZE wytrwają&  po tym jak wyginą^1, to.../
 obj_readable_room1_446
-* Freedom might be closer&  than we all thought./%%
+* Wolność może być bliżej&  niż wszyscy myśleliśmy./%%
 obj_readable_room1_447
 obj_readable_room1_449
-* ENTRY NUMBER 9/
+* WPIS NUMER 9/
 obj_readable_room1_454
-* things aren't going well./
+* sprawy nie toczą się dobrze./
 obj_readable_room1_455
-* none of the bodies have&  turned into dust^1, so I&  can't get the SOULs./
+* żadne z ciał nie przemieniły&  się w proch^1, więc nie mogę&  zebrać ich DUSZ./
 obj_readable_room1_456
-* i told the families that&  i would give them the&  dust back for the funerals./
+* powiedziałam rodzinom że&  przyniosę ich prochy&  spowrotem na ich pogrzeb./
 obj_readable_room1_457
-* people are starting to&  ask me what's happening./
+* inni zaczęli mnie wypytywać&  co się dzieje./
 obj_readable_room1_458
-* what do i do?/%%
+* co mam zrobić?/%%
 obj_readable_room1_459
 obj_readable_room1_462
-* ENTRY NUMBER 12/
+* WPIS NUMER 12/
 obj_readable_room1_467
-* nothing is happening^1.&* i don't know what to do./
+* nic się nie wydarza^1.&* nie wiem co mam robić./
 obj_readable_room1_468
-* i'll just keep injecting&  everything with& "determination."/
+* po prostu będę dalej&  wstrzykiwać we wszystko& "determinację."/
 obj_readable_room1_469
-* i want this to work./%%
+* chcę, żeby to zadziałało./%%
 obj_readable_room1_470
 obj_readable_room1_471
-* ENTRY NUMBER 14/
+* WPIS NUMER 14/
 obj_readable_room1_476
-* Everyone that had fallen&  down.../
+* Wszyscy którzy przepadli.../
 obj_readable_room1_477
-* ... has woken up./
+* ... obudzili się./
 obj_readable_room1_478
-* They're all walking around&  and talking like nothing&  is wrong./
+* Oni wszyscy chodzą wokół&  i rozmawiają jakby nic się&  nie stało./
 obj_readable_room1_479
-* I thought they were&  goners...?/%%
+* Myślałam, że byli&  zgonami...?/%%
 obj_readable_room1_480
 obj_readable_room1_481
-* ENTRY NUMBER 7/
+* WPIS NUMER 7/
 obj_readable_room1_486
-* We'll need a vessel to&  wield the monster SOULs&  when the time comes./
+* Będziemy potrzebowali obiektów&  do okupacji aby władały DUSZAMI&  gdy przyjdzie na to czas./
 obj_readable_room1_487
-* After all^1, a monster&  cannot absorb the SOULs&  of other monsters./
+* W końcu^1, potwór nie może&  wchłonąć DUSZY drugiego&  potwora./
 obj_readable_room1_488
-* Just as a human cannot&  absorb a human SOUL.../
+* Tak samo jak człowiek nie&  może pochłonąć ludzkiej&  DUSZY.../
 obj_readable_room1_489
-* So then.../
+* Więc.../
 obj_readable_room1_490
-* What about something that's&  neither human nor monster?/%%
+* Co jeśli spróbuje pochłonąć&  coś co nie jest ani potworem&  ani człowiekiem?/%%
 obj_readable_room1_491
 obj_readable_room1_492
-* ENTRY NUMBER 15/
+* WPIS NUMER 15/
 obj_readable_room1_497
-* Seems like this research&  was a dead end.../
+* Wydawałoby się, że te badania&  były ślepym zaułkiem.../
 obj_readable_room1_498
-* But at least we got a&  happy ending out of it...?/
+* Ale przynajmniej otrzymaliśmy&  z tego szczęśliwe&  zakończenie...?/
 obj_readable_room1_499
-* I sent the SOULS back to&  ASGORE^1, returned the&  vessel to his garden..../
+* Odesłałam ludzkie DUSZE&  ASGORE'owi^1, zwróciłam obiekt&  do okupacji do ogrodu..../
 obj_readable_room1_500
-* And I called all of the&  families and told them&  everyone's alive./
+* I zadzwoniłam do wszystkich&  rodzin i powiedziałam że&  wszyscy żyją./
 obj_readable_room1_501
-* I'll send everyone back&  tomorrow. :) /%%
+* Jutro odeślę wszystkich&  spowrotem. :) /%%
 obj_readable_room1_502
 obj_readable_room1_503
-* DT EXTRACTION MACHINE&* STATUS: INACTIVE/%%
+* MASZYNA DO EKSTRAKCJI DT&* STATUS: NIEAKTYWNY/%%
 obj_readable_room1_517
 obj_readable_room1_518
-* ENTRY NUMBER 4/
+* WPIS NUMER 4/
 obj_readable_room1_523
-* I've been researching humans&  to see if I can find any&  info about their SOULS./
+* Robiłam research na ludzi &  aby zobaczyć czy mogę znaleźć&  jakiekolwiek info o ich DUSZY./
 obj_readable_room1_524
-* I ended up snooping around&  the castle...&* And found these weird tapes./
+* Skończyłam węsząc po zamku...&* I znalazłam te dziwne taśmy./
 obj_readable_room1_525
-* I don't feel like ASGORE's&  watched them.../
+* Wydaje mi się, że ASGORE ich&  jeszcze nie oglądał.../
 obj_readable_room1_526
-* I don't think he should./%%
+* Nie sądzę, że powinien./%%
 obj_readable_room1_527
 obj_readable_room1_528
-* ENTRY NUMBER 19/
+* WPIS NUMER 19/
 obj_readable_room1_538
-* the families keep calling&  me to ask when everyone&  is coming home./
+* rodziny nadal wydzwaniają&  do mnie by spytać kiedy&  wszyscy wracają do domu./
 obj_readable_room1_539
-* what am i supposed to say?/
+* co mam im powiedzieć?/
 obj_readable_room1_540
-* i don't even answer the&  phone anymore./%%
+* ja już nawet przestałam&  odbierać telefon./%%
 obj_readable_room1_541
 obj_readable_room1_542
-* (It's too dark to see near&  the walls.)/%%
+* (Jest zbyt ciemno by widzieć&  obok ścian.)/%%
 obj_readable_room1_543
-* (Seems to be turned off.)/%%
+* (Wydaje się być wyłączone.)/%%
 obj_readable_room1_548
-* ENTRY NUMBER 8/
+* WPIS NUMER 8/
 obj_readable_room1_551
-* I've chosen a candidate./
+* Wybrałam kandydata./
 obj_readable_room1_552
-* I haven't told ASGORE yet^1,&  because I want to surprise&  him with it.../
+* Nie mówiłam jeszcze ASGORE'owi^1,&  poniewa chciałam go tym&  zaskoczyć.../
 obj_readable_room1_553
-* In the center of his&  garden^1, there's something&  special./
+* W centrum jego ogrodu^1, jest&  coś specjalnego./
 obj_readable_room1_554
-* The first golden flower^1,&  that grew before all the&  others./
+* Pierwszy złoty kwiat^1, który&  wykwitł przed wszystkimi&  innymi./
 obj_readable_room1_555
-* The flower from the outside&  world./
+* Kwiatek z zewnętrznego świata./
 obj_readable_room1_556
-* It appeared just before&  the queen left./
+* Pojawił się tuż zanim królowa&  opuściła zamek./
 obj_readable_room1_557
-* I wonder.../
+* Zastanawiam się.../
 obj_readable_room1_558
-* What happens when something&  without a SOUL gains&  the will to live?/%%
+* Co się stanie kiedy&  coś bez DUSZY zyska&  chęć do życia?/%%
 obj_readable_room1_559
 * (Przyciski nie działają.^1)&* (Wydaje się, że winda&  straciła zasilanie.)/%%
 obj_readable_room1_565
@@ -22675,74 +22675,74 @@ obj_readable_room2_390
 obj_readable_room2_395
 * (Na Wschód idziemy^1!)&* (To jest Koniec.)/%%
 obj_readable_room2_400
-* ENTRY NUMBER 2/
+* WPIS NUMER 2/
 obj_readable_room2_405
-* The barrier is locked by&  SOUL power../
+* Bariera jest zablokowana&  mocą DUSZY../
 obj_readable_room2_406
-* Unfortunately^1, this power&  cannot be recreated&  artificially./
+* Niestety^1, ta moc nie&  może zostać sztucznie&  odtworzona./
 obj_readable_room2_407
-* SOUL power can only be&  derived from what was&  once living./
+* Moc DUSZY może tylko&  zostać od kogoś kto&  kiedyś żył./
 obj_readable_room2_408
-* So^1, to create more^1, we&  will have to use what we&  have now.../
+* Więc^1, aby stworzyć więcej^1,&  będziemy musieli użyć to&  co mamy teraz.../
 obj_readable_room2_409
-* The SOULs of monsters./%%
+* DUSZE potworów./%%
 obj_readable_room2_410
 obj_readable_room2_412
-* ENTRY NUMBER 13/
+* WPIS NUMER 13/
 obj_readable_room2_417
-* one of the bodies opened&  its eyes./%%
+* jedno z ciał otworzyło&  swoje oczy./%%
 obj_readable_room2_418
 obj_readable_room2_419
-* (The clock is broken.)/%%
+* (Ten zegar jest zepsuty.)/%%
 obj_readable_room2_424
-* ENTRY NUMBER 10/
+* WPIS NUMER 10/
 obj_readable_room2_429
-* experiments on the&  vessel are a failure./
+* eksperymenty na obiektach&  są porażką./
 obj_readable_room2_430
-* it doesn't seem to be&  any different from the&  control cases./
+* nie wydają się zbytnio&  różnić od kontrolowanych&  przypadków./
 obj_readable_room2_431
-* whatever^1.&* they're a hassle to work&  with anyway./
+* nieważne^1.&* są męczące w&  badaniu i tak./
 obj_readable_room2_432
-* the seeds just stick to&  you^1, and won't let go.../%%
+* nasiona się do ciebie&  przylepiają^1, i nie chcą&  się odkleić.../%%
 obj_readable_room2_433
 obj_readable_room2_434
-* ENTRY NUMBER 16/
+* WPIS NUMER 16/
 obj_readable_room2_439
-* no No NO NO NO NO NO/%%
+* nie Nie NIE NIE NIE NIE NIE/%%
 obj_readable_room2_440
 obj_readable_room2_441
-* (There are a bunch of VHSes.^1)&* (Seems like it's mostly&  cartoons of some kind.)/
+* (Jest tu masa kaset VHS.^1)&* (Wyglądają głównie na&  jakiegoś rodzaju kreskówki.)/
 obj_readable_room2_446
-* (They seem to be alphabetized^1,&  save for a few stray...^1)&* (... sticky ones?)/%%
+* (Wydają się ułożone&  alfabetycznie^1, a niektóre...^1)&* (... są lepkie?)/%%
 obj_readable_room2_447
-* ENTRY NUMBER 11/
+* WPIS NUMER 11/
 obj_readable_room2_452
-* now that mettaton's made it&  big^1, he never talks to&  me anymore./
+* teraz jako że mettaton urósł&  w popularności^1, on już ze mną&  nie chce rozmawiać./
 obj_readable_room2_453
-* ... except to ask when i'm&  going to finish his body./
+* ... chyba że z pytaniem kiedy&  dokończę budować jego ciało./
 obj_readable_room2_454
-* but i'm afraid if i finish&  his body^1, he won't need me&  anymore.../
+* ale martwię się że jeśli&  skończę jego ciało^1, to on już&  nie będzie mnie potrzebował.../
 obj_readable_room2_455
-* then we'll never be friends&  ever again./
+* a wtedy już nigdy nie&  będziemy przyjaciółmi./
 obj_readable_room2_456
-* ... not to mention^1, every time&  i try to work on it^1, i&  just get really sweaty.../%%
+* ... już nie wspominając^1, że za&  każdym razem kiedy pracuję nad&  tym^1, to strasznie się pocę.../%%
 obj_readable_room2_457
-* ENTRY NUMBER 20/
+* WPIS NUMER 20/
 obj_readable_room2_462
-* ASGORE left me five&  messages today./
+* ASGORE zostawił mi&  dzisiaj pięć wiadomości./
 obj_readable_room2_463
-* four about everyone being&  angry/
+* cztery o tym jak&  wszyscy są wkurzeni/
 obj_readable_room2_464
-* one about this cute teacup&  he found that looks like&  me/
+* i jedna o takiej słodkiej&  filiżance którą znalazł/
 obj_readable_room2_465
-* thanks asgore./%%
+* dzięki^1, asgore./%%
 obj_readable_room2_466
 obj_readable_room2_467
 obj_readable_room2_468
 obj_readable_room2_473
-* ENTRY NUMBER 18/
+* WPIS NUMER 18/
 obj_readable_room2_476
-* the flower's gone./%%
+* kwiatek znikł./%%
 obj_readable_room2_477
 * (Jest zamknięte od&  środka.)/%%
 obj_readable_room2_483
@@ -23657,7 +23657,7 @@ obj_sans_interactable1_74
 obj_sans_interactable1_75
 * cóż?/%%
 obj_sans_interactable1_79
-* ... będziesz tak po&  prostu gapił się&  na mnie^1, czy...?/%%
+\E5* ... będziesz tak po&  prostu gapił się&  na mnie^1, czy...?/%%
 obj_sans_interactable1_85
 * grievous error/%%
 obj_sans_prefinaldate_127
@@ -23695,7 +23695,7 @@ obj_sans_room_139
 obj_sans_room_140
 \E1* czy mój bro nie&  jest czadowy?/%%
 obj_sans_room_141
-* mój brat byłby&  szczęśliwy gdybyś się&  wczuł w ten roleplay./%%
+\E5* mój brat byłby&  szczęśliwy gdybyś się&  wczuł w ten roleplay./%%
 obj_sans_room_145
 * dzięki^1, że powiedziałeś&  "junior jumble" tylko&  żeby uradować Papyrusa./
 obj_sans_room_160
@@ -23722,7 +23722,7 @@ obj_sans_room_192
 obj_sans_room_193
 \E1* jeśli tak będzie dalej^1,&  może nawet zrobi coś&  rzeczywiście jadalnego./%%
 obj_sans_room_194
-* hej..^1.&* puzzle mogą być fajne^1.&* gdybyś je spróbował./%%
+* hej..^1.&* puzzle mogą być fajne^2.&\E5* gdybyś ich spróbował./%%
 obj_sans_room_198
 * dobra robota w rozwią-&  zaniu tego tak szybko^1./
 obj_sans_room_211
@@ -23765,7 +23765,7 @@ obj_sans_room_259
 obj_sans_room_260
 \E2* oto przyjacielska rada./
 obj_sans_room_261
-\E3* jeśli będziesz szedł&  dalej tą drogą.../
+\E5* jeśli będziesz szedł&  dalej tą drogą.../
 obj_sans_room_262
 obj_sans_room_263
 \E4* będziesz miał&  przejebane./%%
@@ -24208,88 +24208,88 @@ obj_sansdate3_194
 obj_sansdate3_195
 \E0* kontynuowaliśmy&  mówienie żartów&  przez godziny./
 obj_sansdate3_196
-\E0* eventually^1, i had&  to leave./
+\E0* ewentualnie^1,&  musiałem opuścić./
 obj_sansdate3_197
-\E2* papyrus gets kind&  of cranky without&  his bedtime story./
+\E2* papyrus robi się nieco&  pobudliwy bez jego&  nocnej czytanki./
 obj_sansdate3_198
-\E0* but she told me&  to come by again^1,&  and so i did./
+\E0* ale powiedziała mi&  żebym jeszcze wrócił^1,&  więc wróciłem./
 obj_sansdate3_199
-\E0* then i did again^1.&* and again^1.&* it's a thing now./
+\E0* a potem znów^1.&* i znów^1.&* to nasza tradycja./
 obj_sansdate3_200
-* telling bad jokes&  through the door./
+* mówienie słabych&  żartów przez drzwi./
 obj_sansdate3_201
-\E1* it rules./%%
+\E1* to rządzi./%%
 obj_sansdate3_202
 obj_sansdate3_221
-\E0* one day^1, though^1, i&  noticed she wasn't&  laughing very much./
+\E0* jednego dnia^1, natomiast^1,&  zauważyłem że ona nie&  śmiała się zbytnio./
 obj_sansdate3_222
-* i asked her what&  was up./
+* zapytałem o&  co chodzi./
 obj_sansdate3_223
-* then she told me&  something strange./
+* wtedy powiedziała mi&  coś dziwnego./
 obj_sansdate3_224
-* \Tt"if a human ever&  comes through this&  door.../"
+* \Tt"jeśli człowiek kiedy-&  kolwiek przejdzie przez&  te drzwi.../"
 obj_sansdate3_225
-* "... could you please^1,&  please promise&  something?"/
+* "... mógłbyś proszę^1,&  proszę obiecać mi&  coś?"/
 obj_sansdate3_226
-* "watch over them^1,&  and protect them^1,&  will you not?"/
+* "miej go na oku^1,&  i chroń go^1,&  w porządku?"/
 obj_sansdate3_227
-\E0*\Ts now^1, i hate making&  promises./
+\E0*\Ts teraz^1, nienawidzę&  składania obietnic./
 obj_sansdate3_228
-\E1* and this woman^1,&  i don't even know&  her name./
+\E1* i ta kobieta^1,&  nawet nie znam&  jej imienia./
 obj_sansdate3_229
-\E3* but.../
+\E3* ale.../
 obj_sansdate3_230
-\E1* someone who sincerely&  likes bad jokes.../
+\E1* komuś kto szczerze&  lubi słabe żarty.../
 obj_sansdate3_231
-\E2* has an integrity&  you can't say&  "no" to./%%
+\E2* ma zdolność do&  niepotrafienie&  odmawiania./%%
 obj_sansdate3_232
-\E1* do you get what&  i'm saying?/
+\E1* czaisz co mam&  na myśli?/
 obj_sansdate3_259
-\E0* that promise i made&  to her.../
+\E0* ta obietnica którą&  jej złożyłem.../
 obj_sansdate3_260
-\E1* you know what would&  have happened if she&  hadn't said anything?/
+\E1* wiesz co by się stało&  gdyby ona mi nic nie&  powiedziała?/
 obj_sansdate3_261
-\E3* ... buddy./%%
+\E3* ... ziom./%%
 obj_sansdate3_262
-* ... You'd be dead&  where you stand./%%
+* ... Byłbyś martwy&  tam gdzie stoisz./%%
 obj_sansdate3_279
 obj_sansdate3_304
-\E1* hey^1, lighten up^1,&  bucko!/
+\E1* hej^1, rozchmurz się^1,&  dzieciaku!/
 obj_sansdate3_305
-\E2* i'm just joking&  with you./
+\E2* ja sobie tylko&  żartuję./
 obj_sansdate3_306
-\E1* besides.../
+\E1* zresztą.../
 obj_sansdate3_307
-\E0* haven't i done a&  great job protecting&  you?/
+\E0* czyż ja nie zrobiłem&  dobrej roboty w&  chronieniu ciebie?/
 obj_sansdate3_308
-* i mean^1, look at&  yourself./
+* w sensie^1, spójrz na&  siebie./
 obj_sansdate3_309
-\E2* you haven't died&  a single time./
+\E2* nie umarłeś&  ani razu./
 obj_sansdate3_310
-\E0* that's right^1, isn't&  it?/
+\E0* to się zgadza^1,&  co nie?/
 obj_sansdate3_313
-\E2* well^1, chalk it&  up to my great&  skills./%%
+\E2* cóż^1, podziękuj&  moim niesamowitym&  zdolnościom./%%
 obj_sansdate3_314
-\E0* hey^1, what's that&  look supposed to&  mean?/
+\E0* hej^1, a co ma to&  spojrzenie oznaczać?/
 obj_sansdate3_317
-\E1* am i wrong...?/%%
+\E1* mylę się...?/%%
 obj_sansdate3_318
 * heh./%%
 obj_sansdate3_336
-* well^1, that's all./
+* cóż^1, to wszystko./
 obj_sansdate3_380
-\E1* take care of&  yourself^1, kid./
+\E1* dbaj o siebie^1,&  ziom./
 obj_sansdate3_381
-\E0* 'cause someone really&  cares about you./%%
+\E0* bo innym naprawdę&  na tobie zależy./%%
 obj_sansdate3_382
 obj_sansdoor_98
-* (You unlock the door and&  enter...)/%%
+* (Odblokowałeś drzwi i&  wszedłeś...)/%%
 obj_sansdoor_102
-* (It's a mailbox overflowing&  with unread junk mail.)/%%
+* (To skrzynka pocztowa&  przepełniona nieprzeczy-&  tanym spamem.)/%%
 obj_sansmailbox_60
 * (To grudka śniegu z napisem&  'sans' napisany czerwonym&  markerem.)/%%
 obj_sanssnowman_98
-* Seems like someone was&  walking in circles just&  to make noises.../%%
+* Wygląda, że ktoś chodził&  w kółka tylko aby&  robić dźwięki.../%%
 obj_sanssteps_56
 \R* Jeszcze \[1]./%%
 obj_savepoint_97
@@ -24380,7 +24380,7 @@ obj_savepoint_fake_491
 obj_savepoint_fake_492
 \E5You really ARE an idiot^4.%%
 obj_savepoint_fake_507
-* As a slime^1, I'm outraged./%%
+* Jako szlam^1,&  jestem oburzony./%%
 obj_shamblingmass_70
 * Jako szlam^1,&  jestem zaszczycony./%%
 obj_shamblingmass_74
@@ -27381,11 +27381,11 @@ obj_torielboss_455
 obj_torielboss_456
 N... Naprawdę...&tak bardzo mnie&nienawidzisz?/
 obj_torielboss_460
-Teraz widzę kogo&chroniłam trzymając&cię tutaj./
+Teraz widzę kogo&chroniłam przez&ten cały czas./
 obj_torielboss_461
 Nie ciebie.../
 obj_torielboss_462
-\E5Ale \RICH\X!/
+\E5Ale \RJĄ\X!/
 obj_torielboss_463
 \E3Ha... ha... %%
 obj_torielboss_464
@@ -30084,9 +30084,9 @@ obj_woshua_561
 obj_woshuanpc_72
 * Ohhhh^1.&* Nie zrozum mnie źle^1.&* Nie chcę^1, żeby ktoś umarł./
 obj_woshuanpc_73
-* Osoby zamieniają się w pył&  po śmierci^1, a to cięzko&  posprzątać.../%%
+* Osoby zamieniają się w proch&  po śmierci^1, a to cięzko&  posprzątać.../%%
 obj_woshuanpc_74
-* Nie zamieniaj się w pył./%%
+* Nie zamieniaj się w proch./%%
 obj_woshuanpc_77
 * Powierzchnia mnie brzydzi./
 obj_woshuanpc_81
@@ -32749,7 +32749,7 @@ item_use_64
 * Jerry przyczepia się!
 * Icecap się zjawia^1.&* Jerry też przyszedł.
 * Icecap i Snowdrake&  konfrontują cię^1, wzdychając.&* Jerry.
-* Icecap i Chilldrake&  konfrontują cię^1, wzdychając.&* Jerry.
+* Icecap i Chilldrake&  konfrontują cię, wzdychając^1.&* Jerry.
 * Aaron flexuje się!
 * Specjalny Wróg Temmie pojawia&  się, by cię pokonać!!
 * Napotykasz Moldsmale.
@@ -63942,7 +63942,7 @@ gml_RoomCC_room_basement1_final_6238_Create
 gml_RoomCC_room_basement2_final_6239_Create
 gml_RoomCC_room_basement2_final_6240_Create
 gml_RoomCC_room_basement3_final_6241_Create
-gml_RoomCC_room_basement4_final_6242_Create
+gml_RoomCC_room _basement4_final_6242_Create
 gml_RoomCC_room_lastruins_corridor_6243_Create
 gml_RoomCC_room_lastruins_corridor_6244_Create
 gml_RoomCC_room_lastruins_corridor_6245_Create
@@ -63983,3 +63983,4 @@ Enter a flag to check its value:
 global.flag[
 ] = 
 input empty or invalid, exiting...
+spr_face_sansdisgust
