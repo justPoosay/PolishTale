@@ -12551,42 +12551,42 @@ obj_endflowey_regret_215
 obj_endflowey_regret_217
 \E4\[1]./%%
 obj_endflowey_regret_219
-* Amalgamate is watching you&  intently.
+* Amalgamat bacznie cię&  obserwuje.
 obj_endogeny_360
-* Amalgamate is waiting for&  your command.
+* Amalgamat oczekuje twojej&  komendu.
 obj_endogeny_361
-* It smells like a bunch of dogs.
+* Pachnie jak dziesięć psów.
 obj_endogeny_362
-* Amalgamate is hovering close^1,&  looking for affection.
+* Amalgama przysuwa się bliżej^1,&  szukając afekcji od ciebie.
 obj_endogeny_363
-* Amalgamate is striking the&  wall with its claws.
+* Amalgamat uderza w ścianę&  swoimi szponami.
 obj_endogeny_366
-* Amalgamate is twitching&  affectionately.
+* Amalgamat drga strachliwie.
 obj_endogeny_367
-* Amalgamate's convulsions&  intensify.
+* Drgawki Amalgamatu zaczynają&  się nasilać.
 obj_endogeny_368
-* Endogeny is contented.
+* Endogen jest zadowolony.
 obj_endogeny_369
-* Monster has low HP.
+* Potwór ma mało HP.
 obj_endogeny_370
 obj_endogeny_371
-* AMALGAMATE - It's unclear how&  many dogs this counts as./^
+* AMALGAMAT - Ciężko stwierdzić&  jako ile psów się to liczy./^
 obj_endogeny_403
-* ENDOGENY - It's unclear how&  many dogs this counts as./^
+* ENDOGEN - Ciężko stwierdzić&  jako ile psów się to liczy./^
 obj_endogeny_404
-* The Amalgamate's feelers&  rotate quickly^1.&* Nothing else happens./^
+* Receptory uczuciowe Amalgamatu&  szybko się obracają^1.&* Nic więcej się nie dzieje./^
 obj_endogeny_416
-* You call the Amalgamate./
+* Wołasz Amalgamata./
 obj_endogeny_420
-* It bounds towards you^1,&  flecking a strange liquid&  from an orifice./^
+* Ono podchodzi do ciebie^1,&  ciągnąc za sobą smugę dziwnego&  płynu wychodzącego z otworu./^
 obj_endogeny_421
-* You try looking away^1, but&  it seems to appear everywhere&  you look./^
+* Próbujesz odciągnąć zwrok^1,&  ale ono wydaje się pojawiać&  wszędzie gdzie patrzysz./^
 obj_endogeny_435
-* You pet the Amalgamate./^
+* Głaszczedz Amalgamata./^
 obj_endogeny_446
-* You'd give it a tummy rub^1,&  but it's not clear where its&  tummy begins or ends./^
+* Dałbyś temu głask po brzuchu^1,&  ale nie możesz się domyśleć&  gdzie się kończy czy zaczyna./^
 obj_endogeny_449
-* You pet decisively^1.&* The Amalgamate seems to be&  satisfied by all this./^
+* Głaszczesz zdecydowanie^1.&* The Amalgamate seems to be&  satisfied by all this./^
 obj_endogeny_455
 * You pet the Amalgamate^1.&* It starts to generate a&  Stage I Happiness Froth./^
 obj_endogeny_466
