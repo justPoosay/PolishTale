@@ -1,1 +1,0 @@
-bladecon += 1

@@ -1,8 +1,0 @@
-var handle;
-if (global.osflavor <= 2)
-    return file_text_eof(argument0);
-else
-{
-    handle = argument0
-    return ds_map_find_value(handle, "line") >= ds_map_find_value(handle, "num_lines");
-}

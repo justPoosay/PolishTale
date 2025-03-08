@@ -1,1 +1,0 @@
-glowamt = 0

@@ -1,1 +1,0 @@
-doomcon = 5

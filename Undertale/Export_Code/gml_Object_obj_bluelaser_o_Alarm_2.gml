@@ -1,2 +1,0 @@
-speed = myspeed
-rememberhspeed = myspeed

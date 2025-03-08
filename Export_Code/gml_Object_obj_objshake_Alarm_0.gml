@@ -1,1 +1,0 @@
-thisx = obj.x

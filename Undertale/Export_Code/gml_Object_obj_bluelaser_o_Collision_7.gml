@@ -1,2 +1,0 @@
-x = xprevious
-hspeed = (-hspeed)

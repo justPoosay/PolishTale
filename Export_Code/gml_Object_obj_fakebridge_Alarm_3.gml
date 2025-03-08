@@ -1,1 +1,0 @@
-drawamt = sprite_width

@@ -22958,7 +22958,7 @@ obj_readable_room3_308
 obj_readable_room3_309
 * (Rope.^1)&* (Looks like this dog does&  all its own stunts.)/%%
 obj_readable_room3_315
-* (It's some kind of TV show&  featuring Mettaton.)/%%
+* (To jakiś program telewizyjny&  z Mettatonem w roli głównej.)/%%
 obj_readable_room3_320
 * (Statuetka tem..^1. barco znana^1)&* (BARCDZO!!!!!!!!!)/%%
 obj_readable_room3_325
@@ -22970,7 +22970,7 @@ obj_readable_room4_64
 * To ja^1, \[C]./%%
 obj_readable_room4_66
 obj_readable_room4_67
-* Pomimo wszystkiego^1, to&  dalej ty./%%
+* Pomimo wszystkiego^1,&  to dalej ty./%%
 obj_readable_room4_70
 obj_readable_room4_73
 * W szufladce są foremki&  do potworkowych ciastek./%%
@@ -63984,3 +63984,6 @@ global.flag[
 ] = 
 input empty or invalid, exiting...
 spr_face_sansdisgust
+spr_face_sansdiva
+spr_face_sansforgor
+spr_face_sansdrag
