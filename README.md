@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-## Status: 65% complete!
+## Status: 70% complete!
 (current translated areas consist of: Ruins, Snowdin, Waterfall; as well as most of the underground monsters)
 <br/>
 <br/>
