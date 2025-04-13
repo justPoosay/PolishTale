@@ -7854,68 +7854,68 @@ Zrobię wszystko w mojej&mocy, by zapewnić ci&bezpieczeństwo podczas&twojego p
 \E1* Um.../
 \E0* Zauważyłam^1, że jesteś&  nieco cicho.../
 \W*\E8 Czy m-martwisz się&  spotkaniem \RASGORE\W'a...?/
-\E2* .../
-\E0* W-well^1, don't worry^1,&  okay?/
-\E7* Th-the king is a&  really nice guy.../
-\E0* I'm sure you can&  talk to him^1, and.../
-* W-with your human&  soul^1, you can pass&  through the barrier!/
-* S-so no worrying^1, OK^1?&* J-just forget about it&  and smile./
-* hey buddy^1, what's up^1?&* wanna buy a hot dog?/
-* it's only 30G.& &  Yes         No \C
-* here^1.&* have fun./%%
-* here's another hot&  dog./
-* it's on the house^1.&* well^1, no^1.&* it's on you./%%
-* sorry^1, thirty is&  the limit on&  head-dogs./%%
-\TS*^1 \Tsi'll be 'frank' with&  you./
-* as much as i like&  putting hot dogs&  on your head.../
-* thirty is just&  an excessive number./
-* twenty-nine^1, now&  that's fine^1, but&  thirty.../
-* does it look like&  my arms can reach&  that high?/%%
-* thanks, kid^1.&* here's your hot dog./%%
-* thanks, kid^1.&* here's your 'dog./
-* yeah^1. 'dog^1.&* apostrophe-dog^1.&* it's short for hot-dog./%%
-* another h'dog^1?&* here you go.../
-* whoops^1, i'm actually&  out of hot dogs./
-* here^1, you can have&  a hot cat instead./%%
-* another dog^1, coming&  right up.../
-* ... you really like&  hot animals^1, don't&  you?/
-* hey^1, i'm not judging./
-* i'd be out of a job&  without folks like you./%%
-* cool^1.&* here's that ''dog./
-* apostrophe-apostrophe&  dog./
-* it's short for&  apostrophe-dog./
-* which is^1, in turn^1,&  short for.../%%
-* another one^1?&* okay./
-* careful^1.&* if you eat&  too many hot dogs.../
-* you'll probably get&  huge like me./
-* huge as in super-&  popular^1, i mean./
-* i'm practically&  a hot-dog tycoon now./%%
-* whoops^1, you don't have&  enough cash./
-* you should get a job^1.&* i've heard being a&  sentry pays well./%%
-* you're holding too much^1.&* ... guess i'll just put&  it on your head./%%
-* yeah^1, you've gotta&  save your money for&  college and spiders./%%
-* L-looks like you&  beat him!/
-\E0* Y-you did a really&  great job out there./
- &  All thanks&  to you      ... \C
-\E3* What^1?&* Oh no^1, I mean.../
-\E4* You were the one&  doing everything cool!/
-\E0* I just wrote some&  silly programs for&  your phone./
-\E4* ... umm^1, h-hey^1, this&  might sound strange^1,&  but.../
-\E6* ... c-can I tell&  you something?/
+\E2* .../ 
+\E0* C-cóż^1, nie martw się^1,&  okej?/
+\E7* N-nasz król jest&  naprawdę miłym&  gościem.../
+\E0* Jestem pewna że&  możesz z nim&  pogadać^1, i.../
+* Z t-twoją ludzką&  duszą^1, będziesz mógł&  przejść przez barierę!/
+* W-więc bez obaw^1, OK^1?&* P-po prostu zapomnij&  o tym i się uśmiechaj./
+* hej koleżko^1, co tam^1?&* chcesz kupić hot doga?/
+* to tylko 30G.& &  Tak         Nie \C
+* trzymaj^1.&* miłej zabawy./%%
+* trzymaj kolejnego&  hot doga./
+* stawiam na mnie^1.&* cóż^1, nie^1.&* stawiam to na ciebie./%%
+* sorry^1, trzydzieści&  to limit naszych&  głowo-dogów./%%
+\TS*^1 \Tsbóg z tobą./
+* jak bardzo bym nie&  lubił ci kłaść na&  głowie hot-dogi.../
+* trzydzieści to po&  prostu przesadna&  liczba./
+* dwadzieścia dziewięc^1,&  to jeszcze w porządku^1,&  ale trzydzieści.../
+* czy ja wyglądam jakby&  moje ręce sięgały&  tak wysoko?/%%
+* dzięki, dzieciaku^1.&* oto twój hot dog./%%
+* dzięki, dzieciaku^1.&* oto twój 'dog./%%
+* ta^1. 'dog^1.&* apostrof-dog^1.&* to skrót od hot-dog./%%
+* kolejny h'dog^1?&* trzymaj.../
+* ups^1, jak się okazuje^1,&  skończyły mi się już&  hot dogi./
+* trzymaj^1, możesz w&  zamian mieć hot cata./%%
+* kolejny dog^1, już&  się robi.../
+\E6* ... ty naprawdę lubisz&  hot zwierzęta^1, czyż&  nie^1, furasie?/
+* hej^1, nie oceniam./
+* nie miałbym pracy bez&  furasów takich jak ty./%%
+* czad^1.&* oto twój ''dog./
+* apostrof-apostrof&  dog./
+* to skrót od&  apostrof-dog./
+* co jest^1, z kolei^1,&  skrótem od.../%%
+* jeszcze jeden^1?&* okej./
+* ostrożnie^1.&* jeśli zjesz zbyt&  wiele hot dogów.../
+* prawdopodobnie się&  zrobisz ogromny jak ja./
+* ogromny w sensie mega-&  popularny^1, rzecz jasna./
+* jestem teraz&  praktycznie hot-dog&  masterem./%%
+* ups^1, nie masz&  wystarczająco kasy./
+* powinieneś dostać pracę^1.&* słyszałem że praca u&  straży dobrze płaci./%%
+* nosisz zbyt wiele^1.&* ... chyba po prostu to&  położę na twej głowie./%%
+* ta^1, musisz oszczęcać&  kasę na studia i pająki./%%
+* W-wygląda na to że&  go pokonałeś!/
+\E0* N-naprawdę się tam&  spisałeś^1, wiesz?/
+  Wszystko&  dzięki&  tobie       ... \C
+\E3* Co^1?&* Oj nie^1, w sensie.../
+\E4* To ty robiłeś&  te wszystkie&  czadowe rzeczy!/
+\E0* Ja tylko napisałam&  śmieszne programy na&  twoją komórkę./
+\E4* ... umm^1, h-hej^1, to&  może zabrzmieć dziwnie^1,&  ale.../
+\E6* ... m-mogę ci&  coś wyznać?/
 \E9* .../
-\E4* B-before I met you^1,&  I d-didn't really.../
-\E9* I didn't really&  like myself very&  much./
-* For a long time^1,&  I f-felt like a&   total screw-up./
-\E9* L-like I couldn't&  do a-anything&  w-without.../
-\E9* W-without ending up&  letting everyone&  down./
-\E3* B-but...!/
-\E4* Guiding you has&  made me feel.../
-\E9* A lot better about&  myself./
-\E0* So... thanks for&  letting me help&  you./
-\E4* Uhhh^1, anyway^1, we're&  almost to the CORE./
-\E0* It's just past&  MTT Resort./
-\E6* Come on^1!&* Let's finish this!/%%
-\E0EUREKA!!!/
+\E4* Z-zanim cię poznałam^1,&  ja nie za b-bardzo.../
+\E9* Ja nie za bardzo&  lubiłam siebie&  zbytnio./
+* Przez długi czas^1,&  c-czułam się jak&  totalna porażka./
+\E9* J-jakbym nie&  mogła zrobić&  n-niczego bez.../
+\E9* B-bez zawiedzenia&  wszystkich./
+\E3* A-ale...!/
+\E4* Pomaganie tobie&  sprawiło^1, że.../
+\E9* Zaczęłam siebie&  bardziej szanować./
+\E0* Więc... dziękuję za&  pozwolenie mi tobie&  pomóc./
+\E4* Uhhh^1, w każdym razie^1,&  prawie jesteśmy w&  RDZENI./
+\E0* To tuż za&  MTT Kurortem./
+\E6* Chodź^1!&* Zakończmy to wszystko!/%%
+\E0EUREKA!!!/ 
 ROZWIĄZAŁEM&ZAGADKĘ!!!/
 \E3ALE WYDAJESZ SIĘ&JAKBYŚ SIĘ DOBRZE&BAWIŁ..^1./
 \E0CZY TY ABSOLUTNIE^1,&DAPSOLUTNIE CHCESZ&ZNAĆ ROZWIĄZANIE???/
@@ -7986,13 +7986,13 @@ NIE SPIESZ SIĘ!/%%
 * (Siąść i progresować?)& &         Tak         Nie\C
 * Ten cukier jest do&  herbaty./
 \E2* Przecież ci nie dam&  pół kilo cukru!/
-\E6* What do I look&  like^1, the ice-cream&  woman?/
-\E2* Do human ice-cream&  women TERRORIZE HUMANITY&  with ENERGY SPEARS?/
-\E3* Are their ice-cream&  songs a PRELUDE TO&  DESTRUCTION?/
-\E1* ... what^1?&* REALLY?/
-\E6* That rules!!!/%%
-\E3* That's what I&  thought./%%
-* Envision these&  vegetables as your&  greatest enemy!/
+\E6* A ja co^1, wyglądam&  jak sprzedawczyi&  lodów?/
+\E2* Czy kobiety człowieki&  też TERRORYZUJĄ LUDZKOŚĆ&  swoimi WŁÓCZNIAMI MOCY?/
+\E3* Czy ich melodie&  są PRELUDIĄ DO&  DESTRUKCJI?/
+\E1* ... co^1?&* NAPRAWDĘ?/
+\E6* Ale czad!!!/%%
+\E3* Tak myślałam./%%
+* Wyobraź sobie te&  warzywa jako twój&  największy wróg!/
 \E2* Now!^1!&* Pound them to dust&  with your fists!!/
 * (How will you pound?)& &         Strong      Wimpy\C
 * (You punch the vegetables&  at full force^1.&* You knock over a tomato.)/
@@ -15663,88 +15663,88 @@ obj_lesserdoge_474
 obj_lesserdoge_475
 * Serio.../^
 obj_lesserdoge_476
-* Beautiful^1.&* An error message./%%
+* Świetnie^1.&* Error./%%
 obj_librarynpc_jumbler_70
-* That look in your eye.../
+* To spojrzenie w twoich&  oczach.../
 obj_librarynpc_jumbler_73
-* You're someone that has&  difficulty solving Junior&  Jumble^1, aren't you?/%%
+* Jesteś kimś kto miewa trudności&  w rozwiązywaniu Junior Jumble^1,&  czyż nie?/%%
 obj_librarynpc_jumbler_74
 obj_librarynpc_jumbler_78
-* You're someone that has&  trouble doing crosswords^1,&  aren't you?/%%
+* Jesteś kimś kto miewa trudności&  w robieniu krzyżówek^1, czyż nie?/%%
 obj_librarynpc_jumbler_79
 obj_librarynpc_jumbler_84
-* You think Sudoku is just&  moderately challenging^1,&  don't you?/%%
+* Myślisz że Sudoku jest tylko&  przywilejowo wyzwające^1,&  czyż nie?/%%
 obj_librarynpc_jumbler_85
-* The greatest struggle of&  my life is over.../
+* Największa nietrudność w mym&  życiu dobiegła końca.../
 obj_librarynpc_jumbler_92
-* I just solved today's&  Junior Jumble./%%
+* Właśnie rozwiązałem dzisiejszy&  Junior Jumble./%%
 obj_librarynpc_jumbler_93
 obj_librarynpc_jumbler_97
-* I just solved today's&  crossword./%%
+* Właśnie rozwiązałem dzisiejszą&  krzyżówkę./%%
 obj_librarynpc_jumbler_98
-* Welcome to the library^1.&* Yes^1, we know^1.&* The sign is misspelled./%%
+* Witaj w bibliotece^1.&* Tak^1, zdajemy sobie sprawę^1.&* Tabliczka ma błąd w pisowni./%%
 obj_librarynpc_lizard1_70
-* Yes^1, we know^1.&* The sign is misspelled./
+* Tak^1, zdajemy sobie sprawę^1.&* Tabliczka ma błąd w pisowni./
 obj_librarynpc_lizard1_73
-* We have someone working on&  it!/%%
+* Mamy kogoś kto nad tym pracuje!/%%
 obj_librarynpc_lizard1_74
-* Welcome to the library./
+* Witaj w bibliotece./
 obj_librarynpc_lizard1_79
-* This is the last day we'll&  be open^1, so make as much&  noise as you want./%%
+* To ostatni dzień w którym&  będziemy otwarci^1, więc rób&  tyle hałasu ile tylko chcesz./%%
 obj_librarynpc_lizard1_80
-* I love working on the&  newspaper./
+* Kocham pracować na&  lokalnej gazecie./
 obj_librarynpc_lizard2_70
-* There's so little to report&  that we just fill it with&  comics and games./%%
+* Jest tak mało wiadomości że&  my tylko wypełniamy kartki&  komiksami i łamigówkami./%%
 obj_librarynpc_lizard2_71
-* Yes^1.&* I illustrate all of the&  comics myself./
+* Tak^1.&* Ja robię ilustracje do&  wszystkich komiksów samemu./
 obj_librarynpc_lizard2_75
-* Yes^1.&* I give everyone huge beautiful&  eyes and giant muscles./%%
+* Tak^1.&* Przekazuję wszystkim duże&  piękne widoki mych mięśni./%%
 obj_librarynpc_lizard2_76
-* Oh my^1, there's so much&  news to report^1, I don't know&  where to begin!/
+* O rany^1, jest tak wiele&  wiadomości do reportażu^1, że&  nie wiem od czego zacząć!/
 obj_librarynpc_lizard2_81
-* How about this headline..^1.&* "Monsters Go Free From The&  Underground."/
+* Co powiesz na ten nagłówek..^1.&* "Potwory Się Uwalniają Z&  Podziemi."/
 obj_librarynpc_lizard2_82
-* Nah^1, that doesn't have&  enough pizazz.../
+* Nah^1, to nie ma wystarczająco&  atrakcyjności.../
 obj_librarynpc_lizard2_83
-* How about "Top 10 Monsters&  You Won't Believe Got Freed&  From The Underground?"/%%
+* To może "Top 10 Potworów&  Których Nie Uwierzysz Że Się&  Uwolniły Z Podziemi?"/%%
 obj_librarynpc_lizard2_84
-* (cough, cough)/
+* (ekhem..)/
 obj_librarynpc_wordsearch_70
-* When I was younger^1, my teachers&  gave me word searches when&  they ran out of assignments./
+* Za czasów szkoły^1, nauczyciele&  dawali nam krzyżówki gdy nam&  nie mieli nic do zadania./
 obj_librarynpc_wordsearch_71
-* I thought they were a waste&  of time./
+* Ja uważałem je za stratę czasu./
 obj_librarynpc_wordsearch_72
-* But look at me now.../
+* Ale patrz na mnie teraz.../
 obj_librarynpc_wordsearch_73
-* I'm the number-one word-search&  creator in the entire&  underground!/%%
+* Jestem najlepszym twórcą&  krzyżówek w całych&  podziemiach!/%%
 obj_librarynpc_wordsearch_74
-* (cough^1, cough)/
+* (ekhem...)/
 obj_librarynpc_wordsearch_78
-* There's a day I just don't&  want to work./
+* Przychodzi czas w którym po&  prostu nie chcę pracować./
 obj_librarynpc_wordsearch_79
-* It's called "Today."/%%
+* Ten czas nazywa się "Dzisiaj."/%%
 obj_librarynpc_wordsearch_80
-* This will be our newspaper's&  last issue.../
+* To będzie ostatnie wydanie&  naszej gazetki.../
 obj_librarynpc_wordsearch_85
-* Why don't we just put a&  big "THE END" on the front&  and call it a day?/%%
+* Czemu po prostu nie wklepiemy&  duży napis "KONIEC" na okładce&  i skończyć na dzisiaj?/%%
 obj_librarynpc_wordsearch_86
-* (The way is blocked by two&  padlocks.^1)&* (There's a note attached.)/
+* (Przejście jest zablokowane&  dwoma kłódkami.^1)&* (Jest przyczepiona karteczka.)/
 obj_lock_and_key_66
-* (Howdy^1! I'm in the garden.)/
+* (Witaj^1! Jestem w ogrodzie.)/
 obj_lock_and_key_67
-* (If you have anything you&  need to get off your chest^1,&  please don't hesitate to come.)/
+* (Jeśli masz cokolwiek co musisz&  zrzucić z siebie^1, proszę nie&  zastanawiaj się czy wchodzić.)/
 obj_lock_and_key_68
-* (The keys are in the kitchen&  and the hallway.)/%%
+* (Klucze są w kuchni oraz&  w korytarzu.)/%%
 obj_lock_and_key_69
-\R* (He leaves them in the&  kitchen and the hallway.)/%%
+\R* (On zostawia je w kuchni&  oraz w korytarzu.)/%%
 obj_lock_and_key_73
-* (You'll need both keys to&  get through.)/%%
+* (Będziesz potrzebował obydwu&  kluczy by przejść dalej.)/%%
 obj_lock_and_key_78
-\R* (There are two keys.)/%%
+\R* (Są dwa klucze.)/%%
 obj_lock_and_key_82
-* (You unlocked the chain.)/%%
+* (Odblokowałeś łańcuch.)/%%
 obj_lock_and_key_90
-\R* (I unlocked the chain.)/%%
+\R* (Odblokowuję łańcuch.)/%%
 obj_lock_and_key_94
 * Ślum ślum..^1.&* (Długa podróż otwiera&  się przed tobą...)/
 obj_longsnail_64
@@ -63987,3 +63987,4 @@ spr_face_sansdisgust
 spr_face_sansdiva
 spr_face_sansforgor
 spr_face_sansdrag
+spr_sans_god
