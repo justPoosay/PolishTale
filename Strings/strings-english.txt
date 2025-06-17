@@ -63987,3 +63987,4 @@ spr_face_sansdisgust
 spr_face_sansdiva
 spr_face_sansforgor
 spr_face_sansdrag
+spr_sans_god

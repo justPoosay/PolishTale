@@ -3233,7 +3233,7 @@ Myślę, że powinieneś#obmyśleć własne#imię, słońce.
 sans
 さんず
 ダメだぜ。
-nope.
+nie ma chuja.
 undyne
 あんだいん
 ひとの　なまえを#パクるな！
@@ -6379,7 +6379,7 @@ Wywar z Pająków
 item_name_10
 Ciasto Toffi
 item_name_11
-Wyblakła Wstążka
+Wybl. Wstążka
 item_name_12
 Zabawk. Nóż
 item_name_13
@@ -6397,7 +6397,7 @@ Dwulód
 item_name_19
 Jednolód
 item_name_20
-Cynamonowa Bułka
+Cynamon. Bułka
 item_name_21
 Temmie Flakes
 item_name_22
@@ -6432,13 +6432,13 @@ Hot Cat
 item_name_39
 Glamburger
 item_name_40
-Oceanowa Herbata
+Morska Herbata
 item_name_41
 Starfait
 item_name_42
-Legendarny Bohater
+Legend. Bohater
 item_name_43
-Zadymione Okulary
+Zadym. Okulary
 item_name_44
 Podarty Zeszyt
 item_name_45
@@ -6772,7 +6772,7 @@ item_desc_38_0
 item_desc_39_0
 * "Glamburger" Leczy 27 HP&* Hamburger zrobiony z jadalnego&  brokatu i cekin./%%
 item_desc_40_0
-* "Oceanowa Herbata" Leczy 10 HP&* Zrobiona ze świecącej wody.&* Podwyższa PRĘDKOŚĆ na jedną walkę./%%
+* "Morska Herbata" Leczy 10 HP&* Zrobiona ze świecącej wody.&* Podwyższa PRĘDKOŚĆ na jedną walkę./%%
 item_desc_41_0
 * "Starfait" Leczy 14 HP&* Słodki poczęstunek zrobiony z&  błyskotliwych gwiazdek./%%
 item_desc_42_0
@@ -7465,7 +7465,7 @@ POZA KIMŚ Z&POTĘŻNĄ DUSZĄ^1.^1.^1./
 TO DLATEGO&KRÓL POSZUKUJE&CZŁOWIEKA./
 ON CHCE OTWORZYĆ&BARIERĘ POSŁUGUJĄC&SIĘ MOCĄ DUSZY../
 WTEDY MY^1, POTWORY^1,&MOŻEMY POWRÓCIĆ NA&POWIERZCHNIĘ!/%%
-WRÓCIŁEŚ&SPOWROTEM?!?!/
+WRÓCIŁEŚ&Z POWROTEM?!?!/
 W KOŃCU ZDAŁEM&SOBIE SPRAWĘ&DLACZEGO./
 TY.../
 PO PROSTU BARDZO&TĘSKNISZ ZA&MOJĄ TWARZĄ.../
@@ -7482,7 +7482,7 @@ TO SPRÓBUJĘ&JESZCZE RAZ!!!/%%
 CHYBA BĘDĘ MUSIAŁ&ZAAKCEPTOWAĆ&MOJĄ PORAŻKĘ.../%%
 * Witaj w Zaśnieżonej Karczmie^1!&* Przytulny hotelik w Snowdin!/
 * Jedna noc kosztuje 80G.& &         Zostań      Opuść\C
-* Już spowrotem^1?&* Cóż^1, zostań tak długo^1,&  jak potrzebujesz./
+* Już z powrotem^1?&* Cóż^1, zostań tak długo^1,&  jak potrzebujesz./
 * Co ty na to?& &         Zostań      Opuść\C
 * Co^1?&* Nie^1, nie dostaniesz&  drugiego pokoju!
 * Witaj^1!&* Sorki^1, nie ma czasu&  na drzemkę.../
@@ -7691,8 +7691,8 @@ TO NORMALNE BYĆ&ZAFASCYNOWANY&MOJĄ MODĄ./%%
 \W* \YKról \RASGORE \YDreemurr\W.../
 * ... stanie się bogiem./
 \W* Z tą mocą^1, \RASGORE\W &  w końcu będzie mógł&  roztrzaskać barierę./
-* On w końcu odbierze&  spowrotem powierzchnię&  od ludzkości.../
-* I da im spowrotem&  ból i cierpienie&  które my odnieśliśmy./
+* On w końcu odbierze&  powierzchnię od&  ludzkości.../
+* I przyniesie im&  ból i cierpienie&  zadane przez nich./
 * Rozumiesz^1, człowieku?/
 * Oto twoja jedyna szansa&  na odkupienie./
 * Oddaj swoją duszę.../
@@ -8053,7 +8053,7 @@ NIE SPIESZ SIĘ!/%%
 \M5* NIE ZEPSUŁBYŚ WSZYSTKIM&  MOJEGO FILMU JAKĄŚ KOMERCYJNĄ&  HISTORIĄ^1, PRAWDA?/
 \M5* UF!!^1! BLISKO BYŁO!^1!&* PRAWIE PODAROWAŁEŚ MI&  DARMOWE REKLAMY!!/%%
 \M2 %%
-\M3* OH^1!&* WITAJ SPOWROTEM!/
+\M3* OH^1!&* WITAJ Z POWROTEM!/
 \M6* ZGADZA SIĘ^1, WIDZOWIE^1!&* WYGLĄDA NA TO, ŻE NIKT NIE&  MOŻE SIĘ OPRZEĆ MOJEJ PREMIERY!/
 \M4* KOSZYKÓWKA JEST SUPER^1,&  CZYŻ NIE^1, SŁONKO?/
 \M1* SZKODA TYLKO^1, ŻE NIE&  MOŻESZ SIĘ BAWIĆ&  TYMI BALLSAMI./
@@ -8085,7 +8085,7 @@ NIE SPIESZ SIĘ!/%%
 * (OK^1, będą dalej używać&  żółte imiona.)/%%
 * (OK^1, dam im znać żeby&  przestali używać&  żółte imiona.)/%%
 * Kum^1, kum^1.&* (Jak się trzymasz bez&  żółtych imion?)/
-                     Przywróc &         Jest        te imiona&         świetnie    spowrotem\C
+                     Przywróc &         Jest        te imiona&         świetnie    z powrotem\C
 * (Miło mi słyszeć.^1)&* (Chociaż^1, nie wiem dlaczego&  masz niesmak do żółtego.)/
 * (Miej nadzieję że nie&  napotkasz bananowego&  potwora.)/%%
 * (Huh^1? To raczej niespodziewane&  że zmieniłeś zdanie ot tak.)/
@@ -8098,217 +8098,217 @@ NIE SPIESZ SIĘ!/%%
 * \YNAPSTABLOOK22 wysłał ci&  zaproszenie do znajomych.\W /
 * Zaakceptować prośbę?& &         Akceptuj    Odrzuć\C
 * (Wydaje się^1, że samo się&  odrzuciło...)/%%
-* hey^1.&* i heard you're going&  to the core./
-\E0* how about grabbing some&  dinner with me first?&  Yeah        I'm busy \C
-* great^1, thanks for&  treating me./%%
-* well^1, have fun in&  there./%%
-* This is the barrier./
-* This is what keeps&  us all trapped&  underground./
-* If.../
-* If by chance you&  have any unfinished&  business.../
-* Please do what you&  must./
- & &         Continue    Go Back\C
-* ..^2.&* ... I see.../
-* This is it^1, then./%%
-* I see./
-* Anything you want to&  do is important&  enough./
-* Even something as small&  as reading a book^1,&  or taking a walk.../
-* Please take your time./%%
-* Oh..^1.&* Back so soon?/
-* How are you feeling?/
- & &         Ready       Go Back\C
-* Do what you have to./%%
-* Tra la la^1.&* I am the riverman./
-* Or am I the riverwoman...^1?&* It doesn't really matter./
-* I love to ride in my boat^1.&* Would you care to join me?/
-* (Ride in the boat?)& &         Yes         No\C
-* Tra la la^1.&* Care for a ride?/
-* Where will we go today?& &         Error       Error\C
-* Where will we go today?& &         Snowdin     Waterfall\C
-* Where will we go today?& &         Snowdin     Hotland\C
-* Where will we go today?& &         Waterfall   Hotland\C
-* Then perhaps another time^1.&* Or perhaps not^1.&* It doesn't really matter./%%
-* Then we're off.../%%
-* (There's a switch on the&  wall.)/
-* (The switch doesn't do&  anything.)/%%
-* (Seems like a comfortable&  bed.)/
-* (Lie on it?)& &         Yes         No\C
-* (It's just a regular suspicious&  bed now.)/%%
-* (It's a yellow key.^1)&* (You put it on your&  keychain.)/%%
-* (There's something under&  the sheets.)/
-* (Check it out?)& &         Yes         No\C
-* (The power has been turned&  on.)/%%
-* (It seems like this controls&  the elevator's power.)/
-* (Turn it on?)& &         Yes         No\C
-\E7* I always was a crybaby^1,&  wasn't I^1, \[C]?/
-\E2* ... I know./
-\E0* You're not actually&  \[C], are you?/
-\E7* \[C]'s been gone for&  a long time./
-\E9* Um..^1. what.../
-\E0* What IS your name?/
+* hej^1.&* słyszałem że idziesz&  do RDZENIA./
+\E0* co powiesz na wspólny&  obiad ze mną przed?&  Jasne       Nie mogę \C
+* super^1, dzięki że&  mi stawiasz./%%
+* cóż^1, miłej zabawy&  tam o./%%
+* To jest bariera./
+* To jest co nas&  trzyma uwięzionych&  pod ziemią./
+* Jeśli.../
+* Jeśli masz przypadkiem&  jakieś niedokończone&  sprawy.../
+* Śmiało rób co&  musisz./
+ & &         Kontynuuj   Wróć\C
+* ..^2.&* ... Rozumiem.../
+* To jest ten moment./%%
+* Rozumiem./
+* Cokolwiek masz do&  zrobienia jest&  wystarczająco ważne./
+* Nawet coś tak małego&  jak przeczytać książkę^1,&  czy pójść na spacer.../
+* Proszę nie spiesz się./%%
+* Oh..^1.&* Już z powrotem?/
+* Jak się czujesz?/
+ & &         Gotowy      Wróć\C
+* Rób co masz do robienia./%%
+* Tra la la^1.&* Jestem panem rzeki./
+* Czy jestem panią rzeki...^1?&* To naprawdę nie ma znaczenia./
+* Uwielbiam pływać w mej łodzi^1.&* Miałbyś ochotę przyłączyć?/
+* (Popłynąć w łodzi?)& &         Tak         Nie\C
+* Tra la la^1.&* Masz ochotę na przejażdżkę?/
+* Dokąd dzisiaj popłyniemy?& &         Error       Error\C
+* Dokąd dzisiaj popłyniemy?& &         Snowdin     Waterfall\C
+* Dokąd dzisiaj popłyniemy?& &         Snowdin     Hotland\C
+* Dokąd dzisiaj popłyniemy?& &         Waterfall   Hotland\C
+* Być może innym razem^1.&* Albo być może nie^1.&* To naprawdę nie ma znaczenia./%%
+* W takim razie płyniemy.../%%
+* (Jest przełącznik na ścianie.)/
+* (Przełącznik nic nie robi.)/%%
+* (Wygląda na wygodne łóżko.)/
+* (Położyć się?)& &         Tak         Nie\C
+* (Teraz to tylko zwykłe&  podejrzane łóżko.)/%%
+* (To żółty klucz.^1)&* (Umieszczasz go w swoim&  breloczku.)/%%
+* (Coś się znajduje pod&  prześcieradłem.)/
+* (Sprawdzić?)& &         Tak         Nie\C
+* (Prąd został&  przywrócony.)/%%
+* (Wygląda na to że to&  kontroluje prąd windy.)/
+* (Włączyć?)& &         Tak         Nie\C
+\E7* Od zawsze byłem beksą^1,&  czyż nie^1, \[C]?/
+\E2* ... Wiem./
+\E0* Nie jesteś naprawdę&  \[C], prawda?/
+\E7* Nie było już \[C] od&  długiego czasu./
+\E9* Um..^1. jak.../
+\E0* Jak się tak&  NAPRAWDĘ nazywasz?/
 \E5* "Frisk?"/
-\E7* That's.../
-\E5* A nice name./
+\E7* To.../
+\E5* Ładne imię./
 \E7* Frisk.../
-\E0* I haven't felt like&  this for a long time./
-\E2* As a flower^1, I was&  soulless./
-\E1* I lacked the power to&  love other people./
-\E2* However^1, with everyone's&  souls inside me.../
-\E7* I not only have my own&  compassion back.../
-\E5* But I can feel every&  other monster's as&  well./
-\E7* They all care about&  each other so much./
-\E0* And..^1. they care about&  you too^1, Frisk./
-\E7* I wish I could tell&  you how everyone&  feels about you./
+\E0* Dawno się tak&  nie czułem./
+\E2* Jako kwiatek^1, byłem&  pozbawiony duszy./
+\E1* Nie miałem zdolności&  do kochania innych./
+\E2* Jednak^1, mając dusze&  wszystkich potworów.../
+\E7* Nie tylko mam z powrotem&  moją własną empatię.../
+\E5* Ale również czuję&  empatię wszystkich&  innych potworów./
+\E7* Oni wszyscy tak bardzo&  się o siebie troszczą./
+\E0* Ponadto..^1. oni się&  również troszczą o&  ciebie^1, Frisk./
+\E7* Chciałbym móc ci&  powiedzieć co każdy&  myśli o tobie./
 * Papyrus..^1. Sans..^1.&* Undyne..^1. Alphys.../
 \E0* ... Toriel./
-\E7* Monsters are weird./
-\E5* Even though they barely&  know you.../
-\E6* It feels like they&  all really love&  you./
-\E8* Haha./
-\E1* Frisk..^1. I..^1.&* I understand if you&  can't forgive me./
-* I understand if you&  hate me./
-* I acted so strange and&  horrible./
-\E3* I hurt you./
-* I hurt so many people./
-\E1* Friends^1, family^1,&  bystanders.../
-\E3* There's no excuse for&  what I've done./
- & &  Forgive     Do not\C
-\E3* Wh..^1. what?/
-\E7* ... Frisk^1, come on./
-\E0* You're..^1.&* You're gonna make me&  cry again./
-\E7* ... besides^1, even if&  you do forgive me.../
-\E2* ... right^1./
-* I understand./
-\E1* I just hope that.../
-* I can make up for&  it a little right&  now./
-\E1* I can't keep these&  souls inside of me./
-\E0* The least I can do&  is return them./
-\E2* But first.../
-\E4* There's something I&  have to do./
-* Right now^1, I can feel&  everyone's hearts&  beating as one./
-* They're all burning&  with the same&  desire./
-* With everyone's power..^1.&* With everyone's&  determination.../
-* It's time for&  monsters.../
-* To finally go free./%%
-\E0* I have to go now./
-\E7* Without the power of&  everyone's souls.../
-\E1* I can't keep&  maintaining this&  form./
-* In a little while.../
-* I'll turn back into&  a flower./
-\E3* I'll stop being&  "myself."/
-* I'll stop being able&  to feel love again./
-\E1* So..^1. Frisk./
-\E7* It's best if you&  just forget about&  me^1, OK?/
-\E0* Just go be with&  the people who&  love you./
- &         Comfort&         him         Do not\C
-\E0* So^1, Alphys.../
-\E9* What do you want&  to do now that&  we're all free?/
-\E0* We have the whole&  world to explore&  now./
-\E3* W-well^1, of course&  I'm going to go&  out and.../
-\E4* Um.../
-\E3* No^1, I should be&  honest!!/
-\E1* I'm gonna stay inside&  and watch anime like&  a total loser!/
-\E0THAT'S THE SPIRIT!/
-EVERYONE!!^1!&A CELEBRATION!!!&TO BEING LOSERS!!/
-\E9* Heh^1.&* Papyrus has the&  right idea./
-\E0* Losing to Frisk is&  the best thing to&  ever happen to me./
-\E0* So I'm glad that&  we.../
-\E9* Huh^1?&* What is it^1, Asgore?/
-\E2* Um..^1. what's an.../
+\E7* Potwory są dziwne./
+\E5* Pomimo tego że one&  cię ledwo znają.../
+\E6* Wydaje się jakby&  oni wszyscy cię&  naprawdę kochali./
+\E8* Haha. /
+\E1* Frisk..^1. Ja..^1.&* Zrozumiem jeśli&  mi nie wybaczysz./
+* Zrozumiem że mnie&  nienawidzisz./
+* Zachowałem się tak&  dziwnie i koszmarnie./
+\E3* Skrzywdziłem cię./
+* Skrzywdziłem tak&  wiele osób./
+\E1* Przyjaciół^1, rodzinę^1,&  niewinne osoby.../
+\E3* Nie ma wytłumaczenia&  na to co zrobiłem./
+ & &  Wybacz      Nie wybaczaj\C
+\E3* C..^1. co?/
+\E7* ... Frisk^1, no weź./
+\E0* Sprawisz..^1.&* Sprawisz że się&  znowu rozpłaczę./
+\E7* ... zresztą^1, nawet&  jeśli mi wybaczysz.../
+\E2* ... racja^1./
+* Rozumiem./
+\E1* Mam tylko nadzieję że.../
+* Wynagrodzę ci to&  tym co teraz zrobię./
+\E1* Nie mogę trzymać tych&  dusz w sobie długo./
+\E0* Jedyne co powinienem&  zrobić to je zwrócić./
+\E2* Lecz najpierw.../
+\E4* Jest coś co&  MUSZĘ zrobić./
+* Teraz^1, czuję w sobie&  bijące serca wszystkich&  potworów w jedności./
+* Wszystkie jarzące się&  z jednym marzeniem./
+* Z wszystkich siłą..^1.&* Z wszystkich&  determinacją.../
+* Nadszedł czas by&  potwory.../
+* W końcu były wolne./%%
+\E0* Muszę już iść./
+\E7* Bez mocy wszystkich&  dusz.../
+\E1* Nie jestem w stanie&  utrzymać tej formy./
+* Już lada chwila.../
+* Przemienię się&  z powrotem w kwiatka./
+\E3* Nie będę już&  dłużej "sobą."/
+* Nie będę już w stanie&  czuć miłości./
+\E1* Więc..^1. Frisk./
+\E7* Najlepiej będzie jeśli&  po prostu o mnie&  zapomnisz^1, OK?/
+\E0* Po prostu bądź z&  osobami które cię&  naprawdę kochają./
+ &                     Nie&         Pociesz     pocieszaj\C
+\E0* Więc^1, Alphys.../
+\E9* Co chcesz robić&  teraz jako że&  jesteśmy wolni?/
+\E0* Mamy teraz cały&  świat do zwiedzania./
+\E3* C-cóż^1, oczywiście&  wyjdę na zewnątrz i.../
+\E4* Um... /
+\E3* Nie^1, muszę być&  szczera!!/
+\E1* Zostanę w środku i&  będę oglądała anime&  jak totalny frajer!/
+\E0I O TO CHODZI!/
+WSZYSCY!!^1!&CELEBRUJMY BYCIE&FRAJERAMI!!/
+\E9* Heh^1.&* Papyrus&  dobrze myśli./
+\E0* Przegrana walka z&  Friskiem to najlepsze&  co mi się przytrafiło./
+\E0* Więc cieszę się&  że my.../
+\E9* Huh^1?&* Co tam^1, Asgore?/
+\E2* Um..^1. czym jest.../
 \E0* ... anime?/
-\E1* (Oh My God?)/
-\E3* (Frisk^1. Please.)/
-\E2* (Help me explain what&  anime is to Asgore.)/
-\E0* Y-you see^1, it's&  like a cartoon^1,&  but.../
- &         With        With&         Sword's     Gun's\C
-\E2* So it's like a&  cartoon..^1.&* But with swords?/
-\E2* So it's like a&  cartoon..^1.&* But with guns?/
-\E0* Golly^1!&* That sounds neato!/
-\E3* Where is this^1?&* Where can I see the&  Anime./
-\E3* H-hold on^1, uh..^1.&* I think I have&  some on my phone./
-\E0* Here^1, l-look at&  this!/
+\E1* (O mój Boże?)/
+\E3* (Frisk^1. Błagam.)/
+\E2* (Pomóż mi wyjaśnić&  Asgore'ówi anime.)/
+\E0* W-widzisz^1, to&  coś jak kreskówka^1,&  tyle że.../
+ &         Z           Z&         Mieczami    Pistoletami\C
+\E2* Więc to jest&  jak kreskówka..^1.&* Tyle że z mieczami?/
+\E2* Więc to jest&  jak kreskówka..^1.&* Tyle że z pistoletami?/
+\E0* Rany^1!&* Brzmi ciekawie!/
+\E3* Gdzie to jest^1?&* Gdzie mogę zobaczyć&  to Anime./
+\E3* C-chwila^1, uh..^1.&* Wydaje mi się że&  mam coś na telefonie./
+\E0* Trzymaj^1,&  p-popatrz na to!/
 \E0* .../
-\E3*...Oh^1, uh.../
-\E4* Um..^1. that's the..^1.&* That's the wrong.../
-\E5* Uh^1, nevermind./
-* Golly^1.&* Were those two robots.../
-\E9* ... kissing?/
-\E0* Boy^1!&* Technology sure is&  something^1, isn't it?/
-\E5* Eheheh..^1. yeah^1!&* It sure is!/%%
-\E0* Psst..^1.&* F-Frisk./
-\E3* Um^1, you've gotta&  tell me./
-\E6* D..^1. do you think&  Asgore and Toriel&  are...?/
-\E3* Uh^1, ever gonna get&  back together?/
-& &         Yeah        Nope\C
-* Error.../%%
-\E7* Y-yeah!!^1!&* Yeah^1, that's what&  I hope^1, too./
-\E7* Just think about how&  cute they must have&  been together./
-\E0* It's quickly becoming&  my number one ship&  of all time./
-\E7* Tori and Gorey.../
-\E5* My..^1.&* My old boss and&  his ex-wife./
-\E8* ... uh^1, that sounds&  a lot less cool&  all of a sudden./%%
-\E8* ... yeah^1, that's what&  I thought./
-\E7* A woman can dream&  though^1, right?/
-\E2* And write fanfiction./
-\E1* A LOT of fanfiction./%%
-\E0* Frisk^1!&* I just realized!/
-\E3* Now that we aren't&  fighting each&  other.../
-\E2* I can finally ask&  you.../
-\E0* "Would you like a&  cup of tea?"/
-\E0* Would you like a&  cup of tea?/
-& &         Yes         No\C
-* Oh^1!&* Well!/
-\E3* Actually^1, the cup I&  had is cold now./
-* So you shouldn't&  have it./
-\E0* But^1, I am so&  happy you said&  yes./
-\E0* As soon as I can^1,&  I will make some&  more for you./
-\E0* Then we can be&  great pals./%%
-\E3* Oh.../
-\E3* Okay./
-\E2* Frisk^1! Stop^1!&* You're breaking his&  big burly heart!/
-\E2* Um^1, it's OK^1, Undyne./
-\E0* My heart's already&  broken./
-\E6* ASGORE^1! STOP^1!&* YOU'RE BREAKING MY&  BIG BURLY HEART!/
-\E9* Y-yeah^1, Asgore^1.&* Don't break Undyne's&  heart./
-\E2* That's my job./
-\E2* OH MY GOD!&* YOU'RE GOING BACK&  IN THE TRASH!!!/
-\E0CAN I GO IN THE&TRASH TOO?/
-\E9* Sure^1, Papyrus./
-\E1* guess i have to&  go in the trash&  too./
-\E0* Oh^1, may I enter&  the trash as well?/
-\E1* Uh^1, okay?/
-\E0* Am I invited to&  the trash?/
-\E6* SURE!!!&* WHY NOT!!!/
-\E1* On second thought^1,&  do not put me&  in the trash./
-\E5* Oh.../
-\E1* OH MY GOD!!!/%%
-* (If you leave here^1, your&  adventure will really&  be over.)/
-* (Your friends will follow&  you out of the underground.)/
- &         Don't       I'm&         leave       ready\C
-\E0* Oh my.../
-\E0* Isn't it beautiful^1,&  everyone?/
-\E3* Wow..^1. it's e-even&  better than on TV./
-\E7* WAY better^1!&* Better than I ever&  imagined!/
-\E1* Frisk^1, you LIVE with&  this!?/
-\E9* The sunlight is so&  nice..^1. and the air&  is so fresh!/
-* I really feel alive!/
-\E0HEY SANS.../
-\E3WHAT'S THAT GIANT&BALL?/
-\E1* we call that&  "the sun^1," my friend./
-\E0THAT'S THE SUN!^1?&WOWIE!!!/
-I CAN'T BELIEVE&I'M FINALLY MEETING&THE SUN!!!/
-\E0* I could stand here&  and watch this for&  hours.../
-\E0* Yes^1, it is beautiful^1,&  is it not?/
-\E1* But we should really&  think about what comes&  next./
-\E3* Oh^1, right./
-\E0* Everyone.../
-* This is the beginning&  of a bright new&  future./
-* An era of peace between&  humans and monsters./
+\E3*...Oł^1, uh.../
+\E4* Um..^1. to jest..^1.&* To jest zły.../
+\E5* Uh^1, nieważne./
+* Rane^1.&* Czy te dwa roboty.../
+\E9* ... się całowały?/
+\E0* Jeju^1!&* Technologia to coś&  innego^1, czyż nie?/
+\E5* Eheheh..^1. ta^1!&* Z pewnością!/%%
+\E0* Pssst..^1.&* F-Frisk./
+\E3* Um^1, musisz mi&  powiedzieć./
+\E6* Czy..^1. myślisz że&  Asgore i Toriel...?/
+\E3* Uh^1, kiedykolwiek&  do siebie wrócą?/
+& &         Ta          Niet\C
+* Error uwu.../%%
+\E7* T-ta!!^1!&* No tak^1, ja też&  na to liczę./
+\E7* Tylko pomyśl jak&  uroczy musieli&  być razem./
+\E0* To szybko staje się&  moim top shipem&  wszechczasów./
+\E7* Tori i Asguś.../
+\E5* Mój..^1.&* Mój dawny szef i&  jego ex-żona./
+\E8* ... uh^1, teraz&  to brzmi o wiele&  mniej czadersko./%%
+\E8* ... no tak^1, też&  tak myślałam./
+\E7* Ale kobieta może&  sobie marzyć^1, co nie?/
+\E2* I pisać fanfiki./
+\E1* WIELE fanfików./%%
+\E0* Frisk^1!&* Właśnie sobie&  uświadomiłem!/
+\E3* Jako że my już&  nie walczymy.../
+\E2* Mogę cię w&  końcu zapytać.../
+\E0* "Czy chciałbyś&  filiżankę herbaty?"/
+\E0* Czy chciałbyś&  filiżankę herbaty?/
+& &         Tak         Nie\C
+* Oh^1!&* Cóż!/
+\E3* Filiżanka^1, którą&  przygotowałem już&  się ochłodziła./
+* Więc nie powinieneś&  jej mieć teraz./
+\E0* Ale^1, tak się cieszę&  że się zgodziłeś./
+\E0* Gdy tylko będę mógł^1,&  przygotuję ci więcej./
+\E0* Wtedy będziemy&  dobrymi kumplami./%%
+\E3* Oh... /
+\E3* Okej./
+\E2* Frisk^1! Przestań^1!&* Łamiesz jego wielkie&  misiaste serduszko!/
+\E2* Um^1, nie szkodzi^1, Undyne./
+\E0* Moje serduszko już&  jest złamane./
+\E6* ASGORE^1! PRZESTAŃ^1!&* TERAZ TY ŁAMIESZ&  MOJE WIELKIE SERCE!/
+\E9* T-ta^1, Asgore^1.&* Nie łam serca&  Undyne./
+\E2* To moja robota./
+\E2* O MÓJ BOŻE!&* LECISZ Z POWROTEM&  DO ŚMIECI!!!/
+\E0MOGĘ TEŻ IŚĆ&DO ŚMIECI?/
+\E9* Jasne^1, Papyrus./
+\E1* chyba znaczy że też&  muszę iść do śmieci./
+\E0* Oh^1, czy ja również&  mogę wejść do śmieci?/
+\E1* Uh^1, okej?/
+\E0* Czy ja również&  jestem zaproszony&  do śmieci?/
+\E6* JASNE!!!&* CZEMU NIE!!!/
+\E1* Tak sobie myślę^1,&  Jednak nie umieszczaj&  mnie w śmieciach./
+\E5* Oh... /
+\E1* O MÓJ BOŻE!!!/%%
+* (Jeśli opuścisz^1, twoja&  przygoda naprawdę dobiegnie&  końca.)/
+* (Twoi przyjaciele podążą za&  tobą do wyścia z podziemi.)/
+ &                     Jestem&         Zostań      gotów\C
+\E0* O jejku.../
+\E0* Czyż to nie jest&  piękne^1, wszyscy?/
+\E3* Wow..^1. t-to jest&  nawet lepsze niż&  w telewizji./
+\E7* O wiele lepsze^1!&* Lepsze niż kiedykolwiek&  sobie wyobrażałem!/
+\E1* Frisk^1, ty z tym ŻYJESZ!?/
+\E9* Światło słoneczne jest&  takie przyjemne..^1. i&  powietrze jest świeże!/
+* Naprawdę czuję&  się żywa!/
+\E0HEJ SANS.../
+\E3CO TO ZA&OGROMNA KULA?/
+\E1* nazywamy to&  "słońcem^1," przyjacielu./
+\E0TO JEST SŁOŃCE!^1?&WOWIE!!!/
+NIE WIERZĘ ŻE W&KOŃCU POZNAJĘ SIĘ&ZE SŁOŃCEM!!!/
+\E0* Mógłbym tu stać i&  oglądać godzinami.../
+\E0* Tak^1, to naprawdę&  jest przepiękne^1,&  czyż nie?/
+\E1* Lecz powinniśmy&  pomyśleć co dalej./
+\E3* Oh^1, racja./
+\E0* Wszyscy.../
+* To jest początek&  nowej przyszłości./
+* Epoka pokoju między&  ludźmi i potworami./
 \E2* Frisk.../
-* I have something to&  ask of you./
-\E0* Will you act as our&  ambassador to the&  humans?/
-* (Be the ambassador?)& &         Yes         No\C
-WOWi, Nice error./%%
+* Jest coś co chciałbym&  cibie zapytać./
+\E0* Czy zostaniesz&  naszym ambasadorem&  wobec ludzi?/
+* (Być ambasadorem?)& &         Tak         Nie\C
+WOWi, Fajny error./%%
 \E0YEAH^1!&FRISK WILL BE THE&BEST AMBASSADOR!/
 AND I^1, THE GREAT&PAPYRUS.../
 WILL BE THE BEST&MASCOT!/
@@ -8496,7 +8496,7 @@ I CAN DO IT FOR&YOU!!!/
 * (UNDERSTOOD.^1)&* (LET'S KNOCK 'EM DEAD!)/%%
 * (KA-SIGH...^1)&* (THE SHOW MUST GO ON!)/%%
 Fascynujące./
-Chcesz wrócić spowrotem./
+Chcesz powrócić./
 Chcesz wrócić&sp^1owrotem do świat^2a^1,&którego zniszczyłeś./
 To ty postanowi^1ł&wszystko zniszczyć./
 To ty doprowadziłe^1ś&do jego destrukcji./
@@ -8508,7 +8508,7 @@ Być może./
 Możemy osiągnąc kompromis./
 Dalej posiadasz co^1ś&czego chcę./
 Daj mi to./
-A przywrócę&spowrotem&ten świat./
+A przywrócę&z powrotem&ten świat./
 W takim razie jest&to uzgodnione./
 Oddasz mi twoją DUSZĘ.& &         Tak         Nie\C
 W takim razie zostań&tu na całą wieczność./
@@ -13180,7 +13180,7 @@ obj_floweytrigger2_283
 obj_floweytrigger2_284
 \E6* Zabiłeś ją./
 obj_floweytrigger2_285
-\E7* I wtedy poszedłeś&  spowrotem^1, ponieważ&  pożałowałeś tego./
+\E7* I wtedy wróciłeś&  do początku^1, ponieważ&  pożałowałeś tego./
 obj_floweytrigger2_286
 * Ha ha ha ha.../
 obj_floweytrigger2_287
@@ -13885,7 +13885,7 @@ obj_greatdog_561
 obj_greatdog_565
 * Rozplaskuje się na ziemi./
 obj_greatdog_566
-* Większejszy Pies podnosi cały&  śnieg w pobliżu i przynosi&  spowrotem do ciebie./
+* Większejszy Pies podnosi cały&  śnieg w pobliżu i przynosi&  z powrotem do ciebie./
 obj_greatdog_567
 * Teraz pies jest zmęczony..^1.&* Kładzie swoją głowę na tobie.../^
 obj_greatdog_568
@@ -14761,7 +14761,7 @@ obj_lab_powerswitch_296
 obj_lab_powerswitch_299
 \E3* W każdym razie!/
 obj_lab_powerswitch_301
-\E6* Zasilanie wysiadło^1, i&  próbowałam go jakoś&  spowrotem przywrócić!/
+\E6* Zasilanie wysiadło^1, i&  próbowałam go jakoś&  z powrotem przywrócić!/
 obj_lab_powerswitch_302
 \E4* Ale wygląda na to^1, że&  byłeś o krok przede mną./
 obj_lab_powerswitch_303
@@ -14891,7 +14891,7 @@ obj_labtv_event_294
 * ... łapiesz???\Ta/
 obj_labtv_event_295
 obj_labtv_event_296
-* Idź spowrotem do łóżka^1, słońce.\TT/
+* Wracaj do łóżka^1, słońce.\TT/
 obj_labtv_event_297
 * Nie nie!^1!&* Jeszcze nie^1!&* Hee hee hee./
 obj_labtv_event_298
@@ -14996,7 +14996,7 @@ obj_labtv_event_480
 obj_labtv_event_481
 * I zrobimy to razem^1, prawda?/%%
 obj_labtv_event_482
-* Spuściłeś&  linię spowrotem./%%
+* Spuściłeś&  linię./%%
 obj_ladiesfishingrod_137
 * (Nie zadziałało.)/%%
 obj_laserswitch1_90
@@ -15454,7 +15454,7 @@ obj_lastsans_trigger_707
 obj_lastsans_trigger_713
 obj_lastsans_trigger_714
 obj_lastsans_trigger_715
-\E2* niet^1, chwila^1, to&  definitywnie dziewięć^1,&  sorry./
+\E2* niet^1, chwila^1,&  to definitywnie&  dziewięć^1, sorry./
 obj_lastsans_trigger_716
 \E4* czy może dziesięć?/%%
 obj_lastsans_trigger_717
@@ -19227,7 +19227,7 @@ obj_npc_room_337
 * ok./
 obj_npc_room_338
 obj_npc_room_339
-NIE KŁADŹ JEJ SPOWROTEM^1!&PRZESUŃ JĄ!/
+NIE KŁADŹ JEJ PONOWNIE^1!&PRZENIEŚ JĄ Z TĄD!/
 obj_npc_room_340
 obj_npc_room_341
 obj_npc_room_342
@@ -19237,7 +19237,7 @@ obj_npc_room_344
 obj_npc_room_345
 obj_npc_room_346
 obj_npc_room_347
-I NIE PRZYNOŚ JEJ&SPOWROTEM!/
+I NIE PRZYNOŚ JEJ&Z POWROTEM!/
 obj_npc_room_348
 obj_npc_room_349
 obj_npc_room_350
@@ -19245,7 +19245,7 @@ obj_npc_room_351
 DALEJ TU LEŻY!/
 obj_npc_room_352
 obj_npc_room_353
-* czy ty nie mówiłeś żeby nie&  przynosić jej spowrotem do&  pokoju?/
+* czy ty nie mówiłeś żeby&  nie przynosić jej z&  powrotem do pokoju?/
 obj_npc_room_354
 obj_npc_room_355
 ZAPOMNIJ JUŻ!/%%
@@ -21028,7 +21028,7 @@ obj_papyrus_room_191
 obj_papyrus_room_192
 ZADZWONIĘ DO CIEBIE&KIEDY ONA PRZYJDZIE&TU^1, OKEJ!?/%%
 obj_papyrus_room_193
-NOPE!^1!&JESZCZE JEJ TU&NIE MA!!!/%%
+NIET!^1!&JESZCZE JEJ TU&NIE MA!!!/%%
 obj_papyrus_room_196
 UNDYNE JEST W&DOMU^1, \E2ALE NIE&CZUJE SIĘ NAJLEPIEJ./
 obj_papyrus_room_202
@@ -21887,7 +21887,7 @@ HAHAHA, CHCIAŁBYĆ!&ZŁA ODPOWIEDŹ!
 obj_questionasker_130
 ŹLE! GDYBY TYLKO&ALPHYS MOGŁA POMÓC!
 obj_questionasker_132
-NOPE! JAKA SZKODA ŻE&ALPHYS CI NIE POMOŻE!
+NIET! JAKA SZKODA ŻE&ALPHYS CI NIE POMOŻE!
 obj_questionasker_134
 ŹLE!!! ŹLE!!!&ŹLEEEEEEEE!!
 obj_questionasker_136
@@ -22136,7 +22136,7 @@ obj_readable_room1_112
 obj_readable_room1_113
 * Nie możesz przestać&  patrzećna nie./%%
 obj_readable_room1_114
-* (Przeszedłeś całą drogę&  spowrotem^1, by popatrzeć na&  skarpety Toriel.)/
+* (Przeszedłeś całą drogę&  z powrotem^1, by popatrzeć&  na skarpety Toriel.)/
 obj_readable_room1_118
 * (Masz niezłe priorytety&  w życiu ;-;.)/%%
 obj_readable_room1_119
@@ -22322,7 +22322,7 @@ obj_readable_room1_454
 obj_readable_room1_455
 * żadne z ciał nie przemieniły&  się w proch^1, więc nie mogę&  zebrać ich DUSZ./
 obj_readable_room1_456
-* powiedziałam rodzinom że&  przyniosę ich prochy&  spowrotem na ich pogrzeb./
+* powiedziałam rodzinom że&  przyniosę ich prochy&  z powrotem na ich pogrzeb./
 obj_readable_room1_457
 * inni zaczęli mnie wypytywać&  co się dzieje./
 obj_readable_room1_458
@@ -22372,7 +22372,7 @@ obj_readable_room1_499
 obj_readable_room1_500
 * I zadzwoniłam do wszystkich&  rodzin i powiedziałam że&  wszyscy żyją./
 obj_readable_room1_501
-* Jutro odeślę wszystkich&  spowrotem. :) /%%
+* Jutro odeślę wszystkich&  z powrotem. :) /%%
 obj_readable_room1_502
 obj_readable_room1_503
 * MASZYNA DO EKSTRAKCJI DT&* STATUS: NIEAKTYWNY/%%
@@ -22853,7 +22853,7 @@ obj_readable_room3_128
 obj_readable_room3_132
 * Kiedy cztery Nasiona Mostowe&  się zetkną w wodzie^1, to one&  zakwitną./%%
 obj_readable_room3_139
-* Jeśli błąd jest popełniony, &  Dzwonek może zawołać sadzonki&  spowrotem skąd zaczęły./%%
+* Jeśli błąd jest popełniony, &  Dzwonek może zawołać sadzonki&  z powrotem skąd zaczęły./%%
 obj_readable_room3_141
 * POKÓJ ŻYCZEŃ/%%
 obj_readable_room3_142
@@ -23807,7 +23807,7 @@ obj_sansb_284
 obj_sansb_290
 \E4bo nawet jeśli&wyjdziemy.../
 obj_sansb_296
-\E5to i tak skończymy&spowrotem tutaj^1,&bez żadnych wspom-&nień^1, prawda?/%%
+\E5to i tak skończymy&z powrotem tutaj^1,&bez żadnych wspom-&nień^1, prawda?/%%
 obj_sansb_297
 \E1szczerze&mówiąc.../
 obj_sansb_303
@@ -25873,11 +25873,11 @@ obj_snowdrakedad_84
 obj_snowdrakedad_87
 obj_snowdrakedad_88
 obj_snowdrakedad_89
-* Lekorz^1.&* Przywrócił mi żonę.&* Spowrotem od zmarłych./
+* Lekorz^1.&* Ona przywróciła mi żonę.&* Z powrotem od zmarłych./
 obj_snowdrakedad_94
 * Mój syn^1.&* Wydaje się znów szczęśliwy./
 obj_snowdrakedad_95
-* Nasza rodzina^1.&* Jest większa niż&  kiedykolwiek była./
+* Nasza rodzina^1.&* Jest wioksza niż&  kiadyoalwiek była./
 obj_snowdrakedad_96
 * Teraz jako że moja żona^1.&* Jest połączona^1.&* Z 16 innymi osobami./%%
 obj_snowdrakedad_97
@@ -27915,7 +27915,7 @@ obj_townnpc_beartree_91
 obj_townnpc_beartree_92
 * Ale za każdym razem^1, udają,&  że to pierwszy raz kiedy&  to dostali./
 obj_townnpc_beartree_93
-* Wtedy Papyrus przychodzi by&  wziąć jego kości spowrotem./
+* Wtedy Papyrus przychodzi by&  wziąć jego kości z powrotem./
 obj_townnpc_beartree_94
 * Tak wogule^1, gdzie jest ta&  dwójka...?/%%
 obj_townnpc_beartree_95
@@ -28000,7 +28000,7 @@ obj_townnpc_innlady_114
 obj_townnpc_innlady_199
 * Co jest niesamowite^1, biorąc&  pod uwagę^1, że spałeś tylko&  jakieś dwie minuty.../
 obj_townnpc_innlady_200
-* Trzymaj spowrotem kasę^1.&* Możesz mi zapłacić ponownie&  jeśli znów weźmiesz pokój./%%
+* Trzymaj z powrotem kasę^1.&* Możesz mi zapłacić ponownie&  jeśli znów weźmiesz pokój./%%
 obj_townnpc_innlady_203
 * Wracaj śmiało jeśli znów&  się zmęczysz./%%
 obj_townnpc_innlady_207
@@ -28102,7 +28102,7 @@ obj_townnpc_slimedad_81
 obj_townnpc_slimedad_86
 * Dzisiaj wydaje się tu&  niebezpiecznie./%%
 obj_townnpc_slimedad_87
-* Nie zmienisz mnie spowrotem&  w człowieka^1, prawda?/%%
+* Nie zmienisz mnie z powrotem&  w człowieka^1, prawda?/%%
 obj_townnpc_slimedaughter_80
 * Możemy PROSZĘ pograć w&  coś innego...?/%%
 obj_townnpc_slimedaughter_84
@@ -31712,7 +31712,7 @@ Kocham to.
 damage_special_2
 Ale nie zadziałało.
 damage_special_3
-nope
+niet
 damage_special_4
 PORAŻKA
 damage_special_5
@@ -32562,11 +32562,11 @@ item_use_1
 * You hit the Croquet Roll into&  your mouth.
 item_use_2
 * You ate the Croquet Roll.
-* Wyrzuciłeś patyk^1.&* I podniosłeś go spowrotem./%
+* Wyrzuciłeś patyk^1.&* I podniosłeś go z powrotem./%
 * Wyrzuciłeś patyk^1.&* Ale nic się nie zadziało./%
 * Wyrzuciłeś patyk i&  piesy pobiegły go podnieść^1.&* Pobawiłeś się trochę w aport./%
 * Wyrzuciłeś patyk i&  piesy pobiegły go podnieść^1.&* Pobawiłeś się trochę w aport./%
-* Wyrzuciłeś patyk.&* Papyrus przynosi go&  spowrotem w jego ustach./%
+* Wyrzuciłeś patyk.&* Papyrus przynosi go z&  powrotem w jego ustach./%
 * Unosisz patyk.&* Madjick go myli z&  magiczną różdżką./%
 * Rzucasz patykiem.&* Mettaton łapie go w&  ustach i mruga./%
 * Zastosowałeś ponownie bandaż.
@@ -32660,7 +32660,7 @@ item_use_39
 * Zjadłeś Glamburgera.
 item_use_40
 * Zjadłeś Glamburgera.&* Widzowie kochają tą markę.
-* Wypiłeś Oceanową Herbatę.
+* Wypiłeś Morską Herbatę.
 item_use_41
 &* Twoja PRĘDKOŚĆ wzrasta!
 &* Ale PRĘDKOŚĆ zahamowana&  przez pajęczynę.
