@@ -6411,7 +6411,7 @@ Karta Dziurkowana
 item_name_26
 Annoying Dog
 item_name_27
-Psia Sałata
+Psia Sałatka
 item_name_28
 Psie Pozost.
 item_name_29
@@ -6746,7 +6746,7 @@ item_desc_26_0
 item_desc_26_1
 * "Annoying Dog" - Pieseł&* Mały biały pieseł^1.&* Jest w głębokim śnie.../%%
 item_desc_27_0
-* "Sałatka Pieseła" - Leczy ?? HP&* Przywraca HP.&* (Pudle Ochronne.)/%%
+* "Psia Sałatka" - Leczy ?? HP&* Przywraca HP.&* (Pudle Ochronne.)/%%
 item_desc_28_0
 * "Pozostałości Piesa" - Pieseł&* Świecąca smuga pozostawiona&  przez pieseła./%%
 item_desc_29_0
@@ -7613,7 +7613,7 @@ TO NORMALNE BYĆ&ZAFASCYNOWANY&MOJĄ MODĄ./%%
 * cóż^1, papyrus mi&  powiedział kiedyś&  coś ciekawego./
 * czasami^1, kiedy nikogo&  nie ma w pobliżu.../
 * pojawia się kwiatek i&  mu szepcze rzeczy./
-* urok..^1.&* rady..^1.&* podziw.../
+* urok..^1.&* rady..^1.&* motywacja.../
 * ... przepowiednie./
 * dziwne^1, huh?/
 * ktoś musi używać&  kwiatka echa^1, by&  stroić na nim żarty./
@@ -7993,45 +7993,45 @@ NIE SPIESZ SIĘ!/%%
 \E6* Ale czad!!!/%%
 \E3* Tak myślałam./%%
 * Wyobraź sobie te&  warzywa jako twój&  największy wróg!/
-\E2* Now!^1!&* Pound them to dust&  with your fists!!/
-* (How will you pound?)& &         Strong      Wimpy\C
-* (You punch the vegetables&  at full force^1.&* You knock over a tomato.)/
-* YEAH^1!&* YEAH!/
-\E1* Our hearts are&  uniting against these&  healthy ingredients!/
-\M2* NOW IT'S MY TURN!/
-* NGAHHH!/%%
-* (You pet the vegetables&  in an affectionate&  manner.)/
-* OH MY GOD!!^1!&* STOP PETTING THE&  ENEMY!!!/
-\M2* I'll show you&  how it's done!/
-* ... we add the&  noodles!/
-\E0* Homemade noodles&  are the best!/
-\E6* BUT I JUST BUY&  STORE-BRAND!/
-\M2* THEY'RE THE&  CHEAPEST!!!/
-\E1* NGAHHHHHHHHH&  HHHHHHHHHH!!!/
-\E9* Uhh^1, just put them&  in the pot./
-\M0* (How will you put them in?)& &         Fiercely    Careful\C
-* (You throw everything into&  the pot as hard as you can^1,&  including the box.)/
-* (It clanks against the&  empty bottom.)/
-\M2* YEAH!!^1!&* I'M INTO IT!!!/%%
-* (You place the noodles&  in one at a time.)/
-* (They clank against the&  empty bottom.)/
-* Nice???/%%
-\E0* Humans suck^1, but&  their history..^1.&* Kinda rules./
-\E2* Case in point^1:&* This giant sword!/
-\E0* Historically^1, humans&  wielded swords up&  to 10x their size./
-\E1* RIGHT?& &  True        False\C
-\E6* Heh^1, I knew it!/
-\E2* When I first heard&  that^1, I immediately&  wanted one!/
-\E0* So me and Alphys&  built a giant&  sword together./
-\E0* She figured out all&  the specs herself.../
-\E6* She's smart^1, huh!?/%%
-\E2* Pfft^1!&* You liar!/
-\E3* I've READ Alphys's&  human history book&  collection!/
-\E3* I know all about&  your giant swords.../
-\E3* Your colossal^1,&  alien-fighting&  robots.../
-* Your supernatural&  princesses.../
-\E6* Heh^1! There's no&  way you're gonna&  fool me!!!/%%
-* (Look inside the bone drawer?)& &         Yes         No\C
+\E2* Następnie!^1!&* Uderzaj je w pył&  twoimi pięściami!!/
+* (Jak będziesz uderzał?)& &         Mocno       Miękko\C
+* (Uderzasz w warzywa&  z wszystkich sił^1.&* Potrącasz pomidora.)/
+* TAK^1!&* TAK!/
+\E1* Nasze serca jednoczą&  się przeciwko tym&  zdrowym składnikom!/
+\M2* TERAZ MOJA KOLEJ!/
+* NGAHH!/%%
+* (Głaszczesz warzywa&  w kochający sposób.)/
+* O MÓJ BOŻE!!^1!&* PRZESTAŃ GŁASKAĆ&  WROGA!!!/
+\M2* Ja ci pokażę&  jak się to robi!/
+* ... dodajemy&  kluski!/
+\E0* Domowe kluski&  są najlepsze!/
+\E6* LECZ JA PO PROSTU&  KUPUJĘ MARKOWE!/
+\M2* ONE SĄ&  NAJTAŃSZE!!!/
+\E1* NGAHHHHHHH&  HHHHHHHHH!!!/
+\E9* Uhh^1, włóż je po&  prostu do garnka./
+\M0* (Jak je włożysz?)& &         Na siłę     Ostrożnie\C
+* (Wrzucasz wszystko do garnka&  tak mocno jak potrafisz^1,&  włącznie z opakowaniem.)/
+* (Obija się o puste dno&  garnka.)/
+\M2* TAK!!^1!&* MOJA KREW!!!/%%
+* (Delikatnie umieszczasz pojedyncze kluski&  jeden na raz.)/
+* (Obijają się o puste dno&  garnka.)/
+* Spoko???/%%
+\E0* Ludzie są kijowi^1, ale&  ich historia..^1.&* Jest nieco czadowa./
+\E2* Przykład^1:&* Ten ogromny miecz!/
+\E0* Z punktu historycznego^1, &  ludzie posiadali miecze&  10x większe od nich./
+\E1* PRAWDA?& &  Prawda      Fałsz\C
+\E6* Heh^1, wiedziałam!/
+\E2* Kiedy tylko się o tym&  dowiedziałam^1, od razu&  chciałam taki mieć!/
+\E0* Więc ja z Alphys&  zbudowałyśmy razem&  gigantyczny miecz./
+\E0* Ona sama doszła do&  wszystkich wymiarów.../
+\E6* Jest mądra^1, nie!?/%%
+\E2* Pfft^1!&* Ty kłamco!/
+\E3* Ja osobiście CZYTAŁAM&  całą kolekcję historii&  ludzkości Alphys!/
+\E3* Wiem wszystko o tych&  waszych gigantycznych&  mieczach.../
+\E3* O waszych kolosalnych^1,&  kosmito-walczących&  robotach.../
+* O waszych magicznych&  księżniczkach.../
+\E6* Heh^1! Nie ma mowy żebyś&  mnie oszukał!!!/%%
+* (Zajrzeć do szufladkii z&  kośćmi?)&         Tak         Nie\C
 \M5* CO ZA REWELACYJNA OKAZJA&  NA CIEKAWĄ HISTORIĘ!/
 \M3* JUŻ WIDZĘ NAGŁÓWKI:/
 \M4* "PIES SOBIE GDZIEŚ ISTNIEJE."/
@@ -8309,49 +8309,49 @@ NIE WIERZĘ ŻE W&KOŃCU POZNAJĘ SIĘ&ZE SŁOŃCEM!!!/
 \E0* Czy zostaniesz&  naszym ambasadorem&  wobec ludzi?/
 * (Być ambasadorem?)& &         Tak         Nie\C
 WOWi, Fajny error./%%
-\E0YEAH^1!&FRISK WILL BE THE&BEST AMBASSADOR!/
-AND I^1, THE GREAT&PAPYRUS.../
-WILL BE THE BEST&MASCOT!/
-I'LL GO MAKE A&GOOD FIRST&IMPRESSION!/%%
-\E0IT'S OK FRISK^1!&I'VE GOT YOU&COVERED!/
-IF YOU DON'T WANT&TO BE THE&AMBASSADOR.../
-I CAN DO IT FOR&YOU!!!/
-* Frisk.../
-\E2* You came from this&  world^1, right...?/
-\E1* So you must have&  a place to return to^1,&  do you not?/
-\E2* What will you do&  now?/
-         I want      I have&         to stay     places&         with you    to go\C
-* (The door has no mail slot.)/
-* (Slide the letter under?)& &         Slide       NO!!!! \C
-* (You slide the letter under&  the door and give it a&  knock.)/%%
-* (You'll keep the letter&  warm for a little longer.)/%%
-* (It's a note from Alphys.)/
-* (Read it...?)& &         Read        Do not \C
-* (It's hard to read because&  of the handwriting^1, but&  you try your best...)/
-* Hey./
-* Thanks for your help back&  there./
-* You guys..^1.&* Your support really means a&  lot to me./
-* But..^1.&* As difficult as it is&  to say this.../
-* You guys alone can't&  magically make my own&  problems go away./
-* I want to be a better&  person./
-* I don't want to be&  afraid anymore./
-* And for that to happen^1,&  I have to be able to&  face my own mistakes./
-* I'm going to start&  doing that now./
-* I want to be clear./
-* This isn't anyone else's&  problem but mine./
-* But if you don't ever&  hear from me again.../
-* If you want to know&  "the truth."/
-* Enter the door to the&  north of this note./
-* You all at least deserve&  to know what I did./
-* (That's all she wrote.)/%%
-* (Buy chips for 25G?)& &         Buy         No \C
-* (There were no chips left&  in the machine.)/%%
-* (The vending machine&  dispensed some chisps.)/%%
-* (You didn't have enough&  gold.)/%%
-* (You are carrying too&  many items.)/%%
+\E0TA^1!&FRISK BĘDZIE NAJLEP-&SZYM AMBASADOREM!/
+A JA^1, WIELKI&PAPYRUS.../
+BĘDĘ NAJLEPSZĄ&MASKOTKĄ!/
+PÓJDĘ ZROBIĆ&DOBRE PIERWSZE&WRAŻENIE!/%%
+\E0NIE MARTW SIĘ FRISK^1!&JESTEM Z TOBĄ!/
+JEŚLI NIE CHCESZ&BYĆ AMBASADOREM.../
+MOGĘ NIM BYĆ&W TWOIM MIEJSCU!!!/
+* Frisk.../ 
+\E2* Pochodzisz z tego&  świata^1, prawda...?/
+\E1* A więc musisz mieć&  gdzie wracać^1, czyż nie?/
+\E2* Co uczynisz teraz?/
+         Chcę        Mam&         zostać      gdzie&         z tobą      iść\C
+* (Te drzwi nie mają szczeliny&  pocztowej.)/
+* (Wślizgnąć list pod drzwiami?)& &         Tak         NIE!!!! \C
+* (Wślizgujesz list i pukasz&  w drzwi.)/%%
+* (Utrzymasz ten list ciepłym&  troszeczkę dłużej.)/%%
+* (To notatka od Alphys.)/
+* (Przeczytać...?)& &         Czytaj      Nie czytaj\C
+* (Ciężko go rozczytać przez&  pismo^1, ale mimo tego próbujesz&  ze wszystkich sił...)/
+* Hej./
+* Dzięki za waszą pomoc&  wcześniej./
+* Wy guys..^1.&* Wasze wsparcie serio dużo&  oznacza dla mnie./
+* Ale..^1.&* Jak trudne by nie było&  to powiedzieć.../
+* Wy sami nie jesteście w&  stanie magicznie naprawić&  moich własnych problemów./
+* Chcę być lepszą osobą./
+* Nie chcę już dłużej&  żyć w strachu./
+* I żeby to się zadziało^1,&  muszę stanąc twarzą w twarz&  z moimi własnymi błędami./
+* Zacznę to robić teraz./
+* Chcę wyrazić się jasno./
+* To nie jest problem nikogo&  innego oprócz mojego./
+* Lecz jeśli już nigdy więcej&  się nie odezwę.../
+* Jeśli chcecie poznać "prawdę."/
+* Przejdźcie przez drzwi na&  północ od tej notatki./
+* Wy wszyscy zasługujecie&  przynajmniej wiedzieć co&  ja uczyniłam./
+* (To wszystko co napisała.)/%%
+* (Kupić chipsy za 25G?)& &         Kup         Nie \C
+* (Nie ma już więcej chipsów&  w automacie.)/%%
+* (Automat wydał paczkę chipsów.)/%%
+* (Nie miałeś wystarczająco&  pieniędzy.)/%%
+* (Nosisz zbyt wiele rzeczy.)/%%
 * Cynamon czy&  toffi?/
 \E1* ... czekaj^1.&* Nie mów mi./
-\E0* It is ERROR MESSAGE!& &  Yes         No      \C
+\E0* Oto słynny ERROR!& &  ERROR       ERROR      \C
 \E0* Czy to Toffi?& &  Tak         Nie      \C
 \E0* Czy to Cynamon?& &  Tak         Nie      \C
 \E0* Hee hee hee^1.&* Miałam takie przeczucie./
@@ -8363,157 +8363,157 @@ I CAN DO IT FOR&YOU!!!/
 * Cóż^1, dziękuję za&  twoją selekcję./
 \E1* Oh..^1. Rozumiem./
 \E0* W takim razie^1, dziękuję^1.&* Papa na razie./
-* (Seems like you could skip&  Mettaton's monologue by&  turning him around now.)/
-* (What will you do?)& &         Skip        Hear again\C
-* (You told Mettaton there&  was something cool&  behind him.)/%%
-* though.../
-* one thing about you&  always struck me&  as kinda odd./
-* now^1, i understand&  acting in self-defense./
-* you were thrown into&  those situations&  against your will./
-* but.../
-* sometimes.../
-* you act like you&  know what's gonna&  happen./
-* like you've already&  experienced it all&  before./
-* this is an odd thing&  to say^1, but.../
-\W* if you have some sort&  of \Yspecial power\W.../
-* isn't it your&  responsibility to do&  the right thing?/
- & &         Yes         No\C
+* (Wygląda na to że możesz&  skipnąć monolog Mettatona&  obracając go teraz.)/
+* (Co zrobisz?)& &         Pomiń       Wysłuchaj\C
+* (Powiedziałeś Mettanowoi że&  jest coś czadowego za nim.)/%%
+* choć.../
+* jedna rzecz o tobie&  zawsze wydawała&  mi się dziwna./
+* teraz^1, rozumiem jakbyś&  działał w samoobronie./
+* jakbyś był wrzucany&  w takie sytuacje&  wbrew twojej woli./
+* jednak.../
+* czasami.../
+* zachowujesz się jakbyś&  wiedział co się wydarzy./
+* jakbyś już doświadczył&  to wszystko poprzednio./
+* to zabrzmi dość&  dziwnie^1, ale.../
+\W* jeśli masz jakiś rodzaj&  \Yspecjalnej mocy\W.../
+* czy to nie twoja&  odpowiedzialnośc by&  robić właściwą rzecz?/
+ & &         Tak         Nie\C
 \E1* ah./
-\E0* i see./
+\E0* rozumiem./
 \E3* .../%%
 \E1* heh./
-\E0* well^1, that's your&  viewpoint./
-\E2* i won't judge you&  for it./
-* (Ring...)/
-\E0* Hey!/
-\E3* This um^1, doesn't have&  anything to do with&  guiding you..^1. but.../
-\E6* Uhh^1, hey^1, would you want&  to watch a human TV&  show together???/
-* Sometime???/
-\E4* It's called^1, um^1,&  M..^1.Mew Mew Kissy&  Cutie.../
- & &         Sure!       ...no...\C
-* R-really!?/
-\E3* It's so good^1!&* It's um^1, my favorite&  show!/
-* It's all about this&  human girl named Mew Mew&  who has cat ears!%
-\E3* Which humans don't have!&* S-so she's all&  sensitive about them!%
-\E6* But like...&* Eventually!%
-* She realizes that her&  ears don't matter!%
-* That her friends like&  her despite the ears!%
-\E7* It's really moving!%
-\E5* Whoops, spoilers%
-\E6* Also, this sounds&  weird, but she has&  the power!%
-\E5* To control the minds&  of anyone she kisses!%
-\E3* She kisses people and&  controls them to fix&  her problems!!%
-\E5* They don't remember&  anything after the&  kiss I mean!!%
-\E3* BUT IF SHE MISSES&  THE KISS!!!&* THEN!!%
-\E4* Then^1, uh^1, and^1, uh^1,&  also I mean^1, of course%
-\E5* Eventually^1, she&  realizes that&  controlling people%
-\E3* OKAY WELL I almost&  spoiled the whole&  show^1, but%
-\E5* Uhhh^1, I think you'd&  really like it!!!/
-\E0* We should watch it^1!&* After you get through&  all this!/
+\E0* cóż^1, to twój punkt&  widzenia./
+\E2* nie będę cię za to&  oceniał./
+* (Dzyn...)/
+\E0* Hej!/
+\E3* To nie ma^1, um^1, nic do&  czynienia z kierowaniem&  ciebie..^1. ale.../
+\E6* Uhh^1, hej^1, czy chciałbyś&  obejrzeć razem ludzki&  serial telewizyjny???/
+* Kiedyś???/
+\E4* Nazywa się^1, um^1,&  M..^1.Mew Mew Kissy&  Cutie.../
+ & &         Jasne!      ...nie...\C
+* S-serio!?/
+\E3* To takie super^1!&* Rzecz mówiąc^1, to jest&  um^1, mój ulubiony serial!/
+* Jest to o takiej lasce&  zwanej Mew Mew która&  ma kocie uszy!%
+\E3* Których ludzie nie mają!&* W-więc bardzo się o&  nie wstydzi!%
+\E6* Ale jakby...&* W pewnym momencie!%
+* Zdaje sobiei sprawę&  że jej uszy nie mają&  znaczenia!%
+* Że jej przyjaciele&  lubią ją pomimo uszu!%
+\E7* To naprawdę wzruszające!%
+\E5* Upsik, spoilery%
+\E6* Mało tego, to brzmi&  dziwnie, ale ona ma&  taką zdolność!%
+\E5* Kontrolowania umysłow&  każdego kogo pocałuje!%
+\E3* Więc całuje ludzi i nimi&  kontroluje aby rozwiązać&  swoje własne problemy!!%
+\E5* Oczywiście nic nie&  pamiętają po pocałunku&  znaczy się!!%
+\E3* ALE JEŚLI ONA&  SPUDŁUJE POCAŁUNEK!!!&* WTEDY!!%
+\E4* Wtedy^1, uh^1, i^1, uh^1,&  w sensie^1, oczywiście%
+\E5* W końcu zdaje sobie&  sprawę że kontrolowanie&  innymi ludźmi%
+\E3* OKEJ CÓŻ prawie ci&  zaspoilerowałam cały&  niemalże serial^1, ale%
+\E5* Uhhh^1, myślę że naprawdę&  by ci się spodobał!!!/
+\E0* Powinniśmy go obejrzeć^1!&* Po tym jak przejdziemy&  przez to wszystko!/
 * (Klik...)/%%
-\E5* Um^1! Well^1!&* That's okay!/
-* Just thought I'd!^1!&* Ask!!!/
-\E6* B-but I think you'd&  really like it!!/
-* If you gave it a&  chance!!/
-\M1* Did y'hear!^1?&* You're back!/
-\M0* I'll tell you a big secret./
-\M1* I'm starting a band^1, y'hear?/
-\M1* It's called the Red Hot&  Chibi Peppers./
-\M0* All I've thought of is&  the name./
-\M3* And I don't^1, play...&* Instruments^1, or sing./
-\M1* Well^1!&* Do you think we'll be&  popular!!!/
- & &         Yeah        No\C
-\M0* Yeah^1, me too.../%%
-* (It's a lamp.)/
-* (There's no lightbulb.^1)&* (A flashlight is stuck in&  the bulb socket.)/
-* (The flashlight is out of&  batteries.)/%%
+\E5* Um^1! Cóż^1!&* Nie szkodzi!/
+* Tylko pomyślałam że!^1!&* Ciebie zapytam!!!/
+\E6* A-ale myślę że naprawdę&  by ci się spodobał!!/
+* Gdybyś dał temu&  szansę!!/
+\M1* Słyszałeś!^1?&* Wróciłeś!/
+\M0* Zdradzę ci duży sekret./
+\M1* Zakładam zespół^1, słyszysz?/
+\M1* Nazywa się Red Hot&  Chibi Peppers./
+\M0* Jedyne nad czym myślałem&  to nad nazwą./
+\M3* No bo ja nie umiem^1, grać...&* Na instrumentach^1, czy&  nawet śpiewać./
+\M1* Cóż^1!&* Myślisz że będziemy&  popularni!!!/
+ & &         Ta          Ni chuja\C
+\M0* Ta^1, ja też.../%%
+* (To lampa.)/
+* (Nie ma żarówki.^1)&* (Latarka jest wciśnięta&  w gniazdo żarówki.)/
+* (W latarce wyczerpały&  się baterie.)/%%
 * Hej^1, hej^1!&* Zapamiętałeś moje imię?/
 * (Zapamiętałeś?)& &         Tak         Nie\C
 * C-CO!^1?&* PAMIĘTASZ!?/
 * Jak mogłeb być tak łatwo&  pokonanyyyyyyyyyym!?/%%
 * C-CO!^1?&* NIE PAMIĘTASZ!?/
-* (It's a small white dog.^1)&* (It's fast asleep...)/
-* (Fight the dog?)& &         Yes         No\C
-* (Can't fight the dog.)/
-* (Seems like the fabric it's&  sleeping on has too many&  holes in it.)/
-* (Seems like the dog needs&  to "patch" the fabric.)/
-* (Then you can fight the dog.^1)&* (... maybe.)/
-* (Upon closer examination^1,&  the holes in the fabric&  seem to be growing.)/
-* (Might take a while for the&  dog to fix all of them.)/
-* (Dogs aren't usually very&  good at knitting.)/
-* (A crocheting dog is out of&  the question.)/%%
-* (Let sleeping dogs lie^1, instead&  of fighting them.^1)&* (That's how the saying goes.)/%%
-* (Knock knock)./
-* Oooooaaah ^1!&* Room service !/
-* Got my "Sea Tea" ?& &         Yes         No\C
-* Room service never came ^1.&* (Sigh ...)/%%
-* Thanks a million ./%%
-* (No response.)/%%
-* (You pour the Sea Tea under&  the door.)/
-* HUH !?!?!?!^2?&* That's just the way I want ^1!&* Here's a tip ./
-* (You got 99G.)/%%
-* ..^1.&* No you don't ./%%
-* Then ...!?/%%
-* Got my "Cinnamon Bun" ?& &         Yes         No\C
-* Thanks a trillion ./%%
-* (You flatten the Cinnamon Bun&  until it's paper thin.)&* (You slide it under the door.)/
-* (You hear shuffling.)/
-* (Seems like you could put&  something under the door.)/
- & &         Put         No Put\C
+* (To mały biały pieseł.^1)&* (Jest w głębokim śnie...)/
+* (Walczyć z piesem?)& &         Tak         Nie\C
+* (Nie można walczyć z piesem.)/
+* (Wygląda na to że tkanina&  na którym śpi ma w sobie&  zbyt wiele dziur.)/
+* (Wydaje się że pieseł&  musi "załatać" tkaninę.)/
+* (Wtedy będziesz mógł&  walczyć z piesem.^1)&* (... może.)/
+* (Po bliższej inspekcji^1,&  dziury w tkaninie wydają&  się same powiększać.)/
+* (Może zająć trochę czasu&  piesowi by je wszystkie&  załatać.)/
+* (Piesy nie są raczej zbyt&  dobre w łataniu.)/
+* (Szydełkujący pieseł nie&  wchodzi w grę.)/%%
+* (Daj śpiącym piesom poleżeć^1,&  zamiast walczyć z nimi.^1)&* (Tak mówi przysłowie.)/%%
+* (Puk puk)./
+* Oooooaaah ^1!&* Obsługa hotelowa !/
+* Masz moją "Morską Herbatę" ?& &         Tak         Nie\C
+* Obsługa nigdy się nie pojawiła^1.&* (Wzdech ...)/%%
+* Stokrotne dzięki ./%%
+* (Brak odpowiedzi.)/%%
+* (Polewasz Morską Herbatę&  pod drzwiami.)/
+* HUH !?!?!?!^2?&* Właśnie taką chciałem^1!&* Trzymaj napiwek./
+* (Otrzymałeś 99G.)/%%
+* ..^1.&* Wcale że nie./%%
+* No i ...!?/%%
+* Masz moją "Cynamonową Bułkę" ?& &         Tak         Nie\C
+* Tysięcznokrotne dzięki ./%%
+* (Spłaszczasz Cynamonową Bułkę&  do cieniutkiego plasterka.)&* (Wślizgujesz ją przez szparę.)/
+* (Słyszysz szuranie.)/
+* (Wydaje się że możesz coś&  umieścić pod drzwiami.)/
+ & &         Umieść      Nie umieść\C
 * (...)/
-* (But you didn't have anything&  appealing.)/%%
-* (You put a Hot Dog in front&  of the door.)/
-* (A white paw shoots out from&  under the door.)/
-* (It tries to pull the Hot Dog&  into its room...)/
-* (But it keeps pressing down too&  hard^1, and the hot dog keeps&  spinning away.)/
-* (It finally succeeds.)/
-* (You hear the grinding of&  stone.)/
-* (A single hushpuppy slides&  out from under the door.)/
-* (You got Hush Puppy.)/%%
-* (You put a Hot Cat in front&  of the door.)/
-* (You hear growling...)/%%
-* (You put a Dog Salad in front&  of the door.^1)&* (It slides underneath.)/
-* (The Dog Salad was absorbed&  by the darkness.)/%%
-* (You put a Dog Residue in&  front of the door.)/
-* (It slides underneath the door^1,&  as if pulled by a magnet.)/
-* (ZOMMM!!^1!)&* (It shoots back out at a&  high speed!)/%%
-* (Two Dog Residues slowly slide&  back out from underneath&  the door.)/%%
-* Yes^1, we know^1.&* The elevator to the city&  is NOT working./
-* Because of this incident^1, rooms&  are running at a special rate!/
-* 200G a room^1. Interested^1?& &         Stay        Do not\C
-* Did you enjoy your stay?/
-* What^1?&* Room..^1.&* Key?/
-* No^1, we don't do that./
-* If you leave your room^1,&  you'll have to pay again./
-* Fabulous^1!&* We'll escort you to your&  room!/%%
-* ... that's not enough money./%%
-* Do let us know if you&  change your mind^1.&* Have a sparkular day!/%%
-* ... MY ONE TRUE LOVE?/
-* (YOU LOOK BORED^1, DARLING.)/
-* (I WANT THIS TO BE A STELLAR&  PERFORMANCE^1, SO IF YOU&  WON'T GIVE IT YOUR ALL...)/
-* (THEN I'LL SKIP AHEAD FOR&  THE AUDIENCE'S SAKE.)/
-* (Perform?)& &         Yeah        Skip this\C
-* (UNDERSTOOD.^1)&* (LET'S KNOCK 'EM DEAD!)/%%
-* (KA-SIGH...^1)&* (THE SHOW MUST GO ON!)/%%
-Fascynujące./
+* (Tyle że nie miałeś nic&  pociągającego.)/%%
+* (Umieszczasz Hot Doga przed&  drzwiami.)/
+* (Biała łapka wystrzeliwuje&  spod drzwi.)/
+* (Próbuje wciągnąć Hot Doga&  do swojego pokoju...)/
+* (Jednak naciska zbyt mocno^1,&  i hot dog kręci się w kółko.)/
+* (W końcu mu się powodzi.)/
+* (Słyszysz dźwięki szlifowania&  na kamieniu.)/
+* (Pojedynczy hushpuppy&  wyślizguje się spod drzwi.)/
+* (Dostałeś Hush Puppy.)/%%
+* (Umieszczasz Hot Cata przed&  drzwiami.)/
+* (Słyszysz warczenie...)/%%
+* (Umieszczasz Psią Sałatkę&  przed drzwiami.^1)&* (Wślizguje się pod drzwi.)/
+* (Psia Sałatka została&  wchłonięta przez ciemność.)/%%
+* (Umieszczasz Psie Pozostałości&  przed drzwiami.)/
+* (Wślizguje się pod drzwi^1,&  jakby był przyciągnany przez&  magnes.)/
+* (ZOMMM!!^1!)&* (Wystrzeliwuje z powrotem&  z wysoką prędkością!)/%%
+* (Dwa Psie Pozostałości powoli&  wyślizgują się spod drzwi.)/%%
+* Tak^1, wiemy^1.&* Winda do miasta&  NIE działa./
+* Dzięki temu incydentowi^1,&  pokoje lecą na specjalnej&  przecenie!/
+* 200G za pokój^1. Zainteresowany^1?& &         Zostań      Nie\C
+* Podobał się pobyt?/
+* Co^1?&* Klucz..^1.&* Pokojowy?/
+* Nie^1, my tak nie robimy./
+* Jeśli opuścisz swój pokój^1,&  będziesz musiał zapłacić&  jeszcze raz./
+* Fantastycznie^1!&* Zaprowadzimy cię do twojego&  pokoju!/%%
+* ... to za mało kasy./%%
+* Daj nam znać jeśli zmienisz&  zdanie^1.&* Życzę kolorowego dnia!/%%
+* ... MOJA MIŁOŚĆ Z&  PIERWSZEGO WEJRZENIA?/
+* (WYGLĄDASZ NA ZNUDZONEGO^1,&  SŁONKO.)/
+* (CHCĘ ABY TO BYŁ DOSKONAŁY&  WYSTĘP^1, WIĘC JEŚLI NIE WŁOŻYSZ&  W TO CAŁEGO WKŁADU...)/
+* (TO PRZEJDĘ DALEJ DLA&  DOBRA WIDOWNI.)/
+* (Występować?)& &         Jasne       Pomiń to\C
+* (ZROZUMIANO.^1)&* (POKAŻMY NA CO NAS STAĆ!)/%%
+* (WZDECH...^1)&* (SPEKTAKL TOCZY SIĘ DALEJ!)/%%
+A to ciekawe./
 Chcesz powrócić./
-Chcesz wrócić&sp^1owrotem do świat^2a^1,&którego zniszczyłeś./
+Chcesz powróci^1ć&do świat^2a^1, którego&ty zniszczyłeś./
 To ty postanowi^1ł&wszystko zniszczyć./
-To ty doprowadziłe^1ś&do jego destrukcji./
-Ale nie możesz&tego zaakceptować./
-Myślisz, że konsekwencje&ciebie nie dotyczą.&         Tak         Nie\C
+To T^1Y doprowadziłe^1ś&do jego destrukcji./
+Lecz nie możesz&się z tym pogodzić./
+Myślisz, że jesteś ponad&konsekwencjami.&         Tak         Nie\C
 Dokładnie./%%
 Czego szukasz w takim razie?/%%
 Być może./
-Możemy osiągnąc kompromis./
-Dalej posiadasz co^1ś&czego chcę./
-Daj mi to./
-A przywrócę&z powrotem&ten świat./
-W takim razie jest&to uzgodnione./
-Oddasz mi twoją DUSZĘ.& &         Tak         Nie\C
-W takim razie zostań&tu na całą wieczność./
+Dojdziemy do kompromisu./
+Nadal posiadasz co^1ś&czego chcę./
+Oddaj mi to./
+A przywrócę&ten świat&z powrotem./
+Zatem jest&ustalone./
+Oddasz mi swoją DUSZĘ.& &         Tak         Nie\C
+Zatem zostaniesz&tu na całą wieczność./
 .../
-W takim razie^1,&jest to postanowione./%%
+Zatem^1,&dzieje się wola./%%
 * hej./
 * czy twoja lodówka&  działa prawidłowo?/
  & &         tak         nie\C
@@ -8526,7 +8526,7 @@ W takim razie^1,&jest to postanowione./%%
    * Zbadaj        * Pociesz&   * Terroryzuj
    * Zbadaj        * Naśladuj&   * Flirt
    * Zbadaj        * Pogadaj&   * Pożryj        * Obiad
-   * Zbadaj        * Zaczep&   * Nie zaczepiaj
+   * Zbadaj        * Zaczep&   * Nie Czep
    * Zbadaj        * Flirt&   * Groźba        * Pociesz
    * Zbadaj        * Pogłaszcz
    * Zbadaj        * Pogłaszcz&   * Pogłaszcz     * Pogłaszcz  &   * Pogłaszcz     * Pogłaszcz  
@@ -8542,56 +8542,56 @@ W takim razie^1,&jest to postanowione./%%
    * Zbadaj        * Flex&   * Nakarm        * Pogadaj&     Temmie Flakes  
    * Zbadaj        * Flirt&   * Obraź
    * Zbadaj 
-   * Zbadaj        * Lie Down&   * Hug           * Unhug
+   * Zbadaj        * Połóż się&   * Przytul       * Odprzytul
    * Zbadaj        * Umyj&   * Dotknij       * Żart
    * Zbadaj        * Uśmiech&   * Zanuć         * Przekaż
    * Zbadaj        * Błagaj&   * Wyzwanie
    * Zbadaj        * Płacz
    * Zbadaj        * Szepnij&   * Umyj Zbroję
    * Zbadaj        * Flirt&   * Podejdź
-   * Zbadaj        * Skrytykuj&   * Zachęć        * Przytul
+   * Zbadaj        * Skrytykuj&   * Zmotywuj      * Przytul
    * Zbadaj        * Uspokój&   * Podgrzej      * Zaproś
 \W   * Zbadaj        * Wierć się&   * Zapłać \[1]G&         \YTwoja kasa: \[G]G \W 
    * Zbadaj        * Krzycz
 \W   * Zbadaj        \Y* Żółty \W
    * Zbadaj        * Udawaj Atak
    * Zbadaj        * Pogadaj     &   * Gap się       * Oczyść Umysł
-   * Zbadaj        * Pogadaj     &   * Sing
-   * Zbadaj        * Compliment&   * Threaten      * Mystify
-   * Zbadaj        * Pick On&   * Don't Pick    * Wyzwanie&     On
-   * Zbadaj        * Console&   * Terrorize     * Pray
-   * Zbadaj        * Defuse Bomb
-   * Zbadaj        * Whisper&   * Touch Glove
-   * Zbadaj        * Burn
-\W   * Zbadaj        \Y* Turn \W
-   * Zbadaj        * Boast&   * Pose          * Heel Turn
-   * Call          * Zanuć&   * Scream        * Flex&   * Unhug         * Płacz
-   * Zbadaj        * Pick On&   * Mystify       * Umyj&   * Zanuć         * Pray
-   * Zbadaj        * ITEM &   * STAT          * CELL
-   * Zbadaj        * Join&   * Refuse
-   * Fake Hit      * Recipe&   * Uśmiech       * Clash
-   * Encourage     * Call  &   * Nerd Out      * Quiz
-   * Żart          * Puzzle &   * Recipe        * Insult
+   * Zbadaj        * Pogadaj     &   * Śpiewaj
+   * Zbadaj        * Komplement&   * Groźba        * Zadziw
+   * Zbadaj        * Zaczep&   * Nie Czep      * Wyzwanie
+   * Zbadaj        * Pociesz&   * Terroryzuj    * Modlitwa
+   * Zbadaj        * Rozbrój&                     Bombę
+   * Zbadaj        * Szepnij&   * Dotknij&     Rękawicy
+   * Zbadaj        * Podpal
+\W   * Zbadaj        \Y* Akcja \W
+   * Zbadaj        * Chwal się&   * Pozuj         * Piroet
+   * Zawołaj       * Zanuć&   * Krzycz        * Flexuj&   * Odprzytul     * Płacz
+   * Zbadaj        * Zaczep&   * Zadziw        * Umyj&   * Zanuć         * Modlitwa
+   * Zbadaj        * ITEM &   * STAT          * TEL
+   * Zbadaj        * Dołącz&   * Odmów
+   * Fałsz. cios   * Przepis&   * Uśmiech       * Koliduj
+   * Zmotywuj      * Przemów  &   * Wkręć się     * Quiz
+   * Żart          * Zagadka &   * Przepis       * Poniżaj
    * Weź przerwę   * Żart   &   * Oceniaj       * Krzyżówka
    * Pogadaj       * Litość  &   * Przytul       * Preferencja
    * Pogadja       * Litość  &   * Gap się       * Przytul
    * Zbadaj        * Przełącz&   * Napraw        * Połóż się
    * Zbadaj        * Sycz&   * Pożryj        * Przekąska
-   * Zbadaj        * Applaud&   * Boo           * Nothing
-   * Zbadaj        * Something
-   * Zbadaj        * Draw
-   * Zbadaj        * Hope  &   * Dream
-   * Error
-   * Struggle
+   * Zbadaj        * Klaszcz&   * Zabucz           * Nic
+   * Zbadaj        * Coś
+   * Zbadaj        * Rysuj
+   * Zbadaj        * Nadzieja  &   * Marzenie
+   * Error dawg
+   * Wyrywaj się
 \W   * Undyne     
-\W   \Y* (Saved)    \W
+\W   \Y* (Uratowano)    \W
    * Alphys \W &
-   \Y* (Saved)\W &
+   \Y* (Uratowano)\W &
 \W   * Papyrus       * Sans \W &
-\Y   * (Saved)       * (Saved)\W &
+\Y   * (Uratowano)   * (Uratowano)\W &
 \W   * Toriel        * Asgore \W 
-\Y   * (Saved)       * (Saved)\W 
-   * Someone else
+\Y   * (Uratowano)   * (Uratowano)\W 
+   * Ktoś inny
    * Asriel Dreemurr
 * Dzwonię..\E0.\TT /
 \E0* Mówi TORIEL./
@@ -8599,7 +8599,7 @@ W takim razie^1,&jest to postanowione./%%
 \E0* 'Witaj!'/
 * Dziękuję za telefon^1.&* Hee hee./
 * Chciałeś znów&  powiedzieć cześć?/
-* 'Salutacje!'/
+* 'Witaj!'/
 * Czy to wystarczy?/
 \F1 \TT %
 * Nudzisz się^1?&* Powinnam była ci&  dać jakąś książkę./
@@ -8728,72 +8728,72 @@ blt_sizebone_142
  I HOPE YOU& ENJOYED THIS& LESSON./
 blt_sizebone_143
 blt_sizebone_144
-You&called&for&help&...
+Wołasz&o pomoc&...
 obj_6book_master_384
 obj_6book_master_385
-You called for help...
+Wołasz o pomoc...
 obj_6book_act_179
-DEATH
+ŚMIERĆ
 obj_6book_wordbullet_bad_0
-LIFE
+ŻYCIE
 obj_6book_wordbullet_good_0
-DESPAIR
+ROZPACZ
 obj_6book_wordbullet_bad_1
-HOPE
+NADZIEJA
 obj_6book_wordbullet_good_1
-NIGHTMARE
+KOSZMAR
 obj_6book_wordbullet_bad_2
-DREAMS
+MARZENIE
 obj_6book_wordbullet_good_2
-SADNESS
+SMUTEK
 obj_6book_wordbullet_bad_3
-HAPPINESS
+RADOŚĆ
 obj_6book_wordbullet_good_3
-RUIN
+UPADEK
 obj_6book_wordbullet_bad_4
-SUCCESS
+SUKCES
 obj_6book_wordbullet_good_4
-HATRED
+NIENAWIŚĆ
 obj_6book_wordbullet_bad_5
-LOVE
+MIŁOŚĆ
 obj_6book_wordbullet_good_5
-TRAPPED
+NIEWOLA
 obj_6book_wordbullet_bad_6
-FREEDOM
+WOLNOŚĆ
 obj_6book_wordbullet_good_6
-SLAUGHTER
+RZEŹ
 obj_6book_wordbullet_bad_7
-MERCY
+LITOŚĆ
 obj_6book_wordbullet_good_7
-DOOM
+ZAGŁADA
 obj_6book_wordbullet_bad_8
-LUCK
+SZCZĘŚCIE
 obj_6book_wordbullet_good_8
-TERROR
+PRZEMOC
 obj_6book_wordbullet_bad_9
-CALM
+SPOKÓJ
 obj_6book_wordbullet_good_9
-HORROR
+GROZA
 obj_6book_wordbullet_bad_10
-RELIEF
+ULGA
 obj_6book_wordbullet_good_10
-CRUELTY
+BRUTALNOŚĆ
 obj_6book_wordbullet_bad_11
-KINDNESS
+DOBROĆ
 obj_6book_wordbullet_good_11
-MURDERER
+MORDERCA
 obj_6book_wordbullet_bad_12
-DREAMER
+MARZYCIEL
 obj_6book_wordbullet_good_12
-DESTROY
+DESTRUKCJA
 obj_6book_wordbullet_bad_13
-CREATE
+KREACJA
 obj_6book_wordbullet_good_13
-CORRUPT
+KORUPCJA
 obj_6book_wordbullet_bad_14
-PROTECT
+OCHRONA
 obj_6book_wordbullet_good_14
-* You called for help...
+* Wołasz o pomoc...
 obj_6glove_act_148
 obj_6glove_act_149
 obj_6gun_act_149
