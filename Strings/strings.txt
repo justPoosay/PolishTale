@@ -7398,7 +7398,7 @@ NYEH..^1.&HEH..^1.&HEH!/%%
 \E0* Tak bardzo się cieszę&  że tu mieszkasz./
 \E1* Oh^1, czyżbyś&  czegoś chciał?/
 * O co chodzi?&              Kiedy mogę&  Nic         iść do domu?\C 
-* Cóż^1, zagadaj ze mną^1,&  jeśli będziesz&  czegoś potrzebował./%%
+* Dobra^1, zagadaj ze mną^1,&  jeśli będziesz&  czegoś potrzebował./%%
 \E1* Co^1?&* To..^1. to JEST teraz&  twój dom./
 * Um..^1. chciałbyś&  posłuchać o czym jest&  książka^1, którą czytam?/
 \E0* Oh^1, witaj!/
@@ -7413,7 +7413,7 @@ NYEH..^1.&HEH..^1.&HEH!/%%
 \E0* Robią okropne&  sznurówki?/
 \E0* Gadają^2. Bardzo^2. Wolno^2?&* Taki żarcik^1, ślimaki&  ie gadają./
 \E0* Fascynujące.&              Jak opuścić&  Rel         RUINY\C 
-* Cóż^1, zaczep mnie&  jeśli będziesz czegoś&  jeszcze potrzebował./%%
+* Dobra^1, zaczep mnie&  jeśli będziesz czegoś&  jeszcze potrzebował./%%
 \E1* ... Muszę coś&  zrobić^1.&* Zostań tu./%%
 \E0* Co tam?&              Jak opuścić&  Nic         RUINY\C 
 * Jeśli czegoś&  potrzebujesz^1,&  po prostu spytaj./%%
@@ -7430,7 +7430,7 @@ NIE ZNIŻYŁEŚ SIĘ&DO PRZEMOCY!!!/
 \E0ALE TY JUŻ SIĘ&STAJESZ ŚWIETNĄ&OSOBĄ!/
 \E7JESTEM TAK DUMNY&ŻE MÓGŁBYM SIĘ&ROZPŁAKAĆ!!!/
 \E3... CHWILA^1, NIE&POWINIENEM BYŁ&CIĘ PORWAĆ...?/
-\E0CÓŻ^1, ZAPOMNIJMY&O TYM!/
+\E0WIESZ CO^1,&ZAPOMNIJMY&O TYM!/
 PO PROSTU CHCĘ&ABYŚ BYŁ NAJLEPSZĄ&OSOBĄ JAK SIĘ DA./
 WIĘC^1, CO BYŁO&TO BYŁO./
 DAM CI NAWET&KIERUNKI DO&WYJŚCIA Z PODZIEMI!/
@@ -7744,7 +7744,7 @@ JESTEŚ TAKIM&MĄDRYM CIASTKIEM!/
 TYM SPOSOBEM JES-&TEŚ BEZPIECZNY A&JA NIE SKŁAMAŁEM!!!/
 NIE MA NIGDZIE&ZDRADY!!!/
 BYCIE PRZYJACIELEM&Z WSZYSTKIMI JEST&TAKIE ŁATWE!!!/
-\E0CÓŻ^1, NIE PRZEJMUJ&SIĘ DROGI&CZŁOWIEKU!/
+\E0CÓŻ^1, NIE&OBAWIAJ SIĘ&DROGI CZŁOWIEKU!/
 PAPYRUS BY CIĘ&NNIGDY NIE&ZDRADZIŁ!/
 \E3NIE JESTEM&OKROPNĄ OSOBĄ./
 \E0JA CELUJĘ NA&KOMFORTOWĄ I&UPRZEJMĄ./
@@ -7864,7 +7864,7 @@ Zrobię wszystko w mojej&mocy, by zapewnić ci&bezpieczeństwo podczas&twojego p
 * to tylko 30G.& &  Tak         Nie \C
 * trzymaj^1.&* miłej zabawy./%%
 * trzymaj kolejnego&  hot doga./
-* stawiam na mnie^1.&* cóż^1, nie^1.&* stawiam to na ciebie./%%
+* ja stawiam^1.&* choć^1, jak widzę^1, ty&  sobie samemu stawiasz./%%
 * sorry^1, trzydzieści&  to limit naszych&  głowo-dogów./%%
 \TS*^1 \Tsbóg z tobą./
 * jak bardzo bym nie&  lubił ci kłaść na&  głowie hot-dogi.../
@@ -8064,7 +8064,7 @@ NIE SPIESZ SIĘ!/%%
 \M6* CZYŻ NIE JESTEŚ&  WYPEŁNIONY RADOŚCIĄ?/
 \M5* CO MOŻE BYĆ W ŚRODKU^1?&* CÓŻ^1, ROBIĆ NIC INNEGO&  NIŻ "ZAPREZENTOWAĆ" GO!/
 \M4* GOTOWY NA TWOJĄ..^1.&* PREZENTACJĘ?/
-\M4* (... UTNIJMY TO DO SCENY.)/
+\M4* (... WYTNIEMY TO&  W OBRÓBCE FILMU.)/
 \M5* UU LA LA^1!&* TA GRA WIDEO..^1.&* TO DYNAMIT!!!/
 \M4* CHOCIAŻ NIE POJAWIAM SIĘ&  W NIEJ AŻ DO TRZECH-&  CZWARTYCH W GRZE./
 \M3* ALE PODOBA MI SIĘ./
@@ -8407,7 +8407,7 @@ MOGĘ NIM BYĆ&W TWOIM MIEJSCU!!!/
 \E3* ALE JEŚLI ONA&  SPUDŁUJE POCAŁUNEK!!!&* WTEDY!!%
 \E4* Wtedy^1, uh^1, i^1, uh^1,&  w sensie^1, oczywiście%
 \E5* W końcu zdaje sobie&  sprawę że kontrolowanie&  innymi ludźmi%
-\E3* OKEJ CÓŻ prawie ci&  zaspoilerowałam cały&  niemalże serial^1, ale%
+\E3* OKEJ WIĘC prawie ci&  zaspoilerowałam cały&  niemalże serial^1, ale%
 \E5* Uhhh^1, myślę że naprawdę&  by ci się spodobał!!!/
 \E0* Powinniśmy go obejrzeć^1!&* Po tym jak przejdziemy&  przez to wszystko!/
 * (Klik...)/%%
@@ -8421,7 +8421,7 @@ MOGĘ NIM BYĆ&W TWOIM MIEJSCU!!!/
 \M1* Nazywa się Red Hot&  Chibi Peppers./
 \M0* Jedyne nad czym myślałem&  to nad nazwą./
 \M3* No bo ja nie umiem^1, grać...&* Na instrumentach^1, czy&  nawet śpiewać./
-\M1* Cóż^1!&* Myślisz że będziemy&  popularni!!!/
+\M1* A więc^1!&* Myślisz że będziemy&  popularni!!!/
  & &         Ta          Ni chuja\C
 \M0* Ta^1, ja też.../%%
 * (To lampa.)/
@@ -8616,7 +8616,7 @@ Zatem^1,&dzieje się wola./%%
 * Um^1, nie opuściłeś&  pomieszczenia^1, prawda?/
 \E0* Poczekaj cierpliwie na&  mnie i możemy je&  rozwiązać razem!/
 \E1* Chcesz wiedzieć&  więcej o mnie?/
-* Cóż^1, obawiam się^1, że&  nie ma zbyt wiele&  do powiedzenia./
+* Cóż^1, obawiam się że&  nie ma zbyt wiele&  do powiedzenia./
 \E0* Jestem niczym innym niż&  staruszką, która zbytnio&  się przejmuje!/
 \E8* Huh^2?&* Czy ty właśnie nazwałeś&  mnie... "Mamą"?/
 \E1* Cóż...&* W takim razie.../
@@ -8898,7 +8898,7 @@ obj_actiontable_63
 obj_actiontable_64
 \E3SKĄD ICH&TYLE MAM?/
 obj_actiontable_66
-\E2CÓŻ^1, POWIEDZMY&ŻE SĄ OD.../
+\E2CÓŻ^1, POWIEM TYLE&ŻE MAM JE OD.../
 obj_actiontable_67
 \E0PUCHATEGO^1, RADOS-&NEGO PANA KTÓRY&KOCHA ZASKAKIWAĆ./
 obj_actiontable_68
@@ -9352,7 +9352,7 @@ obj_adate_1300
 obj_adate_1311
 \E3I mean.../
 obj_adate_1312
-Undyne..^1.&Ja.../%%
+Undyne..^1.&I.../%%
 obj_adate_1313
 \F4I've been lying to&you!/%%
 obj_adate_1326
@@ -11621,7 +11621,7 @@ obj_diamondkid_78
 obj_diamondkid_79
 \W* A wtedy on \Ygo zjada^1!\W &* Wszyscy to kochają!/
 obj_diamondkid_80
-* ... Jak on to je&  bez ust na twarzy?/
+* ... Jak on to je bez ust?/
 obj_diamondkid_81
 * Uhhh... cóż..^1.&* Obejrz ten program!/%%
 obj_diamondkid_82
@@ -18820,7 +18820,7 @@ obj_napstablook2_61
 obj_napstablook2_62
 * chwila^1, duchy mogą latać^1,&  czyż nie.../
 obj_napstablook2_63
-* o cóż.../%%
+* no cóż.../%%
 obj_napstablook2_64
 * ja..^1. pracuję nad moją płytą..^1.&* czuj się jak w domu...?/%%
 obj_napstablook_actor_114
@@ -20330,7 +20330,7 @@ JEŚLI SIĘ ODWAŻYSZ!/%%
 obj_papyrus1_632
 NYEH HEH HEH&HEH HEH HEH&HEH HEH!!!/%%
 obj_papyrus1_647
-* cóż^1, to poszło dobrze./
+* okej^1, to poszło dobrze./
 obj_papyrus1_667
 * nie stresuj się^1,&  wariacie./
 obj_papyrus1_668
@@ -20582,7 +20582,7 @@ obj_papyrus7_202
 ZROBIĘ!/%%
 obj_papyrus7_203
 obj_papyrus7_221
-* cóż^1?&* co to za pauza?/
+* no i^1?&* co to za pauza?/
 obj_papyrus7_222
 PAUZA!^1?&JAKA PAUZA!?/
 obj_papyrus7_224
@@ -20591,7 +20591,7 @@ obj_papyrus7_225
 obj_papyrus7_244
 * to^1, uh^1, nie wygląda&  na aktywowane./
 obj_papyrus7_245
-CÓŻ!!!/
+W SENSIE!!!/
 obj_papyrus7_247
 TO WYZWANIE!!!/
 obj_papyrus7_248
@@ -20807,11 +20807,11 @@ KRÓLA./
 obj_papyrus8_420
 \YKRÓLA WSZYSTKICH&POTWORÓW.../
 obj_papyrus8_422
-ON JEST.../
+CÓŻ.../
 obj_papyrus8_423
-... CÓŻ.../%%
+ON JEST.../%%
 obj_papyrus8_424
-\E0JEST PUCHATYM&MISIEM!!!/
+\E0PUCHATYM&MISIEM!!!/
 obj_papyrus8_441
 KAŻDY GO KOCHA./
 obj_papyrus8_442
@@ -23655,7 +23655,7 @@ obj_sans_interactable1_69
 obj_sans_interactable1_74
 \E2* to tylko ciemna jaskinia&  wypełniona szkieletami&  i okrutnymi potworami./%%
 obj_sans_interactable1_75
-* cóż?/%%
+* a więc?/%%
 obj_sans_interactable1_79
 \E5* ... będziesz tak po&  prostu gapił się&  na mnie^1, czy...?/%%
 obj_sans_interactable1_85
@@ -23862,7 +23862,7 @@ obj_sansb_357
 obj_sansb_358
 skończmy&ten nonsens./%%
 obj_sansb_359
-\E3cóż^1, było&warto spró-&bować./
+\E3cóż^1, warto&było spró-&bować./
 obj_sansb_380
 \E5najwyraźniej lubisz&załatwiać sprawy tą&cięższą metodą^1, huh?/%%
 obj_sansb_381
@@ -23894,7 +23894,7 @@ obj_sansb_406
 obj_sansb_411
 \E5ta^1, ty jesteś&typem osoby która&NIGDY nie będzie&zadowolona./%%
 obj_sansb_412
-\E5będziesz pożerał&osie czasowe w&kółko^1, dopóki.../
+\E5będziesz niszczył&osie czasowe w&kółko^1, dopóki.../
 obj_sansb_417
 \E4cóż./
 obj_sansb_418
